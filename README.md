@@ -24,12 +24,18 @@ export PYTHONPATH=src
 
 python -m ddc run            # collect + rebuild the website
 python -m ddc run --days 7   # look further back on the first run
+python -m ddc backfill --from 1990   # one-time historical harvest (hours)
 python -m ddc build          # rebuild website only, from stored data
 python -m ddc stats          # index statistics
 python -m unittest discover -s tests   # run the test suite
 
 python -m http.server 8760   # then open http://localhost:8760
 ```
+
+The `backfill` command walks OpenAlex year by year (cursor pagination) with
+the same classifier, and additionally harvests the complete publication lists
+of the field's pioneers listed in `config/pioneers.json`. It checkpoints
+after every query, so it can be interrupted and re-run safely.
 
 (The search/authors/journals pages fetch JSON, so view the site over HTTP,
 not `file://`.)

@@ -1,6 +1,13 @@
 # Project Status
 
-_Last updated: 2026-07-20_
+_Last updated: 2026-07-20 (v1.1: historical backfill + progressive loading)_
+
+## Deployment
+
+- Live at https://guruprakashmp.github.io/ddc-papers/
+  (repo: https://github.com/GuruprakashMP/ddc-papers)
+- Daily GitHub Actions run verified working in the cloud (first run committed
+  "Daily update: 2026-07-20" successfully, including arXiv).
 
 ## Completed
 

@@ -14,7 +14,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: ddc-daily
+  group: ddc-write   # shared with the backfill workflow — one writer at a time
   cancel-in-progress: false
 
 jobs:
@@ -51,5 +51,6 @@ jobs:
             echo "No new papers today."
           else
             git commit -m "Daily update: $(date -u +%Y-%m-%d)"
+            git pull --rebase origin main || true
             git push
           fi

@@ -70,6 +70,11 @@ def get_bytes(
             if exc.code != 429 and exc.code < 500:
                 raise FetchError(f"HTTP {exc.code} for {full_url}") from exc
             wait = 2.0 ** attempt
+            if exc.code == 429:
+                # Honor the server's Retry-After if present (capped at 2 min).
+                retry_after = exc.headers.get("Retry-After", "")
+                if retry_after.isdigit():
+                    wait = min(float(retry_after), 120.0)
             log.warning("HTTP %s from %s; retry %d/%d in %.0fs",
                         exc.code, full_url, attempt, retries, wait)
         except (urllib.error.URLError, TimeoutError, OSError) as exc:

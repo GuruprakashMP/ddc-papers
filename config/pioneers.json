@@ -1,0 +1,25 @@
+{
+  "_comment": "Researchers whose complete publication lists are harvested during backfill (their papers still pass through the same relevance classifier). Add names freely and rerun: python -m ddc backfill --authors-only",
+  "authors": [
+    "Matthew Sigman",
+    "Abigail Doyle",
+    "Connor Coley",
+    "Klavs Jensen",
+    "Alan Aspuru-Guzik",
+    "Leroy Cronin",
+    "Frank Glorius",
+    "Marwin Segler",
+    "Philippe Schwaller",
+    "Anatole von Lilienfeld",
+    "Gabor Csanyi",
+    "Michele Ceriotti",
+    "Robert Paton",
+    "Anat Milo",
+    "Jean-Louis Reymond",
+    "Andrew Cooper",
+    "Sarah Reisman",
+    "Richmond Sarpong",
+    "Timothy Cernak",
+    "Jason Hein"
+  ]
+}

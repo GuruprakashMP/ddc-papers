@@ -3,6 +3,8 @@
     collect -> deduplicate -> classify -> store -> generate site
 
 Each source is isolated: a failing API is logged and skipped, never fatal.
+:func:`process_records` is the shared ingestion path used by both the daily
+run and the historical backfill (see :mod:`ddc.backfill`).
 """
 
 from __future__ import annotations
@@ -28,6 +30,14 @@ class PipelineResult:
     rejected: int = 0
     added: int = 0
     per_source: Dict[str, int] = field(default_factory=dict)
+
+    def merge(self, other: "PipelineResult") -> None:
+        self.collected += other.collected
+        self.duplicates += other.duplicates
+        self.rejected += other.rejected
+        self.added += other.added
+        for k, v in other.per_source.items():
+            self.per_source[k] = self.per_source.get(k, 0) + v
 
     def summary(self) -> str:
         per_source = ", ".join(f"{k}: {v}" for k, v in sorted(self.per_source.items()))
@@ -64,19 +74,19 @@ def collect_records(settings: Settings, since: dt.date) -> List[RawRecord]:
     return records
 
 
-def run(days_back: int = 0, generate: bool = True) -> PipelineResult:
-    """Execute the full daily pipeline and return a summary."""
-    settings = Settings.load()
-    since = dt.date.today() - dt.timedelta(
-        days=days_back or settings.collect_days_back)
+def process_records(
+    records: List[RawRecord],
+    settings: Settings,
+    store: PaperStore,
+    seen: Dict[str, str],
+) -> PipelineResult:
+    """Dedupe, classify and store a batch of raw records.
+
+    Mutates ``seen`` in place; the caller is responsible for persisting it
+    (so a backfill can checkpoint between batches).
+    """
     today = dt.date.today().isoformat()
-    log.info("Collecting papers published since %s", since.isoformat())
-
-    records = collect_records(settings, since)
     result = PipelineResult(collected=len(records))
-
-    store = PaperStore()
-    seen = store.load_seen()
     accepted: List[Paper] = []
 
     for record in records:
@@ -90,8 +100,6 @@ def run(days_back: int = 0, generate: bool = True) -> PipelineResult:
         verdict = classify(record)
         if not verdict.accepted or verdict.score < settings.min_relevance_score:
             result.rejected += 1
-            # Register rejected keys too, so tomorrow's run skips re-classifying
-            # the same paper arriving from another source.
             continue
 
         published = _sane_date(record.published, today)
@@ -118,6 +126,21 @@ def run(days_back: int = 0, generate: bool = True) -> PipelineResult:
         result.per_source[record.source] = result.per_source.get(record.source, 0) + 1
 
     result.added = store.add(accepted)
+    return result
+
+
+def run(days_back: int = 0, generate: bool = True) -> PipelineResult:
+    """Execute the full daily pipeline and return a summary."""
+    settings = Settings.load()
+    since = dt.date.today() - dt.timedelta(
+        days=days_back or settings.collect_days_back)
+    log.info("Collecting papers published since %s", since.isoformat())
+
+    records = collect_records(settings, since)
+
+    store = PaperStore()
+    seen = store.load_seen()
+    result = process_records(records, settings, store, seen)
     store.save_seen(seen)
     log.info("Pipeline: %s", result.summary())
 

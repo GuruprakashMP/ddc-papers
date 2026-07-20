@@ -91,6 +91,20 @@ Source APIs occasionally return garbage dates (e.g. year 2035); the pipeline
 clamps anything unparseable or more than a year in the future to the ingestion
 date. Month-only dates (DOAJ) become the 1st of the month.
 
+### Historical backfill
+`backfill.py` complements the forward-looking daily pipeline with a one-time
+(but resumable) sweep of the field's history via OpenAlex cursor pagination:
+18 broad-recall topic queries per year (precision comes from the classifier,
+not the query), plus the complete works of the pioneers in
+`config/pioneers.json`. It checkpoints (shards + seen-set) after every query,
+so interrupting and re-running is always safe — already-ingested papers are
+skipped as duplicates.
+
+### Progressive loading in the browser
+`app.js` fetches the manifest, renders as soon as the newest three year-shards
+arrive, then streams the remaining years in the background and refreshes
+counts/filters when complete. First paint stays fast regardless of index size.
+
 ## Extension points
 
 | Want to... | Touch |

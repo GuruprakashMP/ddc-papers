@@ -2,6 +2,29 @@
 
 All notable changes to DataDrivenChemistryPapers.
 
+## [1.1.0] — 2026-07-20
+
+### Added
+- **Historical backfill** (`python -m ddc backfill`): walks OpenAlex with
+  cursor pagination, year by year from 1990, through 18 broad ML×chemistry
+  queries; checkpointed and safely resumable.
+- **Pioneer harvesting**: complete publication lists of ~20 field pioneers
+  (Sigman, Doyle, Coley, Jensen, Aspuru-Guzik, Cronin, ...) from
+  `config/pioneers.json`, filtered by the same classifier.
+- Classifier vocabulary for the pre-deep-learning era: chemometrics, PLS,
+  PCA, multivariate regression, Hammett analysis, linear free energy
+  relationships, Sterimol parameters (new categories: "Chemometrics &
+  Statistics", "Physical Organic Chemistry").
+- Progressive loading on search/authors/journals pages: the newest three
+  year-shards render instantly, the full archive streams in the background —
+  keeps the UI fast at tens of thousands of papers.
+
+### Changed
+- Pipeline ingestion extracted into a reusable `process_records()` shared by
+  the daily run and the backfill.
+
+## [1.0.0] — 2026-07-20
+
 ## [1.0.0] — 2026-07-20
 
 Initial release.

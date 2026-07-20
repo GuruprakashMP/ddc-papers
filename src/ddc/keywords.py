@@ -107,6 +107,22 @@ ML_TERMS: Dict[str, Tuple[int, str, str]] = {
     "multi-task learning": (2, "Multi-Task", "Machine Learning"),
     "federated learning": (2, "Federated Learning", "Machine Learning"),
     "in silico": (1, "In Silico", "Computational Chemistry"),
+    # statistical / chemometric era — data-driven chemistry before "ML" was
+    # the standard label (Hammett-style parameterization, chemometrics)
+    "chemometric": (4, "Chemometrics", "Chemometrics & Statistics"),
+    "partial least squares": (3, "PLS", "Chemometrics & Statistics"),
+    "principal component analysis": (2, "PCA", "Chemometrics & Statistics"),
+    "multivariate analysis": (2, "Multivariate Analysis", "Chemometrics & Statistics"),
+    "multivariate regression": (3, "Multivariate Regression", "Chemometrics & Statistics"),
+    "multivariate linear regression": (4, "Multivariate Regression", "Chemometrics & Statistics"),
+    "artificial neural network": (3, "Neural Network", "Deep Learning"),
+    "deep neural network": (3, "Neural Network", "Deep Learning"),
+    "decision tree": (2, "Decision Tree", "Classical ML"),
+    "ensemble learning": (2, "Ensemble Learning", "Classical ML"),
+    "symbolic regression": (3, "Symbolic Regression", "Machine Learning"),
+    "statistical model": (2, "Statistical Modeling", "Chemometrics & Statistics"),
+    "regression model": (2, "Regression", "Chemometrics & Statistics"),
+    "predictive analytics": (2, "Predictive Model", "Machine Learning"),
 }
 
 # ---------------------------------------------------------------------------
@@ -245,6 +261,18 @@ CHEM_TERMS: Dict[str, Tuple[int, str, str]] = {
     "cross-coupling": (4, "Cross-Coupling", "Organic Chemistry"),
     "c-h activation": (4, "C-H Activation", "Organic Chemistry"),
     "natural product": (3, "Natural Products", "Organic Chemistry"),
+    # physical organic chemistry — the data-driven catalysis tradition
+    "hammett": (4, "Hammett Analysis", "Physical Organic Chemistry"),
+    "linear free energy relationship": (4, "LFER", "Physical Organic Chemistry"),
+    "free energy relationship": (4, "LFER", "Physical Organic Chemistry"),
+    "physical organic": (4, "Physical Organic", "Physical Organic Chemistry"),
+    "steric parameter": (4, "Steric Parameters", "Physical Organic Chemistry"),
+    "sterimol": (4, "Sterimol", "Physical Organic Chemistry"),
+    "reaction optimization": (4, "Reaction Optimization", "Reaction Prediction"),
+    "reaction condition": (3, "Reaction Conditions", "Reaction Prediction"),
+    "asymmetric cataly": (4, "Asymmetric Catalysis", "Catalysis"),
+    "organocataly": (4, "Organocatalysis", "Catalysis"),
+    "chiral": (3, "Chirality", "Organic Chemistry"),
 }
 
 # ---------------------------------------------------------------------------

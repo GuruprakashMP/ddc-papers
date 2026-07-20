@@ -34,6 +34,18 @@ def main(argv=None) -> int:
     p_collect = sub.add_parser("collect", help="collect and store, skip site build")
     p_collect.add_argument("--days", type=int, default=0)
 
+    p_back = sub.add_parser(
+        "backfill", help="one-time historical harvest via OpenAlex")
+    p_back.add_argument("--from", dest="from_year", type=int, default=2010)
+    p_back.add_argument("--to", dest="to_year", type=int, default=0,
+                        help="default: current year")
+    p_back.add_argument("--max-pages", type=int, default=10,
+                        help="max pages (of 200) per query per year")
+    p_back.add_argument("--topics-only", action="store_true")
+    p_back.add_argument("--authors-only", action="store_true")
+    p_back.add_argument("--no-site", action="store_true",
+                        help="skip site rebuild at the end")
+
     sub.add_parser("build", help="rebuild the website from stored data")
     sub.add_parser("stats", help="print index statistics")
 
@@ -43,6 +55,20 @@ def main(argv=None) -> int:
     if args.command in ("run", "collect"):
         from .pipeline import run
         result = run(days_back=args.days, generate=args.command == "run")
+        print(result.summary())
+        return 0
+
+    if args.command == "backfill":
+        import datetime as dt
+        from .backfill import backfill
+        result = backfill(
+            from_year=args.from_year,
+            to_year=args.to_year or dt.date.today().year,
+            max_pages=args.max_pages,
+            topics=not args.authors_only,
+            authors=not args.topics_only,
+            generate=not args.no_site,
+        )
         print(result.summary())
         return 0
 

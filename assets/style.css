@@ -154,6 +154,7 @@ code { background: var(--bg-soft); padding: 1px 5px; border-radius: 4px; font-si
 }
 .filter-bar input:focus, .filter-bar select:focus { outline: 2px solid var(--accent); }
 .result-meta { color: var(--text-soft); font-size: 0.9rem; margin: 0.6rem 0; display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; }
+.load-state { color: var(--accent); font-style: italic; }
 .clear-filters { font-size: 0.9rem; }
 
 /* directory pages (authors / journals) */
