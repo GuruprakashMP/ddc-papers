@@ -1,0 +1,254 @@
+[
+ {
+  "id": "c452e128b54c91eb",
+  "title": "Mapping the space of chemical reactions using attention-based neural networks",
+  "authors": [
+   "Philippe Schwaller",
+   "Daniel Probst",
+   "Alain C. Vaucher",
+   "Vishnu H Nair",
+   "David Kreutter",
+   "Teodoro Laino",
+   "Jean‐Louis Reymond"
+  ],
+  "journal": "Nature Machine Intelligence",
+  "publisher": "Nature Portfolio",
+  "published": "2021-01-28",
+  "year": 2021,
+  "doi": "10.1038/s42256-020-00284-w",
+  "url": "https://doi.org/10.1038/s42256-020-00284-w",
+  "source": "openalex",
+  "categories": [
+   "Reaction Prediction",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Neural Network",
+   "Reactions"
+  ],
+  "relevance_score": 50,
+  "affiliations": [
+   "University of Bern",
+   "IBM Research - Zurich"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "e5303e060e32c43e",
+  "title": "Peptides in chemical space",
+  "authors": [
+   "Alice Capecchi",
+   "Jean‐Louis Reymond"
+  ],
+  "journal": "Medicine in Drug Discovery",
+  "publisher": "Elsevier BV",
+  "published": "2021-01-15",
+  "year": 2021,
+  "doi": "10.1016/j.medidd.2021.100081",
+  "url": "https://doi.org/10.1016/j.medidd.2021.100081",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Machine Learning",
+   "Optimization",
+   "Computational Chemistry"
+  ],
+  "tags": [
+   "Chemical Space",
+   "Chemistry",
+   "Fingerprints",
+   "Genetic Algorithm",
+   "In Silico",
+   "Machine Learning",
+   "Molecules"
+  ],
+  "relevance_score": 83,
+  "affiliations": [
+   "University of Bern"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "237a0c6a8c9706f6",
+  "title": "Nickel-Catalyzed Asymmetric Reductive Cross-Coupling of a-Chloroesters with (Hetero)Aryl Iodides",
+  "authors": [
+   "Travis J. DeLano",
+   "Sara E. Dibrell",
+   "Caitlin R. Lacker",
+   "Adam R. Pancoast",
+   "Kelsey E. Poremba",
+   "Leah Cleary",
+   "Matthew S. Sigman",
+   "Sarah E. Reisman"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2021-01-05",
+  "year": 2021,
+  "doi": "10.26434/chemrxiv.13474638",
+  "url": "https://doi.org/10.26434/chemrxiv.13474638",
+  "source": "openalex",
+  "categories": [
+   "Organic Chemistry",
+   "Catalysis",
+   "Chemometrics & Statistics"
+  ],
+  "tags": [
+   "Chirality",
+   "Cross-Coupling",
+   "Enantioselectivity",
+   "Ligands",
+   "Multivariate Regression",
+   "Regression"
+  ],
+  "relevance_score": 86,
+  "affiliations": [
+   "California Institute of Technology",
+   "University of Utah"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "b0e6fab0606c0387",
+  "title": "Retrosynthetic accessibility score (RAscore) – rapid machine learned synthesizability classification from AI driven retrosynthetic planning",
+  "authors": [
+   "Amol Thakkar",
+   "Veronika Chadimová",
+   "Esben Jannik Bjerrum",
+   "Ola Engkvist",
+   "Jean‐Louis Reymond"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2021-01-01",
+  "year": 2021,
+  "doi": "10.1039/d0sc05401a",
+  "url": "https://doi.org/10.1039/d0sc05401a",
+  "source": "openalex",
+  "categories": [
+   "Retrosynthesis",
+   "Cheminformatics",
+   "Generative Models",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Generative Model",
+   "Machine Learning",
+   "Molecules",
+   "Retrosynthesis",
+   "Synthesis Planning",
+   "Virtual Screening"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "University of Bern",
+   "AstraZeneca (Singapore)",
+   "AstraZeneca (Sweden)"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "59c1ad589b978647",
+  "title": "Predicting Biotransformations with a Molecular Transformer",
+  "authors": [
+   "David Kreutter",
+   "Philippe Schwaller",
+   "Jean‐Louis Reymond"
+  ],
+  "journal": "The Novartis Repository (Novartis)",
+  "publisher": "Novartis (Switzerland)",
+  "published": "2021-01-01",
+  "year": 2021,
+  "doi": "",
+  "url": "https://oak.novartis.com/43730/",
+  "source": "openalex",
+  "categories": [
+   "Organic Chemistry",
+   "Physical Chemistry",
+   "Transformers & LLMs",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Kinetics",
+   "Machine Learning",
+   "Molecules",
+   "Organic Synthesis",
+   "Transfer Learning",
+   "Transformer"
+  ],
+  "relevance_score": 90,
+  "affiliations": [],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "31ec53f888994315",
+  "title": "Machine learning designs non-hemolytic antimicrobial peptides",
+  "authors": [
+   "Alice Capecchi",
+   "Xingguang Cai",
+   "Hippolyte Personne",
+   "Thilo Köhler",
+   "Christian van Delden",
+   "Jean‐Louis Reymond"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2021-01-01",
+  "year": 2021,
+  "doi": "10.1039/d1sc01713f",
+  "url": "https://doi.org/10.1039/d1sc01713f",
+  "source": "openalex",
+  "categories": [
+   "Machine Learning"
+  ],
+  "tags": [
+   "Machine Learning"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Bern",
+   "University of Geneva",
+   "University Hospital of Geneva",
+   "Office of Infectious Diseases"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "15d054135d3bef16",
+  "title": "Predicting enzymatic reactions with a molecular transformer",
+  "authors": [
+   "David Kreutter",
+   "Philippe Schwaller",
+   "Jean‐Louis Reymond"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2021-01-01",
+  "year": 2021,
+  "doi": "10.1039/d1sc02362d",
+  "url": "https://doi.org/10.1039/d1sc02362d",
+  "source": "openalex",
+  "categories": [
+   "Organic Chemistry",
+   "Transformers & LLMs",
+   "Cheminformatics",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Machine Learning",
+   "Molecules",
+   "Organic Synthesis",
+   "SMILES",
+   "Transfer Learning",
+   "Transformer"
+  ],
+  "relevance_score": 90,
+  "affiliations": [
+   "University of Bern"
+  ],
+  "added": "2026-07-20"
+ }
+]

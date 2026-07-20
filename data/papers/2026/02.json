@@ -8208,6 +8208,43 @@
   "added": "2026-07-20"
  },
  {
+  "id": "3618140ee15ef614",
+  "title": "Sampling a GDB-20 Database of 32 Trillion Drug-Like Molecules by Generative Artificial Intelligence",
+  "authors": [
+   "Ye Buehler",
+   "Sacha Javor",
+   "Jean-Louis Reymond"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-02-22",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15000288/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15000288/v1",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Drug Discovery Chemistry",
+   "Organic Chemistry",
+   "Generative Models",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Chemical Space",
+   "Chemistry",
+   "Drug Discovery",
+   "Generative Model",
+   "Molecules",
+   "Natural Products"
+  ],
+  "relevance_score": 86,
+  "affiliations": [
+   "University of Bern"
+  ],
+  "added": "2026-07-20"
+ },
+ {
   "id": "31dded9588df4bf8",
   "title": "Data-driven design and screening of thermally activated delayed fluorescence (TADF) compounds using TADF likeness and synthetic accessibility scores",
   "authors": [
@@ -15303,6 +15340,42 @@
   "added": "2026-07-20"
  },
  {
+  "id": "18eb8ac7b3ecb6b4",
+  "title": "A Survey of Molecular Representation Learning: From Single Modalities to Foundation Models",
+  "authors": [
+   "Yonatan Harnik",
+   "Eden Specktor",
+   "Yarden Cohen",
+   "Anat Milo",
+   "Ari Pakman"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-02-16",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv-2025-vxsvs/v2",
+  "url": "https://doi.org/10.26434/chemrxiv-2025-vxsvs/v2",
+  "source": "openalex",
+  "categories": [
+   "Transformers & LLMs",
+   "Cheminformatics",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Cheminformatics",
+   "Chemistry",
+   "Descriptors",
+   "Foundation Model",
+   "Molecules",
+   "Self-Supervised"
+  ],
+  "relevance_score": 81,
+  "affiliations": [
+   "Ben-Gurion University of the Negev"
+  ],
+  "added": "2026-07-20"
+ },
+ {
   "id": "18d16928f1bd6afc",
   "title": "Special issue: advanced spectroscopy in electron microscopy",
   "authors": [
@@ -17233,6 +17306,43 @@
    "Durango Institute of Technology",
    "Jiangxi Normal University",
    "Shinshu University"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "e15c10557a56358a",
+  "title": "Resolving the body-order paradox of machine learning interatomic potentials",
+  "authors": [
+   "Sanggyu Chong",
+   "Tong Jiang",
+   "Michelangelo Domina",
+   "Filippo Bigi",
+   "Federico Grasselli",
+   "Joonho Lee",
+   "Michele Ceriotti"
+  ],
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2026-02-13",
+  "year": 2026,
+  "doi": "10.1063/5.0303302",
+  "url": "https://doi.org/10.1063/5.0303302",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "ML Potentials & Force Fields",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Ab Initio",
+   "ML Potential",
+   "Machine Learning"
+  ],
+  "relevance_score": 77,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne",
+   "Harvard University",
+   "Harvard University Press"
   ],
   "added": "2026-07-20"
  },
@@ -19969,6 +20079,45 @@
    "Suzhou Institute of Nano-tech and Nano-bionics",
    "Institute of Process Engineering",
    "University of Chinese Academy of Sciences"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "6f4b0f02c9b469fb",
+  "title": "metatensor and metatomic : Foundational libraries for interoperable atomistic machine learning",
+  "authors": [
+   "Filippo Bigi",
+   "Joseph W. Abbott",
+   "Philip Loche",
+   "Arslan Mazitov",
+   "Davide Tisi",
+   "Marcel F. Langer",
+   "Alexander Goscinski",
+   "Paolo Pegolo",
+   "Sanggyu Chong",
+   "Rohit Goswami",
+   "Pol Febrer",
+   "Sofiia Chorna",
+   "Matthias Kellner",
+   "Michele Ceriotti",
+   "Guillaume Fraux"
+  ],
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2026-02-11",
+  "year": 2026,
+  "doi": "10.1063/5.0304911",
+  "url": "https://doi.org/10.1063/5.0304911",
+  "source": "openalex",
+  "categories": [
+   "Machine Learning"
+  ],
+  "tags": [
+   "Machine Learning"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne"
   ],
   "added": "2026-07-20"
  },

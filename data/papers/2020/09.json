@@ -1,0 +1,405 @@
+[
+ {
+  "id": "248a86c6fb63c006",
+  "title": "Retrospective on a decade of machine learning for chemical discovery",
+  "authors": [
+   "O. Anatole von Lilienfeld",
+   "Kieron Burke"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Nature Portfolio",
+  "published": "2020-09-29",
+  "year": 2020,
+  "doi": "10.1038/s41467-020-18556-9",
+  "url": "https://doi.org/10.1038/s41467-020-18556-9",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Machine Learning",
+   "ML Potentials & Force Fields"
+  ],
+  "tags": [
+   "Chemistry",
+   "Computational Chemistry",
+   "Electronic Structure",
+   "ML Potential",
+   "Machine Learning"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "University of Vienna",
+   "University of Basel",
+   "University of California, Irvine"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "89a7cd7b09aa38b2",
+  "title": "Assigning the Origin of Microbial Natural Products by Chemical Space Map and Machine Learning",
+  "authors": [
+   "Alice Capecchi",
+   "Jean‐Louis Reymond"
+  ],
+  "journal": "Biomolecules",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2020-09-28",
+  "year": 2020,
+  "doi": "10.3390/biom10101385",
+  "url": "https://doi.org/10.3390/biom10101385",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Organic Chemistry",
+   "Machine Learning",
+   "Classical ML"
+  ],
+  "tags": [
+   "Chemical Space",
+   "Chemistry",
+   "Dimensionality Reduction",
+   "Machine Learning",
+   "Molecules",
+   "Natural Products"
+  ],
+  "relevance_score": 86,
+  "affiliations": [
+   "University of Bern"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "0fdb538fa65247e5",
+  "title": "Quantum based machine learning of competing chemical reaction profiles",
+  "authors": [
+   "Stefan Heinen",
+   "Guido Falk von Rudorff",
+   "O. Anatole von Lilienfeld"
+  ],
+  "journal": "arXiv (Cornell University)",
+  "publisher": "Cornell University",
+  "published": "2020-09-28",
+  "year": 2020,
+  "doi": "",
+  "url": "http://export.arxiv.org/pdf/2009.13429",
+  "source": "openalex",
+  "categories": [
+   "Organic Chemistry",
+   "Reaction Prediction",
+   "Computational Chemistry",
+   "Physical Chemistry",
+   "Machine Learning",
+   "Classical ML"
+  ],
+  "tags": [
+   "Chemistry",
+   "Decision Tree",
+   "Kinetics",
+   "Machine Learning",
+   "Organic Synthesis",
+   "Reactions",
+   "Thermodynamics",
+   "Transition States"
+  ],
+  "relevance_score": 80,
+  "affiliations": [],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "2eb8e14a15820a76",
+  "title": "Transfer learning enables the molecular transformer to predict regio- and stereoselective reactions on carbohydrates",
+  "authors": [
+   "Giorgio Pesciullesi",
+   "Philippe Schwaller",
+   "Teodoro Laino",
+   "Jean‐Louis Reymond"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Nature Portfolio",
+  "published": "2020-09-25",
+  "year": 2020,
+  "doi": "10.1038/s41467-020-18671-7",
+  "url": "https://doi.org/10.1038/s41467-020-18671-7",
+  "source": "openalex",
+  "categories": [
+   "Organic Chemistry",
+   "Machine Learning",
+   "Transformers & LLMs",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Deep Learning",
+   "Molecules",
+   "Organic Chemistry",
+   "Organic Synthesis",
+   "Stereoselectivity",
+   "Transfer Learning",
+   "Transformer"
+  ],
+  "relevance_score": 96,
+  "affiliations": [
+   "University of Bern",
+   "IBM Research - Zurich"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "0720062ba26e36de",
+  "title": "Machine Learning Models of Vibrating H 2 CO: Comparing Reproducing Kernels, FCHL, and PhysNet",
+  "authors": [
+   "Silvan Käser",
+   "Debasish Koner",
+   "Anders S. Christensen",
+   "O. Anatole von Lilienfeld",
+   "Markus Meuwly"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "American Chemical Society",
+  "published": "2020-09-24",
+  "year": 2020,
+  "doi": "10.1021/acs.jpca.0c05979",
+  "url": "https://doi.org/10.1021/acs.jpca.0c05979",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Spectroscopy",
+   "Machine Learning",
+   "Classical ML",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Electronic Structure",
+   "Kernel Ridge",
+   "Machine Learning",
+   "Molecular Dynamics",
+   "Molecules",
+   "Neural Network",
+   "Spectroscopy",
+   "Transfer Learning"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "University of Basel"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "6e7ab32b32d92c59",
+  "title": "Recursive evaluation and iterative contraction of N -body equivariant features",
+  "authors": [
+   "Jigyasa Nigam",
+   "Sergey N. Pozdnyakov",
+   "Michele Ceriotti"
+  ],
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2020-09-22",
+  "year": 2020,
+  "doi": "10.1063/5.0021116",
+  "url": "https://doi.org/10.1063/5.0021116",
+  "source": "openalex",
+  "categories": [
+   "Graph Neural Networks",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Equivariant Model",
+   "Machine Learning"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "23a77aa57ab4a697",
+  "title": "On the role of gradients for machine learning of molecular energies and forces",
+  "authors": [
+   "Anders S. Christensen",
+   "O. Anatole von Lilienfeld"
+  ],
+  "journal": "Machine Learning Science and Technology",
+  "publisher": "IOP Publishing",
+  "published": "2020-09-21",
+  "year": 2020,
+  "doi": "10.1088/2632-2153/abba6f",
+  "url": "https://doi.org/10.1088/2632-2153/abba6f",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "ML Potentials & Force Fields",
+   "Machine Learning"
+  ],
+  "tags": [
+   "ML Potential",
+   "Machine Learning",
+   "Molecules",
+   "PES"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "University of Basel"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "50f0efda38d8aa2b",
+  "title": "Molecular Machine Learning: The Future of Synthetic Chemistry?",
+  "authors": [
+   "Philipp M. Pflüger",
+   "Frank Glorius"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2020-09-15",
+  "year": 2020,
+  "doi": "10.1002/anie.202008366",
+  "url": "https://doi.org/10.1002/anie.202008366",
+  "source": "openalex",
+  "categories": [
+   "Retrosynthesis",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Chemistry",
+   "Machine Learning",
+   "Molecules",
+   "Synthesis Planning"
+  ],
+  "relevance_score": 83,
+  "affiliations": [
+   "University of Münster"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "14e932c92dfb0548",
+  "title": "Molekulares maschinelles Lernen: Die Zukunft der Synthesechemie?",
+  "authors": [
+   "Philipp M. Pflüger",
+   "Frank Glorius"
+  ],
+  "journal": "Angewandte Chemie",
+  "publisher": "Wiley",
+  "published": "2020-09-15",
+  "year": 2020,
+  "doi": "10.1002/ange.202008366",
+  "url": "https://doi.org/10.1002/ange.202008366",
+  "source": "openalex",
+  "categories": [
+   "Retrosynthesis",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Synthesis Planning"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Münster"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "251f6ae2ec3e58d3",
+  "title": "Quantum machine learning using atom-in-molecule-based fragments selected on the fly",
+  "authors": [
+   "Bing Huang",
+   "O. Anatole von Lilienfeld"
+  ],
+  "journal": "Nature Chemistry",
+  "publisher": "Nature Portfolio",
+  "published": "2020-09-14",
+  "year": 2020,
+  "doi": "10.1038/s41557-020-0527-z",
+  "url": "https://doi.org/10.1038/s41557-020-0527-z",
+  "source": "openalex",
+  "categories": [
+   "Machine Learning"
+  ],
+  "tags": [
+   "Machine Learning",
+   "Molecules"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "University of Basel"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "972ae395d0ac4088",
+  "title": "Computer Vision for Recognition of Materials and Vessels in Chemistry Lab Settings and the Vector-LabPics Data Set",
+  "authors": [
+   "Sagi Eppel",
+   "Haoping Xu",
+   "Mor Bismuth",
+   "Alán Aspuru‐Guzik"
+  ],
+  "journal": "ACS Central Science",
+  "publisher": "American Chemical Society",
+  "published": "2020-09-10",
+  "year": 2020,
+  "doi": "10.1021/acscentsci.0c00460",
+  "url": "https://doi.org/10.1021/acscentsci.0c00460",
+  "source": "openalex",
+  "categories": [
+   "Machine Learning",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Machine Learning",
+   "Neural Network"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "University of Toronto",
+   "Vector Institute",
+   "Open University of Israel",
+   "Canadian Institute for Advanced Research"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "db075ad18ca89642",
+  "title": "An Artificial Intelligence that Discovers Unpredictable Chemical Reactions",
+  "authors": [
+   "Dario Caramelli",
+   "Jarosław M. Granda",
+   "Dario Cambié",
+   "S. Hessam M. Mehr",
+   "Alon Henson",
+   "Leroy Cronin"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2020-09-08",
+  "year": 2020,
+  "doi": "10.26434/chemrxiv.12924968.v1",
+  "url": "https://doi.org/10.26434/chemrxiv.12924968.v1",
+  "source": "openalex",
+  "categories": [
+   "Reaction Prediction",
+   "Cheminformatics",
+   "Deep Learning",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "CNN",
+   "Cheminformatics",
+   "Chemistry",
+   "Deep Learning",
+   "Neural Network",
+   "Reactions",
+   "Reactivity"
+  ],
+  "relevance_score": 99,
+  "affiliations": [
+   "University of Glasgow"
+  ],
+  "added": "2026-07-20"
+ }
+]

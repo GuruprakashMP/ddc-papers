@@ -1,0 +1,285 @@
+[
+ {
+  "id": "7b725e1e5ddc8f3e",
+  "title": "Data augmentation strategies to improve reaction yield predictions and estimate uncertainty",
+  "authors": [
+   "Philippe Schwaller",
+   "Alain C. Vaucher",
+   "Teodoro Laino",
+   "Jean‐Louis Reymond"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2020-11-26",
+  "year": 2020,
+  "doi": "10.26434/chemrxiv.13286741.v1",
+  "url": "https://doi.org/10.26434/chemrxiv.13286741.v1",
+  "source": "openalex",
+  "categories": [
+   "Reaction Prediction",
+   "Cheminformatics",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Chemistry",
+   "Fingerprints",
+   "Molecules",
+   "Reactions",
+   "Transformer",
+   "Yield Prediction"
+  ],
+  "relevance_score": 81,
+  "affiliations": [
+   "University of Bern",
+   "IBM Research - Zurich"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "2c78315383a3d5d1",
+  "title": "Completion of Partial Reaction Equations",
+  "authors": [
+   "Alain C. Vaucher",
+   "Philippe Schwaller",
+   "Teodoro Laino"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2020-11-23",
+  "year": 2020,
+  "doi": "10.26434/chemrxiv.13273310.v1",
+  "url": "https://doi.org/10.26434/chemrxiv.13273310.v1",
+  "source": "openalex",
+  "categories": [
+   "Reaction Prediction",
+   "Retrosynthesis",
+   "Physical Chemistry",
+   "Cheminformatics",
+   "Machine Learning",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Chemistry",
+   "Machine Learning",
+   "Molecules",
+   "Reaction Prediction",
+   "Retrosynthesis",
+   "SMILES",
+   "Solvents",
+   "Transformer"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "IBM Research - Zurich"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "3d937ac94c84aae3",
+  "title": "AiZynthFinder: a fast, robust and flexible open-source software for retrosynthetic planning",
+  "authors": [
+   "Samuel Genheden",
+   "Amol Thakkar",
+   "Veronika Chadimová",
+   "Jean‐Louis Reymond",
+   "Ola Engkvist",
+   "Esben Jannik Bjerrum"
+  ],
+  "journal": "Journal of Cheminformatics",
+  "publisher": "BioMed Central",
+  "published": "2020-11-17",
+  "year": 2020,
+  "doi": "10.1186/s13321-020-00472-1",
+  "url": "https://doi.org/10.1186/s13321-020-00472-1",
+  "source": "openalex",
+  "categories": [
+   "Retrosynthesis",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Molecules",
+   "Neural Network",
+   "Retrosynthesis"
+  ],
+  "relevance_score": 65,
+  "affiliations": [
+   "AstraZeneca (Australia)",
+   "AstraZeneca (Netherlands)",
+   "AstraZeneca (Sweden)",
+   "AstraZeneca (Germany)",
+   "University of Bern"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "f917155d5af781bb",
+  "title": "Uncertainty estimation by committee models for molecular dynamics and thermodynamic averages.",
+  "authors": [
+   "Giulio Imbalzano",
+   "Yongbin Zhuang",
+   "Venkat Kapil",
+   "Kevin Rossi",
+   "Edgar A. Engel",
+   "Federico Grasselli",
+   "Michele Ceriotti"
+  ],
+  "journal": "arXiv (Cornell University)",
+  "publisher": "Cornell University",
+  "published": "2020-11-10",
+  "year": 2020,
+  "doi": "",
+  "url": "https://arxiv.org/abs/2011.08828",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Physical Chemistry",
+   "ML Potentials & Force Fields",
+   "Machine Learning"
+  ],
+  "tags": [
+   "ML Potential",
+   "Machine Learning",
+   "Molecular Dynamics",
+   "Molecules",
+   "Thermodynamics",
+   "Uncertainty"
+  ],
+  "relevance_score": 79,
+  "affiliations": [],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "58fda19f6583f8e5",
+  "title": "Automated Solubility Screening Platform Using Computer Vision",
+  "authors": [
+   "Parisa Shiri",
+   "Veronica Lai",
+   "Tara Zepel",
+   "Daniel Griffin",
+   "Jonathan Reifman",
+   "Sean Clark",
+   "Shad Grunert",
+   "Lars P. E. Yunker",
+   "Sebastian Steiner",
+   "Henry Situ",
+   "Fan Yang",
+   "Paloma L. Prieto",
+   "Jason E. Hein"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2020-11-09",
+  "year": 2020,
+  "doi": "10.26434/chemrxiv.13198688.v1",
+  "url": "https://doi.org/10.26434/chemrxiv.13198688.v1",
+  "source": "openalex",
+  "categories": [
+   "Property Prediction",
+   "Analytical Chemistry",
+   "Physical Chemistry",
+   "High-Throughput & Autonomous"
+  ],
+  "tags": [
+   "Chromatography",
+   "Robotic Chemistry",
+   "Solubility",
+   "Solvents"
+  ],
+  "relevance_score": 71,
+  "affiliations": [
+   "University of British Columbia",
+   "Amgen (United States)"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "b4c879a4de1d31a6",
+  "title": "Artificial intelligence and automation in computer aided synthesis planning",
+  "authors": [
+   "Amol Thakkar",
+   "Simon Johansson",
+   "Kjell Jorner",
+   "David Buttar",
+   "Jean‐Louis Reymond",
+   "Ola Engkvist"
+  ],
+  "journal": "Reaction Chemistry & Engineering",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2020-11-05",
+  "year": 2020,
+  "doi": "10.1039/d0re00340a",
+  "url": "https://doi.org/10.1039/d0re00340a",
+  "source": "openalex",
+  "categories": [
+   "Retrosynthesis",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Synthesis Planning"
+  ],
+  "relevance_score": 59,
+  "affiliations": [
+   "University of Bern",
+   "AstraZeneca (Brazil)",
+   "AstraZeneca (Sweden)",
+   "Chalmers University of Technology",
+   "AstraZeneca (United Kingdom)",
+   "Macclesfield College"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "eb4603b3517e169b",
+  "title": "Data-science driven autonomous process optimization",
+  "authors": [
+   "Melodie Christensen",
+   "Lars P. E. Yunker",
+   "Folarin Adedeji",
+   "Florian Häse",
+   "Loı̈c M. Roch",
+   "Tobias Gensch",
+   "Gabriel dos Passos Gomes",
+   "Tara Zepel",
+   "Matthew S. Sigman",
+   "Alán Aspuru‐Guzik",
+   "Jason E. Hein"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2020-11-03",
+  "year": 2020,
+  "doi": "10.26434/chemrxiv.13146404.v2",
+  "url": "https://doi.org/10.26434/chemrxiv.13146404.v2",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Reaction Prediction",
+   "Catalysis",
+   "Classical ML"
+  ],
+  "tags": [
+   "Chemical Space",
+   "Chemistry",
+   "Clustering",
+   "Descriptors",
+   "Ligands",
+   "Molecules",
+   "Reaction Prediction",
+   "Yield Prediction"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Merck & Co., Inc., Rahway, NJ, USA (United States)",
+   "University of British Columbia",
+   "Harvard University",
+   "University of Toronto",
+   "Business School Lausanne",
+   "Vector Institute",
+   "University of Utah",
+   "Canadian Institute for Advanced Research",
+   "University of Lausanne"
+  ],
+  "added": "2026-07-20"
+ }
+]

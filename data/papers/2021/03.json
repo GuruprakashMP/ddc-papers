@@ -1,0 +1,146 @@
+[
+ {
+  "id": "281da2e2c9359be6",
+  "title": "Efficient implementation of atom-density representations",
+  "authors": [
+   "Félix Musil",
+   "Max Veit",
+   "Alexander Goscinski",
+   "Guillaume Fraux",
+   "Michael J. Willatt",
+   "Markus Stricker",
+   "Till Junge",
+   "Michele Ceriotti"
+  ],
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2021-03-16",
+  "year": 2021,
+  "doi": "10.1063/5.0044689",
+  "url": "https://doi.org/10.1063/5.0044689",
+  "source": "openalex",
+  "categories": [
+   "Classical ML",
+   "Graph Neural Networks",
+   "Machine Learning",
+   "Chemometrics & Statistics"
+  ],
+  "tags": [
+   "Chemistry",
+   "Equivariant Model",
+   "Kernel Ridge",
+   "Machine Learning",
+   "Molecules",
+   "Regression"
+  ],
+  "relevance_score": 81,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne",
+   "Ruhr University Bochum"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "22f8095ce2c89bef",
+  "title": "Properties of a III-V semiconductor across temperatures and compositions from first principles",
+  "authors": [
+   "Giulio Imbalzano",
+   "Michele Ceriotti"
+  ],
+  "journal": "arXiv (Cornell University)",
+  "publisher": "Cornell University",
+  "published": "2021-03-16",
+  "year": 2021,
+  "doi": "",
+  "url": "http://export.arxiv.org/pdf/2103.09041",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Ab Initio",
+   "DFT",
+   "Machine Learning"
+  ],
+  "relevance_score": 53,
+  "affiliations": [],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "7c5952ac6c0e4b98",
+  "title": "Machine learning the molecular dipole moment with atomic partial charges and atomic dipoles",
+  "authors": [
+   "Max Veit",
+   "David M. Wilkins",
+   "Yang Yang",
+   "Robert A. DiStasio",
+   "Michele Ceriotti"
+  ],
+  "journal": "Bulletin of the American Physical Society",
+  "publisher": "Cambridge University Press",
+  "published": "2021-03-15",
+  "year": 2021,
+  "doi": "",
+  "url": "https://meetings.aps.org/Meeting/MAR21/Session/C60.4",
+  "source": "openalex",
+  "categories": [
+   "Property Prediction",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Dipole Moment",
+   "Machine Learning",
+   "Molecules"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "ed4aadd951c6f3cc",
+  "title": "Prediction of chemical reaction yields using deep learning",
+  "authors": [
+   "Philippe Schwaller",
+   "Alain C. Vaucher",
+   "Teodoro Laino",
+   "Jean‐Louis Reymond"
+  ],
+  "journal": "Machine Learning Science and Technology",
+  "publisher": "IOP Publishing",
+  "published": "2021-03-01",
+  "year": 2021,
+  "doi": "10.1088/2632-2153/abc81d",
+  "url": "https://doi.org/10.1088/2632-2153/abc81d",
+  "source": "openalex",
+  "categories": [
+   "Reaction Prediction",
+   "Organic Chemistry",
+   "Retrosynthesis",
+   "Deep Learning",
+   "Cheminformatics",
+   "Machine Learning",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Chemistry",
+   "Deep Learning",
+   "Fingerprints",
+   "Machine Learning",
+   "Molecules",
+   "Organic Chemistry",
+   "Reaction Prediction",
+   "Reactions",
+   "Retrosynthesis",
+   "Synthesis Planning",
+   "Transformer",
+   "Yield Prediction"
+  ],
+  "relevance_score": 91,
+  "affiliations": [
+   "University of Bern",
+   "IBM Research - Zurich"
+  ],
+  "added": "2026-07-20"
+ }
+]

@@ -1,0 +1,314 @@
+[
+ {
+  "id": "4d7bf5f557f2c46d",
+  "title": "End-to-end optimization for battery materials and molecules by combining graph neural networks and reinforcement learning",
+  "authors": [
+   "Peter C. St. John",
+   "Dave Biagioni",
+   "Charles Tripp",
+   "Jeffrey Law",
+   "Erotokritos Skordilis",
+   "Dmitry Duplyakin",
+   "Struan Clark",
+   "Robert S. Paton",
+   "Shree Sowndarya S. V.",
+   "Prashun Gorai",
+   "Shubham Pandey",
+   "Vladan Stevanović",
+   "Andrew Bray",
+   "Troy Daley",
+   "John Meissner"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2022-10-30",
+  "year": 2022,
+  "doi": "10.2172/2368862",
+  "url": "https://doi.org/10.2172/2368862",
+  "source": "openalex",
+  "categories": [
+   "Electrochemistry & Batteries",
+   "Molecule Generation",
+   "Materials Chemistry",
+   "Inorganic Chemistry",
+   "Graph Neural Networks",
+   "Reinforcement Learning",
+   "Deep Learning",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Batteries",
+   "Crystal Structures",
+   "Graph Neural Network",
+   "Inorganic Chemistry",
+   "Inverse Design",
+   "Machine Learning",
+   "Molecules",
+   "Neural Network",
+   "Reinforcement Learning"
+  ],
+  "relevance_score": 96,
+  "affiliations": [
+   "National Laboratory of the Rockies",
+   "Colorado State University",
+   "Colorado School of Mines"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "b96c693df1d52079",
+  "title": "AQME: Automated Quantum Mechanical Environments for Researchers and Educators",
+  "authors": [
+   "Juan V. Alegre‐Requena",
+   "S. V. Shree Sowndarya",
+   "Turki M. Alturaifi",
+   "Raúl Pérez‐Soto",
+   "Robert S. Paton"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2022-10-25",
+  "year": 2022,
+  "doi": "10.26434/chemrxiv-2022-dnc48",
+  "url": "https://doi.org/10.26434/chemrxiv-2022-dnc48",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Spectroscopy",
+   "ML Potentials & Force Fields",
+   "Cheminformatics",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Cheminformatics",
+   "Chemistry",
+   "Computational Chemistry",
+   "Descriptors",
+   "ML Potential",
+   "Molecules",
+   "NMR",
+   "Neural Network",
+   "Quantum Chemistry",
+   "SMILES",
+   "Spectroscopy"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Instituto de Síntesis Química y Catálisis Homogénea",
+   "Colorado State University"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "e5690d9a46fad43c",
+  "title": "Transition state search and geometry relaxation throughout chemical compound space with quantum machine learning",
+  "authors": [
+   "Stefan Heinen",
+   "Guido Falk von Rudorff",
+   "O. Anatole von Lilienfeld"
+  ],
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2022-10-24",
+  "year": 2022,
+  "doi": "10.1063/5.0112856",
+  "url": "https://doi.org/10.1063/5.0112856",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Machine Learning",
+   "Active Learning"
+  ],
+  "tags": [
+   "Active Learning",
+   "Chemistry",
+   "DFT",
+   "Machine Learning",
+   "Molecules",
+   "Quantum Chemistry",
+   "Transition States"
+  ],
+  "relevance_score": 90,
+  "affiliations": [
+   "University of Vienna",
+   "University of Toronto",
+   "Vector Institute",
+   "Artificial Intelligence in Medicine (Canada)",
+   "Technische Universität Berlin"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "5c1db1429a5ce090",
+  "title": "An artificial intelligence enabled chemical synthesis robot for exploration and optimization of nanomaterials",
+  "authors": [
+   "Yibin Jiang",
+   "Daniel Salley",
+   "Abhishek Sharma",
+   "Graham Keenan",
+   "Margaret Mullin",
+   "Leroy Cronin"
+  ],
+  "journal": "Science Advances",
+  "publisher": "American Association for the Advancement of Science",
+  "published": "2022-10-07",
+  "year": 2022,
+  "doi": "10.1126/sciadv.abo2626",
+  "url": "https://doi.org/10.1126/sciadv.abo2626",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Materials Chemistry",
+   "Reaction Prediction",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Chemical Space",
+   "Chemistry",
+   "Machine Learning",
+   "Nanomaterials",
+   "Nanoparticles",
+   "Reaction Conditions"
+  ],
+  "relevance_score": 80,
+  "affiliations": [
+   "University of Glasgow"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "0c226f9b88fc7346",
+  "title": "Comment on “Manifolds of quasi-constant SOAP and ACSF fingerprints and the resulting failure to machine learn four-body interactions” [J. Chem. Phys. 156, 034302 (2022)]",
+  "authors": [
+   "Sergey N. Pozdnyakov",
+   "Michael J. Willatt",
+   "Albert P. Bartók",
+   "Christoph Ortner",
+   "Gábor Cśanyi",
+   "Michele Ceriotti"
+  ],
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2022-10-07",
+  "year": 2022,
+  "doi": "10.1063/5.0088404",
+  "url": "https://doi.org/10.1063/5.0088404",
+  "source": "openalex",
+  "categories": [
+   "Machine Learning"
+  ],
+  "tags": [
+   "Machine Learning",
+   "Molecules"
+  ],
+  "relevance_score": 47,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne",
+   "University of Warwick",
+   "University of Cambridge"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "ab31af71ef7aca94",
+  "title": "Beyond potentials: Integrated machine learning models for materials",
+  "authors": [
+   "Michele Ceriotti"
+  ],
+  "journal": "MRS Bulletin",
+  "publisher": "Springer Nature",
+  "published": "2022-10-01",
+  "year": 2022,
+  "doi": "10.1557/s43577-022-00440-0",
+  "url": "https://doi.org/10.1557/s43577-022-00440-0",
+  "source": "openalex",
+  "categories": [
+   "Physical Chemistry",
+   "Machine Learning",
+   "ML Potentials & Force Fields"
+  ],
+  "tags": [
+   "ML Potential",
+   "Machine Learning",
+   "Thermodynamics"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne",
+   "Novelis (Canada)"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "426396641d08c16c",
+  "title": "SELFIES and the future of molecular string representations",
+  "authors": [
+   "Mario Krenn",
+   "Qianxiang Ai",
+   "Senja Barthel",
+   "Nessa Carson",
+   "Angelo Frei",
+   "Nathan C. Frey",
+   "Pascal Friederich",
+   "Théophile Gaudin",
+   "Alberto Alexander Gayle",
+   "Kevin Maik Jablonka",
+   "Rafael F. Lameiro",
+   "Dominik Lemm",
+   "Alston Lo",
+   "Seyed Mohamad Moosavi",
+   "José Manuel Nápoles-Duarte",
+   "AkshatKumar Nigam",
+   "Robert Pollice",
+   "Kohulan Rajan",
+   "Ulrich Schatzschneider",
+   "Philippe Schwaller",
+   "Marta Skreta",
+   "Berend Smit",
+   "Felix Strieth‐Kalthoff",
+   "Chong Sun",
+   "Gary Tom",
+   "Guido Falk von Rudorff",
+   "Andrew Z. Wang",
+   "Andrew Dickson White",
+   "Adamo Young",
+   "Rose Yu"
+  ],
+  "journal": "Patterns",
+  "publisher": "Elsevier BV",
+  "published": "2022-10-01",
+  "year": 2022,
+  "doi": "10.1016/j.patter.2022.100588",
+  "url": "https://doi.org/10.1016/j.patter.2022.100588",
+  "source": "openalex",
+  "categories": [
+   "Materials Chemistry",
+   "Cheminformatics",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Cheminformatics",
+   "Chemistry",
+   "Machine Learning",
+   "Materials Science",
+   "Molecules",
+   "SMILES"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Max Planck Institute for the Science of Light",
+   "Fordham University",
+   "The Bronx Defenders",
+   "Vrije Universiteit Amsterdam",
+   "Syngenta (United Kingdom)",
+   "Imperial College London",
+   "Massachusetts Institute of Technology",
+   "Karlsruhe Institute of Technology",
+   "University of Toronto",
+   "IBM Research - Zurich"
+  ],
+  "added": "2026-07-20"
+ }
+]

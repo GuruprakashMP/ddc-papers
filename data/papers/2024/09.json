@@ -1,5 +1,106 @@
 [
  {
+  "id": "2fac0dc959652df8",
+  "title": "A prediction rigidity formalism for low-cost uncertainties in trained neural networks",
+  "authors": [
+   "Filippo Bigi",
+   "Sanggyu Chong",
+   "Michele Ceriotti",
+   "Federico Grasselli"
+  ],
+  "journal": "Machine Learning Science and Technology",
+  "publisher": "IOP Publishing",
+  "published": "2024-09-26",
+  "year": 2024,
+  "doi": "10.1088/2632-2153/ad805f",
+  "url": "https://doi.org/10.1088/2632-2153/ad805f",
+  "source": "openalex",
+  "categories": [
+   "Deep Learning",
+   "Chemometrics & Statistics"
+  ],
+  "tags": [
+   "Chemistry",
+   "Neural Network",
+   "Regression"
+  ],
+  "relevance_score": 46,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne",
+   "University of Modena and Reggio Emilia"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "2b08d9fb67dd0e6c",
+  "title": "SMARTpy: A Python Package for the Generation of Cavity-Specific Steric Molecular Descriptors and Applications to Diverse Systems",
+  "authors": [
+   "Beck Miller",
+   "Ryan C. Cammarota",
+   "Matthew S. Sigman"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2024-09-24",
+  "year": 2024,
+  "doi": "10.26434/chemrxiv-2024-gk1bp",
+  "url": "https://doi.org/10.26434/chemrxiv-2024-gk1bp",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Cheminformatics",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Catalysis",
+   "Descriptors",
+   "Machine Learning",
+   "Molecules",
+   "Organocatalysis"
+  ],
+  "relevance_score": 90,
+  "affiliations": [
+   "University of Utah"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "22c9d79916531e38",
+  "title": "Catalysing (organo-)catalysis: Trends in the application of machine learning to enantioselective organocatalysis",
+  "authors": [
+   "Stefan P. Schmid",
+   "Leon Schlosser",
+   "Frank Glorius",
+   "Kjell Jorner"
+  ],
+  "journal": "Beilstein Journal of Organic Chemistry",
+  "publisher": "Beilstein Institute for the Advancement of Chemical Sciences",
+  "published": "2024-09-10",
+  "year": 2024,
+  "doi": "10.3762/bjoc.20.196",
+  "url": "https://doi.org/10.3762/bjoc.20.196",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Inorganic Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Catalysis",
+   "Chemistry",
+   "Homogeneous Catalysis",
+   "Machine Learning",
+   "Organocatalysis",
+   "Transition Metals"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "ETH Zurich",
+   "University of Münster"
+  ],
+  "added": "2026-07-20"
+ },
+ {
   "id": "f142a455fe3e8895",
   "title": "Understanding thermal transport in magnesium solid solutions through first-principles approaches and machine learning feature screening",
   "authors": [

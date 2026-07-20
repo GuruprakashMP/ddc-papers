@@ -1,0 +1,150 @@
+[
+ {
+  "id": "e6b7981e9f148523",
+  "title": "Learning chemical intuition from humans in the loop",
+  "authors": [
+   "Oh-Hyeon Choung",
+   "Riccardo Vianello",
+   "Marwin Segler",
+   "Nikolaus Stiefl",
+   "José Jiménez-Luna"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2023-02-24",
+  "year": 2023,
+  "doi": "10.26434/chemrxiv-2023-knwnv",
+  "url": "https://doi.org/10.26434/chemrxiv-2023-knwnv",
+  "source": "openalex",
+  "categories": [
+   "Property Prediction",
+   "Drug Discovery Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Chemistry",
+   "Drug Discovery",
+   "Lead Optimization",
+   "Molecules",
+   "Property Prediction"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Novartis (Switzerland)",
+   "Microsoft Research (United Kingdom)"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "1f068684f05d7185",
+  "title": "Bayesian Optimization for Chemical Reactions",
+  "authors": [
+   "Jeff J. Guo",
+   "Bojana Ranković",
+   "Philippe Schwaller"
+  ],
+  "journal": "CHIMIA International Journal for Chemistry",
+  "publisher": "Swiss Chemical Society",
+  "published": "2023-02-22",
+  "year": 2023,
+  "doi": "10.2533/chimia.2023.31",
+  "url": "https://doi.org/10.2533/chimia.2023.31",
+  "source": "openalex",
+  "categories": [
+   "Organic Chemistry",
+   "Reaction Prediction",
+   "Bayesian Optimization",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Bayesian Optimization",
+   "Chemistry",
+   "Machine Learning",
+   "Reaction Conditions",
+   "Reaction Optimization",
+   "Reaction Prediction",
+   "Reactions",
+   "Stereoselectivity"
+  ],
+  "relevance_score": 94,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "8ade01edc683dff5",
+  "title": "Is GPT-3 all you need for low-data discovery in chemistry?",
+  "authors": [
+   "Kevin Maik Jablonka",
+   "Philippe Schwaller",
+   "Andres Ortega‐Guerrero",
+   "Berend Smit"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2023-02-14",
+  "year": 2023,
+  "doi": "10.26434/chemrxiv-2023-fw8n4",
+  "url": "https://doi.org/10.26434/chemrxiv-2023-fw8n4",
+  "source": "openalex",
+  "categories": [
+   "Molecule Generation",
+   "Reaction Prediction",
+   "Materials Chemistry",
+   "Transformers & LLMs",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Inverse Design",
+   "LLM",
+   "Machine Learning",
+   "Materials Science",
+   "Molecules",
+   "Reactions"
+  ],
+  "relevance_score": 90,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "a67349030a5abcd4",
+  "title": "Language models can identify enzymatic active sites in protein sequences",
+  "authors": [
+   "Yves Gaëtan Nana Teukam",
+   "Loıc Kwate Dassi",
+   "Matteo Manica",
+   "Daniel Probst",
+   "Philippe Schwaller",
+   "Teodoro Laino"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2023-02-01",
+  "year": 2023,
+  "doi": "10.26434/chemrxiv-2021-m20gg-v3",
+  "url": "https://doi.org/10.26434/chemrxiv-2021-m20gg-v3",
+  "source": "openalex",
+  "categories": [
+   "Reaction Prediction",
+   "Cheminformatics",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Chemistry",
+   "LLM",
+   "Molecules",
+   "Reactions",
+   "SMILES"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "IBM Research - Zurich"
+  ],
+  "added": "2026-07-20"
+ }
+]

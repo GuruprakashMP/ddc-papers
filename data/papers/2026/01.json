@@ -40682,6 +40682,37 @@
   "added": "2026-07-20"
  },
  {
+  "id": "c003082bb43552f5",
+  "title": "ChemGraph Explainer: A Graphical User Interface for Explaining Predictions of Graph Neural Networks in Chemistry",
+  "authors": [
+   "Ali Can Kara",
+   "Debanjan Rana",
+   "Frank Glorius",
+   "Xiaoyi Jiang"
+  ],
+  "journal": "Communications in computer and information science",
+  "publisher": "Springer Science+Business Media",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1007/978-3-032-25305-7_17",
+  "url": "https://doi.org/10.1007/978-3-032-25305-7_17",
+  "source": "openalex",
+  "categories": [
+   "Graph Neural Networks",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Graph Neural Network",
+   "Neural Network"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "University of Münster"
+  ],
+  "added": "2026-07-20"
+ },
+ {
   "id": "bfe57e345c6f7878",
   "title": "Role of Machine Learning in the Perovskite Solar Cell Investigations",
   "authors": [
@@ -43520,6 +43551,42 @@
   "affiliations": [
    "Can Tho University",
    "Nam Can Tho University"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "a5537eeb95b22e0e",
+  "title": "Scientific knowledge graph and ontology generation using open large language models",
+  "authors": [
+   "Alexandru Oarga",
+   "Matthew Hart",
+   "Andres Camilo M Marulanda Bran",
+   "Magdalena Lederbauer",
+   "Philippe Schwaller"
+  ],
+  "journal": "Digital Discovery",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d5dd00275c",
+  "url": "https://doi.org/10.1039/d5dd00275c",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Catalysis",
+   "Chemistry",
+   "LLM"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Artificial Intelligence in Medicine (Canada)",
+   "École Polytechnique Fédérale de Lausanne",
+   "Universitat de Barcelona",
+   "University of North Carolina Health Care",
+   "ETH Zurich"
   ],
   "added": "2026-07-20"
  },
@@ -48161,6 +48228,41 @@
    "University Health Network",
    "St Michael’s Hospital"
   ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "7963eb3b6db812dd",
+  "title": "AI &amp; the Discovery of Molecules through Autonomous Laboratories",
+  "authors": [
+   "Connor Coley"
+  ],
+  "journal": "Daedalus",
+  "publisher": "American Academy of Arts and Sciences",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1162/daed.a.994",
+  "url": "https://doi.org/10.1162/daed.a.994",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Cheminformatics",
+   "Electrochemistry & Batteries",
+   "High-Throughput & Autonomous",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Batteries",
+   "Catalysis",
+   "Chemical Space",
+   "Cheminformatics",
+   "Chemistry",
+   "Machine Learning",
+   "Molecules",
+   "Robotic Chemistry"
+  ],
+  "relevance_score": 92,
+  "affiliations": [],
   "added": "2026-07-20"
  },
  {
@@ -60020,6 +60122,43 @@
   "added": "2026-07-20"
  },
  {
+  "id": "1dbed65eacca7d39",
+  "title": "Simultaneous learning of static and dynamic charges",
+  "authors": [
+   "Philipp Stärk",
+   "Henrik Stooß",
+   "Marcel F. Langer",
+   "Egor Rumiantsev",
+   "Alexander Schlaich",
+   "Michele Ceriotti",
+   "Philip Loche"
+  ],
+  "journal": "Physical Chemistry Chemical Physics",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d6cp00911e",
+  "url": "https://doi.org/10.1039/d6cp00911e",
+  "source": "openalex",
+  "categories": [
+   "Machine Learning"
+  ],
+  "tags": [
+   "Machine Learning"
+  ],
+  "relevance_score": 44,
+  "affiliations": [
+   "University of Stuttgart",
+   "Simulation Technologies (United States)",
+   "Universität Hamburg",
+   "Hamburg University of Technology",
+   "École Polytechnique Fédérale de Lausanne",
+   "Munich Center for Machine Learning",
+   "Technical University of Munich"
+  ],
+  "added": "2026-07-20"
+ },
+ {
   "id": "1d3cf89901866071",
   "title": "Chirality-Dependent Mechanical Response of Graphyne-Based Multi-Ring Carbon Nanotubes (PolyPyGy Nanotubes) via Machine-Learning Interatomic Potentials",
   "authors": [
@@ -61301,6 +61440,40 @@
    "Ningxia University",
    "Weifang University",
    "University of Wollongong in Dubai"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "0b955d9edd909cb6",
+  "title": "Data augmentation in a triple transformer loop retrosynthesis model",
+  "authors": [
+   "Yves Grandjean",
+   "David Kreutter",
+   "Jean-Louis Reymond"
+  ],
+  "journal": "Digital Discovery",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-01-01",
+  "year": 2026,
+  "doi": "10.1039/d5dd00465a",
+  "url": "https://doi.org/10.1039/d5dd00465a",
+  "source": "openalex",
+  "categories": [
+   "Retrosynthesis",
+   "Cheminformatics",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Chemical Space",
+   "Chemistry",
+   "Molecules",
+   "Retrosynthesis",
+   "Synthesis Planning",
+   "Transformer"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "University of Bern"
   ],
   "added": "2026-07-20"
  },

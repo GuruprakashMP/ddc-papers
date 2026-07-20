@@ -1,0 +1,404 @@
+[
+ {
+  "id": "b9453d14b05e0867",
+  "title": "Chemputation and the Standardization of Chemical Informatics",
+  "authors": [
+   "Alexander Hammer",
+   "Artem I. Leonov",
+   "Nicola L. Bell",
+   "Leroy Cronin"
+  ],
+  "journal": "JACS Au",
+  "publisher": "American Chemical Society",
+  "published": "2021-08-31",
+  "year": 2021,
+  "doi": "10.1021/jacsau.1c00303",
+  "url": "https://doi.org/10.1021/jacsau.1c00303",
+  "source": "openalex",
+  "categories": [
+   "Reaction Prediction",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Machine Learning",
+   "Reaction Optimization",
+   "Reactions"
+  ],
+  "relevance_score": 59,
+  "affiliations": [
+   "University of Glasgow"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "12b7546d9d70122d",
+  "title": "FS-Mol: A Few-Shot Learning Dataset of Molecules",
+  "authors": [
+   "Megan Stanley",
+   "John Bronskill",
+   "Krzysztof Maziarz",
+   "Hubert Misztela",
+   "Jessica Lanini",
+   "Marwin Segler",
+   "Nadine Schneider",
+   "Marc Brockschmidt"
+  ],
+  "journal": "Neural Information Processing Systems",
+  "publisher": "",
+  "published": "2021-08-25",
+  "year": 2021,
+  "doi": "",
+  "url": "https://openreview.net/pdf?id=701FtuyLlAd",
+  "source": "openalex",
+  "categories": [
+   "Machine Learning"
+  ],
+  "tags": [
+   "Few-Shot",
+   "Molecules"
+  ],
+  "relevance_score": 41,
+  "affiliations": [
+   "Microsoft (United States)",
+   "University of Cambridge",
+   "Western Washington University",
+   "Novartis Foundation"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "118be558cce0b26d",
+  "title": "Introduction: Machine Learning at the Atomic Scale",
+  "authors": [
+   "Michele Ceriotti",
+   "Cecilia Clementi",
+   "O. Anatole von Lilienfeld"
+  ],
+  "journal": "Chemical Reviews",
+  "publisher": "American Chemical Society",
+  "published": "2021-08-25",
+  "year": 2021,
+  "doi": "10.1021/acs.chemrev.1c00598",
+  "url": "https://doi.org/10.1021/acs.chemrev.1c00598",
+  "source": "openalex",
+  "categories": [
+   "Machine Learning"
+  ],
+  "tags": [
+   "Machine Learning"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne",
+   "Freie Universität Berlin",
+   "University of Vienna"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "4e107060615a96fb",
+  "title": "Gaussian Process Regression for Materials and Molecules",
+  "authors": [
+   "Volker L. Deringer",
+   "Albert P. Bartók",
+   "Noam Bernstein",
+   "David M. Wilkins",
+   "Michele Ceriotti",
+   "Gábor Cśanyi"
+  ],
+  "journal": "Chemical Reviews",
+  "publisher": "American Chemical Society",
+  "published": "2021-08-16",
+  "year": 2021,
+  "doi": "10.1021/acs.chemrev.1c00022",
+  "url": "https://doi.org/10.1021/acs.chemrev.1c00022",
+  "source": "openalex",
+  "categories": [
+   "ML Potentials & Force Fields",
+   "Materials Chemistry",
+   "Bayesian Optimization",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Data-Driven",
+   "Force Fields",
+   "Gaussian Process",
+   "ML Potential",
+   "Machine Learning",
+   "Materials Science",
+   "Molecules"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "University of Oxford",
+   "University of Warwick",
+   "United States Naval Research Laboratory",
+   "Queen's University Belfast",
+   "École Polytechnique Fédérale de Lausanne",
+   "University of Cambridge"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "a05f477f46998988",
+  "title": "Design and Application of a Screening Set for Monophosphine Lig-ands in Metal Catalysis",
+  "authors": [
+   "Tobias Gensch",
+   "Sleight R. Smith",
+   "Thomas J. Colacot",
+   "Yam Timsina",
+   "Guolin Xu",
+   "Ben W. Glasspoole",
+   "Matthew S. Sigman"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2021-08-13",
+  "year": 2021,
+  "doi": "10.33774/chemrxiv-2021-fgm7v",
+  "url": "https://doi.org/10.33774/chemrxiv-2021-fgm7v",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Cheminformatics",
+   "Organic Chemistry",
+   "Classical ML"
+  ],
+  "tags": [
+   "Catalysis",
+   "Chemical Space",
+   "Chemistry",
+   "Clustering",
+   "Cross-Coupling",
+   "Dimensionality Reduction",
+   "Ligands"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "Technische Universität Berlin",
+   "University of Utah"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "92055bdc3841e363",
+  "title": "Ab Initio Machine Learning in Chemical Compound Space",
+  "authors": [
+   "Bing Huang",
+   "O. Anatole von Lilienfeld"
+  ],
+  "journal": "Chemical Reviews",
+  "publisher": "American Chemical Society",
+  "published": "2021-08-13",
+  "year": 2021,
+  "doi": "10.1021/acs.chemrev.0c01303",
+  "url": "https://doi.org/10.1021/acs.chemrev.0c01303",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Ab Initio",
+   "Chemistry",
+   "Machine Learning",
+   "Molecules",
+   "Surrogate Model"
+  ],
+  "relevance_score": 84,
+  "affiliations": [
+   "University of Vienna",
+   "University of Basel"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "f100ce4a431ece0b",
+  "title": "Toward the design of chemical reactions: Machine learning barriers of competing mechanisms in reactant space",
+  "authors": [
+   "Stefan Heinen",
+   "Guido Falk von Rudorff",
+   "O. Anatole von Lilienfeld"
+  ],
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2021-08-10",
+  "year": 2021,
+  "doi": "10.1063/5.0059742",
+  "url": "https://doi.org/10.1063/5.0059742",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Organic Chemistry",
+   "Reaction Prediction",
+   "Computational Chemistry",
+   "Physical Chemistry",
+   "Machine Learning",
+   "Chemometrics & Statistics",
+   "Classical ML"
+  ],
+  "tags": [
+   "Chemical Space",
+   "Chemistry",
+   "Decision Tree",
+   "Kinetics",
+   "Machine Learning",
+   "Molecules",
+   "Organic Synthesis",
+   "PCA",
+   "Reactions",
+   "Reactivity",
+   "Thermodynamics",
+   "Transition States"
+  ],
+  "relevance_score": 94,
+  "affiliations": [
+   "University of Vienna",
+   "University of Basel"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "e74c5f3c00aa9830",
+  "title": "GDB Databases",
+  "authors": [
+   "Tobias Fink",
+   "Lorenz C. Blum",
+   "Lars Ruddigkeit",
+   "Ruud van Deursen",
+   "Jean‐Louis Reymond"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2021-08-09",
+  "year": 2021,
+  "doi": "10.5281/zenodo.7041051",
+  "url": "https://doi.org/10.5281/zenodo.7041051",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Drug Discovery Chemistry",
+   "Generative Models"
+  ],
+  "tags": [
+   "Chemical Space",
+   "Cheminformatics",
+   "Chemistry",
+   "Drug Discovery",
+   "Generative Model",
+   "Molecules",
+   "SMILES",
+   "Virtual Screening"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "705596504247d9f7",
+  "title": "GDB Databases",
+  "authors": [
+   "Tobias Fink",
+   "Lorenz C. Blum",
+   "Lars Ruddigkeit",
+   "Ruud van Deursen",
+   "Jean‐Louis Reymond"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2021-08-09",
+  "year": 2021,
+  "doi": "10.5281/zenodo.5172017",
+  "url": "https://doi.org/10.5281/zenodo.5172017",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Drug Discovery Chemistry",
+   "Generative Models"
+  ],
+  "tags": [
+   "Chemical Space",
+   "Cheminformatics",
+   "Chemistry",
+   "Drug Discovery",
+   "Generative Model",
+   "Molecules",
+   "SMILES",
+   "Virtual Screening"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "3ead0d2c44879cf4",
+  "title": "GDB Databases",
+  "authors": [
+   "Tobias Fink",
+   "Lorenz C. Blum",
+   "Lars Ruddigkeit",
+   "Ruud van Deursen",
+   "Jean‐Louis Reymond"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2021-08-09",
+  "year": 2021,
+  "doi": "10.5281/zenodo.5172018",
+  "url": "https://doi.org/10.5281/zenodo.5172018",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Drug Discovery Chemistry",
+   "Generative Models"
+  ],
+  "tags": [
+   "Chemical Space",
+   "Cheminformatics",
+   "Chemistry",
+   "Drug Discovery",
+   "Generative Model",
+   "Molecules",
+   "SMILES",
+   "Virtual Screening"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "250c1efbb5159ed6",
+  "title": "Importance of Nuclear Quantum Effects for NMR Crystallography",
+  "authors": [
+   "Edgar A. Engel",
+   "Venkat Kapil",
+   "Michele Ceriotti"
+  ],
+  "journal": "The Journal of Physical Chemistry Letters",
+  "publisher": "American Chemical Society",
+  "published": "2021-08-06",
+  "year": 2021,
+  "doi": "10.1021/acs.jpclett.1c01987",
+  "url": "https://doi.org/10.1021/acs.jpclett.1c01987",
+  "source": "openalex",
+  "categories": [
+   "Spectroscopy",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Machine Learning",
+   "Molecules",
+   "NMR",
+   "Spectroscopy"
+  ],
+  "relevance_score": 71,
+  "affiliations": [
+   "University of Cambridge",
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-20"
+ }
+]

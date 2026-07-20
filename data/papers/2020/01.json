@@ -1,0 +1,395 @@
+[
+ {
+  "id": "8c9e70b8a20fa535",
+  "title": "FCHL revisited: Faster and more accurate quantum machine learning",
+  "authors": [
+   "Anders S. Christensen",
+   "Lars Andersen Bratholm",
+   "Felix A. Faber",
+   "O. Anatole von Lilienfeld"
+  ],
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2020-01-27",
+  "year": 2020,
+  "doi": "10.1063/1.5126701",
+  "url": "https://doi.org/10.1063/1.5126701",
+  "source": "openalex",
+  "categories": [
+   "Reaction Prediction",
+   "Computational Chemistry",
+   "Machine Learning",
+   "Bayesian Optimization"
+  ],
+  "tags": [
+   "Binding Energy",
+   "Chemistry",
+   "Gaussian Process",
+   "Machine Learning",
+   "Molecular Dynamics",
+   "Molecules",
+   "Yield Prediction"
+  ],
+  "relevance_score": 90,
+  "affiliations": [
+   "University of Basel",
+   "University of Bristol"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "d0dbad837adbb7b7",
+  "title": "What can reaction databases teach us about Buchwald–Hartwig cross-couplings?",
+  "authors": [
+   "Martin Fitzner",
+   "Georg Wuitschik",
+   "Raffael Koller",
+   "Jean‐Michel Adam",
+   "Torsten Schindler",
+   "Jean‐Louis Reymond"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2020-01-01",
+  "year": 2020,
+  "doi": "10.1039/d0sc04074f",
+  "url": "https://doi.org/10.1039/d0sc04074f",
+  "source": "openalex",
+  "categories": [
+   "Organic Chemistry",
+   "Reaction Prediction",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "Data-Driven",
+   "Reaction Conditions"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Roche (Switzerland)",
+   "University of Bern"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "a6949824a1625eae",
+  "title": "Quantum Machine Learning with Response Operators in Chemical Compound Space",
+  "authors": [
+   "Felix A. Faber",
+   "Anders S. Christensen",
+   "O. Anatole von Lilienfeld"
+  ],
+  "journal": "Lecture notes in physics",
+  "publisher": "Springer Science+Business Media",
+  "published": "2020-01-01",
+  "year": 2020,
+  "doi": "10.1007/978-3-030-40245-7_8",
+  "url": "https://doi.org/10.1007/978-3-030-40245-7_8",
+  "source": "openalex",
+  "categories": [
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Machine Learning"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Basel"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "7629778e2b36a771",
+  "title": "Data enhanced Hammett-equation: reaction barriers in chemical space",
+  "authors": [
+   "Marco Bragato",
+   "Guido Falk von Rudorff",
+   "O. Anatole von Lilienfeld"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2020-01-01",
+  "year": 2020,
+  "doi": "10.1039/d0sc04235h",
+  "url": "https://doi.org/10.1039/d0sc04235h",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Physical Organic Chemistry",
+   "Computational Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Activation Energy",
+   "Chemical Space",
+   "Chemistry",
+   "Hammett Analysis",
+   "Machine Learning"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "University of Basel",
+   "Drug Discovery Laboratory (Norway)",
+   "University of Vienna"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "70d34fecd29c5712",
+  "title": "Predicting retrosynthetic pathways using transformer-based models and a hyper-graph exploration strategy",
+  "authors": [
+   "Philippe Schwaller",
+   "Riccardo Petraglia",
+   "Valerio Zullo",
+   "Vishnu H Nair",
+   "Rico Andreas Haeuselmann",
+   "Riccardo Pisoni",
+   "Costas Bekas",
+   "Anna Iuliano",
+   "Teodoro Laino"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2020-01-01",
+  "year": 2020,
+  "doi": "10.1039/c9sc05704h",
+  "url": "https://doi.org/10.1039/c9sc05704h",
+  "source": "openalex",
+  "categories": [
+   "Retrosynthesis",
+   "Catalysis",
+   "Physical Chemistry",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Catalysis",
+   "Molecules",
+   "Retrosynthesis",
+   "Solvents",
+   "Transformer"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "IBM Research - Zurich",
+   "University of Pisa"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "6b077fce5f56e283",
+  "title": "Correction: QSAR without borders",
+  "authors": [
+   "Eugene Muratov",
+   "Jürgen Bajorath",
+   "Robert P. Sheridan",
+   "Igor V. Tetko",
+   "Dmitry Filimonov",
+   "Vladimir Poroikov",
+   "Tudor I. Oprea",
+   "Igor I. Baskin",
+   "Alexandre Varnek",
+   "Adrián E. Roitberg",
+   "Olexandr Isayev",
+   "Stefano Curtarolo",
+   "Denis Fourches",
+   "Yoram Cohen",
+   "Alán Aspuru‐Guzik",
+   "David A. Winkler",
+   "Dimitris K. Agrafiotis",
+   "Artem Cherkasov",
+   "Alexander Tropsha"
+  ],
+  "journal": "Chemical Society Reviews",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2020-01-01",
+  "year": 2020,
+  "doi": "10.1039/d0cs90041a",
+  "url": "https://doi.org/10.1039/d0cs90041a",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "QSAR"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of North Carolina at Chapel Hill",
+   "Universidade Federal da Paraíba",
+   "Communities In Schools of Orange County",
+   "University of Bonn",
+   "Merck & Co., Inc., Rahway, NJ, USA (United States)",
+   "Helmholtz Zentrum München",
+   "Institute of Structural and Molecular Biology",
+   "Institute of Biomedical Chemistry",
+   "University of New Mexico",
+   "Novo Nordisk Foundation"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "5fb8891d89ace416",
+  "title": "Wasserstein metric for improved QML with adjacency matrix representations",
+  "authors": [
+   "Onur Çaylak",
+   "O. Anatole von Lilienfeld",
+   "Björn Baumeier"
+  ],
+  "journal": "Machine Learning Science and Technology",
+  "publisher": "IOP Publishing",
+  "published": "2020-01-01",
+  "year": 2020,
+  "doi": "",
+  "url": "https://www.narcis.nl/publication/RecordID/oai%3Apure.tue.nl%3Apublications%2Ff286473e-ae08-4200-864f-ca88ee47d4aa",
+  "source": "openalex",
+  "categories": [
+   "Property Prediction",
+   "Classical ML",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Atomization Energy",
+   "Kernel Ridge",
+   "Machine Learning",
+   "Molecules"
+  ],
+  "relevance_score": 62,
+  "affiliations": [],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "3110436ee2fce776",
+  "title": "QSAR without borders",
+  "authors": [
+   "Eugene Muratov",
+   "Jürgen Bajorath",
+   "Robert P. Sheridan",
+   "Igor V. Tetko",
+   "Dmitry Filimonov",
+   "Vladimir Poroikov",
+   "Tudor I. Oprea",
+   "Igor I. Baskin",
+   "Alexandre Varnek",
+   "Adrián E. Roitberg",
+   "Olexandr Isayev",
+   "Stefano Curtalolo",
+   "Denis Fourches",
+   "Yoram Cohen",
+   "Alán Aspuru‐Guzik",
+   "David A. Winkler",
+   "Dimitris K. Agrafiotis",
+   "Artem Cherkasov",
+   "Alexander Tropsha"
+  ],
+  "journal": "Chemical Society Reviews",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2020-01-01",
+  "year": 2020,
+  "doi": "10.1039/d0cs00098a",
+  "url": "https://doi.org/10.1039/d0cs00098a",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Physical Organic Chemistry",
+   "Retrosynthesis",
+   "Materials Chemistry",
+   "Cheminformatics",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Chemistry",
+   "Data-Driven",
+   "Machine Learning",
+   "Materials Science",
+   "Medicinal Chemistry",
+   "Physical Organic",
+   "QSAR",
+   "SAR",
+   "Synthesis Planning"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "University of North Carolina at Chapel Hill",
+   "Universidade Federal da Paraíba",
+   "Communities In Schools of Orange County",
+   "University of Bonn",
+   "Merck & Co., Inc., Rahway, NJ, USA (United States)",
+   "Helmholtz Zentrum München",
+   "Institute of Structural and Molecular Biology",
+   "Institute of Biomedical Chemistry",
+   "University of New Mexico",
+   "Novo Nordisk Foundation"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "1b8f248acf5788b5",
+  "title": "Quantum Machine Learning in Chemistry and Materials",
+  "authors": [
+   "Bing Huang",
+   "Nadine O. Symonds",
+   "O. Anatole von Lilienfeld"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2020-01-01",
+  "year": 2020,
+  "doi": "10.1007/978-3-319-44677-6_67",
+  "url": "https://doi.org/10.1007/978-3-319-44677-6_67",
+  "source": "openalex",
+  "categories": [
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Machine Learning"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "University of Basel"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "05e0513f4263e27c",
+  "title": "Machine learning the ropes: principles, applications and directions in synthetic chemistry",
+  "authors": [
+   "Felix Strieth‐Kalthoff",
+   "Frederik Sandfort",
+   "Marwin Segler",
+   "Frank Glorius"
+  ],
+  "journal": "Chemical Society Reviews",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2020-01-01",
+  "year": 2020,
+  "doi": "10.1039/c9cs00786e",
+  "url": "https://doi.org/10.1039/c9cs00786e",
+  "source": "openalex",
+  "categories": [
+   "Molecule Generation",
+   "Property Prediction",
+   "Retrosynthesis",
+   "Reaction Prediction",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Machine Learning",
+   "Molecular Design",
+   "Molecules",
+   "Property Prediction",
+   "Reactivity",
+   "Synthesis Planning"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "University of Münster",
+   "Analytisches Laboratorium"
+  ],
+  "added": "2026-07-20"
+ }
+]

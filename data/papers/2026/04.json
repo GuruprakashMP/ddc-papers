@@ -1123,6 +1123,46 @@
   "added": "2026-07-20"
  },
  {
+  "id": "3c782c9d7a8e218d",
+  "title": "Long-horizon forecasting of electrolysis stability from early-stage operating data through temporal learning",
+  "authors": [
+   "Qiucheng Xu",
+   "J Y Chen",
+   "Alexander Muroyama",
+   "Xiangli Yi",
+   "Ariana Serban",
+   "Philippe Schwaller",
+   "Xile Hu"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-04-30",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15002581/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15002581/v1",
+  "source": "openalex",
+  "categories": [
+   "Electrochemistry & Batteries",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Data-Driven",
+   "Electrochemistry",
+   "Few-Shot",
+   "Transfer Learning"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne",
+   "Institute of Catalysis and Petrochemistry",
+   "Beijing Academy of Artificial Intelligence",
+   "Artificial Intelligence in Medicine (Canada)",
+   "Novay",
+   "Suzhou Research Institute"
+  ],
+  "added": "2026-07-20"
+ },
+ {
   "id": "38b1125d32e243f2",
   "title": "Unbiased Feature Down-Selection to Improve Supervised Classification by Machine Learning on Mass Spectrometry Imaging Data Supplementary Materials",
   "authors": [
@@ -5890,6 +5930,92 @@
   "added": "2026-07-20"
  },
  {
+  "id": "4d4f9fd8c4735c73",
+  "title": "Accurate Chemistry Collection: Coupled cluster atomization energies for broad chemical space",
+  "authors": [
+   "Sebastian Ehlert",
+   "Jan Hermann",
+   "Thijs Vogels",
+   "Víctor García Satorras",
+   "Stephanie Lanius",
+   "Marwin Segler",
+   "Klaas J. H. Giesbertz",
+   "Derk P. Kooi",
+   "Kenji Takeda",
+   "Chin‐Wei Huang",
+   "Giulia Luise",
+   "Rianne van den Berg",
+   "Paola Gori-Giorgi",
+   "Amir Karton"
+  ],
+  "journal": "Scientific Data",
+  "publisher": "Nature Portfolio",
+  "published": "2026-04-25",
+  "year": 2026,
+  "doi": "10.1038/s41597-026-07200-8",
+  "url": "https://doi.org/10.1038/s41597-026-07200-8",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Computational Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemical Space",
+   "Chemistry",
+   "Computational Chemistry",
+   "Coupled Cluster",
+   "Data-Driven",
+   "Molecules"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Microsoft (Netherlands)",
+   "Microsoft (United States)",
+   "Microsoft (Germany)",
+   "Microsoft Research (United Kingdom)",
+   "University of New England"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "32c30ab7bec5a856",
+  "title": "Chemical reasoning in LLMs unlocks strategy-aware synthesis planning and reaction mechanism elucidation",
+  "authors": [
+   "Andres M Bran",
+   "Theo A Neukomm",
+   "D. Armstrong",
+   "Zlatko Jončev",
+   "Philippe Schwaller"
+  ],
+  "journal": "Matter",
+  "publisher": "Elsevier BV",
+  "published": "2026-04-25",
+  "year": 2026,
+  "doi": "10.1016/j.matt.2026.102812",
+  "url": "https://doi.org/10.1016/j.matt.2026.102812",
+  "source": "openalex",
+  "categories": [
+   "Retrosynthesis",
+   "Reaction Prediction",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Chemistry",
+   "LLM",
+   "Reaction Mechanisms",
+   "Retrosynthesis",
+   "Synthesis Planning"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "NCCR Chemical Biology - Visualisation and Control of Biological Processes Using Chemistry",
+   "École Polytechnique Fédérale de Lausanne",
+   "University of San Francisco"
+  ],
+  "added": "2026-07-20"
+ },
+ {
   "id": "30c39037c8c6494b",
   "title": "Prediction of Apple Canopy Leaf Area Index Based on Near-Infrared Spectroscopy and Machine Learning",
   "authors": [
@@ -6177,6 +6303,54 @@
   "affiliations": [
    "Institute of Science Tokyo",
    "Convergence"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "fbc73b8f0f66fbfe",
+  "title": "Lessons Learned from Multi-Year Operation of a Cloud-Hosted Commercial Robot Driven by Domain-Specific Language Models",
+  "authors": [
+   "Matteo Manica",
+   "Alain C. Vaucher",
+   "Carlo Baldassari",
+   "Antonio Cardinale",
+   "Aleksandros Sobczyk",
+   "Alessandro Castrogiovanni",
+   "Oliver Schilter",
+   "Joppe Geluykens",
+   "Philippe Schwaller",
+   "Artem Leonov",
+   "Alessandra Toniato",
+   "Federico Zipoli",
+   "Jannis Born",
+   "Joris Cadow",
+   "Heiko Wolf",
+   "Anna Iuliano",
+   "Teodoro Laino"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-04-24",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15002359/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15002359/v1",
+  "source": "openalex",
+  "categories": [
+   "Retrosynthesis",
+   "Transformers & LLMs",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Chemistry",
+   "LLM",
+   "Retrosynthesis",
+   "Transformer"
+  ],
+  "relevance_score": 79,
+  "affiliations": [
+   "IBM Research - Zurich",
+   "Institute of Catalysis and Petrochemistry"
   ],
   "added": "2026-07-20"
  },
@@ -14336,6 +14510,37 @@
    "Dominion University College",
    "Old Dominion University"
   ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "a0279fb802d0212b",
+  "title": "schwallergroup/bh-hte-ood: Code and Data Repository for Robust Out-of-Distribution Prediction of Buchwald-Hartwig Reactions",
+  "authors": [
+   "Pfvneves",
+   "PauloNeves-Git",
+   "Philippe Schwaller"
+  ],
+  "journal": "Open MIND",
+  "publisher": "",
+  "published": "2026-04-17",
+  "year": 2026,
+  "doi": "10.5281/zenodo.19635487",
+  "url": "https://doi.org/10.5281/zenodo.19635487",
+  "source": "openalex",
+  "categories": [
+   "Organic Chemistry",
+   "High-Throughput & Autonomous",
+   "Cheminformatics",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "HTE",
+   "Machine Learning",
+   "SMILES"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
   "added": "2026-07-20"
  },
  {
@@ -23304,6 +23509,50 @@
   "added": "2026-07-20"
  },
  {
+  "id": "2b662085c1fb10d3",
+  "title": "Flow-based fragment identification via binding site-specific latent representations",
+  "authors": [
+   "Rebecca M. Neeser",
+   "Ilia Igashov",
+   "Arne Schneuing",
+   "Michael Bronstein",
+   "Philippe Schwaller",
+   "Bruno E. Correia"
+  ],
+  "journal": "Machine Learning Science and Technology",
+  "publisher": "IOP Publishing",
+  "published": "2026-04-09",
+  "year": 2026,
+  "doi": "10.1088/2632-2153/ae5d85",
+  "url": "https://doi.org/10.1088/2632-2153/ae5d85",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Drug Discovery Chemistry",
+   "Cheminformatics",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Contrastive Learning",
+   "Docking",
+   "Drug Discovery",
+   "Ligands",
+   "Molecules",
+   "Virtual Screening"
+  ],
+  "relevance_score": 77,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne",
+   "University of Oxford",
+   "Artificial Intelligence Research Institute",
+   "Proximion (Sweden)",
+   "Artificial Intelligence in Medicine (Canada)",
+   "Institute of Catalysis and Petrochemistry"
+  ],
+  "added": "2026-07-20"
+ },
+ {
   "id": "2223d41e8987cc5c",
   "title": "Machine Learning Potential-Enabled Platform for the In Silico Design of Functional Organic Molecular Crystals",
   "authors": [
@@ -27771,6 +28020,36 @@
   ],
   "relevance_score": 96,
   "affiliations": [],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "e7c4f8db2b0341c4",
+  "title": "Verification and execution of the scientific literature via chemputation augmented by large language models",
+  "authors": [
+   "Sebastian Pagel",
+   "Michael Jirásek",
+   "Leroy Cronin"
+  ],
+  "journal": "Communications Chemistry",
+  "publisher": "Nature Portfolio",
+  "published": "2026-04-03",
+  "year": 2026,
+  "doi": "10.1038/s42004-026-01993-w",
+  "url": "https://doi.org/10.1038/s42004-026-01993-w",
+  "source": "openalex",
+  "categories": [
+   "Transformers & LLMs",
+   "High-Throughput & Autonomous"
+  ],
+  "tags": [
+   "Chemistry",
+   "LLM",
+   "Robotic Chemistry"
+  ],
+  "relevance_score": 65,
+  "affiliations": [
+   "University of Glasgow"
+  ],
   "added": "2026-07-20"
  },
  {
@@ -32576,6 +32855,47 @@
   "relevance_score": 48,
   "affiliations": [
    "University of Missouri"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "9a4c9cd2bf405773",
+  "title": "Swarm intelligence for chemical reaction optimization",
+  "authors": [
+   "Rémi Schlama",
+   "Joshua W. Sin",
+   "Ryan P. Burwood",
+   "Kurt Püntener",
+   "Raphael Bigler",
+   "Philippe Schwaller"
+  ],
+  "journal": "Chem",
+  "publisher": "Elsevier BV",
+  "published": "2026-04-01",
+  "year": 2026,
+  "doi": "10.1016/j.chempr.2026.103035",
+  "url": "https://doi.org/10.1016/j.chempr.2026.103035",
+  "source": "openalex",
+  "categories": [
+   "Reaction Prediction",
+   "Bayesian Optimization",
+   "High-Throughput & Autonomous",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Bayesian Optimization",
+   "Chemistry",
+   "HTE",
+   "Machine Learning",
+   "Reaction Conditions",
+   "Reaction Optimization",
+   "Reactions",
+   "Reactivity"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Roche (Switzerland)",
+   "École Polytechnique Fédérale de Lausanne"
   ],
   "added": "2026-07-20"
  },

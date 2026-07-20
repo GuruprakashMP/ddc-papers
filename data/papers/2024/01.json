@@ -1,0 +1,360 @@
+[
+ {
+  "id": "d6d3e1c40c012cb1",
+  "title": "CMD + V for chemistry: Image to chemical structure conversion directly done in the clipboard",
+  "authors": [
+   "Oliver Schilter",
+   "Teodoro Laino",
+   "Philippe Schwaller"
+  ],
+  "journal": "Applied AI Letters",
+  "publisher": "Wiley",
+  "published": "2024-01-25",
+  "year": 2024,
+  "doi": "10.1002/ail2.91",
+  "url": "https://doi.org/10.1002/ail2.91",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Chemistry",
+   "Molecules",
+   "SMILES"
+  ],
+  "relevance_score": 47,
+  "affiliations": [
+   "IBM Research - Zurich",
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "9e5b894a34a080f9",
+  "title": "Enantioselective Sulfonimidamide Acylation via a Cinchona Alkaloid-Catalyzed Desymmetrization: Scope, Data Science, and Mechanistic Investigation",
+  "authors": [
+   "Brittany C. Haas",
+   "Ngiap‐Kie Lim",
+   "Janis Jermaks",
+   "Eden Gaster",
+   "Melody C. Guo",
+   "Thomas C. Malig",
+   "Jacob Werth",
+   "Haiming Zhang",
+   "F. Dean Toste",
+   "Francis Gosselin",
+   "Scott J. Miller",
+   "Matthew S. Sigman"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2024-01-09",
+  "year": 2024,
+  "doi": "10.26434/chemrxiv-2024-qm8jp",
+  "url": "https://doi.org/10.26434/chemrxiv-2024-qm8jp",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Computational Chemistry",
+   "Drug Discovery Chemistry",
+   "Organic Chemistry",
+   "Physical Organic Chemistry",
+   "Physical Chemistry",
+   "Chemometrics & Statistics"
+  ],
+  "tags": [
+   "Catalysis",
+   "Chemistry",
+   "Chirality",
+   "DFT",
+   "Enantioselectivity",
+   "Kinetics",
+   "Physical Organic",
+   "SAR",
+   "Statistical Modeling",
+   "Transition States"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "University of Utah",
+   "Yale University",
+   "University of California, Berkeley"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "dac32ef737edeaa2",
+  "title": "Fast and accurate excited states predictions: machine learning and diabatization",
+  "authors": [
+   "Štěpán Sršeň",
+   "O. Anatole von Lilienfeld",
+   "Petr Slavı́ček"
+  ],
+  "journal": "Physical Chemistry Chemical Physics",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.1039/d3cp05685f",
+  "url": "https://doi.org/10.1039/d3cp05685f",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Machine Learning",
+   "Classical ML"
+  ],
+  "tags": [
+   "Clustering",
+   "Excited States",
+   "Kernel Ridge",
+   "Machine Learning",
+   "PES"
+  ],
+  "relevance_score": 88,
+  "affiliations": [
+   "University of Vienna",
+   "University of Chemistry and Technology, Prague",
+   "University of Toronto",
+   "Vector Institute",
+   "Technische Universität Berlin"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "aa602ef053d80092",
+  "title": "Modular synthesis of aryl amines from 3-alkynyl-2-pyrones",
+  "authors": [
+   "Kristen E. Gardner",
+   "Louis de Lescure",
+   "Melissa A. Hardy",
+   "Jin Tan",
+   "Matthew S. Sigman",
+   "Robert S. Paton",
+   "Richmond Sarpong"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.1039/d4sc04885g",
+  "url": "https://doi.org/10.1039/d4sc04885g",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Reaction Prediction",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Data-Driven",
+   "Quantum Chemistry",
+   "Reaction Conditions"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "University of California, Berkeley",
+   "Colorado State University",
+   "University of Utah"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "aa18e65bc787598f",
+  "title": "Can large language models predict antimicrobial peptide activity and toxicity?",
+  "authors": [
+   "Markus Orsi",
+   "Jean‐Louis Reymond"
+  ],
+  "journal": "RSC Medicinal Chemistry",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.1039/d4md00159a",
+  "url": "https://doi.org/10.1039/d4md00159a",
+  "source": "openalex",
+  "categories": [
+   "Transformers & LLMs",
+   "Cheminformatics",
+   "Classical ML",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Fingerprints",
+   "LLM",
+   "Molecules",
+   "Neural Network",
+   "RNN",
+   "SVM"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "University of Bern"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "594b9b1922b8a42f",
+  "title": "Combining Hammett σ constants for Δ-machine learning and catalyst discovery",
+  "authors": [
+   "V. Diana Rakotonirina",
+   "Marco Bragato",
+   "Stefan Heinen",
+   "O. Anatole von Lilienfeld"
+  ],
+  "journal": "Digital Discovery",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.1039/d4dd00228h",
+  "url": "https://doi.org/10.1039/d4dd00228h",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Physical Organic Chemistry",
+   "Inorganic Chemistry",
+   "Organic Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Catalysis",
+   "Cross-Coupling",
+   "Hammett Analysis",
+   "Machine Learning",
+   "Organometallic"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "University of Toronto",
+   "University of Vienna",
+   "Vector Institute",
+   "Berlin Institute for the Foundations of Learning and Data",
+   "Technische Universität Berlin"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "4d4718877990d3be",
+  "title": "Chemoenzymatic multistep retrosynthesis with transformer loops",
+  "authors": [
+   "David Kreutter",
+   "Jean‐Louis Reymond"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.1039/d4sc02408g",
+  "url": "https://doi.org/10.1039/d4sc02408g",
+  "source": "openalex",
+  "categories": [
+   "Retrosynthesis",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Retrosynthesis",
+   "Transformer"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "University of Bern"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "357c0ac151a40868",
+  "title": "From computational screening to the synthesis of a promising OER catalyst",
+  "authors": [
+   "Sai Govind Hari Kumar",
+   "Carlota Bozal‐Ginesta",
+   "Ning Wang",
+   "Jehad Abed",
+   "Chung Hsuan Shan",
+   "Zhenpeng Yao",
+   "Alán Aspuru‐Guzik"
+  ],
+  "journal": "Chemical Science",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.1039/d4sc00192c",
+  "url": "https://doi.org/10.1039/d4sc00192c",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Catalysis",
+   "Chemical Space",
+   "Chemistry",
+   "Virtual Screening"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "University of Toronto",
+   "Institut de Recerca en Energia de Catalunya",
+   "Shanghai Jiao Tong University",
+   "Vector Institute"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "2d7d15d409b4172e",
+  "title": "Knowledge Graph Extraction from Total Synthesis Documents",
+  "authors": [
+   "Andres M Bran",
+   "Zlatko Jončev",
+   "Philippe Schwaller"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.18653/v1/2024.langmol-1.9",
+  "url": "https://doi.org/10.18653/v1/2024.langmol-1.9",
+  "source": "openalex",
+  "categories": [
+   "Organic Chemistry",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Chemistry",
+   "LLM",
+   "Organic Chemistry",
+   "Organic Synthesis",
+   "Total Synthesis"
+  ],
+  "relevance_score": 68,
+  "affiliations": [],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "172957fd79a3f4b2",
+  "title": "Transformers and Large Language Models for Chemistry and Drug Discovery",
+  "authors": [
+   "Andres M. Bran",
+   "Philippe Schwaller"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2024-01-01",
+  "year": 2024,
+  "doi": "10.1007/978-981-97-4828-0_8",
+  "url": "https://doi.org/10.1007/978-981-97-4828-0_8",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Chemistry",
+   "Drug Discovery",
+   "LLM",
+   "Transformer"
+  ],
+  "relevance_score": 77,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-20"
+ }
+]

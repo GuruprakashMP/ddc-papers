@@ -1,0 +1,262 @@
+[
+ {
+  "id": "b1117e55c1121da1",
+  "title": "Constant size descriptors for accurate machine learning models of molecular properties",
+  "authors": [
+   "Christopher R. Collins",
+   "Geoffrey J. Gordon",
+   "O. Anatole von Lilienfeld",
+   "David Yaron"
+  ],
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2018-03-27",
+  "year": 2018,
+  "doi": "10.1063/1.5020441",
+  "url": "https://doi.org/10.1063/1.5020441",
+  "source": "openalex",
+  "categories": [
+   "Physical Chemistry",
+   "Machine Learning",
+   "Cheminformatics",
+   "Classical ML",
+   "Chemometrics & Statistics"
+  ],
+  "tags": [
+   "Kernel Ridge",
+   "Machine Learning",
+   "Molecules",
+   "Regression",
+   "SMILES",
+   "Thermodynamics"
+  ],
+  "relevance_score": 84,
+  "affiliations": [
+   "Carnegie Mellon University",
+   "University of Basel"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "7bcd2d8a984d0ece",
+  "title": "Identification of potent and selective small molecule inhibitors of the cation channel TRPM4",
+  "authors": [
+   "Lijo Cherian Ozhathil",
+   "Clémence Delalande",
+   "Beatrice Bianchi",
+   "Gábor Németh",
+   "Sven Kappel",
+   "Urs Thomet",
+   "Daniela Ross‐Kaschitza",
+   "Céline Simonin",
+   "Matthias Rubin",
+   "Jürg Gertsch",
+   "Martin Lochner",
+   "Christine Peinelt",
+   "Jean‐Louis Reymond",
+   "Hugues Abriel"
+  ],
+  "journal": "British Journal of Pharmacology",
+  "publisher": "Wiley",
+  "published": "2018-03-26",
+  "year": 2018,
+  "doi": "10.1111/bph.14220",
+  "url": "https://doi.org/10.1111/bph.14220",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Cheminformatics",
+   "Computational Chemistry"
+  ],
+  "tags": [
+   "Chemistry",
+   "In Silico",
+   "Ligands",
+   "Molecules",
+   "Virtual Screening"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "University of Bern",
+   "Swiss National Science Foundation"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "0bc3f46215b1cd9d",
+  "title": "Generalized Density-Functional Tight-Binding Repulsive Potentials from Unsupervised Machine Learning",
+  "authors": [
+   "Julian Kranz",
+   "Maximilian Kubillus",
+   "Raghunathan Ramakrishnan",
+   "O. Anatole von Lilienfeld",
+   "Marcus Elstner"
+  ],
+  "journal": "Journal of Chemical Theory and Computation",
+  "publisher": "American Chemical Society",
+  "published": "2018-03-26",
+  "year": 2018,
+  "doi": "10.1021/acs.jctc.7b00933",
+  "url": "https://doi.org/10.1021/acs.jctc.7b00933",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "DFT",
+   "Machine Learning",
+   "Molecules",
+   "Quantum Chemistry"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Karlsruhe Institute of Technology",
+   "University of Basel"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "69dfb81f95cf7b85",
+  "title": "Analyzing Fluxional Molecules Using DORI",
+  "authors": [
+   "Laurent Vannay",
+   "Benjamin Meyer",
+   "Riccardo Petraglia",
+   "Giuseppe Sforazzini",
+   "Michele Ceriotti",
+   "Clémence Corminbœuf"
+  ],
+  "journal": "Journal of Chemical Theory and Computation",
+  "publisher": "American Chemical Society",
+  "published": "2018-03-23",
+  "year": 2018,
+  "doi": "10.1021/acs.jctc.7b01176",
+  "url": "https://doi.org/10.1021/acs.jctc.7b01176",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Data-Driven",
+   "Molecules",
+   "Quantum Chemistry"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "78545651dbcbeedd",
+  "title": "Alchemical and structural distribution based representation for universal quantum machine learning",
+  "authors": [
+   "Felix A. Faber",
+   "Anders S. Christensen",
+   "Bing Huang",
+   "O. Anatole von Lilienfeld"
+  ],
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2018-03-20",
+  "year": 2018,
+  "doi": "10.1063/1.5020710",
+  "url": "https://doi.org/10.1063/1.5020710",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Property Prediction",
+   "Machine Learning",
+   "Classical ML"
+  ],
+  "tags": [
+   "Chemistry",
+   "DFT",
+   "Dipole Moment",
+   "HOMO-LUMO",
+   "Kernel Ridge",
+   "Machine Learning",
+   "Molecules"
+  ],
+  "relevance_score": 90,
+  "affiliations": [
+   "University of Basel"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "3d931c90828c96c4",
+  "title": "Non-covalent interactions across organic and biological subsets of chemical space: Physics-based potentials parametrized from machine learning",
+  "authors": [
+   "Tristan Bereau",
+   "Robert A. DiStasio",
+   "Alexandre Tkatchenko",
+   "O. Anatole von Lilienfeld"
+  ],
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2018-03-15",
+  "year": 2018,
+  "doi": "10.1063/1.5009502",
+  "url": "https://doi.org/10.1063/1.5009502",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemical Space",
+   "Chemistry",
+   "Machine Learning",
+   "Molecules",
+   "Supramolecular"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Max Planck Institute for Polymer Research",
+   "Cornell University",
+   "University of Luxembourg",
+   "University of Basel"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "fd2dcb48766d7719",
+  "title": "ChemOS: An Orchestration Software to Democratize Autonomous Discovery",
+  "authors": [
+   "Loı̈c M. Roch",
+   "Florian Häse",
+   "Christoph Kreisbeck",
+   "Teresa Tamayo-Mendoza",
+   "Lars P. E. Yunker",
+   "Jason E. Hein",
+   "Alán Aspuru‐Guzik"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2018-03-07",
+  "year": 2018,
+  "doi": "10.26434/chemrxiv.5953606",
+  "url": "https://doi.org/10.26434/chemrxiv.5953606",
+  "source": "openalex",
+  "categories": [
+   "High-Throughput & Autonomous",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Machine Learning",
+   "Robotic Chemistry"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Canadian Institute for Advanced Research",
+   "University of British Columbia"
+  ],
+  "added": "2026-07-20"
+ }
+]

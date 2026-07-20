@@ -1,0 +1,236 @@
+[
+ {
+  "id": "180ca35b8b852040",
+  "title": "Extracting medicinal chemistry intuition via preference machine learning",
+  "authors": [
+   "Oh-Hyeon Choung",
+   "Riccardo Vianello",
+   "Marwin Segler",
+   "Nikolaus Stiefl",
+   "José Jiménez-Luna"
+  ],
+  "journal": "Nature Communications",
+  "publisher": "Nature Portfolio",
+  "published": "2023-10-31",
+  "year": 2023,
+  "doi": "10.1038/s41467-023-42242-1",
+  "url": "https://doi.org/10.1038/s41467-023-42242-1",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Property Prediction",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Chemistry",
+   "Drug Discovery",
+   "Lead Optimization",
+   "Machine Learning",
+   "Medicinal Chemistry",
+   "Molecules",
+   "Property Prediction"
+  ],
+  "relevance_score": 80,
+  "affiliations": [
+   "Novartis (Switzerland)",
+   "Novartis Institutes for BioMedical Research",
+   "Microsoft Research (United Kingdom)"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "7bedd684625b65ed",
+  "title": "Fast Customization of Chemical Language Models to Out-of-Distribution Data Sets",
+  "authors": [
+   "Alessandra Toniato",
+   "Alain C. Vaucher",
+   "Marzena Maria Lehmann",
+   "Torsten Luksch",
+   "Philippe Schwaller",
+   "Marco Stenta",
+   "Teodoro Laino"
+  ],
+  "journal": "Chemistry of Materials",
+  "publisher": "American Chemical Society",
+  "published": "2023-10-27",
+  "year": 2023,
+  "doi": "10.1021/acs.chemmater.3c01406",
+  "url": "https://doi.org/10.1021/acs.chemmater.3c01406",
+  "source": "openalex",
+  "categories": [
+   "Reaction Prediction",
+   "Retrosynthesis",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Chemistry",
+   "LLM",
+   "Reaction Prediction",
+   "Retrosynthesis"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "IBM Research - Zurich",
+   "Syngenta (Switzerland)"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "9fe76bf66d68ff36",
+  "title": "Predicting Success in Cu-Catalyzed C–N Coupling Reactions using Data Science",
+  "authors": [
+   "Mohammad H. Samha",
+   "Lucas J. Karas",
+   "David B. Vogt",
+   "Emmanuel Odogwu",
+   "Jennifer M. Elward",
+   "Jennifer M. Crawford",
+   "Janelle E. Steves",
+   "Matthew S. Sigman"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2023-10-24",
+  "year": 2023,
+  "doi": "10.26434/chemrxiv-2023-f50w6",
+  "url": "https://doi.org/10.26434/chemrxiv-2023-f50w6",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Reaction Prediction",
+   "Catalysis",
+   "High-Throughput & Autonomous",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Computational Chemistry",
+   "Data-Driven",
+   "HTE",
+   "Ligands",
+   "Reaction Optimization"
+  ],
+  "relevance_score": 86,
+  "affiliations": [
+   "University of Utah",
+   "GlaxoSmithKline (United States)"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "a9b75b810f98f018",
+  "title": "Physics-Inspired Equivariant Descriptors of Nonbonded Interactions",
+  "authors": [
+   "Kevin K. Huguenin-Dumittan",
+   "Philip Loche",
+   "Ni Haoran",
+   "Michele Ceriotti"
+  ],
+  "journal": "The Journal of Physical Chemistry Letters",
+  "publisher": "American Chemical Society",
+  "published": "2023-10-20",
+  "year": 2023,
+  "doi": "10.1021/acs.jpclett.3c02375",
+  "url": "https://doi.org/10.1021/acs.jpclett.3c02375",
+  "source": "openalex",
+  "categories": [
+   "Graph Neural Networks",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Data-Driven",
+   "Equivariant Model",
+   "Machine Learning",
+   "Molecules"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "49cbc7154dce9cd6",
+  "title": "Autonomous closed-loop mechanistic investigation of molecular electrochemistry via automation",
+  "authors": [
+   "Hongyuan Sheng",
+   "Jingwen Sun",
+   "Oliver Rodríguez",
+   "Benjamin B. Hoar",
+   "Weitong Zhang",
+   "Danlei Xiang",
+   "Tianhua Tang",
+   "Avijit Hazra",
+   "Daniel S. Min",
+   "Abigail G. Doyle",
+   "Matthew S. Sigman",
+   "Cyrille Costentin",
+   "Quanquan Gu",
+   "Joaquín Rodríguez‐López",
+   "Chong Liu"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2023-10-16",
+  "year": 2023,
+  "doi": "10.26434/chemrxiv-2023-psqxj",
+  "url": "https://doi.org/10.26434/chemrxiv-2023-psqxj",
+  "source": "openalex",
+  "categories": [
+   "Electrochemistry & Batteries",
+   "Physical Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Electrochemistry",
+   "Kinetics",
+   "Machine Learning",
+   "Molecules"
+  ],
+  "relevance_score": 71,
+  "affiliations": [
+   "University of California, Los Angeles",
+   "University of Illinois Urbana-Champaign",
+   "University of Utah",
+   "Institut des langues et cultures d'Europe, Amérique, Afrique, Asie et Australie",
+   "Université Grenoble Alpes"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "bf801003b2ee5832",
+  "title": "One-shot recognition of any material anywhere using contrastive learning with physics-based rendering",
+  "authors": [
+   "Manuel S. Drehwald",
+   "Sagi Eppel",
+   "Jolina Li",
+   "Han Hao",
+   "Alán Aspuru‐Guzik"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2023-10-01",
+  "year": 2023,
+  "doi": "10.1109/iccv51070.2023.02150",
+  "url": "https://doi.org/10.1109/iccv51070.2023.02150",
+  "source": "openalex",
+  "categories": [
+   "Reaction Prediction",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Contrastive Learning",
+   "Few-Shot",
+   "Reactions"
+  ],
+  "relevance_score": 59,
+  "affiliations": [
+   "Karlsruhe Institute of Technology",
+   "University of Toronto",
+   "Vector Institute"
+  ],
+  "added": "2026-07-20"
+ }
+]

@@ -4073,6 +4073,48 @@
   "added": "2026-07-20"
  },
  {
+  "id": "d35334fe93920b69",
+  "title": "RXNMapperv2: updated validation and evaluation on expanded chemical space",
+  "authors": [
+   "Yves Grandjean",
+   "Sacha Raffaud",
+   "Annie M. Westerlund",
+   "Philippe Schwaller",
+   "Samuel Genheden",
+   "Jean‐Louis Reymond"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-06-26",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15005247/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15005247/v1",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Drug Discovery Chemistry",
+   "Retrosynthesis",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Chemical Space",
+   "Chemistry",
+   "LLM",
+   "Medicinal Chemistry",
+   "SMILES",
+   "Synthesis Planning",
+   "Transformer"
+  ],
+  "relevance_score": 94,
+  "affiliations": [
+   "University of Bern",
+   "École Polytechnique Fédérale de Lausanne",
+   "AstraZeneca (Netherlands)",
+   "Molecular Sciences Institute"
+  ],
+  "added": "2026-07-20"
+ },
+ {
   "id": "c71ed577b49b9123",
   "title": "Research on lung tumor boundary diagnosis method based on laser-induced breakdown spectroscopy combined with deep learning",
   "authors": [
@@ -8374,6 +8416,74 @@
   "added": "2026-07-20"
  },
  {
+  "id": "d9138840a332f251",
+  "title": "Roadmap on Advancements of the FHI-aims Software Package",
+  "authors": [
+   "Joseph W. Abbott",
+   "Carlos Mera Acosta",
+   "Alaa Akkoush",
+   "Alberto Ambrosetti",
+   "Viktor Atalla",
+   "A. Bagrets",
+   "Joerg Behler",
+   "Daniel Berger",
+   "Viktor Atalla",
+   "Björn Bieniek",
+   "Jonas Björk",
+   "Volker Blüm",
+   "Saeed Bohloul",
+   "Connor L. Box",
+   "Nicholas J. Boyer",
+   "Danilo S. Brambila",
+   "Gabriel A. Bramley",
+   "Kyle R. Bryenton",
+   "María Camarasa‐Gómez",
+   "Christian Carbogno",
+   "Fabio Caruso",
+   "Sucismita Chutia",
+   "Michele Ceriotti",
+   "Gábor Csányi",
+   "William Harbutt Dawson",
+   "Francisco A. Delesma",
+   "Fabio Della Sala",
+   "Bernard Delley",
+   "Robert DiStasio",
+   "Maria Dragoumi"
+  ],
+  "journal": "Electronic Structure",
+  "publisher": "IOP Publishing",
+  "published": "2026-06-22",
+  "year": 2026,
+  "doi": "10.1088/2516-1075/ae8067",
+  "url": "https://doi.org/10.1088/2516-1075/ae8067",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Chemistry",
+   "DFT",
+   "Excited States",
+   "Molecules"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne",
+   "Universidad de La Sabana",
+   "Max Planck Institute for the Structure and Dynamics of Matter",
+   "University of Padua",
+   "Fritz Haber Institute of the Max Planck Society",
+   "Institute of Nanotechnology",
+   "Ruhr University Bochum",
+   "Technical University of Munich",
+   "Linköping University",
+   "Duke University"
+  ],
+  "added": "2026-07-20"
+ },
+ {
   "id": "d6913d2e48fe3515",
   "title": "Integrated machine learning and molecular dynamics–driven multi-target virtual screening of FDA-approved drugs for drug repurposing in breast cancer",
   "authors": [
@@ -11669,6 +11779,48 @@
   "relevance_score": 80,
   "affiliations": [
    "Heinrich Heine University Düsseldorf"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "4609cb7c0f86d2bb",
+  "title": "Fine-tuning large language models to generate single-atom catalyst synthesis procedures",
+  "authors": [
+   "Manu Suvarna",
+   "Matteo Manica",
+   "Fillipo Ficarra",
+   "Andrés M. Bran",
+   "Andrea Ruiz‐Ferrando",
+   "Magdalena Lederbauer",
+   "Philippe Schwaller",
+   "Javier Pérez‐Ramírez",
+   "Teodoro Laino"
+  ],
+  "journal": "Communications Chemistry",
+  "publisher": "Nature Portfolio",
+  "published": "2026-06-19",
+  "year": 2026,
+  "doi": "10.1038/s42004-026-02046-y",
+  "url": "https://doi.org/10.1038/s42004-026-02046-y",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Retrosynthesis",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Catalysis",
+   "Chemistry",
+   "Heterogeneous Catalysis",
+   "LLM",
+   "Synthesis Planning"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "ETH Zurich",
+   "Suva",
+   "IBM Research - Zurich",
+   "École Polytechnique Fédérale de Lausanne"
   ],
   "added": "2026-07-20"
  },

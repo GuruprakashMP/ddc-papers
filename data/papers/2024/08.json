@@ -1,0 +1,202 @@
+[
+ {
+  "id": "09f42b0c4d8adbb3",
+  "title": "Prediction rigidities for data-driven chemistry",
+  "authors": [
+   "Sanggyu Chong",
+   "Filippo Bigi",
+   "Federico Grasselli",
+   "Philip Loche",
+   "Matthias Kellner",
+   "Michele Ceriotti"
+  ],
+  "journal": "Faraday Discussions",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2024-08-23",
+  "year": 2024,
+  "doi": "10.1039/d4fd00101j",
+  "url": "https://doi.org/10.1039/d4fd00101j",
+  "source": "openalex",
+  "categories": [
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Data-Driven"
+  ],
+  "relevance_score": 53,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "f950b4562c24801d",
+  "title": "i-PI 3.0: A flexible and efficient framework for advanced atomistic simulations",
+  "authors": [
+   "Yair Litman",
+   "Venkat Kapil",
+   "Yotam M. Y. Feldman",
+   "Davide Tisi",
+   "Tomislav Begušić",
+   "Karen Fidanyan",
+   "Guillaume Fraux",
+   "Jacob Higer",
+   "Matthias Kellner",
+   "Tao E. Li",
+   "Eszter S. Pós",
+   "Elia Stocco",
+   "George Trenins",
+   "Barak Hirshberg",
+   "Mariana Rossi",
+   "Michele Ceriotti"
+  ],
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2024-08-14",
+  "year": 2024,
+  "doi": "10.1063/5.0215869",
+  "url": "https://doi.org/10.1063/5.0215869",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "ML Potentials & Force Fields",
+   "Machine Learning",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Electronic Structure",
+   "ML Potential",
+   "Machine Learning",
+   "Neural Network",
+   "Uncertainty"
+  ],
+  "relevance_score": 81,
+  "affiliations": [
+   "University of Cambridge",
+   "London Centre for Nanotechnology",
+   "Thomas Young Centre",
+   "University College London",
+   "Tel Aviv University",
+   "École Polytechnique Fédérale de Lausanne",
+   "California Institute of Technology",
+   "Max Planck Institute for the Structure and Dynamics of Matter",
+   "University of Delaware"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "fd2c90dfbf93a78f",
+  "title": "Leveraging GPT-4 to transform chemistry from paper to practice",
+  "authors": [
+   "Wenyu Zhang",
+   "Mason Guy",
+   "Jerrica Yang",
+   "Lucy Hao",
+   "Junliang Liu",
+   "Joel M. Hawkins",
+   "Jason Mustakis",
+   "Sebastian Monfette",
+   "Jason E. Hein"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2024-08-06",
+  "year": 2024,
+  "doi": "10.26434/chemrxiv-2024-d3mhz",
+  "url": "https://doi.org/10.26434/chemrxiv-2024-d3mhz",
+  "source": "openalex",
+  "categories": [
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Chemistry",
+   "LLM"
+  ],
+  "relevance_score": 57,
+  "affiliations": [
+   "University of British Columbia",
+   "Canada–France–Hawaii Telescope",
+   "Pfizer (United States)"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "5b9934d90a489deb",
+  "title": "AdsMT: A multi-modal transformer for predicting global minimum adsorption energy",
+  "authors": [
+   "Junwu Chen",
+   "Xu Huang",
+   "Hua Cheng",
+   "Yulian He",
+   "Philippe Schwaller"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2024-08-06",
+  "year": 2024,
+  "doi": "10.26434/chemrxiv-2024-g4b60-v2",
+  "url": "https://doi.org/10.26434/chemrxiv-2024-g4b60-v2",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Computational Chemistry",
+   "Surface Chemistry",
+   "Materials Chemistry",
+   "Transformers & LLMs",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Adsorption",
+   "Catalysis",
+   "Chemistry",
+   "DFT",
+   "Heterogeneous Catalysis",
+   "Materials Science",
+   "Transfer Learning",
+   "Transformer",
+   "Uncertainty"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne",
+   "Shanghai Jiao Tong University"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "70438032394bb548",
+  "title": "Calibration-Free Quantification and Automated Data Analysis for High-Throughput Reaction Screening",
+  "authors": [
+   "Frank Glorius",
+   "Felix Katzenburg",
+   "Florian Boser",
+   "Felix Schäfer",
+   "Philipp M. Pflüger"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2024-08-05",
+  "year": 2024,
+  "doi": "10.26434/chemrxiv-2024-1ctkh",
+  "url": "https://doi.org/10.26434/chemrxiv-2024-1ctkh",
+  "source": "openalex",
+  "categories": [
+   "Organic Chemistry",
+   "Reaction Prediction",
+   "High-Throughput & Autonomous"
+  ],
+  "tags": [
+   "Cross-Coupling",
+   "HTE",
+   "Organic Synthesis",
+   "Reaction Prediction",
+   "Yield Prediction"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "University of Münster"
+  ],
+  "added": "2026-07-20"
+ }
+]

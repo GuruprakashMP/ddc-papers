@@ -1,5 +1,46 @@
 [
  {
+  "id": "5d4b08ce8e9f9ed9",
+  "title": "Expansion of Bond Dissociation Prediction with Machine Learning to Medicinally and Environmentally Relevant Chemical Space",
+  "authors": [
+   "Shree Sowndarya S. V.",
+   "Yeonjoon Kim",
+   "Seonah Kim",
+   "Peter C. St. John",
+   "Robert S. Paton"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2023-08-25",
+  "year": 2023,
+  "doi": "10.26434/chemrxiv-2023-d147w",
+  "url": "https://doi.org/10.26434/chemrxiv-2023-d147w",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Computational Chemistry",
+   "Organic Chemistry",
+   "Physical Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemical Space",
+   "Cheminformatics",
+   "Chemistry",
+   "Machine Learning",
+   "Molecules",
+   "Natural Products",
+   "Quantum Chemistry",
+   "Thermodynamics"
+  ],
+  "relevance_score": 90,
+  "affiliations": [
+   "Colorado State University",
+   "National Laboratory of the Rockies"
+  ],
+  "added": "2026-07-20"
+ },
+ {
   "id": "c8996cb16c38a0aa",
   "title": "Novel oxadiazole-thiadiazole derivatives: synthesis, biological evaluation, and in silico studies",
   "authors": [
@@ -25,6 +66,211 @@
   ],
   "relevance_score": 40,
   "affiliations": [],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "82ce8a017d890eb5",
+  "title": "Bottom-up Atomistic Descriptions of Top-Down Macroscopic Measurements: Computational Benchmarks for Hammett Electronic Parameters",
+  "authors": [
+   "Guilian Luchini",
+   "Robert S. Paton"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2023-08-17",
+  "year": 2023,
+  "doi": "10.26434/chemrxiv-2023-n8jsm-v2",
+  "url": "https://doi.org/10.26434/chemrxiv-2023-n8jsm-v2",
+  "source": "openalex",
+  "categories": [
+   "Physical Organic Chemistry",
+   "Organic Chemistry",
+   "Reaction Prediction",
+   "Chemometrics & Statistics"
+  ],
+  "tags": [
+   "Chemistry",
+   "Hammett Analysis",
+   "LFER",
+   "Organic Chemistry",
+   "Physical Organic",
+   "Reactivity",
+   "Statistical Modeling"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "Colorado State University"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "91a0a9580e648bc2",
+  "title": "Predicting solvents with the help of Artificial Intelligence",
+  "authors": [
+   "Oliver Schilter",
+   "Carlo Baldassari",
+   "Teodoro Laino",
+   "Philippe Schwaller"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2023-08-11",
+  "year": 2023,
+  "doi": "10.26434/chemrxiv-2023-hmml5",
+  "url": "https://doi.org/10.26434/chemrxiv-2023-hmml5",
+  "source": "openalex",
+  "categories": [
+   "Organic Chemistry",
+   "Physical Chemistry",
+   "Reaction Prediction",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Chemistry",
+   "Data-Driven",
+   "Machine Learning",
+   "Organic Chemistry",
+   "Organic Synthesis",
+   "Reaction Conditions",
+   "Reactions",
+   "Solvents"
+  ],
+  "relevance_score": 94,
+  "affiliations": [
+   "IBM Research - Zurich"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "15d1aa1931bca17b",
+  "title": "Fuelling the Digital Chemistry Revolution with Language Models",
+  "authors": [
+   "Antonio Cardinale",
+   "Alessandro Castrogiovanni",
+   "Théophile Gaudin",
+   "Joppe Geluykens",
+   "Teodoro Laino",
+   "Matteo Manica",
+   "Daniel Probst",
+   "Philippe Schwaller",
+   "Aleksandros Sobczyk",
+   "Alessandra Toniato",
+   "Alain C. Vaucher",
+   "Heiko Wolf",
+   "Federico Zipoli"
+  ],
+  "journal": "CHIMIA International Journal for Chemistry",
+  "publisher": "Swiss Chemical Society",
+  "published": "2023-08-09",
+  "year": 2023,
+  "doi": "10.2533/chimia.2023.484",
+  "url": "https://doi.org/10.2533/chimia.2023.484",
+  "source": "openalex",
+  "categories": [
+   "Organic Chemistry",
+   "Reaction Prediction",
+   "Retrosynthesis",
+   "Machine Learning",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Chemistry",
+   "Data-Driven",
+   "LLM",
+   "Machine Learning",
+   "Organic Chemistry",
+   "Reaction Prediction",
+   "Reactions",
+   "Retrosynthesis"
+  ],
+  "relevance_score": 94,
+  "affiliations": [
+   "IBM Research - Zurich"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "b4a01deb3ba7c632",
+  "title": "Fast evaluation of spherical harmonics with sphericart",
+  "authors": [
+   "Filippo Bigi",
+   "Guillaume Fraux",
+   "Nicholas J. Browning",
+   "Michele Ceriotti"
+  ],
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "American Institute of Physics",
+  "published": "2023-08-08",
+  "year": 2023,
+  "doi": "10.1063/5.0156307",
+  "url": "https://doi.org/10.1063/5.0156307",
+  "source": "openalex",
+  "categories": [
+   "Graph Neural Networks",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Equivariant Model",
+   "Machine Learning",
+   "Molecules"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "École Polytechnique Fédérale de Lausanne",
+   "CSCS - Swiss National Supercomputing Centre",
+   "Swisscom (Switzerland)"
+  ],
+  "added": "2026-07-20"
+ },
+ {
+  "id": "c441824a588d00e4",
+  "title": "Reinforcement learning prioritizes general applicability in reaction optimization",
+  "authors": [
+   "Jason Y. Wang",
+   "Jason M. Stevens",
+   "Stavros K. Kariofillis",
+   "Mai-Jan Tom",
+   "Jun Li",
+   "José E. Tábora",
+   "Marvin Parasram",
+   "Benjamin Shields",
+   "David N. Primer",
+   "Bo Hao",
+   "David Del Valle",
+   "Stacey DiSomma",
+   "A.H. Furman",
+   "Greg Zipp",
+   "Sergey Melnikov",
+   "James Paulson",
+   "Abigail G. Doyle"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2023-08-02",
+  "year": 2023,
+  "doi": "10.26434/chemrxiv-2023-dcg9d",
+  "url": "https://doi.org/10.26434/chemrxiv-2023-dcg9d",
+  "source": "openalex",
+  "categories": [
+   "Reaction Prediction",
+   "Reinforcement Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Reaction Conditions",
+   "Reaction Optimization",
+   "Reinforcement Learning"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "University of California, Los Angeles",
+   "Princeton University",
+   "Bristol-Myers Squibb (United States)",
+   "Janssen (United States)",
+   "Analytical Services"
+  ],
   "added": "2026-07-20"
  }
 ]
