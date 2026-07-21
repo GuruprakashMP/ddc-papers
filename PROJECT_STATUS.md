@@ -1,13 +1,20 @@
 # Project Status
 
-_Last updated: 2026-07-20 (v1.1: historical backfill + progressive loading)_
+_Last updated: 2026-07-21 (historical backfill COMPLETE: 1990-2026)_
 
 ## Deployment
 
 - Live at https://guruprakashmp.github.io/ddc-papers/
   (repo: https://github.com/GuruprakashMP/ddc-papers)
-- Daily GitHub Actions run verified working in the cloud (first run committed
-  "Daily update: 2026-07-20" successfully, including arXiv).
+- Daily GitHub Actions run verified working in the cloud (runs committed on
+  2026-07-20 and 2026-07-21, including arXiv).
+- **Historical backfill finished 2026-07-21: ~72,000 papers spanning
+  1990-2026**, harvested via ~15 quota-sized workflow runs (OpenAlex allows
+  roughly 15-20k record fetches per runner per day; the backfill's
+  checkpoint/resume design worked around this). All 20 pioneers from
+  `config/pioneers.json` harvested. If a year ever needs re-sweeping, run the
+  "DDC historical backfill" workflow with that year range and
+  `topics_only=true`.
 
 ## Completed
 
