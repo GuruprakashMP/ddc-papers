@@ -1,5 +1,107 @@
 [
  {
+  "id": "fa280668f66b615c",
+  "title": "A QSAR for the mutagenic potencies of twelve 2-amino-trimethylimidazopyridine isomers: Structural, quantum chemical, and hydropathic factors",
+  "authors": [
+   "Mark G. Knize",
+   "F.T. Hatch",
+   "Mary J. Tanga",
+   "Edmond Y. Lau",
+   "Michael E. Colvin"
+  ],
+  "journal": "Environmental and Molecular Mutagenesis",
+  "publisher": "Wiley",
+  "published": "2005-10-28",
+  "year": 2005,
+  "doi": "10.1002/em.20177",
+  "url": "https://doi.org/10.1002/em.20177",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Property Prediction",
+   "Cheminformatics",
+   "Chemometrics & Statistics"
+  ],
+  "tags": [
+   "Chemistry",
+   "Dipole Moment",
+   "Molecules",
+   "QSAR",
+   "Quantum Chemistry",
+   "Regression"
+  ],
+  "relevance_score": 90,
+  "affiliations": [
+   "Lawrence Livermore National Laboratory",
+   "Meredith College",
+   "SRI International",
+   "University of California, Merced"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "d2d2b9b125892355",
+  "title": "Predicting MDCK cell permeation coefficients of organic molecules using membrane-interaction QSAR analysis1",
+  "authors": [
+   "Li-Li Chen",
+   "Jia Yao",
+   "Jian-bo YANG",
+   "Jie Yang",
+   "Jie Yang",
+   "Jie Yang"
+  ],
+  "journal": "Acta Pharmacologica Sinica",
+  "publisher": "Springer Nature",
+  "published": "2005-10-28",
+  "year": 2005,
+  "doi": "10.1111/j.1745-7254.2005.00166.x",
+  "url": "https://doi.org/10.1111/j.1745-7254.2005.00166.x",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Molecules",
+   "QSAR"
+  ],
+  "relevance_score": 49,
+  "affiliations": [
+   "Nanjing University"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "f56893ff981277ec",
+  "title": "3D-QSAR studies on tripeptide aldehyde inhibitors of proteasome using CoMFA and CoMSIA methods",
+  "authors": [
+   "Yongqiang Zhu",
+   "Jianfeng Pei",
+   "Zhenming Liu",
+   "Luhua Lai",
+   "Jingrong Cui",
+   "Runtao Li"
+  ],
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2005-10-27",
+  "year": 2005,
+  "doi": "10.1016/j.bmc.2005.10.003",
+  "url": "https://doi.org/10.1016/j.bmc.2005.10.003",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "QSAR"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Peking University",
+   "State Key Laboratory for Structural Chemistry of Unstable and Stable Species"
+  ],
+  "added": "2026-07-21"
+ },
+ {
   "id": "77436a0a91554ea0",
   "title": "Studies of aerosol at a coastal site using two aerosol mass spectrometry instruments and identification of biogenic particle types",
   "authors": [
@@ -33,6 +135,1036 @@
    "Scripps Institution of Oceanography",
    "University of California San Diego",
    "University of Manchester"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "09c54e8488f33d99",
+  "title": "Prediction of Small‐Molecule Binding to Cytochrome P450 3A4: Flexible Docking Combined with Multidimensional QSAR",
+  "authors": [
+   "Markus A. Lill",
+   "Max Dobler",
+   "Angelo Vedani"
+  ],
+  "journal": "ChemMedChem",
+  "publisher": "Wiley",
+  "published": "2005-10-27",
+  "year": 2005,
+  "doi": "10.1002/cmdc.200500024",
+  "url": "https://doi.org/10.1002/cmdc.200500024",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Catalysis",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Docking",
+   "Ligands",
+   "Molecules",
+   "QSAR"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "fa774e6d99186ee6",
+  "title": "3D‐QSAR Using the GRID/GOLPE Approach",
+  "authors": [
+   "Wolfgang Sippl"
+  ],
+  "journal": "Methods and principles in medicinal chemistry",
+  "publisher": "Wiley",
+  "published": "2005-10-26",
+  "year": 2005,
+  "doi": "10.1002/3527607676.ch7",
+  "url": "https://doi.org/10.1002/3527607676.ch7",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Ligands",
+   "QSAR"
+  ],
+  "relevance_score": 61,
+  "affiliations": [
+   "Heinrich Heine University Düsseldorf"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "c807eb84f2bee740",
+  "title": "Calculation and Application of Molecular Interaction Fields",
+  "authors": [
+   "Rebecca C. Wade"
+  ],
+  "journal": "Methods and principles in medicinal chemistry",
+  "publisher": "Wiley",
+  "published": "2005-10-26",
+  "year": 2005,
+  "doi": "10.1002/3527607676.ch2",
+  "url": "https://doi.org/10.1002/3527607676.ch2",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Ligands",
+   "Molecules",
+   "QSAR"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "European Media Laboratory (Germany)"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "a5f05ee45a701bfe",
+  "title": "The Complexity of Molecular Interaction: Molecular Shape Fingerprints by the PathFinder Approach",
+  "authors": [
+   "Iain M. McLay",
+   "Mike J. Hann",
+   "Emanuele Carosati",
+   "Gabriele Cruciani",
+   "Massimo Baroni"
+  ],
+  "journal": "Methods and principles in medicinal chemistry",
+  "publisher": "Wiley",
+  "published": "2005-10-26",
+  "year": 2005,
+  "doi": "10.1002/3527607676.ch5",
+  "url": "https://doi.org/10.1002/3527607676.ch5",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Ligands",
+   "Molecules",
+   "QSAR"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "GlaxoSmithKline (United Kingdom)",
+   "University of Perugia"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "87019a2d0cabc217",
+  "title": "Stochastic entropy QSAR for the in silico discovery of anticancer compounds: Prediction, synthesis, and in vitro assay of new purine carbanucleosides",
+  "authors": [
+   "Humberto González‐Díaz",
+   "Dolores Viña",
+   "Lourdes Santana",
+   "Erik De Clercq",
+   "Eugenio Uriarte"
+  ],
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2005-10-26",
+  "year": 2005,
+  "doi": "10.1016/j.bmc.2005.09.039",
+  "url": "https://doi.org/10.1016/j.bmc.2005.09.039",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Computational Chemistry"
+  ],
+  "tags": [
+   "In Silico",
+   "QSAR"
+  ],
+  "relevance_score": 60,
+  "affiliations": [
+   "Universidad Central \"Marta Abreu\" de las Villas (UCLV)",
+   "Universidade de Santiago de Compostela",
+   "Universidad de Salamanca",
+   "Rega Institute for Medical Research",
+   "KU Leuven"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "6c9b13c3ce343588",
+  "title": "Kinase inhibitor recognition by use of a multivariable QSAR model",
+  "authors": [
+   "Dennis Sprous",
+   "Yingsheng Zhang",
+   "Lei Zhang",
+   "Zhaolin Wang",
+   "Mariano Tepper"
+  ],
+  "journal": "Journal of Molecular Graphics and Modelling",
+  "publisher": "Elsevier BV",
+  "published": "2005-10-26",
+  "year": 2005,
+  "doi": "10.1016/j.jmgm.2005.09.004",
+  "url": "https://doi.org/10.1016/j.jmgm.2005.09.004",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "QSAR"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "CytRx (United States)"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "2843a233a36b0b12",
+  "title": "Molecular Interaction Fields",
+  "authors": [],
+  "journal": "Methods and principles in medicinal chemistry",
+  "publisher": "Wiley",
+  "published": "2005-10-26",
+  "year": 2005,
+  "doi": "10.1002/3527607676",
+  "url": "https://doi.org/10.1002/3527607676",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Drug Discovery Chemistry",
+   "ML Potentials & Force Fields",
+   "Cheminformatics",
+   "Chemometrics & Statistics"
+  ],
+  "tags": [
+   "Chemometrics",
+   "Docking",
+   "Drug Discovery",
+   "Force Fields",
+   "Ligands",
+   "Molecules",
+   "QSAR",
+   "Virtual Screening"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "27ab1fc9cff7782b",
+  "title": "Alignment‐independent Descriptors from Molecular Interaction Fields",
+  "authors": [
+   "Manuel Pastor"
+  ],
+  "journal": "Methods and principles in medicinal chemistry",
+  "publisher": "Wiley",
+  "published": "2005-10-26",
+  "year": 2005,
+  "doi": "10.1002/3527607676.ch6",
+  "url": "https://doi.org/10.1002/3527607676.ch6",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Organic Chemistry",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Chirality",
+   "Ligands",
+   "Molecules",
+   "QSAR"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "Barcelona School of Economics"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "2f0e1b5c1063c7bc",
+  "title": "High-throughput screening of ecdysone agonists using a reporter gene assay followed by 3-D QSAR analysis of the molting hormonal activity",
+  "authors": [
+   "Craig E. Wheelock",
+   "Yoshiaki Nakagawa",
+   "Toshiyuki Harada",
+   "Nobuhiro Oikawa",
+   "Miki Akamatsu",
+   "Guy Smagghe",
+   "Dimitra Stefanou",
+   "Kostas Iatrou",
+   "Luc Swevers"
+  ],
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2005-10-25",
+  "year": 2005,
+  "doi": "10.1016/j.bmc.2005.09.034",
+  "url": "https://doi.org/10.1016/j.bmc.2005.09.034",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "High-Throughput & Autonomous"
+  ],
+  "tags": [
+   "High-Throughput",
+   "QSAR"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "Kyoto University",
+   "Kyoto University Institute for Chemical Research",
+   "Ghent University",
+   "National Centre of Scientific Research \"Demokritos\""
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "6549b1e827ebecef",
+  "title": "Analysis of Peptide−Protein Binding Using Amino Acid Descriptors: Prediction and Experimental Verification for Human Histocompatibility Complex HLA-A*0201",
+  "authors": [
+   "Pingping Guan",
+   "Irini Doytchinova",
+   "Valerie Walshe",
+   "Persephone Borrow",
+   "Darren R. Flower"
+  ],
+  "journal": "Journal of Medicinal Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2005-10-22",
+  "year": 2005,
+  "doi": "10.1021/jm0505258",
+  "url": "https://doi.org/10.1021/jm0505258",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Cheminformatics",
+   "Optimization"
+  ],
+  "tags": [
+   "Genetic Algorithm",
+   "QSAR",
+   "SAR"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "Jenner Institute"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "d6f12af5e247c791",
+  "title": "A Lu index for QSAR/QSPR studies",
+  "authors": [
+   "Chunhui Lu",
+   "Weimin Guo",
+   "Xiaofang Hu",
+   "Yang Wang",
+   "Chunsheng Yin"
+  ],
+  "journal": "Chemical Physics Letters",
+  "publisher": "Elsevier BV",
+  "published": "2005-10-20",
+  "year": 2005,
+  "doi": "10.1016/j.cplett.2005.09.051",
+  "url": "https://doi.org/10.1016/j.cplett.2005.09.051",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "QSAR",
+   "QSPR"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "Shanghai Jiao Tong University"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "819d2e108b7a2ce0",
+  "title": "In silico screening of chemicals for bacterial mutagenicity using electrotopological E-state indices and MDL QSAR software",
+  "authors": [
+   "Joseph F. Contrera",
+   "Edwin J. Matthews",
+   "Naomi L. Kruhlak",
+   "R. Benz"
+  ],
+  "journal": "Regulatory Toxicology and Pharmacology",
+  "publisher": "Elsevier BV",
+  "published": "2005-10-20",
+  "year": 2005,
+  "doi": "10.1016/j.yrtph.2005.09.001",
+  "url": "https://doi.org/10.1016/j.yrtph.2005.09.001",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Computational Chemistry"
+  ],
+  "tags": [
+   "Chemistry",
+   "In Silico",
+   "QSAR"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "United States Food and Drug Administration",
+   "Center for Drug Evaluation and Research"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "9f55dd685ab73c9b",
+  "title": "Hierarchic system of QSAR models (1D–4D) on the base of simplex representation of molecular structure",
+  "authors": [
+   "V. Е. Kuz’min",
+   "A. G. Artemenko",
+   "Pavel G. Polischuk",
+   "Eugene Muratov",
+   "Alexander I. Hromov",
+   "Anatoly V. Liahovskiy",
+   "С. А. Андронати",
+   "S. Yu. Makan"
+  ],
+  "journal": "Journal of Molecular Modeling",
+  "publisher": "Springer Science+Business Media",
+  "published": "2005-10-19",
+  "year": 2005,
+  "doi": "10.1007/s00894-005-0237-x",
+  "url": "https://doi.org/10.1007/s00894-005-0237-x",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Molecules",
+   "QSAR"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "f8beaaa0954155ad",
+  "title": "A QSAR study on influenza neuraminidase inhibitors",
+  "authors": [
+   "Rajeshwar P. Verma",
+   "Corwin Hansch"
+  ],
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2005-10-18",
+  "year": 2005,
+  "doi": "10.1016/j.bmc.2005.09.016",
+  "url": "https://doi.org/10.1016/j.bmc.2005.09.016",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "QSAR"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Pomona College"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "e6b4d93a0ce6a621",
+  "title": "Ladungswechselwirkungen machen es möglich: ein kombinierter statistischer und kombinatorischer Ansatz zur Auffindung künstlicher Rezeptoren für die Bindung von Tetrapeptiden in Wasser",
+  "authors": [
+   "Carsten Schmuck",
+   "Martin Heil",
+   "Josef Scheiber",
+   "Knut Baumann"
+  ],
+  "journal": "Angewandte Chemie",
+  "publisher": "Wiley",
+  "published": "2005-10-18",
+  "year": 2005,
+  "doi": "10.1002/ange.200501812",
+  "url": "https://doi.org/10.1002/ange.200501812",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "QSAR"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Würzburg"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "d45efce52207bcb7",
+  "title": "Comparing the Performance of FLUFF-BALL to SEAL-CoMFA with a Large Diverse Estrogen Data Set: From Relevant Superpositions to Solid Predictions",
+  "authors": [
+   "Samuli‐Petrus Korhonen",
+   "Kari Tuppurainen",
+   "Reino Laatikainen",
+   "Mikael Peräkylä"
+  ],
+  "journal": "Journal of Chemical Information and Modeling",
+  "publisher": "American Chemical Society",
+  "published": "2005-10-18",
+  "year": 2005,
+  "doi": "10.1021/ci050021i",
+  "url": "https://doi.org/10.1021/ci050021i",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "ML Potentials & Force Fields",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Force Fields",
+   "Ligands",
+   "Molecules",
+   "QSAR"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "University of Eastern Finland"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "a0e8a53cb6839baa",
+  "title": "Molecular docking and 3D-QSAR on 2-(oxalylamino) benzoic acid and its analogues as protein tyrosine phosphatase 1B inhibitors",
+  "authors": [
+   "Mei Zhou",
+   "Mingjuan Ji"
+  ],
+  "journal": "Bioorganic & Medicinal Chemistry Letters",
+  "publisher": "Elsevier BV",
+  "published": "2005-10-18",
+  "year": 2005,
+  "doi": "10.1016/j.bmcl.2005.08.078",
+  "url": "https://doi.org/10.1016/j.bmcl.2005.08.078",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Docking",
+   "Molecules",
+   "QSAR"
+  ],
+  "relevance_score": 70,
+  "affiliations": [
+   "University of Chinese Academy of Sciences"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "3af2c0906ed4d119",
+  "title": "QSAR studies on 1-phenylbenzimidazoles as inhibitors of the platelet-derived growth factor",
+  "authors": [
+   "Alan R. Katritzky",
+   "Dimitar A. Dobchev",
+   "Dan C. Fara",
+   "Mati Karelson"
+  ],
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2005-10-18",
+  "year": 2005,
+  "doi": "10.1016/j.bmc.2005.06.067",
+  "url": "https://doi.org/10.1016/j.bmc.2005.06.067",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "QSAR"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Florida",
+   "Tallinn University of Technology"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "28e1f3276a8e980e",
+  "title": "QSAR analysis of phenolic antioxidants using MOLMAP descriptors of local properties",
+  "authors": [
+   "Sunil Gupta",
+   "Susan Matthew",
+   "Pedro Abreu",
+   "João Aires‐de‐Sousa"
+  ],
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2005-10-18",
+  "year": 2005,
+  "doi": "10.1016/j.bmc.2005.09.047",
+  "url": "https://doi.org/10.1016/j.bmc.2005.09.047",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "QSAR"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Rede de Química e Tecnologia",
+   "Universidade Nova de Lisboa"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "0741cd282eaf4ca6",
+  "title": "Charge Interactions Do the Job: A Combined Statistical and Combinatorial Approach to Finding Artificial Receptors for Binding Tetrapeptides in Water",
+  "authors": [
+   "Carsten Schmuck",
+   "Martin Heil",
+   "Josef Scheiber",
+   "Knut Baumann"
+  ],
+  "journal": "Angewandte Chemie International Edition",
+  "publisher": "Wiley",
+  "published": "2005-10-18",
+  "year": 2005,
+  "doi": "10.1002/anie.200501812",
+  "url": "https://doi.org/10.1002/anie.200501812",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "QSAR"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "University of Würzburg"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "581f0873a2479db9",
+  "title": "QSAR study on the Ah receptor-binding affinities of polyhalogenated dibenzo-p-dioxins using net atomic-charge descriptors and a radial basis neural network",
+  "authors": [
+   "Gang Zheng",
+   "Man Xiao",
+   "Xiaohua Lü"
+  ],
+  "journal": "Analytical and Bioanalytical Chemistry",
+  "publisher": "Springer Science+Business Media",
+  "published": "2005-10-17",
+  "year": 2005,
+  "doi": "10.1007/s00216-005-0085-7",
+  "url": "https://doi.org/10.1007/s00216-005-0085-7",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Neural Network",
+   "QSAR"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "Huazhong University of Science and Technology"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "727dbf0f623ba0e0",
+  "title": "The Signature Molecular Descriptor. 5. The Design of Hydrofluoroether Foam Blowing Agents Using Inverse-QSAR",
+  "authors": [
+   "Derick C. Weis",
+   "Jean‐Loup Faulon",
+   "Richard C. LeBorne",
+   "Donald P. Visco"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2005-10-15",
+  "year": 2005,
+  "doi": "10.1021/ie050330y",
+  "url": "https://doi.org/10.1021/ie050330y",
+  "source": "openalex",
+  "categories": [
+   "Molecule Generation",
+   "Property Prediction",
+   "Materials Chemistry",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Boiling Point",
+   "Descriptors",
+   "Inverse Design",
+   "Molecular Design",
+   "Molecules",
+   "QSAR",
+   "Thermal Properties"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Tennessee Technological University"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "6705090d1711bcec",
+  "title": "Synthesis and 3D QSAR of New Pyrazolo[3,4- b ]pyridines: Potent and Selective Inhibitors of A 1 Adenosine Receptors",
+  "authors": [
+   "Fabrizio Manetti",
+   "Silvia Schenone",
+   "Francesco Bondavalli",
+   "Chiara Brullo",
+   "Olga Bruno",
+   "Angelo Ranise",
+   "Luisa Mosti",
+   "Giulia Menozzi",
+   "Paola Fossa",
+   "Maria Letizia Trincavelli",
+   "Claudia Martini",
+   "Adriano Martinelli",
+   "Cristina Tintori",
+   "Maurizio Botta"
+  ],
+  "journal": "Journal of Medicinal Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2005-10-15",
+  "year": 2005,
+  "doi": "10.1021/jm050407k",
+  "url": "https://doi.org/10.1021/jm050407k",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "QSAR"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Siena",
+   "University of Pisa",
+   "University of Genoa"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "4ecef4bbc9f2c183",
+  "title": "Enantioselective Nonsteroidal Aromatase Inhibitors Identified through a Multidisciplinary Medicinal Chemistry Approach",
+  "authors": [
+   "Andrea Cavalli",
+   "Alessandra Bisi",
+   "Carlo Bertucci",
+   "Carlo Rosini",
+   "Anja Paluszcak",
+   "Silvia Gobbi",
+   "Egidio Giorgio",
+   "Angela Rampa",
+   "Federica Belluti",
+   "Lorna Piazzi",
+   "Piero Valenti",
+   "Rolf W. Hartmann",
+   "Maurizio Recanatini"
+  ],
+  "journal": "Journal of Medicinal Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2005-10-15",
+  "year": 2005,
+  "doi": "10.1021/jm058042r",
+  "url": "https://doi.org/10.1021/jm058042r",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Catalysis",
+   "Computational Chemistry",
+   "Organic Chemistry",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Chemistry",
+   "Chirality",
+   "DFT",
+   "Ligands",
+   "Medicinal Chemistry",
+   "QSAR"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "University of Basilicata",
+   "Saarland University",
+   "University of Bologna"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "e6a1512a351a8248",
+  "title": "Cellular Apoptosis and Cytotoxicity of Phenolic Compounds: A Quantitative Structure−Activity Relationship Study",
+  "authors": [
+   "Cynthia Dias Selassie",
+   "Sanjay Kapur",
+   "Rajeshwar P. Verma",
+   "Melissa C. del Rosario"
+  ],
+  "journal": "Journal of Medicinal Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2005-10-14",
+  "year": 2005,
+  "doi": "10.1021/jm050567w",
+  "url": "https://doi.org/10.1021/jm050567w",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Physical Organic Chemistry",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "QSAR",
+   "SAR",
+   "Steric Parameters"
+  ],
+  "relevance_score": 72,
+  "affiliations": [
+   "Pomona College"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "7d842595533789de",
+  "title": "Quantitative Structure−Activity Relationship Modeling of Juvenile Hormone Mimetic Compounds for Culex P ipiens Larvae, with a Discussion of Descriptor-Thinning Methods",
+  "authors": [
+   "Subhash C. Basak",
+   "Ramanathan Natarajan",
+   "Denise Mills",
+   "Douglas M. Hawkins",
+   "Jessica J. Kraker"
+  ],
+  "journal": "Journal of Chemical Information and Modeling",
+  "publisher": "American Chemical Society",
+  "published": "2005-10-14",
+  "year": 2005,
+  "doi": "10.1021/ci050215y",
+  "url": "https://doi.org/10.1021/ci050215y",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Drug Discovery Chemistry",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Chemistry",
+   "Descriptors",
+   "Molecules",
+   "QSAR",
+   "QSPR",
+   "Quantum Chemistry",
+   "SAR"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Minnesota Department of Natural Resources",
+   "University of Minnesota, Duluth"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "766a55724e9c0b71",
+  "title": "A neural networks-based drug discovery approach and its application for designing aldose reductase inhibitors",
+  "authors": [
+   "Lihong Hu",
+   "Guanhua Chen",
+   "Raymond Ming-Wah Chau"
+  ],
+  "journal": "Journal of Molecular Graphics and Modelling",
+  "publisher": "Elsevier BV",
+  "published": "2005-10-14",
+  "year": 2005,
+  "doi": "10.1016/j.jmgm.2005.09.002",
+  "url": "https://doi.org/10.1016/j.jmgm.2005.09.002",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Drug Discovery",
+   "Neural Network"
+  ],
+  "relevance_score": 56,
+  "affiliations": [
+   "University of Hong Kong"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "f7ee87b34bfce023",
+  "title": "Application of Validated QSAR Models of D 1 Dopaminergic Antagonists for Database Mining",
+  "authors": [
+   "Scott Oloff",
+   "Richard B. Mailman",
+   "Alexander Tropsha"
+  ],
+  "journal": "Journal of Medicinal Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2005-10-13",
+  "year": 2005,
+  "doi": "10.1021/jm049116m",
+  "url": "https://doi.org/10.1021/jm049116m",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Catalysis",
+   "Cheminformatics",
+   "Chemometrics & Statistics",
+   "Classical ML"
+  ],
+  "tags": [
+   "Chemistry",
+   "Drug Discovery",
+   "Ligands",
+   "Molecules",
+   "PLS",
+   "QSAR",
+   "SAR",
+   "SVM",
+   "kNN"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "University of North Carolina at Chapel Hill"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "a8bbe03d1a6ab31d",
+  "title": "Studying the Explanatory Capacity of Artificial Neural Networks for Understanding Environmental Chemical Quantitative Structure−Activity Relationship Models",
+  "authors": [
+   "Lei Yang",
+   "Peng Wang",
+   "Yilin Jiang",
+   "Jian Chen"
+  ],
+  "journal": "Journal of Chemical Information and Modeling",
+  "publisher": "American Chemical Society",
+  "published": "2005-10-13",
+  "year": 2005,
+  "doi": "10.1021/ci050079x",
+  "url": "https://doi.org/10.1021/ci050079x",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Cheminformatics",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Molecules",
+   "Neural Network",
+   "QSAR",
+   "SAR"
+  ],
+  "relevance_score": 85,
+  "affiliations": [
+   "Harbin Institute of Technology"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "476393e3063deaeb",
+  "title": "Molecular design, 2D-QSAR and 3D-QSAR studies of 5-nitro-2-thiophylidene derivatives with antimicrobial activity against multidrug-resistant Staphylococcus aureus (BEC - Brazilian Endemic Clone)",
+  "authors": [
+   "Andrea Masunari"
+  ],
+  "journal": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+  "publisher": "LA Referencia",
+  "published": "2005-10-13",
+  "year": 2005,
+  "doi": "",
+  "url": "http://www.teses.usp.br/teses/disponiveis/9/9135/tde-04102007-114357/",
+  "source": "openalex",
+  "categories": [
+   "Molecule Generation",
+   "Drug Discovery Chemistry",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Molecular Design",
+   "Molecules",
+   "QSAR",
+   "SAR"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "f97568ce363d1d21",
+  "title": "Simplex Optimization of Generalized Topological Index (GTI−Simplex): A Unified Approach to Optimize QSPR Models",
+  "authors": [
+   "Adelio R. Matamala",
+   "Ernesto Estrada"
+  ],
+  "journal": "The Journal of Physical Chemistry A",
+  "publisher": "American Chemical Society",
+  "published": "2005-10-12",
+  "year": 2005,
+  "doi": "10.1021/jp053408x",
+  "url": "https://doi.org/10.1021/jp053408x",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Descriptors",
+   "Molecules",
+   "QSAR",
+   "QSPR"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "University of Concepción",
+   "Universidade de Santiago de Compostela"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "b5fd9ab6de3e1e44",
+  "title": "Variations in Antigen−Antibody Association Kinetics as a Function of pH and Salt Concentration: A QSAR and Molecular Modeling Study",
+  "authors": [
+   "Annick Dejaegere",
+   "Laurence Choulier",
+   "Virginie Lafont",
+   "Erwin De Genst",
+   "Danièle Altschuh"
+  ],
+  "journal": "Biochemistry",
+  "publisher": "American Chemical Society",
+  "published": "2005-10-12",
+  "year": 2005,
+  "doi": "10.1021/bi050986v",
+  "url": "https://doi.org/10.1021/bi050986v",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Physical Chemistry",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Kinetics",
+   "Molecules",
+   "QSAR",
+   "SAR"
+  ],
+  "relevance_score": 79,
+  "affiliations": [
+   "Centre National de la Recherche Scientifique",
+   "Inserm",
+   "Institut de génétique et de biologie moléculaire et cellulaire"
   ],
   "added": "2026-07-21"
  },
@@ -79,6 +1211,200 @@
   "added": "2026-07-21"
  },
  {
+  "id": "2bf116aaaf0eafc2",
+  "title": "Considerations in Compound Database Preparation“Hidden” Impact on Virtual Screening Results",
+  "authors": [
+   "Andrew J. S. Knox",
+   "Mary J. Meegan",
+   "Giorgio Carta",
+   "David G. Lloyd"
+  ],
+  "journal": "Journal of Chemical Information and Modeling",
+  "publisher": "American Chemical Society",
+  "published": "2005-10-12",
+  "year": 2005,
+  "doi": "10.1021/ci050185z",
+  "url": "https://doi.org/10.1021/ci050185z",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Drug Discovery Chemistry",
+   "Cheminformatics",
+   "Computational Chemistry"
+  ],
+  "tags": [
+   "Chemistry",
+   "Docking",
+   "Drug Discovery",
+   "In Silico",
+   "Ligands",
+   "SMILES",
+   "Virtual Screening"
+  ],
+  "relevance_score": 94,
+  "affiliations": [
+   "Trinity College Dublin"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "b5135f4b6cdfff69",
+  "title": "Quantitative Structure-Activity Relationships (QSAR) in Drug Design",
+  "authors": [
+   "M Cronin",
+   "John C. Dearden"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2005-10-10",
+  "year": 2005,
+  "doi": "10.1201/9780203304150.ch6",
+  "url": "https://doi.org/10.1201/9780203304150.ch6",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "QSAR",
+   "SAR"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "38e706e0584dbc12",
+  "title": "SAR and 3D-QSAR Studies on Thiadiazolidinone Derivatives: Exploration of Structural Requirements for Glycogen Synthase Kinase 3 Inhibitors",
+  "authors": [
+   "Ana Martı́nez",
+   "Mercedes Alonso",
+   "Ana Castro",
+   "Isabel Dorronsoro",
+   "Josep Lluis Gelpí",
+   "F. Javier Luque",
+   "Concepción Pérez",
+   "Francisco J. Moreno"
+  ],
+  "journal": "Journal of Medicinal Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2005-10-08",
+  "year": 2005,
+  "doi": "10.1021/jm040895g",
+  "url": "https://doi.org/10.1021/jm040895g",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Molecules",
+   "QSAR"
+  ],
+  "relevance_score": 55,
+  "affiliations": [
+   "Instituto de Química Médica",
+   "Centro de Biología Molecular Severo Ochoa",
+   "Universidad Autónoma de Madrid",
+   "Universitat de Barcelona"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "3f848fb806ec99ac",
+  "title": "QSAR by LFER model of HIV protease inhibitor mannitol derivatives using FA-MLR, PCRA, and PLS techniques",
+  "authors": [
+   "J. Thomas Leonard",
+   "Kunal Roy"
+  ],
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2005-10-06",
+  "year": 2005,
+  "doi": "10.1016/j.bmc.2005.09.022",
+  "url": "https://doi.org/10.1016/j.bmc.2005.09.022",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "QSAR"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Jadavpur University"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "24b315715e1301d2",
+  "title": "QSAR study on para-substituted aromatic sulfonamides as carbonic anhydrase II inhibitors using topological information indices",
+  "authors": [
+   "Georgia Melagraki",
+   "Antreas Afantitis",
+   "Haralambos Sarimveis",
+   "Olga Igglessi‐Markopoulou",
+   "Claudiu T. Supuran"
+  ],
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2005-10-06",
+  "year": 2005,
+  "doi": "10.1016/j.bmc.2005.09.038",
+  "url": "https://doi.org/10.1016/j.bmc.2005.09.038",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "QSAR"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "National Technical University of Athens",
+   "NovaMechanics (Cyprus)",
+   "University of Florence"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "7d9f18c45ec62ce9",
+  "title": "Investigation of DNA-Binding Properties of an Aminoglycoside-Polyamine Library Using Quantitative Structure−Activity Relationship (QSAR) Models",
+  "authors": [
+   "Kaushal Rege",
+   "Asif Ladiwala",
+   "Shanghui Hu",
+   "Curt M. Breneman",
+   "Jonathan S. Dordick",
+   "Steven M. Cramer"
+  ],
+  "journal": "Journal of Chemical Information and Modeling",
+  "publisher": "American Chemical Society",
+  "published": "2005-10-05",
+  "year": 2005,
+  "doi": "10.1021/ci050082g",
+  "url": "https://doi.org/10.1021/ci050082g",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Catalysis",
+   "Polymer Chemistry",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Descriptors",
+   "Ligands",
+   "Molecules",
+   "Polymers",
+   "QSAR",
+   "SAR"
+  ],
+  "relevance_score": 94,
+  "affiliations": [
+   "Rensselaer Polytechnic Institute"
+  ],
+  "added": "2026-07-21"
+ },
+ {
   "id": "79702c0d03a93bba",
   "title": "Proteomic analysis of amniotic fluids using analysis of variance-principal component analysis and fuzzy rule-building expert systems applied to matrix-assisted laser desorption/ionization mass spectrometry",
   "authors": [
@@ -113,6 +1439,179 @@
   "added": "2026-07-21"
  },
  {
+  "id": "6df649b24f65c3bf",
+  "title": "QSAR modeling of blood:air and tissue:air partition coefficients using theoretical descriptors",
+  "authors": [
+   "Alan R. Katritzky",
+   "Minati Kuanar",
+   "Dan C. Fara",
+   "Mati Karelson",
+   "William E. Acree",
+   "Vitaly P. Solov’ev",
+   "Alexandre Varnek"
+  ],
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2005-10-04",
+  "year": 2005,
+  "doi": "10.1016/j.bmc.2005.06.066",
+  "url": "https://doi.org/10.1016/j.bmc.2005.06.066",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "QSAR"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Florida",
+   "Tallinn University of Technology",
+   "University of North Texas",
+   "Frumkin Institute of Physical Chemistry and Electrochemistry"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "570cd4140a5e4992",
+  "title": "Molecular modeling and 3D-QSAR studies of indolomorphinan derivatives as kappa opioid antagonists",
+  "authors": [
+   "Wei Li",
+   "Yun Tang",
+   "You-Li Zheng",
+   "Zhuibai Qiu"
+  ],
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2005-10-04",
+  "year": 2005,
+  "doi": "10.1016/j.bmc.2005.08.052",
+  "url": "https://doi.org/10.1016/j.bmc.2005.08.052",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Molecules",
+   "QSAR"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Fudan University",
+   "East China University of Science and Technology"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "2d373c17b931f4d1",
+  "title": "Supervised Self-Organizing Maps in Drug Discovery. 1. Robust Behavior with Overdetermined Data Sets",
+  "authors": [
+   "Yun-De Xiao",
+   "Aaron Clauset",
+   "Rebecca Harris",
+   "Ersin Bayram",
+   "Peter Santago",
+   "Jeffrey D. Schmitt"
+  ],
+  "journal": "Journal of Chemical Information and Modeling",
+  "publisher": "American Chemical Society",
+  "published": "2005-10-04",
+  "year": 2005,
+  "doi": "10.1021/ci0500839",
+  "url": "https://doi.org/10.1021/ci0500839",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Cheminformatics",
+   "Chemometrics & Statistics",
+   "Classical ML"
+  ],
+  "tags": [
+   "Chemometrics",
+   "Clustering",
+   "Drug Discovery",
+   "PLS",
+   "QSAR",
+   "kNN"
+  ],
+  "relevance_score": 84,
+  "affiliations": [
+   "University of New Mexico",
+   "Virginia Tech - Wake Forest University School of Biomedical Engineering & Sciences"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "e846ab019b71f21f",
+  "title": "Quantitative structure-activity relationship of curcumin and its derivatives as μ-class of GST inhibitors",
+  "authors": [
+   "Enade Perdana Istyastono",
+   "Sudibyo Martono"
+  ],
+  "journal": "INDONESIAN JOURNAL OF PHARMACY",
+  "publisher": "Gadjah Mada University",
+  "published": "2005-10-01",
+  "year": 2005,
+  "doi": "10.14499/indonesianjpharm0iss0pp204-213",
+  "url": "https://doi.org/10.14499/indonesianjpharm0iss0pp204-213",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Computational Chemistry",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Chemistry",
+   "Computational Chemistry",
+   "QSAR",
+   "SAR"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Sanata Dharma University",
+   "Universitas Gadjah Mada"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "b21382ac5dcba2c9",
+  "title": "Synthesis and Structure−Activity Relationships of Suramin-Derived P2Y 11 Receptor Antagonists with Nanomolar Potency",
+  "authors": [
+   "Heiko Ullmann",
+   "Sabine Meis",
+   "Darunee Hongwiset",
+   "Claudia Marzian",
+   "Michael Wiese",
+   "Peter Nickel",
+   "Didier Communi",
+   "Jean‐Marie Boeynaems",
+   "Christian Wolf",
+   "Ralf Hausmann",
+   "Günther Schmalzing",
+   "Matthias U. Kassack"
+  ],
+  "journal": "Journal of Medicinal Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2005-10-01",
+  "year": 2005,
+  "doi": "10.1021/jm050301p",
+  "url": "https://doi.org/10.1021/jm050301p",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "QSAR"
+  ],
+  "relevance_score": 48,
+  "affiliations": [
+   "Université Libre de Bruxelles",
+   "University of Bonn",
+   "RWTH Aachen University"
+  ],
+  "added": "2026-07-21"
+ },
+ {
   "id": "aec549e6f279c8ff",
   "title": "Molecular classification of microarray gene expression data using machine learning algorithms",
   "authors": [
@@ -134,6 +1633,39 @@
   ],
   "relevance_score": 42,
   "affiliations": [],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "9172e5dc07551894",
+  "title": "QSAR analysis of 2,4-diaminopyrido[2,3-d]pyrimidines and 2,4-diaminopyrrolo[2,3-d]pyrimidines as dihydrofolate reductase inhibitors.",
+  "authors": [
+   "P. C. JAIN",
+   "Soni Lk",
+   "Anil Gupta",
+   "Kashkedikar Sg"
+  ],
+  "journal": "PubMed",
+  "publisher": "National Institutes of Health",
+  "published": "2005-10-01",
+  "year": 2005,
+  "doi": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23923540",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Property Prediction",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Dipole Moment",
+   "Molecules",
+   "QSAR",
+   "SAR"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "Indian Institute of Technology Indore"
+  ],
   "added": "2026-07-21"
  },
  {
@@ -163,6 +1695,34 @@
   "affiliations": [
    "Kyushu University"
   ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "574dd76f08c82bd0",
+  "title": "A new strategy for using supervised artificial neural networks in QSAR",
+  "authors": [
+   "James Devillers"
+  ],
+  "journal": "SAR and QSAR in environmental research",
+  "publisher": "Taylor & Francis",
+  "published": "2005-10-01",
+  "year": 2005,
+  "doi": "10.1080/10659360500320578",
+  "url": "https://doi.org/10.1080/10659360500320578",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Descriptors",
+   "Molecules",
+   "Neural Network",
+   "QSAR"
+  ],
+  "relevance_score": 69,
+  "affiliations": [],
   "added": "2026-07-21"
  }
 ]
