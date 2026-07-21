@@ -21,6 +21,11 @@ on:
         description: "Max pages (of 200 works) per query per year"
         default: "12"
         required: false
+      topics_only:
+        description: "Skip the pioneer sweep (already harvested)"
+        type: boolean
+        default: false
+        required: false
 
 permissions:
   contents: write
@@ -48,6 +53,7 @@ jobs:
           --from ${{ inputs.from_year }}
           --to ${{ inputs.to_year }}
           --max-pages ${{ inputs.max_pages }}
+          ${{ inputs.topics_only && '--topics-only' || '' }}
         env:
           PYTHONPATH: src
 
