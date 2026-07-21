@@ -1,5 +1,99 @@
 [
  {
+  "id": "fc5612b3ef88688a",
+  "title": "Introduction",
+  "authors": [
+   "H. Van De Waterbeemd"
+  ],
+  "journal": "Methods and principles in medicinal chemistry",
+  "publisher": "Wiley",
+  "published": "1994-11-24",
+  "year": 1994,
+  "doi": "10.1002/9783527615674.ch1",
+  "url": "https://doi.org/10.1002/9783527615674.ch1",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "QSAR"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "a174675b9a863c2f",
+  "title": "Advanced Statistical Techniques",
+  "authors": [
+   "Jonathan Ashley Malpass",
+   "David W. Salt",
+   "Martyn G. Ford",
+   "Edward Watcyn Wynn",
+   "David J. Livingstone",
+   "Jean‐Christophe Doré",
+   "Tiiu Ojasoo",
+   "Valerie S. Rose",
+   "John M. Wood",
+   "Halliday J.H. MacFie",
+   "Klaus‐Jürgen Schaper"
+  ],
+  "journal": "Methods and principles in medicinal chemistry",
+  "publisher": "Wiley",
+  "published": "1994-11-24",
+  "year": 1994,
+  "doi": "10.1002/9783527615674.ch4",
+  "url": "https://doi.org/10.1002/9783527615674.ch4",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Classical ML"
+  ],
+  "tags": [
+   "Molecules",
+   "QSAR",
+   "kNN"
+  ],
+  "relevance_score": 59,
+  "affiliations": [],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "6ed3d422676da229",
+  "title": "3D QSAR The Integration of QSAR with Molecular Modeling",
+  "authors": [
+   "Demetrio Pitea",
+   "Ugo Cosentino",
+   "Giorgio Moro",
+   "Laura Bonati",
+   "Elena Fraschini",
+   "Murina Lasagni",
+   "Roberto Todeschini",
+   "A. M. Davis",
+   "Gabriele Cruciani",
+   "Sérgio Clementi"
+  ],
+  "journal": "Methods and principles in medicinal chemistry",
+  "publisher": "Wiley",
+  "published": "1994-11-24",
+  "year": 1994,
+  "doi": "10.1002/9783527615674.ch2",
+  "url": "https://doi.org/10.1002/9783527615674.ch2",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Chemometrics & Statistics"
+  ],
+  "tags": [
+   "Chemometrics",
+   "Molecules",
+   "QSAR"
+  ],
+  "relevance_score": 74,
+  "affiliations": [],
+  "added": "2026-07-21"
+ },
+ {
   "id": "06c6257bafabad00",
   "title": "Index",
   "authors": [
@@ -27,6 +121,214 @@
   "relevance_score": 72,
   "affiliations": [
    "Roche (Switzerland)"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "c8e12ee8fb639d57",
+  "title": "3D-QSAR study on ether and ester analogs of artemisinin with comparative molecular field analysis.",
+  "authors": [
+   "Hualiang Jiang",
+   "Kaixian Chen",
+   "Hongwu Wang",
+   "Yun Tang",
+   "Jianzhong Chen",
+   "Ru‐Yun Ji"
+  ],
+  "journal": "PubMed",
+  "publisher": "National Institutes of Health",
+  "published": "1994-11-01",
+  "year": 1994,
+  "doi": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/7709742",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Drug Discovery Chemistry",
+   "Cheminformatics",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Molecules",
+   "Predictive Model",
+   "QSAR",
+   "Quantum Chemistry",
+   "SAR"
+  ],
+  "relevance_score": 81,
+  "affiliations": [
+   "Chinese Academy of Sciences",
+   "Shanghai Institute of Materia Medica"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "b0890412025bc44d",
+  "title": "Analyzing and modeling toxicity of mixtures of organic chemicals to microorganisms",
+  "authors": [
+   "Nagamany Nirmalakhandan",
+   "Bai‐Wang Sun",
+   "V. J. Arulgnanendran",
+   "Muhammad Mohsin",
+   "X. H. Wang",
+   "Jyoti Prakash",
+   "Neil Hall"
+  ],
+  "journal": "Water Science & Technology",
+  "publisher": "Pergamon Press",
+  "published": "1994-11-01",
+  "year": 1994,
+  "doi": "10.2166/wst.1994.0515",
+  "url": "https://doi.org/10.2166/wst.1994.0515",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Chemistry",
+   "Molecules",
+   "QSAR"
+  ],
+  "relevance_score": 45,
+  "affiliations": [
+   "New Mexico State University"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "aa075da346256498",
+  "title": "A Comparative Molecular Field Analysis Model for 6-Arylpyrrolo[2,1-d][1,5]benzothiazepines Binding Selectively to the Mitochondrial Benzodiazepine Receptor",
+  "authors": [
+   "Giovanni Greco",
+   "Ettore Novellino",
+   "Isabella Fiorini",
+   "Vito Nacci",
+   "Giuseppe Campiani",
+   "Silvia M. Ciani",
+   "Antonio Garofalo",
+   "Paola Bernasconi",
+   "Tiziana Mennini"
+  ],
+  "journal": "Journal of Medicinal Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1994-11-01",
+  "year": 1994,
+  "doi": "10.1021/jm00050a007",
+  "url": "https://doi.org/10.1021/jm00050a007",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Ligands",
+   "Molecules",
+   "QSAR"
+  ],
+  "relevance_score": 63,
+  "affiliations": [
+   "Istituto di Farmacologia Traslazionale",
+   "University of Naples Federico II"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "a9e210f9c54b6313",
+  "title": "QSAR Estimates of Excited States and Photoinduced Acute Toxicity of Polycyclic Aromatic Hydrocarbons",
+  "authors": [
+   "Ovanes Mekenyan",
+   "Gerald T. Ankley",
+   "Gilman D. Veith",
+   "Daniel J. Call"
+  ],
+  "journal": "SAR and QSAR in environmental research",
+  "publisher": "Taylor & Francis",
+  "published": "1994-11-01",
+  "year": 1994,
+  "doi": "10.1080/10629369408233981",
+  "url": "https://doi.org/10.1080/10629369408233981",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Property Prediction",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Chemistry",
+   "Descriptors",
+   "Excited States",
+   "HOMO-LUMO",
+   "Molecules",
+   "QSAR"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "University of Wisconsin–Superior",
+   "Environmental Protection Agency"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "13d5933f4c864cef",
+  "title": "Quantitative Structure-Activity Relationships/Comparative Molecular Field Analysis (QSAR/CoMFA) for Receptor-Binding Properties of Halogenated Estradiol Derivatives",
+  "authors": [
+   "Tsvetan G. Gantchev",
+   "Hesham Ali",
+   "Johan E. van Lier"
+  ],
+  "journal": "Journal of Medicinal Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1994-11-01",
+  "year": 1994,
+  "doi": "10.1021/jm00050a013",
+  "url": "https://doi.org/10.1021/jm00050a013",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Catalysis",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Ligands",
+   "Molecules",
+   "QSAR",
+   "SAR"
+  ],
+  "relevance_score": 82,
+  "affiliations": [
+   "Université de Sherbrooke"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "0808dff79ac8670b",
+  "title": "Estimating Toxicity of Organic Chemicals to Activated‐Sludge Microorganisms",
+  "authors": [
+   "Bai‐Wang Sun",
+   "Nagamany Nirmalakhandan",
+   "Elizabeth A. H. Hall",
+   "X. H. Wang",
+   "Jyoti Prakash",
+   "R. Maynes"
+  ],
+  "journal": "Journal of Environmental Engineering",
+  "publisher": "American Society of Civil Engineers",
+  "published": "1994-11-01",
+  "year": 1994,
+  "doi": "10.1061/(asce)0733-9372(1994)120:6(1459)",
+  "url": "https://doi.org/10.1061/(asce)0733-9372(1994)120:6(1459)",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Chemistry",
+   "QSAR"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "New Mexico State University"
   ],
   "added": "2026-07-21"
  }

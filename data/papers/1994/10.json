@@ -1,5 +1,65 @@
 [
  {
+  "id": "36134bb630b85694",
+  "title": "Quantitative Structure-Activity Relationships for Substituted Aromatic Compounds",
+  "authors": [
+   "何艺兵",
+   "刘征涛",
+   "赵元慧",
+   "王连生"
+  ],
+  "journal": "Acta Scientiarum Naturalium Universitatis Sunyatseni",
+  "publisher": "",
+  "published": "1994-10-15",
+  "year": 1994,
+  "doi": "10.1360/sb1994-39-19-1612",
+  "url": "https://doi.org/10.1360/sb1994-39-19-1612",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Molecules",
+   "QSAR",
+   "SAR"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "65833a99b5db65d2",
+  "title": "ChemInform Abstract: QSAR Study on H3‐Receptor Affinity of Benzothiazole Derivatives of Thioperamide.",
+  "authors": [
+   "Fabrizio Bordi",
+   "Marco Mor",
+   "Giuseppina Morini",
+   "Pier Vincenzo Plazzi",
+   "C. Silva",
+   "T Vitali",
+   "Antonio Caretta"
+  ],
+  "journal": "ChemInform",
+  "publisher": "Wiley",
+  "published": "1994-10-04",
+  "year": 1994,
+  "doi": "10.1002/chin.199440154",
+  "url": "https://doi.org/10.1002/chin.199440154",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "QSAR"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Parma"
+  ],
+  "added": "2026-07-21"
+ },
+ {
   "id": "fe162a90e6e1bf85",
   "title": "Intramolecular Dynamics from Eigenstate-Resolved Infrared Spectra",
   "authors": [
@@ -81,6 +141,34 @@
   ],
   "relevance_score": 74,
   "affiliations": [],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "f489429aab3090e2",
+  "title": "Predicting the Quality and Performance of Oilfield Cements Using Artificial Neural Networks and FTIR Spectroscopy",
+  "authors": [
+   "Philip J. Fletcher"
+  ],
+  "journal": "Proceedings of European Petroleum Conference",
+  "publisher": "",
+  "published": "1994-10-01",
+  "year": 1994,
+  "doi": "10.2523/28824-ms",
+  "url": "https://doi.org/10.2523/28824-ms",
+  "source": "openalex",
+  "categories": [
+   "Spectroscopy",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Neural Network",
+   "Spectroscopy"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Schlumberger (Canada)"
+  ],
   "added": "2026-07-21"
  },
  {
@@ -192,6 +280,39 @@
   "added": "2026-07-21"
  },
  {
+  "id": "b0d6c465c69b1f92",
+  "title": "Construction of a molecular shape analysis: three-dimensional quantitative structure-activity relationship for an analog series of pyridobenzodiazepinone inhibitors of muscarinic 2 and 3 receptors",
+  "authors": [
+   "Benjamin J. Burke",
+   "William J. Dunn",
+   "William J. Dunn"
+  ],
+  "journal": "Journal of Medicinal Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1994-10-01",
+  "year": 1994,
+  "doi": "10.1021/jm00048a014",
+  "url": "https://doi.org/10.1021/jm00048a014",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Cheminformatics",
+   "Chemometrics & Statistics"
+  ],
+  "tags": [
+   "Molecules",
+   "PLS",
+   "QSAR",
+   "QSPR",
+   "SAR"
+  ],
+  "relevance_score": 93,
+  "affiliations": [
+   "University of Illinois Chicago"
+  ],
+  "added": "2026-07-21"
+ },
+ {
   "id": "91f7a454da0a7003",
   "title": "Kinetics of Surface Growth: Phenomenology, Scaling, and Mechanisms of Smoothening and Roughening",
   "authors": [
@@ -297,6 +418,36 @@
   "added": "2026-07-21"
  },
  {
+  "id": "8478cf020f8f5f6c",
+  "title": "Analysis of linear and nonlinear QSAR data using neural networks",
+  "authors": [
+   "David T. Manallack",
+   "D.D. Ellis",
+   "David J. Livingstone"
+  ],
+  "journal": "Journal of Medicinal Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1994-10-01",
+  "year": 1994,
+  "doi": "10.1021/jm00048a012",
+  "url": "https://doi.org/10.1021/jm00048a012",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Neural Network",
+   "QSAR"
+  ],
+  "relevance_score": 64,
+  "affiliations": [
+   "New Frontier",
+   "GlaxoSmithKline (United Kingdom)"
+  ],
+  "added": "2026-07-21"
+ },
+ {
   "id": "7b59e598b052558d",
   "title": "Photochemical Reactions in Weakly Bound Clusters",
   "authors": [
@@ -320,6 +471,35 @@
   ],
   "relevance_score": 47,
   "affiliations": [],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "6cf8896274e1514b",
+  "title": "New qsar models for polyhalogenated aromatics",
+  "authors": [
+   "Tapio Nevalainen",
+   "Erkki Kolehmainen"
+  ],
+  "journal": "Environmental Toxicology and Chemistry",
+  "publisher": "Wiley",
+  "published": "1994-10-01",
+  "year": 1994,
+  "doi": "10.1002/etc.5620131020",
+  "url": "https://doi.org/10.1002/etc.5620131020",
+  "source": "openalex",
+  "categories": [
+   "Property Prediction",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Molecules",
+   "QSAR",
+   "Toxicity"
+  ],
+  "relevance_score": 67,
+  "affiliations": [
+   "University of Jyväskylä"
+  ],
   "added": "2026-07-21"
  },
  {
@@ -347,6 +527,35 @@
   "relevance_score": 47,
   "affiliations": [
    "United States Naval Research Laboratory"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "3091e65566ee82a5",
+  "title": "Three-Dimensional Molecular Shape Analysis-Quantitative Structure-Activity Relationship of a Series of Cholecystokinin-A Receptor Antagonists",
+  "authors": [
+   "John S. Tokarski",
+   "A. J. Hopfinger"
+  ],
+  "journal": "Journal of Medicinal Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "1994-10-01",
+  "year": 1994,
+  "doi": "10.1021/jm00047a021",
+  "url": "https://doi.org/10.1021/jm00047a021",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Molecules",
+   "QSAR",
+   "SAR"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "University of Illinois Chicago"
   ],
   "added": "2026-07-21"
  },
