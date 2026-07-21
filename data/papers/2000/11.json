@@ -1,5 +1,68 @@
 [
  {
+  "id": "c8cb17006ee35f3f",
+  "title": "CHIRBASE: Database Current Status and Derived Research Applications Using Molecular Similarity, Decision Tree and 3D “Enantiophore” Search",
+  "authors": [
+   "Christian Roussel",
+   "Johanna Pierrot‐Sanders",
+   "Ingolf Heitmann",
+   "Patrick Piras"
+  ],
+  "journal": "",
+  "publisher": "",
+  "published": "2000-11-29",
+  "year": 2000,
+  "doi": "10.1002/3527600361.ch4",
+  "url": "https://doi.org/10.1002/3527600361.ch4",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Classical ML",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Decision Tree",
+   "Ligands",
+   "Machine Learning",
+   "Molecules"
+  ],
+  "relevance_score": 59,
+  "affiliations": [
+   "Aix-Marseille Université"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "4ef88318ad936efd",
+  "title": "Topological Indices and Related Descriptors in QSAR and QSPR Edited by James Devillers and Alexandru T. Balaban. Gordon and Breach Science Publishers, Amsterdam, The Netherlands. 1999. x + 811 pp. 15.5 × 23.5 cm. ISBN 90-5699-239-2. $198.00.",
+  "authors": [
+   "William J. Dunn"
+  ],
+  "journal": "Journal of Medicinal Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2000-11-21",
+  "year": 2000,
+  "doi": "10.1021/jm000448a",
+  "url": "https://doi.org/10.1021/jm000448a",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Chemistry",
+   "Medicinal Chemistry",
+   "Molecules",
+   "QSAR",
+   "QSPR"
+  ],
+  "relevance_score": 83,
+  "affiliations": [
+   "University of Illinois Chicago"
+  ],
+  "added": "2026-07-21"
+ },
+ {
   "id": "a0a341089414631c",
   "title": "Fluorogenic Polypropionate Fragments for Detecting Stereoselective Aldolases",
   "authors": [
@@ -57,5 +120,283 @@
    "University of Bern"
   ],
   "added": "2026-07-20"
+ },
+ {
+  "id": "bac3c26c2b3807bf",
+  "title": "Inhibition of Monoamine Oxidases by Functionalized Coumarin Derivatives: Biological Activities, QSARs, and 3D-QSARs",
+  "authors": [
+   "Carmela Gnerre",
+   "Marco Catto",
+   "Francesco Leonetti",
+   "P. Weber",
+   "Pierre‐Alain Carrupt",
+   "Cosimo Altomare",
+   "Angelo Carotti",
+   "Bernard Testa"
+  ],
+  "journal": "Journal of Medicinal Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2000-11-11",
+  "year": 2000,
+  "doi": "10.1021/jm001028o",
+  "url": "https://doi.org/10.1021/jm001028o",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "QSAR"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "University of Bari Aldo Moro",
+   "University of Lausanne"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "75a473b54672b207",
+  "title": "Analysis of the Internal Representations Developed by Neural Networks for Structures Applied to Quantitative Structure−Activity Relationship Studies of Benzodiazepines",
+  "authors": [
+   "Alessio Micheli",
+   "Alessandro Sperduti",
+   "Antonina Starita",
+   "Anna Maria Bianucci"
+  ],
+  "journal": "Journal of Chemical Information and Computer Sciences",
+  "publisher": "American Chemical Society",
+  "published": "2000-11-10",
+  "year": 2000,
+  "doi": "10.1021/ci9903399",
+  "url": "https://doi.org/10.1021/ci9903399",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Reaction Prediction",
+   "Cheminformatics",
+   "Deep Learning",
+   "Chemometrics & Statistics"
+  ],
+  "tags": [
+   "Chemistry",
+   "Molecules",
+   "Neural Network",
+   "PCA",
+   "QSAR",
+   "Reactivity",
+   "SAR"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "University of Pisa"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "e62b901049d9493c",
+  "title": "Self-organizing neural networks for modeling 3D QSAR--a comparative study.",
+  "authors": [
+   "Jarosław Polański",
+   "Beata Walczak",
+   "Rafał Gieleciak",
+   "S. Łukaszyk"
+  ],
+  "journal": "PubMed",
+  "publisher": "National Institutes of Health",
+  "published": "2000-11-01",
+  "year": 2000,
+  "doi": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/11293272",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Molecules",
+   "Neural Network",
+   "QSAR"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "University of Silesia in Katowice"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "b03e59a61446ac3b",
+  "title": "[Local anesthetics: part 153. Relation between the chemical structure, physico-chemical properties and biological activity in a series of piperidinopropylesters of alkoxy-substituted phenylcarbamic acids].",
+  "authors": [
+   "Eva Sedlárová",
+   "J Čiẑmárik"
+  ],
+  "journal": "PubMed",
+  "publisher": "National Institutes of Health",
+  "published": "2000-11-01",
+  "year": 2000,
+  "doi": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/11367550",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Chemistry",
+   "QSAR"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "Instituto de Ciências Farmacêuticas"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "a0930d75c0b9ca28",
+  "title": "3-D QSAR analysis of inhibition of murine soluble epoxide hydrolase (MsEH) by benzoylureas, arylureas, and their analogues",
+  "authors": [
+   "Yoshiaki Nakagawa",
+   "Craig E. Wheelock",
+   "Christophe Morisseau",
+   "Marvin H. Goodrow",
+   "Bruce G. Hammock",
+   "Bruce D. Hammock"
+  ],
+  "journal": "Bioorganic & Medicinal Chemistry",
+  "publisher": "Elsevier BV",
+  "published": "2000-11-01",
+  "year": 2000,
+  "doi": "10.1016/s0968-0896(00)00198-x",
+  "url": "https://doi.org/10.1016/s0968-0896(00)00198-x",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "QSAR"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Kyoto University",
+   "University of California, Davis"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "998c36b19badc06e",
+  "title": "Toxicology of benzyl alcohols: a QSAR analysis",
+  "authors": [
+   "Sanjay Kapur",
+   "Alan J. Shusterman",
+   "Rajeshwar P. Verma",
+   "Corwin Hansch",
+   "Cynthia Dias Selassie"
+  ],
+  "journal": "Chemosphere",
+  "publisher": "Elsevier BV",
+  "published": "2000-11-01",
+  "year": 2000,
+  "doi": "10.1016/s0045-6535(00)00019-9",
+  "url": "https://doi.org/10.1016/s0045-6535(00)00019-9",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "QSAR"
+  ],
+  "relevance_score": 52,
+  "affiliations": [
+   "Pomona College",
+   "Reed College"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "8ba5bdd73255c1ce",
+  "title": "Multiple-Conformation and Protonation-State Representation in 4D-QSAR: The Neurokinin-1 Receptor System",
+  "authors": [
+   "Angelo Vedani",
+   "Hans Briem",
+   "Max Dobler",
+   "Horst Dollinger",
+   "Daniel R. McMasters"
+  ],
+  "journal": "Journal of Medicinal Chemistry",
+  "publisher": "American Chemical Society",
+  "published": "2000-11-01",
+  "year": 2000,
+  "doi": "10.1021/jm000986n",
+  "url": "https://doi.org/10.1021/jm000986n",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Cheminformatics",
+   "Optimization"
+  ],
+  "tags": [
+   "Genetic Algorithm",
+   "Ligands",
+   "Molecules",
+   "QSAR"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "ETH Zurich",
+   "Boehringer Ingelheim (Switzerland)"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "20c6c373f3d799d2",
+  "title": "alpha-asarone congeners as hypolipidemic agents. Pseudoreceptor versus minireceptor modeling.",
+  "authors": [
+   "Sławomir Filipek",
+   "Bożena Łozowicka"
+  ],
+  "journal": "PubMed",
+  "publisher": "National Institutes of Health",
+  "published": "2000-11-01",
+  "year": 2000,
+  "doi": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/11293234",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Molecules",
+   "QSAR"
+  ],
+  "relevance_score": 42,
+  "affiliations": [
+   "University of Warsaw"
+  ],
+  "added": "2026-07-21"
+ },
+ {
+  "id": "07ad0a52bba691b8",
+  "title": "A Novel Method for Building Regression Tree Models for QSAR Based on Artificial Ant Colony Systems",
+  "authors": [
+   "Sergei Izrailev",
+   "Dimitris K. Agrafiotis"
+  ],
+  "journal": "Journal of Chemical Information and Computer Sciences",
+  "publisher": "American Chemical Society",
+  "published": "2000-11-01",
+  "year": 2000,
+  "doi": "10.1021/ci000336s",
+  "url": "https://doi.org/10.1021/ci000336s",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "QSAR",
+   "SAR"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-07-21"
  }
 ]
