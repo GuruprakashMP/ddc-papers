@@ -58,9 +58,11 @@ def clean_text(value: object) -> str:
     """Collapse whitespace and strip markup-ish artifacts from API strings."""
     if not value:
         return ""
-    text = str(value)
-    # crude but dependency-free tag removal (JATS/HTML abstracts)
+    import html
     import re
+    # decode entities first (&lt;sup&gt; -> <sup>) so tag removal catches them
+    text = html.unescape(str(value))
+    # crude but dependency-free tag removal (JATS/HTML abstracts)
     text = re.sub(r"<[^>]+>", " ", text)
     text = re.sub(r"\s+", " ", text)
     return text.strip()
