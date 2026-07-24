@@ -279,17 +279,20 @@
 
     function render() {
       var needle = val("dir-q").toLowerCase().trim();
+      var cat = val("dir-cat");
+      var catParam = cat ? "&cat=" + encodeURIComponent(cat) : "";
       var out = needle
         ? names.filter(function (n) { return n.toLowerCase().indexOf(needle) !== -1; })
         : names;
       document.getElementById("result-count").textContent =
-        out.length.toLocaleString() + " " + title.toLowerCase();
+        out.length.toLocaleString() + " " + title.toLowerCase() +
+        (cat ? " in " + cat : "");
       document.getElementById("load-state").textContent =
         complete ? "" : "loading full archive…";
       document.getElementById("dir-list").innerHTML =
         out.slice(0, 1500).map(function (n) {
           return '<li><a href="?' + (isAuthor ? "a" : "j") + "=" +
-            encodeURIComponent(n) + '">' + esc(n) + '</a>' +
+            encodeURIComponent(n) + catParam + '">' + esc(n) + '</a>' +
             '<span class="count">' + counts[n] + "</span></li>";
         }).join("") +
         (out.length > 1500
@@ -309,20 +312,30 @@
 
   function detailPage(kind, name) {
     var isAuthor = kind === "authors";
-    var built = false;
+    var cat = params().get("cat");
+    var baseName = isAuthor ? "authors" : "journals";
     return function onData(papers, complete) {
-      var matches = papers.filter(function (p) {
+      var all = papers.filter(function (p) {
         return isAuthor ? p.authors.indexOf(name) !== -1 : p.journal === name;
       });
+      var matches = cat
+        ? all.filter(function (p) { return (p.categories || []).indexOf(cat) !== -1; })
+        : all;
       document.title = name + " · DataDrivenChemistryPapers";
-      app.innerHTML = "<h1>" + esc(name) + "</h1>" +
-        '<p class="result-meta"><span>' + matches.length.toLocaleString() +
+      var meta = matches.length.toLocaleString() +
         " paper" + (matches.length === 1 ? "" : "s") +
-        (complete ? "" : " so far — loading full archive…") + "</span>" +
-        '<a href="' + ROOT + (isAuthor ? "authors" : "journals") + '.html">← All ' +
-        (isAuthor ? "authors" : "journals") + "</a></p>" +
+        (cat ? " in " + esc(cat) : "") +
+        (complete ? "" : " so far — loading full archive…");
+      var showAll = (cat && all.length > matches.length)
+        ? ' · <a href="?' + (isAuthor ? "a" : "j") + "=" + encodeURIComponent(name) +
+          '">show all ' + all.length.toLocaleString() + " papers</a>"
+        : "";
+      app.innerHTML = "<h1>" + esc(name) + "</h1>" +
+        '<p class="result-meta"><span>' + meta + showAll + "</span>" +
+        '<a href="' + ROOT + baseName + ".html" +
+        (cat ? "?cat=" + encodeURIComponent(cat) : "") + '">← All ' +
+        baseName + "</a></p>" +
         '<div id="results">' + matches.map(renderCard).join("") + "</div>";
-      built = true;
     };
   }
 
