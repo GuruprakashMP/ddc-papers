@@ -151,7 +151,9 @@
       fillOptions("f-year", uniq(papers.map(function (p) {
         return String((p.published || "").slice(0, 4));
       })).sort().reverse(), q.get("year"));
-      fillOptions("f-category", uniqCount(papers, "categories"), q.get("category"));
+      fillOptions("f-category", uniqCount(papers, "categories").sort(function (a, b) {
+        return a.localeCompare(b);
+      }), q.get("category"));
       fillOptions("f-journal", uniqCount(papers, "journal"), q.get("journal"));
       fillOptions("f-source", uniq(papers.map(function (p) { return p.source; })).sort(),
                   q.get("source"));
@@ -304,7 +306,9 @@
       papers = newPapers;
       complete = isComplete;
       if (!built) { build(); built = true; }
-      fillOptions("dir-cat", uniqCount(papers, "categories"), q.get("cat"));
+      fillOptions("dir-cat", uniqCount(papers, "categories").sort(function (a, b) {
+        return a.localeCompare(b);
+      }), q.get("cat"));
       recount();
       render();
     };

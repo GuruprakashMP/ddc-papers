@@ -188,7 +188,7 @@ def _categories_page(papers: List[Paper], ctx: dict) -> str:
     items = "\n".join(
         f'<li><a href="../search.html?category={esc(cat)}">{esc(cat)}</a>'
         f'<span class="count">{count:,}</span></li>'
-        for cat, count in counts.most_common())
+        for cat, count in sorted(counts.items()))  # alphabetical for findability
     content = f"""
 <h1>Categories</h1>
 <p>Every paper belongs to several categories — a chemistry field and the
