@@ -100,12 +100,10 @@ def paper_card(paper: Paper, search_href: str = "search.html") -> str:
         if tag not in paper.categories:
             chips.append(
                 f'<a class="chip" href="{search_href}?q={esc(tag)}">{esc(tag)}</a>')
-    doi_btn = (
-        f'<a class="btn" href="https://doi.org/{esc(paper.doi)}" target="_blank" '
-        f'rel="noopener">DOI</a>' if paper.doi else "")
+    link = paper.url or _doi_url(paper)
     original = (
-        f'<a class="btn btn-primary" href="{esc(paper.url)}" target="_blank" '
-        f'rel="noopener">Original paper ↗</a>' if paper.url else "")
+        f'<a class="btn btn-primary" href="{esc(link)}" target="_blank" '
+        f'rel="noopener">Original paper ↗</a>' if link != "#" else "")
     journal = f'<span class="meta-journal">{esc(paper.journal)}</span> · ' if paper.journal else ""
     return f"""<article class="card">
 <h3 class="card-title"><a href="{esc(paper.url or _doi_url(paper))}"
@@ -116,7 +114,7 @@ def paper_card(paper: Paper, search_href: str = "search.html") -> str:
  <span class="score {score_class(paper.relevance_score)}"
  title="Relevance score">{paper.relevance_score}</span></p>
 <p class="card-chips">{''.join(chips)}</p>
-<p class="card-actions">{doi_btn}{original}</p>
+<p class="card-actions">{original}</p>
 </article>"""
 
 

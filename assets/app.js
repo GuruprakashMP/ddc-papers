@@ -51,9 +51,8 @@
         chips += '<a class="chip" href="' + ROOT + 'search.html?q=' +
           encodeURIComponent(t) + '">' + esc(t) + "</a>";
     });
-    var doiBtn = p.doi ? '<a class="btn" href="https://doi.org/' + esc(p.doi) +
-      '" target="_blank" rel="noopener">DOI</a>' : "";
-    var orig = p.url ? '<a class="btn btn-primary" href="' + esc(p.url) +
+    var link = p.url || (p.doi ? "https://doi.org/" + p.doi : "");
+    var orig = link ? '<a class="btn btn-primary" href="' + esc(link) +
       '" target="_blank" rel="noopener">Original paper ↗</a>' : "";
     var journal = p.journal
       ? '<a class="meta-journal" href="' + ROOT + 'journals.html?j=' +
@@ -68,7 +67,7 @@
       '<span class="score ' + scoreClass(p.score) + '" title="Relevance score">' +
       p.score + "</span></p>" +
       '<p class="card-chips">' + chips + "</p>" +
-      '<p class="card-actions">' + doiBtn + orig + "</p></article>";
+      '<p class="card-actions">' + orig + "</p></article>";
   }
 
   // ---------------------------------------------------------------- data
@@ -251,17 +250,25 @@
 
     function build() {
       app.innerHTML = "<h1>" + title + "</h1>" +
-        '<div class="filter-bar"><input type="search" id="dir-q" placeholder="Filter ' +
-        title.toLowerCase() + '…"></div>' +
+        '<div class="filter-bar">' +
+        '<input type="search" id="dir-q" placeholder="Filter ' +
+        title.toLowerCase() + '…">' +
+        '<select id="dir-cat"><option value="">All categories</option></select>' +
+        "</div>" +
         '<p class="result-meta"><span id="result-count"></span>' +
         '<span id="load-state" class="load-state"></span></p>' +
         '<ul class="dir-list" id="dir-list"></ul>';
       document.getElementById("dir-q").addEventListener("input", render);
+      document.getElementById("dir-cat").addEventListener("change", function () {
+        recount(); render();
+      });
     }
 
     function recount() {
+      var cat = val("dir-cat");
       counts = {};
       papers.forEach(function (p) {
+        if (cat && (p.categories || []).indexOf(cat) === -1) return;
         var ns = isAuthor ? p.authors : (p.journal ? [p.journal] : []);
         ns.forEach(function (n) { counts[n] = (counts[n] || 0) + 1; });
       });
@@ -294,6 +301,7 @@
       papers = newPapers;
       complete = isComplete;
       if (!built) { build(); built = true; }
+      fillOptions("dir-cat", uniqCount(papers, "categories"), q.get("cat"));
       recount();
       render();
     };

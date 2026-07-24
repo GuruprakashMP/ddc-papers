@@ -157,29 +157,12 @@ def _write_data_shards(papers: List[Paper], out_dir: Path) -> None:
 
 def _homepage(papers: List[Paper], settings: Settings, ctx: dict) -> str:
     latest = papers[: settings.homepage_paper_count]
-    n_journals = len({p.journal for p in papers if p.journal})
-    n_authors = len({a for p in papers for a in p.authors})
-    updated = dt.date.today().isoformat()
     cards = "\n".join(paper_card(p) for p in latest)
     content = f"""
-<section class="hero">
-  <h1>{esc(ctx['site_title'])}</h1>
-  <p class="tagline">{esc(ctx['tagline'])}</p>
-  <form class="hero-search" action="search.html" method="get">
-    <input type="search" name="q" placeholder="Search titles, authors, journals, methods, reactions…" aria-label="Search">
-    <button type="submit">Search</button>
-  </form>
-  <p class="stats">
-    <span><strong>{len(papers):,}</strong> papers</span>
-    <span><strong>{n_journals:,}</strong> journals</span>
-    <span><strong>{n_authors:,}</strong> authors</span>
-    <span>updated <strong>{esc(updated)}</strong></span>
-  </p>
-</section>
 <section>
-  <h2>Latest papers</h2>
+  <h1>Latest papers</h1>
   {cards if cards else '<p class="empty">No papers indexed yet — the first pipeline run will populate this page.</p>'}
-  <p class="more"><a class="btn btn-primary" href="search.html">Browse &amp; search all papers →</a></p>
+  <p class="more"><a class="btn btn-primary" href="search.html">Browse &amp; search all {len(papers):,} papers →</a></p>
 </section>"""
     return page(title=ctx["site_title"], content=content, depth=0,
                 active="index.html", **ctx)
