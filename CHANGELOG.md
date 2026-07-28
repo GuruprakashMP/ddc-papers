@@ -2,6 +2,29 @@
 
 All notable changes to DataDrivenChemistryPapers.
 
+## [1.1.1] — 2026-07-28
+
+### Fixed
+- **One researcher is now one author page.** Publisher metadata carries
+  Unicode dashes and honorifics, so the same person fragmented across
+  several pages — the U+2010 spelling of a hyphenated name and the ASCII
+  spelling everyone types were different keys. 12,015 stored names were rewritten
+  (Aspuru-Guzik, Gómez-Bombarelli, Reymond and more).
+
+  New `models.normalize_author` (NFC, Unicode dashes -> ASCII `-`,
+  invisible-space cleanup, leading honorifics dropped) is applied in
+  `pipeline.process_records`, the single path shared by the daily run and
+  the backfill. `tools/normalize_authors.py` migrates already-stored
+  shards; it is idempotent, dry-run by default, and verifies each write.
+  `app.js` normalizes the incoming `?a=` value so pre-existing links and
+  bookmarks still resolve.
+- Deliberately not merged: initials vs full given names, and hyphen-less
+  spellings — those would fuse distinct researchers, since surnames like
+  "Li", "Hu" and "Wu" occur as complete names in this data. A trailing
+  period is preserved because many names legitimately end in an initial.
+- Paper ids and `data/state/seen.json` are byte-identical before and after
+  the migration: author names never feed identity or dedupe keys.
+
 ## [1.1.0] — 2026-07-20
 
 ### Added
