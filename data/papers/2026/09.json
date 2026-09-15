@@ -101,6 +101,64 @@
   "added": "2026-09-12"
  },
  {
+  "id": "aeba91eb2b4a48e2",
+  "title": "Predicting room temperature phosphorescence of new organic molecules by combining physical models and data-driven methods",
+  "authors": [
+   "Wu X",
+   "Troisi A."
+  ],
+  "journal": "Chemical science",
+  "publisher": "",
+  "published": "2026-09-15",
+  "year": 2026,
+  "doi": "",
+  "url": "https://europepmc.org/article/PMC/PMC13572978",
+  "source": "europepmc",
+  "categories": [
+   "Machine Learning"
+  ],
+  "tags": [
+   "Data-Driven",
+   "Molecules"
+  ],
+  "relevance_score": 53,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "850d23d87e1e02b9",
+  "title": "Exploration of groups and outliers in Gaia RVS stellar spectra with metric learning",
+  "authors": [
+   "Yarden Eilat Bloch",
+   "Dovi Poznanski",
+   "Nick L. J. Cox",
+   "Emmanuel Bernhard",
+   "Iain McDonald",
+   "Manuela Rauch",
+   "Albert Zijlstra"
+  ],
+  "journal": "The Open Journal of Astrophysics",
+  "publisher": "Maynooth University",
+  "published": "2026-09-15",
+  "year": 2026,
+  "doi": "10.33232/001c.170682",
+  "url": "https://doi.org/10.33232/001c.170682",
+  "source": "crossref",
+  "categories": [
+   "Spectroscopy",
+   "Machine Learning",
+   "Classical ML"
+  ],
+  "tags": [
+   "Dimensionality Reduction",
+   "Self-Supervised",
+   "Spectroscopy"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
   "id": "6351dcc8b425847f",
   "title": "DL_FFLUX Refactored: Accelerating Quantum Chemical Topology Simulations With Optimized Parallelization.",
   "authors": [
@@ -169,6 +227,245 @@
   "added": "2026-09-14"
  },
  {
+  "id": "41fc6143a91ac6de",
+  "title": "Learning Interpretable Activity Descriptors Directly from Measurement Features in Heterogeneous Catalysis",
+  "authors": [
+   "Yoshiki Hasukawa",
+   "Fernando Garcia-Escobar",
+   "Lauren Takahashi",
+   "Keisuke Takahashi"
+  ],
+  "journal": "The Journal of Physical Chemistry Letters",
+  "publisher": "American Chemical Society (ACS)",
+  "published": "2026-09-15",
+  "year": 2026,
+  "doi": "10.1021/acs.jpclett.6c02053",
+  "url": "https://doi.org/10.1021/acs.jpclett.6c02053",
+  "source": "crossref",
+  "categories": [
+   "Catalysis",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Catalysis",
+   "Heterogeneous Catalysis",
+   "Machine Learning"
+  ],
+  "relevance_score": 74,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "25116eb4c00818c6",
+  "title": "Protein language model-generated enzyme sequences exhibit high stability in molecular dynamics simulations",
+  "authors": [
+   "Fassi E",
+   "Nicolini M",
+   "Saitto E",
+   "Valentini G",
+   "Casiraghi E",
+   "Grazioso G."
+  ],
+  "journal": "Frontiers in artificial intelligence",
+  "publisher": "",
+  "published": "2026-09-15",
+  "year": 2026,
+  "doi": "",
+  "url": "https://europepmc.org/article/PMC/PMC13572599",
+  "source": "europepmc",
+  "categories": [
+   "Computational Chemistry",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "LLM",
+   "Molecular Dynamics",
+   "Molecules"
+  ],
+  "relevance_score": 50,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "f83e072d6a9aab60",
+  "title": "Infrared spectroscopy with statistical analysis and machine learning for cancer risk assessment in inflammatory bowel disease patients.",
+  "authors": [
+   "Kumi-Barimah E",
+   "Toman R",
+   "Jha A",
+   "Ali S",
+   "Subramanian V."
+  ],
+  "journal": "The Analyst",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1039/d6an00649c",
+  "url": "https://doi.org/10.1039/d6an00649c",
+  "source": "europepmc",
+  "categories": [
+   "Spectroscopy",
+   "Chemometrics & Statistics",
+   "Machine Learning",
+   "Cheminformatics",
+   "Classical ML"
+  ],
+  "tags": [
+   "Chemometrics",
+   "Clustering",
+   "Fingerprints",
+   "IR Spectroscopy",
+   "Machine Learning",
+   "Molecules",
+   "PCA",
+   "Spectroscopy"
+  ],
+  "relevance_score": 74,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "ee21965547046735",
+  "title": "MolSelector: A Machine Learning Framework for Interpretable Subset Selection from Molecular Science Data Sets.",
+  "authors": [
+   "Caitlin Whitter",
+   "Aurora Evelyn Clark",
+   "Alex Pothen",
+   "Rajiv Khanna"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c01332",
+  "url": "https://doi.org/10.1021/acs.jcim.6c01332",
+  "source": "pubmed",
+  "categories": [
+   "Property Prediction",
+   "Machine Learning",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Machine Learning",
+   "Molecules",
+   "Neural Network",
+   "Property Prediction"
+  ],
+  "relevance_score": 74,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "ed0565a09ded5707",
+  "title": "MMU-DPI: Enhancing Generalization in Drug-Protein Interaction Prediction through Multimodal Learning and a Label Mix Strategy.",
+  "authors": [
+   "Jiahao Wei",
+   "Tie Shen"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c01188",
+  "url": "https://doi.org/10.1021/acs.jcim.6c01188",
+  "source": "pubmed",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Graph Neural Networks",
+   "Deep Learning"
+  ],
+  "tags": [
+   "CNN",
+   "Drug Discovery",
+   "Graph Neural Network",
+   "Molecules",
+   "Neural Network"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "ea0880849346832d",
+  "title": "From implicit prioritization to auditable decisions in natural product drug discovery.",
+  "authors": [
+   "Amit Gangwal",
+   "Antonio Lavecchia"
+  ],
+  "journal": "Drug discovery today",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1016/j.drudis.2026.104804",
+  "url": "https://doi.org/10.1016/j.drudis.2026.104804",
+  "source": "pubmed",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Organic Chemistry",
+   "Spectroscopy",
+   "Cheminformatics",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Cheminformatics",
+   "Chemistry",
+   "Drug Discovery",
+   "Mass Spectrometry",
+   "Molecules",
+   "Natural Products"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "e824bd7c2a965562",
+  "title": "Integrating Molecular Semantics and Three-Dimensional Geometry for Critical Property Prediction: A Multimodal GNN-BERT Framework",
+  "authors": [
+   "Beibei Wang",
+   "Zhuoyao Lv",
+   "Nan Ning",
+   "Yichen Zhang",
+   "Jiquan Zhang"
+  ],
+  "journal": "Molecules",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.3390/molecules31183251",
+  "url": "https://doi.org/10.3390/molecules31183251",
+  "source": "openalex",
+  "categories": [
+   "Property Prediction",
+   "Physical Chemistry",
+   "Graph Neural Networks",
+   "Cheminformatics",
+   "Classical ML",
+   "Machine Learning",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Data-Driven",
+   "Graph Neural Network",
+   "Machine Learning",
+   "Molecules",
+   "Neural Network",
+   "Property Prediction",
+   "Random Forest",
+   "SMILES",
+   "SVM",
+   "Thermodynamics"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "Changchun Institute of Technology",
+   "Northeast Normal University"
+  ],
+  "added": "2026-09-15"
+ },
+ {
   "id": "e6b9c5d924f0fb82",
   "title": "Constructing Microstructured Starch Films via Hydrogen Bonding Manipulation for Transient Flexible Electronics.",
   "authors": [
@@ -204,6 +501,45 @@
   "added": "2026-09-13"
  },
  {
+  "id": "e56cacd485e31847",
+  "title": "AutoMulti: An Integrated Graphical Platform for Computational Chemistry Analysis and Molecular Data Generation.",
+  "authors": [
+   "Yubang Liu",
+   "Jiaxin Lin",
+   "Chuanyi Xiong",
+   "Yinwu Li",
+   "Zhuofeng Ke"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c01910",
+  "url": "https://doi.org/10.1021/acs.jcim.6c01910",
+  "source": "pubmed",
+  "categories": [
+   "Computational Chemistry",
+   "Catalysis",
+   "Graph Neural Networks",
+   "Machine Learning",
+   "Chemometrics & Statistics",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Catalysis",
+   "Chemistry",
+   "Computational Chemistry",
+   "Graph Neural Network",
+   "Machine Learning",
+   "Molecules",
+   "Neural Network",
+   "Statistical Modeling"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
   "id": "e102447906b18f9e",
   "title": "Flat interface between amorphous ices and the role of MDA-like intermediate states in the LDA-HDA transformation.",
   "authors": [
@@ -231,6 +567,118 @@
   "relevance_score": 58,
   "affiliations": [],
   "added": "2026-09-10"
+ },
+ {
+  "id": "ddc950aaa055ab1e",
+  "title": "Data-Driven Critical Evaluation of the General Solubility Equation.",
+  "authors": [
+   "Esteban Bertsch-Aguilar",
+   "Nahomy Quirós",
+   "Frederick Schosinsky",
+   "Silvana Pinheiro",
+   "José L Medina-Franco",
+   "William J Zamora"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c01182",
+  "url": "https://doi.org/10.1021/acs.jcim.6c01182",
+  "source": "pubmed",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Property Prediction",
+   "Physical Chemistry",
+   "Cheminformatics",
+   "Machine Learning",
+   "Computational Chemistry"
+  ],
+  "tags": [
+   "Cheminformatics",
+   "Chemistry",
+   "Data-Driven",
+   "In Silico",
+   "Machine Learning",
+   "Medicinal Chemistry",
+   "Melting Point",
+   "Molecules",
+   "SMILES",
+   "Solubility",
+   "Thermodynamics"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "dba99e4012cd61af",
+  "title": "Chemically Interpretable Explanations for Molecular Property Prediction via Fragment-Level Shapley Values.",
+  "authors": [
+   "Jannik P Roth"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c01425",
+  "url": "https://doi.org/10.1021/acs.jcim.6c01425",
+  "source": "pubmed",
+  "categories": [
+   "Property Prediction",
+   "Drug Discovery Chemistry",
+   "Graph Neural Networks",
+   "Classical ML",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Drug Discovery",
+   "Graph Neural Network",
+   "Machine Learning",
+   "Molecules",
+   "Property Prediction",
+   "Random Forest",
+   "Solubility"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "cbb7f2b9fb0696b8",
+  "title": "Artificial intelligence integration into biological sciences: Applications, opportunities and challenges",
+  "authors": [
+   "Fahad Shafiq"
+  ],
+  "journal": "International Journal of Applied and Experimental Biology",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.56612/ijaaeb.v6i1.259",
+  "url": "https://doi.org/10.56612/ijaaeb.v6i1.259",
+  "source": "openalex",
+  "categories": [
+   "Organic Chemistry",
+   "Drug Discovery Chemistry",
+   "Spectroscopy",
+   "Deep Learning",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Chemistry",
+   "Deep Learning",
+   "Drug Discovery",
+   "Machine Learning",
+   "Spectroscopy",
+   "Stereoselectivity"
+  ],
+  "relevance_score": 83,
+  "affiliations": [
+   "Government College University, Lahore"
+  ],
+  "added": "2026-09-15"
  },
  {
   "id": "c8addd095890a7f7",
@@ -262,6 +710,234 @@
   "added": "2026-09-14"
  },
  {
+  "id": "c79d218cab745404",
+  "title": "Differentiable Thermodynamic Phase-Equilibria for Machine Learning.",
+  "authors": [
+   "Karim K Ben Hicham",
+   "Moreno Ascani",
+   "Jan G Rittig",
+   "Alexander Mitsos"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c00728",
+  "url": "https://doi.org/10.1021/acs.jcim.6c00728",
+  "source": "pubmed",
+  "categories": [
+   "Physical Chemistry",
+   "Machine Learning",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Machine Learning",
+   "Neural Network",
+   "Thermodynamics"
+  ],
+  "relevance_score": 68,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "c0e725d9de87dd16",
+  "title": "Improving Reliability of Machine Learning Interatomic Potentials with Physics-Informed Pretraining.",
+  "authors": [
+   "Qianyu Zheng",
+   "Victor Fung"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c00826",
+  "url": "https://doi.org/10.1021/acs.jcim.6c00826",
+  "source": "pubmed",
+  "categories": [
+   "Computational Chemistry",
+   "ML Potentials & Force Fields",
+   "Machine Learning"
+  ],
+  "tags": [
+   "ML Potential",
+   "Machine Learning",
+   "Molecular Dynamics",
+   "Molecules"
+  ],
+  "relevance_score": 80,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "bdb14c4f232b7731",
+  "title": "Toward Imbalanced Molecular Property Regression: A Benchmark Study and Interval-Aware Mixture of Experts.",
+  "authors": [
+   "Yan Sun",
+   "Yu Shi",
+   "Alana Deng",
+   "Zihao Jing",
+   "Carson Leung",
+   "Pingzhao Hu"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c01847",
+  "url": "https://doi.org/10.1021/acs.jcim.6c01847",
+  "source": "pubmed",
+  "categories": [
+   "Property Prediction",
+   "Drug Discovery Chemistry",
+   "Graph Neural Networks",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Drug Discovery",
+   "Graph Neural Network",
+   "Molecules",
+   "Neural Network",
+   "Property Prediction"
+  ],
+  "relevance_score": 86,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "b6ff1bed06a70dd4",
+  "title": "Combining Device Information and Molecular Fingerprints into a Global Model for Reliable Prediction of Power Conversion Efficiency of Dye-Sensitized Solar Cells.",
+  "authors": [
+   "Ana María Juárez Marckwordt",
+   "Paul F A Clarke",
+   "Hanoch Senderowitz"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c01826",
+  "url": "https://doi.org/10.1021/acs.jcim.6c01826",
+  "source": "pubmed",
+  "categories": [
+   "Electrochemistry & Batteries",
+   "Cheminformatics",
+   "Classical ML",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Electrochemistry",
+   "Fingerprints",
+   "Gradient Boosting",
+   "Machine Learning",
+   "Molecules"
+  ],
+  "relevance_score": 90,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "b5acb227be8cc85e",
+  "title": "Predictive modelling and experimental analysis of radiation-resistant MXene-silicon heterojunction solar cells.",
+  "authors": [
+   "Deepthi Jayan K",
+   "Elsaeedy H I",
+   "Krishna Prasad S",
+   "Gabr Goshu Syum"
+  ],
+  "journal": "Discover nano",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1186/s11671-026-04932-9",
+  "url": "https://doi.org/10.1186/s11671-026-04932-9",
+  "source": "pubmed",
+  "categories": [
+   "Spectroscopy",
+   "Classical ML",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Machine Learning",
+   "Predictive Model",
+   "Raman",
+   "Random Forest",
+   "Spectroscopy",
+   "XRD"
+  ],
+  "relevance_score": 74,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "b26bf63e8f466494",
+  "title": "The Chemical Imitation Game: Navigating Spaces of Meaning in Language and Chemistry.",
+  "authors": [
+   "Stefano Moro"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c01773",
+  "url": "https://doi.org/10.1021/acs.jcim.6c01773",
+  "source": "pubmed",
+  "categories": [
+   "Cheminformatics",
+   "Transformers & LLMs",
+   "Generative Models",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemical Space",
+   "Chemistry",
+   "Fingerprints",
+   "Generative AI",
+   "Generative Model",
+   "LLM",
+   "Machine Learning",
+   "Molecules",
+   "SMILES"
+  ],
+  "relevance_score": 96,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "a896ae9f3ab2a0eb",
+  "title": "Bioactive Gold Plasmonic Interfaces Meet Artificial Intelligence: Advancing Saliva-Based Surface-Enhanced Raman Spectroscopy Diagnostics.",
+  "authors": [
+   "Dhal A",
+   "Aviña AE",
+   "Hang NLT",
+   "Peng PW",
+   "Chang CJ",
+   "Yang TS."
+  ],
+  "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1002/smll.75720",
+  "url": "https://doi.org/10.1002/smll.75720",
+  "source": "europepmc",
+  "categories": [
+   "Spectroscopy",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Chemistry",
+   "Molecules",
+   "Raman",
+   "Spectroscopy"
+  ],
+  "relevance_score": 68,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
   "id": "9ec676817e18166d",
   "title": "Peptide Aptamers: Innovative Design and Applications in Pathogen Detection.",
   "authors": [
@@ -290,6 +966,243 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-09-01"
+ },
+ {
+  "id": "9131a13a61b7f747",
+  "title": "MSR-ARN: A Multiscale Residual Attentive Deep Learning Framework for Chemical Space-Guided Prediction of Selective MMP-12 Inhibitors.",
+  "authors": [
+   "Indrasis Dasgupta",
+   "Abhay Nath",
+   "Sanskruti Patel",
+   "Shovanlal Gayen"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c01234",
+  "url": "https://doi.org/10.1021/acs.jcim.6c01234",
+  "source": "pubmed",
+  "categories": [
+   "Cheminformatics",
+   "Drug Discovery Chemistry",
+   "Deep Learning",
+   "Machine Learning",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Chemical Space",
+   "Chemistry",
+   "Deep Learning",
+   "Drug Discovery",
+   "Machine Learning",
+   "Molecules",
+   "Predictive Model",
+   "SAR",
+   "Transformer"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "86433d773135e6e6",
+  "title": "Machine learning models for adverse drug reaction prediction. A systematic review and three-level multilevel meta-analysis",
+  "authors": [
+   "Giorgio Cappello",
+   "Christoph Oster",
+   "Teresa Schmidt",
+   "Jana Grieger",
+   "Leon Jekel",
+   "Kathrin Kizina",
+   "Yahya Ahmadipour",
+   "Laurèl Rauschenbach",
+   "Philipp Dammann",
+   "Ulrich Sure",
+   "Kathy Keyvani",
+   "Andreas Junker",
+   "Lazaros Lazaridis",
+   "Martin Stuschke",
+   "Christoph Pöttgen",
+   "Björn Scheffler",
+   "Christoph Kleinschnitz",
+   "Sied Kebir"
+  ],
+  "journal": "Frontiers in Pharmacology",
+  "publisher": "Frontiers Media",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.3389/fphar.2026.1906920",
+  "url": "https://doi.org/10.3389/fphar.2026.1906920",
+  "source": "openalex",
+  "categories": [
+   "Reaction Prediction",
+   "Machine Learning",
+   "Classical ML",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Data-Driven",
+   "Machine Learning",
+   "Neural Network",
+   "Random Forest",
+   "Reaction Prediction",
+   "kNN"
+  ],
+  "relevance_score": 75,
+  "affiliations": [
+   "University of Duisburg-Essen",
+   "Düsseldorf University Hospital",
+   "West German Heart and Vascular Center Essen",
+   "Heinrich Heine University Düsseldorf",
+   "Universitätsklinikum Knappschaftskrankenhaus Bochum",
+   "German Cancer Research Center"
+  ],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "8574bac4845281cd",
+  "title": "CFD–ML Synergistic Modeling of NH3–CH4 Combustion in a Model Gas Turbine",
+  "authors": [
+   "Richie Shaji Mathew",
+   "Aswitha Tadepalli",
+   "Raja Banerjee",
+   "Sayak Banerjee",
+   "Kishalay Mitra"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1021/acs.iecr.6c01524",
+  "url": "https://doi.org/10.1021/acs.iecr.6c01524",
+  "source": "openalex",
+  "categories": [
+   "Physical Chemistry",
+   "Bayesian Optimization",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Gaussian Process",
+   "Kinetics",
+   "Machine Learning"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "Indian Institute of Technology Hyderabad"
+  ],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "83a39ddae161b5c7",
+  "title": "Self-Limiting Oxide Dielectric Enables Interface-State Engineering in p-Type m-GaTe Transistors Toward Bio-Inspired Visual Recognition.",
+  "authors": [
+   "Gao B",
+   "Xu R",
+   "Shao H",
+   "Zhang S",
+   "Zhang Y",
+   "Wu Z",
+   "Shen Y",
+   "Meng Y",
+   "Wang W",
+   "Hu S",
+   "Li B",
+   "Xie P",
+   "Yip S",
+   "Lu Y",
+   "Ho JC."
+  ],
+  "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1002/smll.75621",
+  "url": "https://doi.org/10.1002/smll.75621",
+  "source": "europepmc",
+  "categories": [
+   "Spectroscopy",
+   "Deep Learning",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "CNN",
+   "Chemistry",
+   "Neural Network",
+   "Spectroscopy"
+  ],
+  "relevance_score": 53,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "7a5a56142de3dfba",
+  "title": "Code and data for \"Representation, Transferability, and Trustworthy Uncertainty in Machine-Learning Prediction of the HOMO–LUMO Gap of Transition-Metal Complexes\"",
+  "authors": [
+   "Ali A. Khairbek"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.5281/zenodo.22756791",
+  "url": "https://doi.org/10.5281/zenodo.22756791",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "DFT",
+   "Machine Learning"
+  ],
+  "relevance_score": 54,
+  "affiliations": [
+   "Chandigarh University"
+  ],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "72e1d270057f1dcd",
+  "title": "Targeting BCL-2 through Deep Learning-Based Drug Repurposing: A Multimodal Approach Combining Diffusion-Based Generative Modeling, Neural Relational Inference, and In Vitro Validation.",
+  "authors": [
+   "Ehsan Sayyah",
+   "Hüseyin Tunç",
+   "Asuman Çelebi",
+   "Timuçin Avşar",
+   "Serdar Durdağı"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c01299",
+  "url": "https://doi.org/10.1021/acs.jcim.6c01299",
+  "source": "pubmed",
+  "categories": [
+   "Catalysis",
+   "Computational Chemistry",
+   "Drug Discovery Chemistry",
+   "Cheminformatics",
+   "Deep Learning",
+   "Generative Models"
+  ],
+  "tags": [
+   "Deep Learning",
+   "Docking",
+   "Generative Model",
+   "Ligands",
+   "Molecular Dynamics",
+   "Molecules",
+   "Protein-Ligand",
+   "QSAR"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-09-15"
  },
  {
   "id": "723f0286b2781bb1",
@@ -325,6 +1238,285 @@
   "relevance_score": 74,
   "affiliations": [],
   "added": "2026-09-11"
+ },
+ {
+  "id": "6b7e944331096c11",
+  "title": "AI-Driven Drug-Target Interaction Prediction: From Data Representation to Model Design.",
+  "authors": [
+   "Jiaxuan Hu",
+   "Lianlian Wu",
+   "Song He",
+   "Xiaochen Bo",
+   "Jiang Lu"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c01920",
+  "url": "https://doi.org/10.1021/acs.jcim.6c01920",
+  "source": "pubmed",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Cheminformatics",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Data-Driven",
+   "Docking",
+   "Drug Discovery",
+   "Molecules",
+   "Virtual Screening"
+  ],
+  "relevance_score": 81,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "6b34d0bb2a3f9595",
+  "title": "Phase-stability-guided explainable machine learning for mechanical-property prediction and experimentally supported candidate screening of high-entropy alloys",
+  "authors": [
+   "Derong Yuan",
+   "Delin Yuan",
+   "Xiaoyu Xu"
+  ],
+  "journal": "Frontiers in Materials",
+  "publisher": "Frontiers Media",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.3389/fmats.2026.1933571",
+  "url": "https://doi.org/10.3389/fmats.2026.1933571",
+  "source": "openalex",
+  "categories": [
+   "Property Prediction",
+   "Materials Chemistry",
+   "Machine Learning",
+   "Classical ML"
+  ],
+  "tags": [
+   "Alloys",
+   "Chemistry",
+   "Machine Learning",
+   "Property Prediction",
+   "Uncertainty",
+   "XGBoost"
+  ],
+  "relevance_score": 98,
+  "affiliations": [
+   "Jiangxi College of Applied Technology"
+  ],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "6b035fb32563ba14",
+  "title": "Covalent Organic Frameworks-Based Hybrid Materials for Electrochemical Energy Storage: Advances in Supercapacitors and Batteries.",
+  "authors": [
+   "Basit Ali Khan",
+   "Syeda Rubab",
+   "Tongsheng Zhang",
+   "Farasat Haider",
+   "Manzar Abbas",
+   "Muhammad Muntazir Mehdi",
+   "Hasnain Ali",
+   "Fatima Zahra",
+   "Ali Junaid",
+   "Aftab Ahmad Khan"
+  ],
+  "journal": "Chemical record (New York, N.Y.)",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1002/tcr.70250",
+  "url": "https://doi.org/10.1002/tcr.70250",
+  "source": "pubmed",
+  "categories": [
+   "Electrochemistry & Batteries",
+   "Polymer Chemistry",
+   "Materials Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Batteries",
+   "Chemistry",
+   "Electrochemistry",
+   "Electrodes",
+   "Machine Learning",
+   "Nanomaterials",
+   "Polymers"
+  ],
+  "relevance_score": 74,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "69d86ad73b27a5c9",
+  "title": "Correction: Screening of core targets for Di(2-ethylhexyl) Phthalate-related gastric cancer based on machine learning, molecular docking, and SHAP analysis.",
+  "authors": [
+   "Shenghao Li",
+   "Qing Peng",
+   "Liyuan Hao",
+   "Jingyu Mao",
+   "Bingjie Huo"
+  ],
+  "journal": "PLoS computational biology",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1371/journal.pcbi.1014783",
+  "url": "https://doi.org/10.1371/journal.pcbi.1014783",
+  "source": "pubmed",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Docking",
+   "Machine Learning",
+   "Molecules"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "6812dcfe4b6d2701",
+  "title": "A Dual-Mode Crystal Structure Prediction Framework for Fixed Element Sets and Fixed Structural Prototypes.",
+  "authors": [
+   "Chenglong Qin",
+   "Xiangyan Luo",
+   "Zhixiang Fan",
+   "Qunchao Fan"
+  ],
+  "journal": "Inorganic chemistry",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1021/acs.inorgchem.6c02906",
+  "url": "https://doi.org/10.1021/acs.inorgchem.6c02906",
+  "source": "pubmed",
+  "categories": [
+   "Materials Chemistry",
+   "Inorganic Chemistry",
+   "Physical Chemistry",
+   "High-Throughput & Autonomous",
+   "Generative Models",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Autoencoder",
+   "Chemistry",
+   "Crystal Structure Prediction",
+   "Crystal Structures",
+   "Data-Driven",
+   "High-Throughput",
+   "Inorganic Chemistry",
+   "Thermodynamics"
+  ],
+  "relevance_score": 90,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "5f2a9d4b8acbc630",
+  "title": "A neural network potential for shock-induced decomposition of CHNO energetic materials.",
+  "authors": [
+   "Niu Z",
+   "Tang M",
+   "Yang G."
+  ],
+  "journal": "Physical chemistry chemical physics : PCCP",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1039/d6cp02832b",
+  "url": "https://doi.org/10.1039/d6cp02832b",
+  "source": "europepmc",
+  "categories": [
+   "Computational Chemistry",
+   "ML Potentials & Force Fields",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "DFT",
+   "ML Potential",
+   "Molecules",
+   "Neural Network"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "410cb4cd51489568",
+  "title": "Deciphering early molecular responses to aristolactam I associated with hepatocellular carcinoma: Computational prediction of a core gene signature and identification of transcription-translation uncoupling under acute aristolactam I exposure.",
+  "authors": [
+   "Qing Peng",
+   "Liyuan Hao",
+   "Shenghao Li",
+   "Qinping Wu",
+   "Ying Yang",
+   "Xiaoyu Hu"
+  ],
+  "journal": "Ecotoxicology and environmental safety",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1016/j.ecoenv.2026.120803",
+  "url": "https://doi.org/10.1016/j.ecoenv.2026.120803",
+  "source": "pubmed",
+  "categories": [
+   "Computational Chemistry",
+   "Drug Discovery Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Docking",
+   "Interpretable ML",
+   "Machine Learning",
+   "Molecular Dynamics",
+   "Molecules"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "3da18f9e35320671",
+  "title": "Leveraging a Deep Learning Model and Computational Screening for the Discovery of ABCG2 Inhibitors against Drug-Resistant Breast Cancer.",
+  "authors": [
+   "Haonan Li",
+   "Zichu Wang",
+   "Jia Wang",
+   "Yongliang Yang"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c00582",
+  "url": "https://doi.org/10.1021/acs.jcim.6c00582",
+  "source": "pubmed",
+  "categories": [
+   "Catalysis",
+   "Computational Chemistry",
+   "Drug Discovery Chemistry",
+   "Deep Learning",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Deep Learning",
+   "Ligands",
+   "Molecular Dynamics",
+   "Molecules",
+   "Neural Network",
+   "Protein-Ligand",
+   "Virtual Screening"
+  ],
+  "relevance_score": 98,
+  "affiliations": [],
+  "added": "2026-09-15"
  },
  {
   "id": "27f8301cca9aeb7a",
@@ -363,6 +1555,217 @@
   "relevance_score": 100,
   "affiliations": [],
   "added": "2026-09-14"
+ },
+ {
+  "id": "217fcfb63f437f79",
+  "title": "AI/ML-Assisted Inverse Alloy Design of Multi-Principal Element Alloys for High-Temperature Energy Systems: Comparative Tree Ensembles and Deep Neural-Network Surrogates",
+  "authors": [
+   "Harikrishnan Kumarasamy"
+  ],
+  "journal": "Journal of Energy Research and Reviews",
+  "publisher": "Sciencedomain International",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.9734/jenrr/2026/v18i10543",
+  "url": "https://doi.org/10.9734/jenrr/2026/v18i10543",
+  "source": "openalex",
+  "categories": [
+   "Property Prediction",
+   "Materials Chemistry",
+   "Classical ML",
+   "Deep Learning",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Alloys",
+   "Chemistry",
+   "Gradient Boosting",
+   "Machine Learning",
+   "Neural Network",
+   "Property Prediction",
+   "Random Forest",
+   "XGBoost"
+  ],
+  "relevance_score": 87,
+  "affiliations": [
+   "Oaks Hospital"
+  ],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "1b3c2fdff05931b0",
+  "title": "TvTPPIMI: A Boundary-Aware Dual-View Framework for Predicting PPI-Modulator Interactions.",
+  "authors": [
+   "Lan Yang",
+   "Jing Chen",
+   "Hong Tan",
+   "Furui Liu",
+   "Zhongcheng Fang",
+   "Yajing Yuan",
+   "Han Wang",
+   "Heqi Sun",
+   "Jiayi Li",
+   "DongQing Wei"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c01921",
+  "url": "https://doi.org/10.1021/acs.jcim.6c01921",
+  "source": "pubmed",
+  "categories": [
+   "Computational Chemistry",
+   "Drug Discovery Chemistry",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Deep Learning",
+   "Docking",
+   "Molecular Dynamics",
+   "Molecules"
+  ],
+  "relevance_score": 68,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "102f79ba967dcbcd",
+  "title": "Is AI Capable of Real-World Drug Discovery?",
+  "authors": [
+   "Georgia McGaughey"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c01513",
+  "url": "https://doi.org/10.1021/acs.jcim.6c01513",
+  "source": "pubmed",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Molecule Generation",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Chemistry",
+   "Drug Discovery",
+   "Medicinal Chemistry",
+   "Molecular Design",
+   "Molecules"
+  ],
+  "relevance_score": 70,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "0b9afcea6264d507",
+  "title": "Domain-Informed AI Multimodal Foundation Model for Materials Science",
+  "authors": [
+   "Carine Menezes Rebello",
+   "Erick Giovani Sperandio Nascimento",
+   "Idelfonso B. R. Nogueira"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15008789/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15008789/v1",
+  "source": "openalex",
+  "categories": [
+   "Materials Chemistry",
+   "Property Prediction",
+   "Transformers & LLMs",
+   "ML Potentials & Force Fields",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Foundation Model",
+   "LLM",
+   "ML Potential",
+   "Machine Learning",
+   "Materials Discovery",
+   "Materials Science",
+   "Property Prediction"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "090127eeb3e27c83",
+  "title": "Automated Classification and Representation of sp2-sp2 Atropisomers in the MolBar Identifier.",
+  "authors": [
+   "Nils van Staalduinen",
+   "Christoph Bannwarth"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c00688",
+  "url": "https://doi.org/10.1021/acs.jcim.6c00688",
+  "source": "pubmed",
+  "categories": [
+   "Computational Chemistry",
+   "Drug Discovery Chemistry",
+   "Organic Chemistry",
+   "Graph Neural Networks",
+   "Cheminformatics",
+   "Machine Learning",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Cheminformatics",
+   "Chemistry",
+   "Chirality",
+   "Drug Discovery",
+   "Graph Neural Network",
+   "Machine Learning",
+   "Molecules",
+   "Neural Network",
+   "Quantum Chemistry"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "017e2e2081446fbe",
+  "title": "Machine learning-based identification of core regulatory targets in 1-nitropyrene-induced placental trophoblast dysfunction and FGR.",
+  "authors": [
+   "Pihai Gong",
+   "Zihan Li",
+   "Kai Wang",
+   "Meijuan Zhou",
+   "Junjun Guo",
+   "Zhenya Fang",
+   "Anna Li",
+   "Shuxian Li"
+  ],
+  "journal": "Ecotoxicology and environmental safety",
+  "publisher": "",
+  "published": "2026-09-14",
+  "year": 2026,
+  "doi": "10.1016/j.ecoenv.2026.120794",
+  "url": "https://doi.org/10.1016/j.ecoenv.2026.120794",
+  "source": "pubmed",
+  "categories": [
+   "Computational Chemistry",
+   "Drug Discovery Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Docking",
+   "Machine Learning",
+   "Molecular Dynamics",
+   "Molecules"
+  ],
+  "relevance_score": 41,
+  "affiliations": [],
+  "added": "2026-09-15"
  },
  {
   "id": "f21a0421e0f86019",
@@ -459,6 +1862,34 @@
   "added": "2026-09-14"
  },
  {
+  "id": "dc0cd0235d481109",
+  "title": "Smartphone-Based Analytical Platforms: Portable Supplementary Tools for Seawater Monitoring of Nutrients, Heavy Metals, and Emerging Contaminants.",
+  "authors": [
+   "Pang J",
+   "Chen L",
+   "Huang S",
+   "Chen H",
+   "Zhang Y",
+   "Lin K."
+  ],
+  "journal": "Critical reviews in analytical chemistry",
+  "publisher": "",
+  "published": "2026-09-13",
+  "year": 2026,
+  "doi": "10.1080/10408347.2026.2729456",
+  "url": "https://doi.org/10.1080/10408347.2026.2729456",
+  "source": "europepmc",
+  "categories": [
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
   "id": "da846b089105843e",
   "title": "Proteolysis Targeting Chimeras (PROTACs): Design and Mechanism.",
   "authors": [
@@ -491,6 +1922,39 @@
   "relevance_score": 64,
   "affiliations": [],
   "added": "2026-09-13"
+ },
+ {
+  "id": "ba7b38d2cdf30011",
+  "title": "Graph Neural Network and Transformer Fusion for Molecular Property Prediction: What a Strict Evaluation Protocol Finds",
+  "authors": [
+   "Aarya Sharma"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-09-13",
+  "year": 2026,
+  "doi": "10.5281/zenodo.22734879",
+  "url": "https://doi.org/10.5281/zenodo.22734879",
+  "source": "openalex",
+  "categories": [
+   "Property Prediction",
+   "Graph Neural Networks",
+   "Transformers & LLMs",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Chemprop",
+   "Graph Neural Network",
+   "Molecules",
+   "Neural Network",
+   "Property Prediction",
+   "Transformer"
+  ],
+  "relevance_score": 81,
+  "affiliations": [
+   "Universal Engineering College"
+  ],
+  "added": "2026-09-15"
  },
  {
   "id": "adad856a328048ef",
@@ -556,6 +2020,72 @@
   "relevance_score": 43,
   "affiliations": [],
   "added": "2026-09-14"
+ },
+ {
+  "id": "199bba08ba475224",
+  "title": "Biomimetic bilayer design of cellulose-gelatin hydrogels for environmentally stable strain sensing.",
+  "authors": [
+   "Zhong W",
+   "Tao Y",
+   "Du J",
+   "Hu J",
+   "Fu C",
+   "Lu J",
+   "Lv Y",
+   "Wang H."
+  ],
+  "journal": "International journal of biological macromolecules",
+  "publisher": "",
+  "published": "2026-09-13",
+  "year": 2026,
+  "doi": "10.1016/j.ijbiomac.2026.154393",
+  "url": "https://doi.org/10.1016/j.ijbiomac.2026.154393",
+  "source": "europepmc",
+  "categories": [
+   "Materials Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Nanoparticles"
+  ],
+  "relevance_score": 46,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
+  "id": "0cc2cf7cfd30a525",
+  "title": "In Silico Prediction of Blood–Brain Barrier Penetration Using Molecular Descriptors and Machine Learning: An Exploratory Integration with FAERS Pharmacovigilance Data",
+  "authors": [
+   "Mukthiyar Ahamed*, Deeksha V, Vennela SV, Thanushree B"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-09-13",
+  "year": 2026,
+  "doi": "10.5281/zenodo.22742640",
+  "url": "https://doi.org/10.5281/zenodo.22742640",
+  "source": "openalex",
+  "categories": [
+   "Property Prediction",
+   "Cheminformatics",
+   "Machine Learning",
+   "Classical ML",
+   "Computational Chemistry"
+  ],
+  "tags": [
+   "Descriptors",
+   "In Silico",
+   "LogP",
+   "Machine Learning",
+   "Molecules",
+   "Random Forest",
+   "SVM",
+   "kNN"
+  ],
+  "relevance_score": 75,
+  "affiliations": [],
+  "added": "2026-09-15"
  },
  {
   "id": "dfdd4c9da7c18376",
@@ -877,6 +2407,37 @@
   "added": "2026-09-14"
  },
  {
+  "id": "6f57212ca76f6804",
+  "title": "Group-aware and external validation distinguish interpolation from transfer in machine learning for aqueous pollutant removal.",
+  "authors": [
+   "Siyuan Jiang",
+   "Ying Yang",
+   "Yaoru Mao",
+   "He Yan",
+   "Chenran Zhou",
+   "Xiuwen Cheng"
+  ],
+  "journal": "Journal of hazardous materials",
+  "publisher": "",
+  "published": "2026-09-12",
+  "year": 2026,
+  "doi": "10.1016/j.jhazmat.2026.143594",
+  "url": "https://doi.org/10.1016/j.jhazmat.2026.143594",
+  "source": "pubmed",
+  "categories": [
+   "Surface Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Adsorption",
+   "Chemistry",
+   "Machine Learning"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
   "id": "59eae711719c9b44",
   "title": "Nucleic Acid Turnover and Lipid Remodeling Distinguish T Cell Activation and Exhaustion States via Label-Free Raman Spectroscopy.",
   "authors": [
@@ -909,6 +2470,40 @@
   "relevance_score": 84,
   "affiliations": [],
   "added": "2026-09-13"
+ },
+ {
+  "id": "4eb0e62c3be9bf79",
+  "title": "Study on the formation, release and stability mechanisms of self-assembled nanoparticles based on machine learning, explainable artificial intelligence and multiscale simulations.",
+  "authors": [
+   "Xiaoyang Zhang",
+   "Junjie Zhou",
+   "Shuo Sun",
+   "Xiaojian Zhang",
+   "Zijian Zhao",
+   "Wenlong Li"
+  ],
+  "journal": "Colloids and surfaces. B, Biointerfaces",
+  "publisher": "",
+  "published": "2026-09-12",
+  "year": 2026,
+  "doi": "10.1016/j.colsurfb.2026.116180",
+  "url": "https://doi.org/10.1016/j.colsurfb.2026.116180",
+  "source": "pubmed",
+  "categories": [
+   "Materials Chemistry",
+   "Physical Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Machine Learning",
+   "Molecules",
+   "Nanoparticles",
+   "Solvents"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-09-15"
  },
  {
   "id": "301545fc3c621fb5",
@@ -1412,6 +3007,41 @@
   "relevance_score": 55,
   "affiliations": [],
   "added": "2026-09-14"
+ },
+ {
+  "id": "971cd9db8a095242",
+  "title": "Non-destructive geographical authentication of coffee beans: A hyperspectral-guided RGB imaging approach with optimized deep learning algorithms.",
+  "authors": [
+   "Siheng Lu",
+   "Yifei Du",
+   "Jing Zhao",
+   "Yue Yu",
+   "Yue Huang",
+   "Fuliang Cao",
+   "Zhanming Li"
+  ],
+  "journal": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+  "publisher": "",
+  "published": "2026-09-11",
+  "year": 2026,
+  "doi": "10.1016/j.saa.2026.128777",
+  "url": "https://doi.org/10.1016/j.saa.2026.128777",
+  "source": "pubmed",
+  "categories": [
+   "Deep Learning",
+   "Machine Learning",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Chemistry",
+   "Deep Learning",
+   "Self-Supervised",
+   "Transfer Learning",
+   "Transformer"
+  ],
+  "relevance_score": 75,
+  "affiliations": [],
+  "added": "2026-09-15"
  },
  {
   "id": "96a302518cc8c8f0",
@@ -3011,6 +4641,50 @@
   "added": "2026-09-12"
  },
  {
+  "id": "7d508c243067b191",
+  "title": "Artificial Intelligence for Natural Products Discovery and Development.",
+  "authors": [
+   "Weijin Wang",
+   "Zhaoxin Xu",
+   "Yugang Lin",
+   "Jie Liao"
+  ],
+  "journal": "Current topics in medicinal chemistry",
+  "publisher": "",
+  "published": "2026-09-10",
+  "year": 2026,
+  "doi": "10.2174/0115680266488712260831171806",
+  "url": "https://doi.org/10.2174/0115680266488712260831171806",
+  "source": "pubmed",
+  "categories": [
+   "Molecule Generation",
+   "Organic Chemistry",
+   "Catalysis",
+   "Drug Discovery Chemistry",
+   "Spectroscopy",
+   "Graph Neural Networks",
+   "High-Throughput & Autonomous",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Autonomous Lab",
+   "Chemistry",
+   "Closed-Loop",
+   "Drug Discovery",
+   "Graph Neural Network",
+   "LLM",
+   "Lead Optimization",
+   "Ligands",
+   "Molecular Design",
+   "Molecules",
+   "Natural Products",
+   "Spectroscopy"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
   "id": "76e128bc137b8677",
   "title": "Phosphoinositides protonation states dictate AKT1 binding with membrane",
   "authors": [
@@ -4560,6 +6234,41 @@
   "added": "2026-09-10"
  },
  {
+  "id": "b43c68e42c665240",
+  "title": "Lead Compound Discovery by Scaffold Hopping: Classification, Approaches and Application.",
+  "authors": [
+   "Harshada Rajendra Bafna",
+   "Nitin Rajendra Shirsath"
+  ],
+  "journal": "Mini reviews in medicinal chemistry",
+  "publisher": "",
+  "published": "2026-09-09",
+  "year": 2026,
+  "doi": "10.2174/0113895575492610260817092827",
+  "url": "https://doi.org/10.2174/0113895575492610260817092827",
+  "source": "pubmed",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Catalysis",
+   "Cheminformatics",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Chemistry",
+   "Drug Discovery",
+   "Lead Optimization",
+   "Ligands",
+   "Machine Learning",
+   "Medicinal Chemistry",
+   "Molecules",
+   "Virtual Screening"
+  ],
+  "relevance_score": 94,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
   "id": "a5285dffb6c8a63f",
   "title": "Mitigating limb ischemia in veno-arterial extracorporeal membrane oxygenation: A narrative review of evolving role of distal perfusion catheters.",
   "authors": [
@@ -4803,6 +6512,36 @@
    "Cairo University"
   ],
   "added": "2026-09-11"
+ },
+ {
+  "id": "7566f96c7ffa1213",
+  "title": "Beyond the Single-Target Approach: Polypharmacology and Multi-Target Therapeutics in Alzheimer's Disease.",
+  "authors": [
+   "Renu Yadav",
+   "Jyoti Sinha",
+   "Km Deeksha"
+  ],
+  "journal": "Central nervous system agents in medicinal chemistry",
+  "publisher": "",
+  "published": "2026-09-09",
+  "year": 2026,
+  "doi": "10.2174/0118715249497051260829094309",
+  "url": "https://doi.org/10.2174/0118715249497051260829094309",
+  "source": "pubmed",
+  "categories": [
+   "Catalysis",
+   "Drug Discovery Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Drug Discovery",
+   "Ligands",
+   "Molecules"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-09-15"
  },
  {
   "id": "72e51db4dd8383e0",
@@ -6849,6 +8588,39 @@
   "added": "2026-09-12"
  },
  {
+  "id": "468ffb89692d010f",
+  "title": "Identification of TIPARP, BCL6 and PLIN2 as Potential Ferroptosisrelated Biomarkers for Osteoarthritis.",
+  "authors": [
+   "Hanyu Wang",
+   "Zhikang Chen",
+   "Shikai Chen",
+   "Honglin Pi",
+   "Qianqian Liang",
+   "Li Wang"
+  ],
+  "journal": "Current medicinal chemistry",
+  "publisher": "",
+  "published": "2026-09-08",
+  "year": 2026,
+  "doi": "10.2174/0109298673492605260827055611",
+  "url": "https://doi.org/10.2174/0109298673492605260827055611",
+  "source": "pubmed",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Polymer Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Docking",
+   "Machine Learning",
+   "Molecules",
+   "Polymers"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
   "id": "3f50341769ea61c5",
   "title": "Artificial Intelligence for a Circular Solvent Economy: An Environmental Decision-Support Architecture for Sustainable Pharmaceutical Manufacturing",
   "authors": [
@@ -7948,6 +9720,36 @@
   "added": "2026-09-08"
  },
  {
+  "id": "980ac1e1ad503317",
+  "title": "Integration of Single-Cell and Bulk RNA Sequencing Data to Identify Lactylation-Related Gene Signatures in Hepatic Ischemia-Reperfusion Injury Using Machine Learning Algorithms.",
+  "authors": [
+   "Shilei Jing",
+   "Zhijun Zhu"
+  ],
+  "journal": "International journal of molecular sciences",
+  "publisher": "",
+  "published": "2026-09-07",
+  "year": 2026,
+  "doi": "10.3390/ijms27177965",
+  "url": "https://doi.org/10.3390/ijms27177965",
+  "source": "pubmed",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Machine Learning",
+   "Classical ML"
+  ],
+  "tags": [
+   "Decision Tree",
+   "Docking",
+   "Machine Learning",
+   "Molecules",
+   "Random Forest"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
   "id": "94f5c6e47af52827",
   "title": "Activity Landscape Roughness Anticipates Machine-Learning Reliability Across Environmental Chemistry Endpoints",
   "authors": [
@@ -8090,6 +9892,36 @@
   "added": "2026-09-09"
  },
  {
+  "id": "74b1a41e7782c26e",
+  "title": "Excitonic and Optical Transduction Mechanisms in Quantum Dot Sensors for Environmental Pollutant Detection.",
+  "authors": [
+   "Christian Ebere Enyoh"
+  ],
+  "journal": "Sensors (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-09-07",
+  "year": 2026,
+  "doi": "10.3390/s26175675",
+  "url": "https://doi.org/10.3390/s26175675",
+  "source": "pubmed",
+  "categories": [
+   "Computational Chemistry",
+   "Materials Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Binding Energy",
+   "DFT",
+   "Machine Learning",
+   "Molecular Dynamics",
+   "Molecules",
+   "Perovskites"
+  ],
+  "relevance_score": 68,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
   "id": "748de72155d3e17c",
   "title": "Integrated bioinformatics and experimental validation reveal Luteolin targets the PI3K/AKT/NRF2 Axis in diabetic wound healing.",
   "authors": [
@@ -8228,6 +10060,43 @@
   "relevance_score": 53,
   "affiliations": [],
   "added": "2026-09-09"
+ },
+ {
+  "id": "6b064eb90202f889",
+  "title": "From Chemical Scaffold to Predicted Toxicity: A Scaffold-Aware Pipeline for Reliable In Silico Prioritization of Heracleum Furanocoumarins.",
+  "authors": [
+   "Anna E Rassabina",
+   "Victor S Safronov",
+   "Maxim V Fedorov"
+  ],
+  "journal": "International journal of molecular sciences",
+  "publisher": "",
+  "published": "2026-09-07",
+  "year": 2026,
+  "doi": "10.3390/ijms27177947",
+  "url": "https://doi.org/10.3390/ijms27177947",
+  "source": "pubmed",
+  "categories": [
+   "Cheminformatics",
+   "Drug Discovery Chemistry",
+   "Organic Chemistry",
+   "Property Prediction",
+   "Machine Learning",
+   "Computational Chemistry"
+  ],
+  "tags": [
+   "Chemical Space",
+   "Chemistry",
+   "Docking",
+   "In Silico",
+   "Machine Learning",
+   "Molecules",
+   "Natural Products",
+   "Toxicity"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-09-15"
  },
  {
   "id": "60d9a1d5741db88c",
@@ -9190,6 +11059,43 @@
   "added": "2026-09-07"
  },
  {
+  "id": "97b391762ce57752",
+  "title": "Nanoparticles for Drug Delivery: Design, Mechanisms, and Clinical Translation.",
+  "authors": [
+   "Subin Antony Jose",
+   "Benjamin Crutchfield",
+   "Mario Caballero",
+   "Eadrian Carreon",
+   "Ian Davis",
+   "Pradeep L Menezes"
+  ],
+  "journal": "Molecules (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-09-06",
+  "year": 2026,
+  "doi": "10.3390/molecules31173121",
+  "url": "https://doi.org/10.3390/molecules31173121",
+  "source": "pubmed",
+  "categories": [
+   "Surface Chemistry",
+   "Materials Chemistry",
+   "Polymer Chemistry",
+   "Inorganic Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Chemistry",
+   "Inorganic Chemistry",
+   "Nanoparticles",
+   "Polymers",
+   "Surface Chemistry"
+  ],
+  "relevance_score": 70,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
   "id": "8b6b49303fbc8e4b",
   "title": "##基于图神经网络的药物分子设计",
   "authors": [
@@ -9522,6 +11428,39 @@
   "added": "2026-09-07"
  },
  {
+  "id": "32ce257fc4edd6d6",
+  "title": "A library of experimental collision cross sections for food, beverage and plant metabolites generated by reversed-phase liquid chromatography coupled to travelling-wave ion mobility and high-resolution mass spectrometry.",
+  "authors": [
+   "Vania Sáez",
+   "Fulvio Mattivi",
+   "Giorgio Zanoni",
+   "Pavel Solovyev",
+   "Urska Vrhovsek",
+   "Panagiotis Arapitsas"
+  ],
+  "journal": "Journal of chromatography. A",
+  "publisher": "",
+  "published": "2026-09-06",
+  "year": 2026,
+  "doi": "10.1016/j.chroma.2026.467437",
+  "url": "https://doi.org/10.1016/j.chroma.2026.467437",
+  "source": "pubmed",
+  "categories": [
+   "Spectroscopy",
+   "Analytical Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Chromatography",
+   "Machine Learning",
+   "Mass Spectrometry"
+  ],
+  "relevance_score": 62,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
   "id": "1829b7b18e3a1a9f",
   "title": "Reply on RC1",
   "authors": [
@@ -9724,6 +11663,40 @@
   "added": "2026-09-07"
  },
  {
+  "id": "c10f113cc6cb2efa",
+  "title": "SERS-Based Detection of Food Contaminants: From Laboratory Sensitivity to Practical Implementation-Bottlenecks and Pathways to Standardization.",
+  "authors": [
+   "Donglin Cui",
+   "Xin Zhou",
+   "Zuqi Zhou",
+   "Jun Sun",
+   "Yao Tang",
+   "Kunshan Yao"
+  ],
+  "journal": "Foods (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-09-05",
+  "year": 2026,
+  "doi": "10.3390/foods15173152",
+  "url": "https://doi.org/10.3390/foods15173152",
+  "source": "pubmed",
+  "categories": [
+   "Spectroscopy",
+   "Deep Learning",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Deep Learning",
+   "IR Spectroscopy",
+   "Raman",
+   "Spectroscopy"
+  ],
+  "relevance_score": 73,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
   "id": "94c1ff56dfbbe214",
   "title": "Efficacy of icariin in polycystic ovary syndrome: Cathepsin S as a key target revealed by computational and experimental evidence.",
   "authors": [
@@ -9899,6 +11872,51 @@
   "relevance_score": 43,
   "affiliations": [],
   "added": "2026-09-11"
+ },
+ {
+  "id": "4bf8e6c5b7be3b65",
+  "title": "Prediction of Ocular Toxicity of Prostaglandin F2α Analogs Based on Local Computational Models: Superiority over Global Models and Experimental Validation.",
+  "authors": [
+   "Xinyi Lu",
+   "Liping Ren",
+   "Chen Wang",
+   "Haiming Liao",
+   "Lisha Liu",
+   "Miaomiao Han",
+   "Lanying He",
+   "Dousheng Zhang",
+   "Huihong Fan",
+   "Mingzhe Xu"
+  ],
+  "journal": "Molecules (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-09-05",
+  "year": 2026,
+  "doi": "10.3390/molecules31173116",
+  "url": "https://doi.org/10.3390/molecules31173116",
+  "source": "pubmed",
+  "categories": [
+   "Catalysis",
+   "Drug Discovery Chemistry",
+   "Property Prediction",
+   "Cheminformatics",
+   "Deep Learning",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Catalysis",
+   "Chemistry",
+   "Deep Learning",
+   "Docking",
+   "Fingerprints",
+   "Machine Learning",
+   "Molecules",
+   "Predictive Model",
+   "Toxicity"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-09-15"
  },
  {
   "id": "2d9036f4d7877296",
@@ -10181,6 +12199,47 @@
   "relevance_score": 62,
   "affiliations": [],
   "added": "2026-09-05"
+ },
+ {
+  "id": "d7e816467a673345",
+  "title": "Quantitative Prediction of Coal-Gangue Content Using Terahertz Time-Domain Spectroscopy and Physics-Informed Machine Learning.",
+  "authors": [
+   "Zeping Liu",
+   "Lipeng Hu",
+   "Jianfei Xu",
+   "Yadong Yang",
+   "Sitong Li",
+   "Zhou Xu",
+   "Longhai Liu",
+   "Jiabao Li",
+   "Houli Liu",
+   "Dongdong Ye"
+  ],
+  "journal": "Materials (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-09-04",
+  "year": 2026,
+  "doi": "10.3390/ma19173776",
+  "url": "https://doi.org/10.3390/ma19173776",
+  "source": "pubmed",
+  "categories": [
+   "Spectroscopy",
+   "Machine Learning",
+   "Bayesian Optimization",
+   "Classical ML",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Gaussian Process",
+   "Machine Learning",
+   "Neural Network",
+   "Random Forest",
+   "SVM",
+   "Spectroscopy"
+  ],
+  "relevance_score": 84,
+  "affiliations": [],
+  "added": "2026-09-15"
  },
  {
   "id": "cf485f3dad51d15d",
@@ -13687,6 +15746,32 @@
   "added": "2026-09-04"
  },
  {
+  "id": "df2ab65d5d74d8ae",
+  "title": "Bioadhesive Hydrogels for Tissue Repair: Design Strategies, Adhesion Mechanisms, and Emerging Applications.",
+  "authors": [
+   "Seoha Kim",
+   "Hyejin Jo",
+   "Seunghun S Lee"
+  ],
+  "journal": "Molecules (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-09-02",
+  "year": 2026,
+  "doi": "10.3390/molecules31173085",
+  "url": "https://doi.org/10.3390/molecules31173085",
+  "source": "pubmed",
+  "categories": [
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Chemistry"
+  ],
+  "relevance_score": 43,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
   "id": "cd8a490bd1654a04",
   "title": "Artificial Intelligence in Inorganic Chemistry: Machine Learning for Coordination Complexes and Metal-Ligand Design",
   "authors": [
@@ -14373,6 +16458,37 @@
   "relevance_score": 54,
   "affiliations": [],
   "added": "2026-09-03"
+ },
+ {
+  "id": "683d365737b8d3f5",
+  "title": "Polypyrrole/Graphene/WO3 Ternary Nanocomposite Sensor Arrays for 3D Ammonia Leakage Reconstruction via Rolling Horizon Data-Assimilated PINNs.",
+  "authors": [
+   "Haodong Niu",
+   "Yunbo Shi",
+   "Kuo Zhao",
+   "Jinzhou Liu",
+   "Xiaohui Yang",
+   "Canda Zheng"
+  ],
+  "journal": "Polymers",
+  "publisher": "",
+  "published": "2026-09-02",
+  "year": 2026,
+  "doi": "10.3390/polym18172149",
+  "url": "https://doi.org/10.3390/polym18172149",
+  "source": "pubmed",
+  "categories": [
+   "Deep Learning",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Data-Driven",
+   "Neural Network"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-09-15"
  },
  {
   "id": "663b77726545b959",
@@ -17134,6 +19250,35 @@
   "added": "2026-09-02"
  },
  {
+  "id": "55eef07035020ced",
+  "title": "Artificial Intelligence for Perioperative Risk Prediction in Anesthesiology: A Bibliometric and Knowledge-Mapping Analysis.",
+  "authors": [
+   "Mehmet Özkılıç"
+  ],
+  "journal": "Healthcare (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "10.3390/healthcare14172785",
+  "url": "https://doi.org/10.3390/healthcare14172785",
+  "source": "pubmed",
+  "categories": [
+   "Spectroscopy",
+   "Transformers & LLMs",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Explainable AI",
+   "LLM",
+   "Machine Learning",
+   "Spectroscopy"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-09-15"
+ },
+ {
   "id": "54ac9582d730b334",
   "title": "Towards real-time prediction of thermal history and hardness in laser powder bed fusion using deep learning",
   "authors": [
@@ -18245,6 +20390,46 @@
   "relevance_score": 100,
   "affiliations": [],
   "added": "2026-09-09"
+ },
+ {
+  "id": "1ddf20aaa4d64c35",
+  "title": "Rapid Glioma Subtype Classification Using Label-Free Terahertz Time-Domain Spectroscopy and Hierarchical Machine Learning.",
+  "authors": [
+   "Peiyuan Sun",
+   "Minghui Du",
+   "Zhiyan Sun",
+   "Xianhao Wu",
+   "Rui Tao",
+   "Tianyi Bi",
+   "Yubo Wu",
+   "Zhaohui Zhang",
+   "Tianyao Zhang",
+   "Xiaoyan Zhao",
+   "Dabiao Zhou",
+   "Pei Yang"
+  ],
+  "journal": "Journal of biophotonics",
+  "publisher": "",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "10.1002/jbio.70354",
+  "url": "https://doi.org/10.1002/jbio.70354",
+  "source": "pubmed",
+  "categories": [
+   "Spectroscopy",
+   "Machine Learning",
+   "Classical ML",
+   "Chemometrics & Statistics"
+  ],
+  "tags": [
+   "Machine Learning",
+   "PCA",
+   "Random Forest",
+   "Spectroscopy"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-09-15"
  },
  {
   "id": "19507284516e5179",
