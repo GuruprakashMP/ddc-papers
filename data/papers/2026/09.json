@@ -3010,6 +3010,45 @@
   "added": "2026-10-01"
  },
  {
+  "id": "c0ca6c8e7d5f637a",
+  "title": "PCA-mapping and machine learning identify multiple chemotypes with antiplasmodial, β-haematin and haemozoin formation inhibition activity.",
+  "authors": [
+   "Nicole Teixeira",
+   "Leah Amod",
+   "Clinton G L Veale",
+   "Timothy J Egan",
+   "Kathryn J Wicht"
+  ],
+  "journal": "RSC medicinal chemistry",
+  "publisher": "",
+  "published": "2026-09-29",
+  "year": 2026,
+  "doi": "10.1039/d6md00582a",
+  "url": "https://doi.org/10.1039/d6md00582a",
+  "source": "pubmed",
+  "categories": [
+   "Catalysis",
+   "Drug Discovery Chemistry",
+   "Machine Learning",
+   "Cheminformatics",
+   "Chemometrics & Statistics",
+   "Classical ML"
+  ],
+  "tags": [
+   "Docking",
+   "Drug Discovery",
+   "Ligands",
+   "Machine Learning",
+   "Molecules",
+   "PCA",
+   "SVM",
+   "Virtual Screening"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-10-11"
+ },
+ {
   "id": "bca27378a5e349dc",
   "title": "RetroGEF: Dynamic Graph Edit Flow for Single-Step Retrosynthesis",
   "authors": [
@@ -4358,6 +4397,35 @@
   "added": "2026-09-30"
  },
  {
+  "id": "0d54a6f54f9a0d52",
+  "title": "Anatomically Guided Deep Learning Reconstruction of Accelerated Snapshot CEST MRI.",
+  "authors": [
+   "Emmanuel Akwasi Mensah",
+   "Abrar Faiyaz",
+   "Giovanni Schifitto",
+   "Md Nasir Uddin"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "publisher": "",
+  "published": "2026-09-29",
+  "year": 2026,
+  "doi": "10.64898/2026.09.28.755205",
+  "url": "https://doi.org/10.64898/2026.09.28.755205",
+  "source": "pubmed",
+  "categories": [
+   "Spectroscopy",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Deep Learning",
+   "Spectroscopy"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-10-11"
+ },
+ {
   "id": "084950a913a2da4a",
   "title": "Electronic Coupling and Charge-Transfer Landscape of Graphene on Ge(001)/Si(001): Multiscale Analysis Assisted by Machine Learning",
   "authors": [
@@ -4496,6 +4564,37 @@
   "relevance_score": 81,
   "affiliations": [],
   "added": "2026-09-29"
+ },
+ {
+  "id": "fa65088e457a8b6f",
+  "title": "Tri-Modality Representation Learning for Molecular Property Prediction.",
+  "authors": [
+   "Anyin Zhao",
+   "Jing Li"
+  ],
+  "journal": "bioRxiv : the preprint server for biology",
+  "publisher": "",
+  "published": "2026-09-28",
+  "year": 2026,
+  "doi": "10.64898/2026.09.22.753673",
+  "url": "https://doi.org/10.64898/2026.09.22.753673",
+  "source": "pubmed",
+  "categories": [
+   "Property Prediction",
+   "Cheminformatics",
+   "Deep Learning",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Deep Learning",
+   "Molecules",
+   "Property Prediction",
+   "SMILES",
+   "Transformer"
+  ],
+  "relevance_score": 77,
+  "affiliations": [],
+  "added": "2026-10-11"
  },
  {
   "id": "fa1a366a8f41a195",
@@ -9060,6 +9159,78 @@
   "added": "2026-09-28"
  },
  {
+  "id": "a91ca8849842a283",
+  "title": "Tau protein in Parkinson's disease: advances in phosphoproteomics and molecular dynamics simulations.",
+  "authors": [
+   "Jessica Ledesma-Aparicio",
+   "Luis Alberto Caro-Gómez",
+   "Francisco Javier Padilla-Godínez",
+   "Omar Hernández-González",
+   "Luis O Soto-Rojas",
+   "Juan Pablo Reyes-Grajeda",
+   "Oscar Arias-Carrión",
+   "Marcela Palomero-Rivero",
+   "Brandt Bertrand",
+   "Carlos Munoz-Garay",
+   "Magdalena Guerra-Crespo"
+  ],
+  "journal": "Frontiers in aging neuroscience",
+  "publisher": "",
+  "published": "2026-09-25",
+  "year": 2026,
+  "doi": "10.3389/fnagi.2026.1841131",
+  "url": "https://doi.org/10.3389/fnagi.2026.1841131",
+  "source": "pubmed",
+  "categories": [
+   "Computational Chemistry",
+   "Catalysis",
+   "Drug Discovery Chemistry",
+   "Cheminformatics",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Cheminformatics",
+   "Docking",
+   "Drug Discovery",
+   "Ligands",
+   "Molecular Dynamics",
+   "Molecules"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-10-11"
+ },
+ {
+  "id": "9f6f9dd82c73b90e",
+  "title": "Interpretable machine learning classifies β-lactamase subclasses and prioritizes boundary variants for antimicrobial resistance surveillance.",
+  "authors": [
+   "Rahul Kaushik",
+   "Suyong Re"
+  ],
+  "journal": "Frontiers in pharmacology",
+  "publisher": "",
+  "published": "2026-09-25",
+  "year": 2026,
+  "doi": "10.3389/fphar.2026.1876559",
+  "url": "https://doi.org/10.3389/fphar.2026.1876559",
+  "source": "pubmed",
+  "categories": [
+   "Catalysis",
+   "Physical Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Catalysis",
+   "Interpretable ML",
+   "Machine Learning",
+   "Solvents"
+  ],
+  "relevance_score": 70,
+  "affiliations": [],
+  "added": "2026-10-11"
+ },
+ {
   "id": "97bee98755324566",
   "title": "Integration of artificial intelligence in renewable polymers recycling",
   "authors": [
@@ -9229,6 +9400,42 @@
    "Wuhan Institute of Technology"
   ],
   "added": "2026-09-28"
+ },
+ {
+  "id": "68fd8fbe692b4fb0",
+  "title": "Multimodal profiling uncovers an aging-associated ETS1-MYO1B vascular niche responsive to ipragliflozin.",
+  "authors": [
+   "Mingzhu Jin",
+   "Yue Zhang",
+   "Haien Wu",
+   "Bo You",
+   "Ling Li",
+   "Xiuping Han",
+   "Yan Wu"
+  ],
+  "journal": "Frontiers in cell and developmental biology",
+  "publisher": "",
+  "published": "2026-09-25",
+  "year": 2026,
+  "doi": "10.3389/fcell.2026.1968248",
+  "url": "https://doi.org/10.3389/fcell.2026.1968248",
+  "source": "pubmed",
+  "categories": [
+   "Computational Chemistry",
+   "Cheminformatics",
+   "Machine Learning",
+   "Classical ML"
+  ],
+  "tags": [
+   "Clustering",
+   "Machine Learning",
+   "Molecular Dynamics",
+   "Molecules",
+   "Virtual Screening"
+  ],
+  "relevance_score": 44,
+  "affiliations": [],
+  "added": "2026-10-11"
  },
  {
   "id": "633216381fb035e0",
@@ -9712,6 +9919,41 @@
   "relevance_score": 41,
   "affiliations": [],
   "added": "2026-09-28"
+ },
+ {
+  "id": "1075b22e29a7ac75",
+  "title": "Discovery of sunflower-derived umami peptides via machine learning and molecular dynamics simulation of their interactions with the T1R1/T1R3 receptor.",
+  "authors": [
+   "Zimo Zhang",
+   "Fei Ye",
+   "Haifeng Zhao",
+   "Xiaozheng Shi"
+  ],
+  "journal": "Frontiers in nutrition",
+  "publisher": "",
+  "published": "2026-09-25",
+  "year": 2026,
+  "doi": "10.3389/fnut.2026.1961387",
+  "url": "https://doi.org/10.3389/fnut.2026.1961387",
+  "source": "pubmed",
+  "categories": [
+   "Computational Chemistry",
+   "Drug Discovery Chemistry",
+   "Physical Chemistry",
+   "Machine Learning",
+   "Chemometrics & Statistics"
+  ],
+  "tags": [
+   "Docking",
+   "Machine Learning",
+   "Molecular Dynamics",
+   "Molecules",
+   "PCA",
+   "Solvents"
+  ],
+  "relevance_score": 77,
+  "affiliations": [],
+  "added": "2026-10-11"
  },
  {
   "id": "08ce7dc554b8f03a",
@@ -10436,6 +10678,51 @@
   "relevance_score": 62,
   "affiliations": [],
   "added": "2026-09-25"
+ },
+ {
+  "id": "54afde63a9098741",
+  "title": "Role of the Gut Microbiome in Natural and Synthetic Drug Efficacy and Safety: A Narrative Review.",
+  "authors": [
+   "Ricardo Villoch-Rosado",
+   "Dijanneliz Acosta",
+   "Lorelein Morales-Santiago",
+   "Isabel M González-Tardí",
+   "Omaira Medina-Rodríguez",
+   "Karoline Ríos-Rodríguez",
+   "Ivette Agront-Medina",
+   "Alejandra E Alvarado-Andino",
+   "Luis A Báez-Rodríguez",
+   "Alberto Calderón-Nuñez",
+   "Adneliz G Cátala-Cátala",
+   "Nomarys Delgado-Negrón",
+   "Tayra L Figueroa-Reyes",
+   "Luis Mojica-Pérez",
+   "Héctor Rosa-López",
+   "Andrés Santos-Bermúdez",
+   "José Rodríguez-Zayas",
+   "Eduardo L Tosado-Rodríguez"
+  ],
+  "journal": "Applied microbiology (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-09-24",
+  "year": 2026,
+  "doi": "10.3390/applmicrobiol6100113",
+  "url": "https://doi.org/10.3390/applmicrobiol6100113",
+  "source": "pubmed",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Organic Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Drug Discovery",
+   "Molecules",
+   "Natural Products"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-10-11"
  },
  {
   "id": "3c1c042c2255817a",
@@ -21836,6 +22123,39 @@
   "added": "2026-09-17"
  },
  {
+  "id": "7aeda25a3e798933",
+  "title": "Molecular biophysics of viral proteins: From mechanistic insights to microbiological and clinical applications.",
+  "authors": [
+   "Alessandro Paolo Addamo",
+   "Floriana D'Angeli",
+   "Carlo Genovese"
+  ],
+  "journal": "AIMS microbiology",
+  "publisher": "",
+  "published": "2026-09-15",
+  "year": 2026,
+  "doi": "10.3934/microbiol.2026030",
+  "url": "https://doi.org/10.3934/microbiol.2026030",
+  "source": "pubmed",
+  "categories": [
+   "Spectroscopy",
+   "Computational Chemistry",
+   "Physical Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Molecular Dynamics",
+   "Molecules",
+   "NMR",
+   "Spectroscopy",
+   "Thermodynamics"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-10-11"
+ },
+ {
   "id": "68d9ea1d7a0ed7e1",
   "title": "TRPM8 virtual screening: the essential role of target-specific, inactive-enriched machine-learning scoring functions.",
   "authors": [
@@ -31455,6 +31775,35 @@
   "relevance_score": 53,
   "affiliations": [],
   "added": "2026-09-10"
+ },
+ {
+  "id": "084555490f17d8e4",
+  "title": "Deep learning prediction of MSI/dMMR, EBV, HER2, PD-L1, and CLDN18.2 status directly from hematoxylin and eosin-stained slides in gastric and gastroesophageal junction adenocarcinoma: a systematic review.",
+  "authors": [
+   "Hyuk Lee",
+   "Sang Yun Ha",
+   "Sehun Kim",
+   "Yang Won Min"
+  ],
+  "journal": "Frontiers in oncology",
+  "publisher": "",
+  "published": "2026-09-09",
+  "year": 2026,
+  "doi": "10.3389/fonc.2026.1953562",
+  "url": "https://doi.org/10.3389/fonc.2026.1953562",
+  "source": "pubmed",
+  "categories": [
+   "Catalysis",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Deep Learning",
+   "Ligands",
+   "Molecules"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-10-11"
  },
  {
   "id": "0609e6957feeca26",
