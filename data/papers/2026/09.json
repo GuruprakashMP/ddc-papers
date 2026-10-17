@@ -2211,6 +2211,41 @@
   "added": "2026-10-01"
  },
  {
+  "id": "1887ac490f1f1552",
+  "title": "Thermostable Carbohydrate-Active Enzymes for High-Temperature Biomass Conversion: From Molecular Design to Process Integration.",
+  "authors": [
+   "Yueli Hu",
+   "Xi Yang",
+   "Tianqi Wang",
+   "Mingshu Zheng",
+   "Zhenghao Jiang",
+   "Xinyue Dou",
+   "Xinkun Ren",
+   "Jiaxin Wu"
+  ],
+  "journal": "International journal of molecular sciences",
+  "publisher": "",
+  "published": "2026-09-30",
+  "year": 2026,
+  "doi": "10.3390/ijms27198788",
+  "url": "https://doi.org/10.3390/ijms27198788",
+  "source": "pubmed",
+  "categories": [
+   "Molecule Generation",
+   "Catalysis",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Catalysis",
+   "Machine Learning",
+   "Molecular Design",
+   "Molecules"
+  ],
+  "relevance_score": 74,
+  "affiliations": [],
+  "added": "2026-10-17"
+ },
+ {
   "id": "17de75e29078bdcf",
   "title": "Autocata: Reaction-network-guided autonomous catalyst screening via capability-centric AI",
   "authors": [
@@ -2815,6 +2850,34 @@
   "relevance_score": 75,
   "affiliations": [],
   "added": "2026-10-03"
+ },
+ {
+  "id": "e254f4a70eae605e",
+  "title": "Beyond Moisture Content: Time-Domain NMR for Quantifying Molecular Mobility, Water Accessibility and Food Function.",
+  "authors": [
+   "Zeev Wiesman"
+  ],
+  "journal": "Molecules (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-09-29",
+  "year": 2026,
+  "doi": "10.3390/molecules31193476",
+  "url": "https://doi.org/10.3390/molecules31193476",
+  "source": "pubmed",
+  "categories": [
+   "Spectroscopy",
+   "Chemometrics & Statistics",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemometrics",
+   "Machine Learning",
+   "Molecules",
+   "NMR"
+  ],
+  "relevance_score": 81,
+  "affiliations": [],
+  "added": "2026-10-17"
  },
  {
   "id": "e1b266ff555c27d1",
@@ -4445,6 +4508,37 @@
   "relevance_score": 46,
   "affiliations": [],
   "added": "2026-10-15"
+ },
+ {
+  "id": "37b699d06d210e65",
+  "title": "Spatiotemporal Multi-Omics and Compartment-Resolved Metabolomic Analyses Reveal the Mechanisms and Core Regulatory Networks of Cuticular Wax Formation in Blueberry Fruits.",
+  "authors": [
+   "Shaopeng Chen",
+   "Yuxuan Cheng",
+   "Qianqian Zhuang",
+   "Yujie Zhang"
+  ],
+  "journal": "International journal of molecular sciences",
+  "publisher": "",
+  "published": "2026-09-29",
+  "year": 2026,
+  "doi": "10.3390/ijms27198726",
+  "url": "https://doi.org/10.3390/ijms27198726",
+  "source": "pubmed",
+  "categories": [
+   "Spectroscopy",
+   "Analytical Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chromatography",
+   "Machine Learning",
+   "Mass Spectrometry",
+   "Molecules"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-10-17"
  },
  {
   "id": "2e58221fb1b871ba",
@@ -7735,6 +7829,79 @@
   "added": "2026-09-28"
  },
  {
+  "id": "af9614287ff848d2",
+  "title": "The Glyco-Code Molecular Template Instructively Guides Skeletal and Neural Development, Tissue Regeneration and Dynamic Repair Responses Following Trauma and Disease.",
+  "authors": [
+   "James Melrose"
+  ],
+  "journal": "International journal of molecular sciences",
+  "publisher": "",
+  "published": "2026-09-27",
+  "year": 2026,
+  "doi": "10.3390/ijms27198646",
+  "url": "https://doi.org/10.3390/ijms27198646",
+  "source": "pubmed",
+  "categories": [
+   "Catalysis",
+   "Computational Chemistry",
+   "Drug Discovery Chemistry",
+   "Materials Chemistry",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Deep Learning",
+   "Docking",
+   "Drug Discovery",
+   "Ligands",
+   "Molecular Dynamics",
+   "Molecules",
+   "Nanoparticles"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-10-17"
+ },
+ {
+  "id": "ae074b629fc8a504",
+  "title": "Design of Highly Efficient CO2-Switchable Solvents Based on Extraction and Recovery Performance.",
+  "authors": [
+   "Wen Ren",
+   "Luanxiao Wei",
+   "Yisu Fang",
+   "Xingchun Li",
+   "Yu Li",
+   "Chunmao Chen"
+  ],
+  "journal": "Molecules (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-09-27",
+  "year": 2026,
+  "doi": "10.3390/molecules31193444",
+  "url": "https://doi.org/10.3390/molecules31193444",
+  "source": "pubmed",
+  "categories": [
+   "Computational Chemistry",
+   "Drug Discovery Chemistry",
+   "Physical Chemistry",
+   "Property Prediction",
+   "Chemometrics & Statistics",
+   "Classical ML"
+  ],
+  "tags": [
+   "ADMET",
+   "DFT",
+   "Molecules",
+   "PCA",
+   "SVM",
+   "Solvents",
+   "Thermodynamics",
+   "Toxicity"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-10-17"
+ },
+ {
   "id": "a5c650a12878cd53",
   "title": "Sulfur-Oxygen Competitive Coordination Allosteric Hydrogel for Triboelectric Nanogenerator-Based Intelligent Tactile Recognition.",
   "authors": [
@@ -10513,6 +10680,36 @@
   "added": "2026-09-28"
  },
  {
+  "id": "1238b1b6193cd5ab",
+  "title": "Polyurethane-Chitosan Composites for Tissue Engineering: Novel Strategies, Therapeutic Potential and Limitations.",
+  "authors": [
+   "Karolina Kędra",
+   "Marcin Sobczak"
+  ],
+  "journal": "Materials (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-09-25",
+  "year": 2026,
+  "doi": "10.3390/ma19194110",
+  "url": "https://doi.org/10.3390/ma19194110",
+  "source": "pubmed",
+  "categories": [
+   "Polymer Chemistry",
+   "Physical Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Chemistry",
+   "Kinetics",
+   "Molecules",
+   "Polymers"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-10-17"
+ },
+ {
   "id": "1075b22e29a7ac75",
   "title": "Discovery of sunflower-derived umami peptides via machine learning and molecular dynamics simulation of their interactions with the T1R1/T1R3 receptor.",
   "authors": [
@@ -11034,6 +11231,34 @@
   "added": "2026-09-27"
  },
  {
+  "id": "742fef151035d6d5",
+  "title": "A Drug-Referenced Machine-Learning Framework for Prioritizing Korean Herbal Formulations in Hypertension Using Linear SVM and Graph Convolutional Networks.",
+  "authors": [
+   "Dong-Woo Lim"
+  ],
+  "journal": "International journal of molecular sciences",
+  "publisher": "",
+  "published": "2026-09-24",
+  "year": 2026,
+  "doi": "10.3390/ijms27198548",
+  "url": "https://doi.org/10.3390/ijms27198548",
+  "source": "pubmed",
+  "categories": [
+   "Graph Neural Networks",
+   "Machine Learning",
+   "Classical ML"
+  ],
+  "tags": [
+   "Graph Neural Network",
+   "Machine Learning",
+   "Molecules",
+   "SVM"
+  ],
+  "relevance_score": 75,
+  "affiliations": [],
+  "added": "2026-10-17"
+ },
+ {
   "id": "6e97f55b869c5440",
   "title": "Hierarchical Confinement and Oxygen-Vacancy Catalysis for Highly Reversible Room-Temperature Sodium-Sulfur Batteries.",
   "authors": [
@@ -11125,6 +11350,43 @@
   "added": "2026-09-24"
  },
  {
+  "id": "6b3f950c47802d11",
+  "title": "Enhancing FT-MIR Prediction of Short-Chain Free Fatty Acids in Milk Through High-Lipolysis Field Samples, Reference Method Evaluation and Machine Learning Approaches.",
+  "authors": [
+   "Octave S Christophe",
+   "Didier Veselko",
+   "Julie Leblois",
+   "Frédéric Dehareng",
+   "Hélène Soyeurt"
+  ],
+  "journal": "Foods (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-09-24",
+  "year": 2026,
+  "doi": "10.3390/foods15193423",
+  "url": "https://doi.org/10.3390/foods15193423",
+  "source": "pubmed",
+  "categories": [
+   "Spectroscopy",
+   "Machine Learning",
+   "Bayesian Optimization",
+   "Chemometrics & Statistics",
+   "Classical ML"
+  ],
+  "tags": [
+   "Gaussian Process",
+   "Kernel Ridge",
+   "Machine Learning",
+   "PLS",
+   "Random Forest",
+   "SVM",
+   "Spectroscopy"
+  ],
+  "relevance_score": 69,
+  "affiliations": [],
+  "added": "2026-10-17"
+ },
+ {
   "id": "69c1a637c0c6940e",
   "title": "The grand challenge in cellular neurophysiology",
   "authors": [
@@ -11160,6 +11422,38 @@
    "Stony Brook University"
   ],
   "added": "2026-09-26"
+ },
+ {
+  "id": "68f57ab901a4faf6",
+  "title": "MCOF: A Multi-Channel Attention-Based Omics Fusion Framework for Cancer Subtyping and Candidate Biomarker Prioritization.",
+  "authors": [
+   "Xuezhi Liang",
+   "Qi Wang",
+   "Kun Xie",
+   "Jianghui Zhang",
+   "Shiyu Feng",
+   "Xinyuan Zhong",
+   "Tingting Guo",
+   "Yi Zhang",
+   "Wen Chen"
+  ],
+  "journal": "International journal of molecular sciences",
+  "publisher": "",
+  "published": "2026-09-24",
+  "year": 2026,
+  "doi": "10.3390/ijms27198519",
+  "url": "https://doi.org/10.3390/ijms27198519",
+  "source": "pubmed",
+  "categories": [
+   "Classical ML"
+  ],
+  "tags": [
+   "Molecules",
+   "SVM"
+  ],
+  "relevance_score": 43,
+  "affiliations": [],
+  "added": "2026-10-17"
  },
  {
   "id": "67740c8bb4e60f5d",
@@ -11240,6 +11534,35 @@
   "relevance_score": 90,
   "affiliations": [],
   "added": "2026-09-25"
+ },
+ {
+  "id": "6184be16ee597602",
+  "title": "Molecular Diagnostics of Pathogenic Vibrio: Target Selection, Detection Platforms, and Challenges in Field Applications.",
+  "authors": [
+   "Feng Liu",
+   "Yu Liu",
+   "Shuangle Jin",
+   "Qingbao Du"
+  ],
+  "journal": "International journal of molecular sciences",
+  "publisher": "",
+  "published": "2026-09-24",
+  "year": 2026,
+  "doi": "10.3390/ijms27198514",
+  "url": "https://doi.org/10.3390/ijms27198514",
+  "source": "pubmed",
+  "categories": [
+   "Polymer Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Molecules",
+   "Polymers"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-10-17"
  },
  {
   "id": "555b4cc4a2175423",
@@ -11649,6 +11972,40 @@
    "Newcastle University"
   ],
   "added": "2026-09-26"
+ },
+ {
+  "id": "fd5cc618b06266f7",
+  "title": "SynerHyper: Predicting Anticancer Drug Synergy for Lung Cancer Using Uni-Mol Enhanced Hypergraph Neural Networks and Multimodal Fusion.",
+  "authors": [
+   "Chuance Sun",
+   "Linghao Zhang",
+   "Xiaotang Huang",
+   "Jingyang Li",
+   "Jingjing Li",
+   "Buyong Ma",
+   "Yanjing Wang"
+  ],
+  "journal": "International journal of molecular sciences",
+  "publisher": "",
+  "published": "2026-09-23",
+  "year": 2026,
+  "doi": "10.3390/ijms27198500",
+  "url": "https://doi.org/10.3390/ijms27198500",
+  "source": "pubmed",
+  "categories": [
+   "Classical ML",
+   "Deep Learning",
+   "Generative Models"
+  ],
+  "tags": [
+   "Autoencoder",
+   "LightGBM",
+   "Molecules",
+   "Neural Network"
+  ],
+  "relevance_score": 62,
+  "affiliations": [],
+  "added": "2026-10-17"
  },
  {
   "id": "f521725156e81732",
@@ -12483,6 +12840,37 @@
   "added": "2026-09-24"
  },
  {
+  "id": "8bba453d1860ee15",
+  "title": "Artificial Intelligence as a Catalyst for Novel Therapeutic Opportunities in Precision Oncology.",
+  "authors": [
+   "Kostas A Papavassiliou",
+   "Amalia A Sofianidi",
+   "Angeliki Margoni",
+   "Athanasios G Papavassiliou"
+  ],
+  "journal": "International journal of molecular sciences",
+  "publisher": "",
+  "published": "2026-09-23",
+  "year": 2026,
+  "doi": "10.3390/ijms27198489",
+  "url": "https://doi.org/10.3390/ijms27198489",
+  "source": "pubmed",
+  "categories": [
+   "Catalysis",
+   "Drug Discovery Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Catalysis",
+   "Drug Discovery",
+   "Molecules"
+  ],
+  "relevance_score": 74,
+  "affiliations": [],
+  "added": "2026-10-17"
+ },
+ {
   "id": "84d3423d492d4865",
   "title": "Antibody-drug conjugate engineering: from design to efficacy and safety.",
   "authors": [
@@ -12604,6 +12992,33 @@
   "relevance_score": 50,
   "affiliations": [],
   "added": "2026-09-24"
+ },
+ {
+  "id": "5f2dba2c2a633f39",
+  "title": "Chemical Profiling and Authentication of Boswellia Species and Frankincense Products: Advances in Metabolomics and Quality Markers.",
+  "authors": [
+   "Nataša Nastić",
+   "Kristian Pastor"
+  ],
+  "journal": "Plants (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-09-23",
+  "year": 2026,
+  "doi": "10.3390/plants15192916",
+  "url": "https://doi.org/10.3390/plants15192916",
+  "source": "pubmed",
+  "categories": [
+   "Spectroscopy",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Machine Learning",
+   "Spectroscopy"
+  ],
+  "relevance_score": 44,
+  "affiliations": [],
+  "added": "2026-10-17"
  },
  {
   "id": "58481677f56e8888",
@@ -13525,6 +13940,36 @@
   "relevance_score": 53,
   "affiliations": [],
   "added": "2026-09-23"
+ },
+ {
+  "id": "bfc73a285ab9f675",
+  "title": "Flow Cytometry and AI-Driven Biomarker Discovery in Acute Kidney Injury: From Mechanistic Insights to Translation Applications in Clinical and Austere Environments.",
+  "authors": [
+   "Shoulei Jiang",
+   "Michael Adam Meledeo",
+   "Xiaowu Wu",
+   "Barbara A Christy",
+   "Timothy S Horseman"
+  ],
+  "journal": "International journal of molecular sciences",
+  "publisher": "",
+  "published": "2026-09-22",
+  "year": 2026,
+  "doi": "10.3390/ijms27198450",
+  "url": "https://doi.org/10.3390/ijms27198450",
+  "source": "pubmed",
+  "categories": [
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Explainable AI",
+   "Machine Learning",
+   "Molecules"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-10-17"
  },
  {
   "id": "bd08bf6b69254dce",
@@ -14726,6 +15171,37 @@
   "relevance_score": 61,
   "affiliations": [],
   "added": "2026-10-04"
+ },
+ {
+  "id": "1e93c38a16b5e34a",
+  "title": "Microbially Induced Carbonate Precipitation (MICP) as a Sustainable Technology, Mechanism and Application: A Review.",
+  "authors": [
+   "Puchao Jia",
+   "Wei Zhang",
+   "Wansheng Pei",
+   "Gaosen Zhang",
+   "Tuo Chen",
+   "Guangxiu Liu"
+  ],
+  "journal": "Materials (Basel, Switzerland)",
+  "publisher": "",
+  "published": "2026-09-22",
+  "year": 2026,
+  "doi": "10.3390/ma19194051",
+  "url": "https://doi.org/10.3390/ma19194051",
+  "source": "pubmed",
+  "categories": [
+   "Materials Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Chemistry",
+   "Materials Science"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-10-17"
  },
  {
   "id": "1e13e5f6d29b8c8c",
@@ -21654,6 +22130,38 @@
   "added": "2026-09-17"
  },
  {
+  "id": "5cc5be8475d8b721",
+  "title": "Fluorescence fingerprinting to predict multiple chromatic and phenolic parameters for a diversified set of red wines.",
+  "authors": [
+   "Shuyue Fan",
+   "Keren A Bindon",
+   "David W Jeffery"
+  ],
+  "journal": "Food chemistry",
+  "publisher": "",
+  "published": "2026-09-16",
+  "year": 2026,
+  "doi": "10.1016/j.foodchem.2026.151199",
+  "url": "https://doi.org/10.1016/j.foodchem.2026.151199",
+  "source": "pubmed",
+  "categories": [
+   "Polymer Chemistry",
+   "Spectroscopy",
+   "Classical ML",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Gradient Boosting",
+   "Machine Learning",
+   "Polymers",
+   "Spectroscopy"
+  ],
+  "relevance_score": 80,
+  "affiliations": [],
+  "added": "2026-10-17"
+ },
+ {
   "id": "5c8b652d52e451db",
   "title": "Design principles for tunable electrocatalysis via electronic structure and orbital interactions in single-atom catalysts.",
   "authors": [
@@ -22068,6 +22576,45 @@
   "relevance_score": 50,
   "affiliations": [],
   "added": "2026-09-17"
+ },
+ {
+  "id": "1a3cdd6a70a20153",
+  "title": "First principles reactive flux theory for surface reactions revealing multiple channels and recrossing dynamics.",
+  "authors": [
+   "Chen Li",
+   "Xiongzhi Zeng",
+   "Yongle Li",
+   "Zhenyu Li",
+   "Hua Guo",
+   "Bin Jiang"
+  ],
+  "journal": "Nature communications",
+  "publisher": "",
+  "published": "2026-09-16",
+  "year": 2026,
+  "doi": "10.1038/s41467-026-77226-4",
+  "url": "https://doi.org/10.1038/s41467-026-77226-4",
+  "source": "pubmed",
+  "categories": [
+   "Catalysis",
+   "Computational Chemistry",
+   "Reaction Prediction",
+   "Physical Chemistry",
+   "ML Potentials & Force Fields",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Catalysis",
+   "Kinetics",
+   "ML Potential",
+   "Neural Network",
+   "PES",
+   "Reaction Mechanisms",
+   "Transition States"
+  ],
+  "relevance_score": 80,
+  "affiliations": [],
+  "added": "2026-10-17"
  },
  {
   "id": "1635819741501dc1",
@@ -37899,6 +38446,46 @@
   "added": "2026-09-15"
  },
  {
+  "id": "3b32d814775a10bc",
+  "title": "Deep learning-based excitation-emission matrix fluorescence spectroscopic analysis of polycyclic aromatic hydrocarbons in coal tar.",
+  "authors": [
+   "Mei Tian",
+   "Lanzhi Wang",
+   "Turghun Muhammad",
+   "Jika Yang",
+   "Tajiguli Yimamumaimaiti",
+   "Dengbin Yu",
+   "Yan He",
+   "Zhiming Li"
+  ],
+  "journal": "Analytica chimica acta",
+  "publisher": "",
+  "published": "2026-09-05",
+  "year": 2026,
+  "doi": "10.1016/j.aca.2026.346221",
+  "url": "https://doi.org/10.1016/j.aca.2026.346221",
+  "source": "pubmed",
+  "categories": [
+   "Spectroscopy",
+   "Deep Learning",
+   "Generative Models",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Autoencoder",
+   "CNN",
+   "Deep Learning",
+   "Machine Learning",
+   "Molecules",
+   "Neural Network",
+   "Spectroscopy",
+   "VAE"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-10-17"
+ },
+ {
   "id": "2d9036f4d7877296",
   "title": "Explainable artificial intelligence for chemical dosing in drinking water treatment: A SHAP-assisted case study.",
   "authors": [
@@ -39396,6 +39983,45 @@
    "Vrije Universiteit Brussel"
   ],
   "added": "2026-09-06"
+ },
+ {
+  "id": "340fc644e0b3b4da",
+  "title": "Discovery of thiol-reactive Staphylococcus aureus sortase A inhibitors from natural products by machine learning and thiocholine mass-shift profiling.",
+  "authors": [
+   "Yujing Huang",
+   "Congzhen Shen",
+   "Xiaoqing Mu",
+   "Chengyin Huang",
+   "Shasha Zhao",
+   "Jinlian Liang",
+   "Zhipeng Gu",
+   "Yingxin Zhang",
+   "Zezhong Yang",
+   "Jianni Yang",
+   "Haibo Zhou",
+   "Pinghua Sun",
+   "Shengrong Li",
+   "Junxia Zheng"
+  ],
+  "journal": "Analytica chimica acta",
+  "publisher": "",
+  "published": "2026-09-04",
+  "year": 2026,
+  "doi": "10.1016/j.aca.2026.346228",
+  "url": "https://doi.org/10.1016/j.aca.2026.346228",
+  "source": "pubmed",
+  "categories": [
+   "Organic Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Machine Learning",
+   "Natural Products"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-10-17"
  },
  {
   "id": "32daf75f0cc58f9d",
@@ -47253,6 +47879,64 @@
   "relevance_score": 66,
   "affiliations": [],
   "added": "2026-08-06"
+ },
+ {
+  "id": "23ee02c9493ea423",
+  "title": "Why choose between prediction power and mechanistic insight in QSRR modeling? A case study of artificial membrane chromatography and machine learning.",
+  "authors": [
+   "Wiktor Nisterenko",
+   "Julia Nicman",
+   "Jiayin Deng",
+   "Yash Raj Singh",
+   "Alicja Różycka",
+   "Katarzyna Ewa Greber",
+   "Daniel Szulczyk",
+   "Michał Nowacki",
+   "Maciej Dawidowski",
+   "Anna Drabczyk",
+   "Jolanta Jaśkowska",
+   "Przemysław Zaręba",
+   "Damian Kułaga",
+   "Marek Staszewski",
+   "Monika Wujec",
+   "Piotr Krzeczyński",
+   "Olga Michalak",
+   "Greta Klejborowska",
+   "Camilla Scarpellini",
+   "Koen Augustyns",
+   "Jaka Dernovšek",
+   "Tihomir Tomašič",
+   "Jan Korabecny",
+   "Joanna Fedorowicz",
+   "Jarosław Sączewski",
+   "Wiesław Sawicki",
+   "Defang Ouyang",
+   "Krzesimir Ciura"
+  ],
+  "journal": "Analytica chimica acta",
+  "publisher": "",
+  "published": "2026-09-01",
+  "year": 2026,
+  "doi": "10.1016/j.aca.2026.346201",
+  "url": "https://doi.org/10.1016/j.aca.2026.346201",
+  "source": "pubmed",
+  "categories": [
+   "Analytical Chemistry",
+   "Machine Learning",
+   "Classical ML",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Chromatography",
+   "Deep Learning",
+   "Gradient Boosting",
+   "Machine Learning",
+   "Molecules"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-10-17"
  },
  {
   "id": "23dc529507b1933d",
