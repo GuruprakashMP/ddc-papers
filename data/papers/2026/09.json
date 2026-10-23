@@ -5038,6 +5038,41 @@
   "added": "2026-09-29"
  },
  {
+  "id": "fd7b86187d232a4c",
+  "title": "AquaTox-Predictor: An MMoE-Enhanced Multimodal Deep Learning Framework for Aquatic Ecotoxicity Prediction.",
+  "authors": [
+   "Jingwei Zhang",
+   "Le Xiong",
+   "Fei Pan",
+   "Weihua Li",
+   "Xinxin Yu",
+   "Wenxiang Song",
+   "Dian Sheng",
+   "Yun Tang",
+   "Guixia Liu"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-28",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c02770",
+  "url": "https://doi.org/10.1021/acs.jcim.6c02770",
+  "source": "pubmed",
+  "categories": [
+   "Deep Learning",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Chemistry",
+   "Deep Learning",
+   "Fingerprints",
+   "Molecules"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-10-23"
+ },
+ {
   "id": "fb7e692fbc5d9a14",
   "title": "Integration of Network Toxicology and Machine Learning to Prioritize Candidate Molecular Features Associated with NNK-Related Lung Cancer.",
   "authors": [
@@ -5445,6 +5480,37 @@
   "added": "2026-09-30"
  },
  {
+  "id": "d8ef15f7dd16d52c",
+  "title": "Physics-Inspired Multi-Body Descriptors Enable Interpretable Density Prediction of Energetic Ionic Salts.",
+  "authors": [
+   "Xiaoyan Wang",
+   "Xiaokai He",
+   "Yining Zhang",
+   "Guojin Li",
+   "Chao Chen",
+   "Yingzhe Liu"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-28",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c02052",
+  "url": "https://doi.org/10.1021/acs.jcim.6c02052",
+  "source": "pubmed",
+  "categories": [
+   "Cheminformatics",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Descriptors",
+   "Machine Learning",
+   "Molecules"
+  ],
+  "relevance_score": 59,
+  "affiliations": [],
+  "added": "2026-10-23"
+ },
+ {
   "id": "d8392055ed59ecaf",
   "title": "Rapid detection of yam adulteration using portable NIRS combined with chemometrics.",
   "authors": [
@@ -5498,6 +5564,43 @@
   "relevance_score": 47,
   "affiliations": [],
   "added": "2026-09-29"
+ },
+ {
+  "id": "d5c84f47bd98139e",
+  "title": "A Task-Adaptive Multimodal Pretrained Framework for Antibiotic Virtual Screening with Joint Activity and Cytotoxicity Prediction.",
+  "authors": [
+   "Zhijie Pan",
+   "Xin Yang",
+   "Wenchi Ge",
+   "Churong Wang",
+   "Jianqiang Sun",
+   "Qi Zhao"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-28",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c02659",
+  "url": "https://doi.org/10.1021/acs.jcim.6c02659",
+  "source": "pubmed",
+  "categories": [
+   "Cheminformatics",
+   "Deep Learning",
+   "Machine Learning",
+   "Graph Neural Networks"
+  ],
+  "tags": [
+   "Contrastive Learning",
+   "Deep Learning",
+   "Fingerprints",
+   "Graph Representation",
+   "Molecules",
+   "Self-Supervised",
+   "Virtual Screening"
+  ],
+  "relevance_score": 68,
+  "affiliations": [],
+  "added": "2026-10-23"
  },
  {
   "id": "d013863651ccdea9",
@@ -5781,6 +5884,39 @@
   "added": "2026-09-30"
  },
  {
+  "id": "88ad3778754f3a2e",
+  "title": "Early-Enrichment Hit Discovery via Reversible-Work c(t) Estimation in Metadynamics (CTMD).",
+  "authors": [
+   "Venkata Sai Sreyas Adury",
+   "Pratyush Tiwary",
+   "Xinyu Gu",
+   "Mrinal Shekhar"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-28",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c01439",
+  "url": "https://doi.org/10.1021/acs.jcim.6c01439",
+  "source": "pubmed",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Physical Chemistry",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Chemistry",
+   "Docking",
+   "Drug Discovery",
+   "Molecules",
+   "Physical Chemistry",
+   "Virtual Screening"
+  ],
+  "relevance_score": 74,
+  "affiliations": [],
+  "added": "2026-10-23"
+ },
+ {
   "id": "87d5d667c0214ece",
   "title": "SERS Combined with PCA-SVM-Based Identification Study of Different Brands of Levetiracetam.",
   "authors": [
@@ -5888,6 +6024,32 @@
   "relevance_score": 84,
   "affiliations": [],
   "added": "2026-09-29"
+ },
+ {
+  "id": "7fe6db460719f1de",
+  "title": "UniMolRep: A Python Package for AI-Oriented Molecular Representation Modeling.",
+  "authors": [
+   "Weiqing Guo",
+   "Jiawei Chen",
+   "Debby D Wang"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-28",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c01681",
+  "url": "https://doi.org/10.1021/acs.jcim.6c01681",
+  "source": "pubmed",
+  "categories": [
+   "Machine Learning"
+  ],
+  "tags": [
+   "Machine Learning",
+   "Molecules"
+  ],
+  "relevance_score": 50,
+  "affiliations": [],
+  "added": "2026-10-23"
  },
  {
   "id": "789e8259bf381ccb",
@@ -6036,6 +6198,51 @@
   "added": "2026-09-24"
  },
  {
+  "id": "6df4c260688bb8be",
+  "title": "MultiRSF: A Deep Learning Approach for Predicting RNA-Small-Molecule Binding Sites Using Surface Characteristics.",
+  "authors": [
+   "Jiasai Shu",
+   "Wentao Xia",
+   "Yingjie Zheng",
+   "Yucheng Shu",
+   "Zhiyuan Zhao",
+   "Mei Feng",
+   "Yan Wang",
+   "Xiaogang Wang",
+   "Bijun Xu",
+   "Xiaojun Xu",
+   "Tingting Sun"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-28",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c02039",
+  "url": "https://doi.org/10.1021/acs.jcim.6c02039",
+  "source": "pubmed",
+  "categories": [
+   "Spectroscopy",
+   "Catalysis",
+   "Drug Discovery Chemistry",
+   "Deep Learning",
+   "Machine Learning",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Deep Learning",
+   "Drug Discovery",
+   "LLM",
+   "Ligands",
+   "Machine Learning",
+   "Molecules",
+   "NMR",
+   "Transformer"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-10-23"
+ },
+ {
   "id": "6deb867ecf7e34d2",
   "title": "Prediction of chemical miscarriage in assisted reproductive technology pregnancies using machine learning: A developmental study.",
   "authors": [
@@ -6139,6 +6346,43 @@
   "relevance_score": 68,
   "affiliations": [],
   "added": "2026-09-29"
+ },
+ {
+  "id": "68c0e6da0bc9c9f4",
+  "title": "Adaptive Data Splitting Strategy to Enhance Knowledge Learning for Phosphorescence Lifetime Prediction.",
+  "authors": [
+   "Jingxuan Shi",
+   "Shangming Li",
+   "Yuhang Tang",
+   "Jiachi Yang",
+   "Yanzhi Guo",
+   "Songran Yang",
+   "Xuemei Pu"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-28",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c02086",
+  "url": "https://doi.org/10.1021/acs.jcim.6c02086",
+  "source": "pubmed",
+  "categories": [
+   "Transformers & LLMs",
+   "Classical ML",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Data-Driven",
+   "LLM",
+   "Machine Learning",
+   "Molecules",
+   "Predictive Model",
+   "XGBoost"
+  ],
+  "relevance_score": 81,
+  "affiliations": [],
+  "added": "2026-10-23"
  },
  {
   "id": "6273bed363d5fb72",
@@ -6590,6 +6834,86 @@
   "added": "2026-09-30"
  },
  {
+  "id": "3605c648729057f6",
+  "title": "Deep3DCCS: Geometry-Driven Collision Cross Section Prediction from Multi-View Molecular Projection Tensors.",
+  "authors": [
+   "Pattipong Wisanpitayakorn",
+   "Vivek Bhakta Mathema",
+   "Kwanjeera Wanichthanarak",
+   "Thanyanatthamon Keawhawong",
+   "Narumol Jariyasopit",
+   "Pairash Saiviroonporn",
+   "Trongtum Tongdee",
+   "Yongyut Sirivatanauksorn",
+   "Sakda Khoomrung"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-28",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c00371",
+  "url": "https://doi.org/10.1021/acs.jcim.6c00371",
+  "source": "pubmed",
+  "categories": [
+   "Cheminformatics",
+   "Spectroscopy",
+   "Deep Learning"
+  ],
+  "tags": [
+   "CNN",
+   "Chemical Space",
+   "Chemistry",
+   "Deep Learning",
+   "Mass Spectrometry",
+   "Molecules",
+   "Neural Network",
+   "SMILES"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-10-23"
+ },
+ {
+  "id": "2eee96cd7092d1e6",
+  "title": "Decoding Molecular Binding Equilibria through Uncertainty-Aware Memory Retrieval.",
+  "authors": [
+   "Huaibin Hang",
+   "Shunpeng Pang",
+   "Wensheng An",
+   "Wenjian Ma",
+   "Junxiao Feng",
+   "Weina Pang",
+   "Mingjian Jiang",
+   "Guanpeng Wu",
+   "Wei Zhou",
+   "Yuanyuan Zhang"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-28",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c01177",
+  "url": "https://doi.org/10.1021/acs.jcim.6c01177",
+  "source": "pubmed",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Cheminformatics",
+   "Deep Learning",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Data-Driven",
+   "Deep Learning",
+   "Drug Discovery",
+   "Molecules",
+   "Virtual Screening"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-10-23"
+ },
+ {
   "id": "2e42344ed0c73dd8",
   "title": "Measuring trainable degrees of freedom in materials graph neural networks: a random-subspace intrinsic dimension analysis",
   "authors": [
@@ -6662,6 +6986,50 @@
    "Forschungsverbund Berlin"
   ],
   "added": "2026-09-30"
+ },
+ {
+  "id": "2c62bc26eb7e8379",
+  "title": "HelixDTA: Dual-Branch Sequence-Structure Learning with Complete Target Structures for Robust and Interpretable Drug-Target Affinity Prediction.",
+  "authors": [
+   "Shang Lou",
+   "Xuhua Li",
+   "Yujie Peng",
+   "Yuan Yuan",
+   "Bo Peng",
+   "Yingyu Yi",
+   "Xuchao Zhang",
+   "Hailong Zhao",
+   "Beilei Wang",
+   "Kun Li",
+   "Hong Qian",
+   "Tao Ren",
+   "Hongcang Gu",
+   "Fan Zhang"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-28",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c01759",
+  "url": "https://doi.org/10.1021/acs.jcim.6c01759",
+  "source": "pubmed",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Deep Learning",
+   "Machine Learning",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Deep Learning",
+   "Docking",
+   "Drug Discovery",
+   "Machine Learning",
+   "Molecules",
+   "Transformer"
+  ],
+  "relevance_score": 85,
+  "affiliations": [],
+  "added": "2026-10-23"
  },
  {
   "id": "26dd6baa97fb43f4",
@@ -7275,6 +7643,39 @@
   "relevance_score": 66,
   "affiliations": [],
   "added": "2026-09-29"
+ },
+ {
+  "id": "08b0283b8d9b6145",
+  "title": "Persistent Local Laplacian Prediction of Protein-Ligand Binding Affinities.",
+  "authors": [
+   "Jian Liu",
+   "Hongsong Feng"
+  ],
+  "journal": "Journal of chemical information and modeling",
+  "publisher": "",
+  "published": "2026-09-28",
+  "year": 2026,
+  "doi": "10.1021/acs.jcim.6c02460",
+  "url": "https://doi.org/10.1021/acs.jcim.6c02460",
+  "source": "pubmed",
+  "categories": [
+   "Catalysis",
+   "Drug Discovery Chemistry",
+   "Cheminformatics",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Descriptors",
+   "Drug Discovery",
+   "Ligands",
+   "Machine Learning",
+   "Molecules",
+   "Predictive Model",
+   "Protein-Ligand"
+  ],
+  "relevance_score": 94,
+  "affiliations": [],
+  "added": "2026-10-23"
  },
  {
   "id": "0545338fabe14055",
