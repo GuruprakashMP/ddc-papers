@@ -250,6 +250,36 @@
   "added": "2026-10-07"
  },
  {
+  "id": "e190d1eaeb925cb4",
+  "title": "Dual-layer energy management strategy combining model predictive control and deep reinforcement learning for fuel cell-battery hybrid power systems",
+  "authors": [
+   "Pengcheng Yue",
+   "Weimin Wu",
+   "Guoqing Zhang",
+   "Zhijie Huang",
+   "Huawei Chang"
+  ],
+  "journal": "Energy and AI",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.egyai.2026.100944",
+  "url": "https://doi.org/10.1016/j.egyai.2026.100944",
+  "source": "crossref",
+  "categories": [
+   "Electrochemistry & Batteries",
+   "Reinforcement Learning"
+  ],
+  "tags": [
+   "Batteries",
+   "Fuel Cells",
+   "Reinforcement Learning"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-10-31"
+ },
+ {
   "id": "dde158837f656891",
   "title": "Electrochemical sensors for ammonia detection: principles, progress, and prospects",
   "authors": [
@@ -421,6 +451,33 @@
   "relevance_score": 68,
   "affiliations": [],
   "added": "2026-10-02"
+ },
+ {
+  "id": "c682494f68c5e335",
+  "title": "Cross-condition knee point prediction of lithium-ion batteries using interpretable residual neural networks",
+  "authors": [
+   "Jian Wu",
+   "Alexandre Ravey",
+   "Fei Gao"
+  ],
+  "journal": "Energy and AI",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.egyai.2026.100902",
+  "url": "https://doi.org/10.1016/j.egyai.2026.100902",
+  "source": "crossref",
+  "categories": [
+   "Electrochemistry & Batteries",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Batteries",
+   "Neural Network"
+  ],
+  "relevance_score": 44,
+  "affiliations": [],
+  "added": "2026-10-31"
  },
  {
   "id": "c5bea58d6a0b18d1",
@@ -1023,6 +1080,37 @@
   "added": "2026-09-24"
  },
  {
+  "id": "7752f16fe9e5fc56",
+  "title": "Explainable deep learning for operando X-ray diffraction analysis of lithium-ion batteries",
+  "authors": [
+   "Hamidreza Farhadi Tolie",
+   "Ashok S. Menon",
+   "Louis F.J. Piper",
+   "James Marco",
+   "Mona Faraji Niri"
+  ],
+  "journal": "Energy and AI",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.egyai.2026.100922",
+  "url": "https://doi.org/10.1016/j.egyai.2026.100922",
+  "source": "crossref",
+  "categories": [
+   "Electrochemistry & Batteries",
+   "Spectroscopy",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Batteries",
+   "Deep Learning",
+   "XRD"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-10-31"
+ },
+ {
   "id": "758530d07d910a30",
   "title": "Burning rate catalysts for composite solid propellants: A comprehensive review from conventional additives to green, residue-free alternatives",
   "authors": [
@@ -1054,6 +1142,31 @@
   "relevance_score": 68,
   "affiliations": [],
   "added": "2026-10-08"
+ },
+ {
+  "id": "74efa5a86612617f",
+  "title": "Quantitative mining of wine aroma literature data for specification reuse",
+  "authors": [
+   "Mei-Ling Yang",
+   "Hui Wang",
+   "Li-Xia Zhu"
+  ],
+  "journal": "Food Chemistry: X",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.fochx.2026.104611",
+  "url": "https://doi.org/10.1016/j.fochx.2026.104611",
+  "source": "doaj",
+  "categories": [
+   "Classical ML"
+  ],
+  "tags": [
+   "Random Forest"
+  ],
+  "relevance_score": 44,
+  "affiliations": [],
+  "added": "2026-10-31"
  },
  {
   "id": "6f30391a5804a2b5",
@@ -1291,6 +1404,32 @@
   "relevance_score": 100,
   "affiliations": [],
   "added": "2026-10-29"
+ },
+ {
+  "id": "455f1de1c35ba52b",
+  "title": "Degradation-aligned self-supervised learning for state of health estimation of lithium-ion batteries under label sparsity",
+  "authors": [
+   "Jiaqi Yao",
+   "Julia Kowal"
+  ],
+  "journal": "Energy and AI",
+  "publisher": "Elsevier BV",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.egyai.2026.100884",
+  "url": "https://doi.org/10.1016/j.egyai.2026.100884",
+  "source": "crossref",
+  "categories": [
+   "Electrochemistry & Batteries",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Batteries",
+   "Self-Supervised"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-10-31"
  },
  {
   "id": "44d89f02dfdb1e31",
@@ -1820,6 +1959,39 @@
   "added": "2026-10-26"
  },
  {
+  "id": "186a7b5f81d2e697",
+  "title": "Unveiling adsorption sites and proton transfer pathways for glycerol at low-coordinated CaO sites through active-learning-guided DFTB sampling and DFT refinement",
+  "authors": [
+   "Wallison dos S. Dias",
+   "Gabriela Monteiro B. Da Silva",
+   "Roberta P. Dias",
+   "Maicon P. Lourenço",
+   "Julio C. Santos Da Silva"
+  ],
+  "journal": "Artificial Intelligence Chemistry",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.aichem.2026.100135",
+  "url": "https://doi.org/10.1016/j.aichem.2026.100135",
+  "source": "doaj",
+  "categories": [
+   "Computational Chemistry",
+   "Surface Chemistry",
+   "Catalysis",
+   "Active Learning"
+  ],
+  "tags": [
+   "Active Learning",
+   "Adsorption",
+   "Catalysis",
+   "DFT"
+  ],
+  "relevance_score": 74,
+  "affiliations": [],
+  "added": "2026-10-31"
+ },
+ {
   "id": "0aae030f66a61c5d",
   "title": "Machine learning-guided high-throughput design and virtual screening of nitrogen-doped small-molecule acceptors with enhanced dipole moments for organic solar cell applications",
   "authors": [
@@ -1850,6 +2022,45 @@
   "relevance_score": 85,
   "affiliations": [],
   "added": "2026-09-27"
+ },
+ {
+  "id": "086e49aa71df3624",
+  "title": "Machine learning for degradable polyesters from prediction to circular design",
+  "authors": [
+   "Nazmul Shuzan",
+   "Xianyou Liu",
+   "Lijin Wang",
+   "Jialun Wei",
+   "Yung Chang",
+   "Jie Zheng"
+  ],
+  "journal": "Materials Today Sustainability",
+  "publisher": "Elsevier",
+  "published": "2026-12-01",
+  "year": 2026,
+  "doi": "10.1016/j.mtsust.2026.101474",
+  "url": "https://doi.org/10.1016/j.mtsust.2026.101474",
+  "source": "doaj",
+  "categories": [
+   "Molecule Generation",
+   "Spectroscopy",
+   "Polymer Chemistry",
+   "Physical Chemistry",
+   "Machine Learning",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Inverse Design",
+   "Kinetics",
+   "Machine Learning",
+   "Molecules",
+   "NMR",
+   "Polymers",
+   "Virtual Screening"
+  ],
+  "relevance_score": 90,
+  "affiliations": [],
+  "added": "2026-10-31"
  },
  {
   "id": "07b64a0cfa4e701f",
