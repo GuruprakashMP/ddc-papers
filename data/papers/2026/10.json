@@ -1,5 +1,67 @@
 [
  {
+  "id": "fd326dcadcbfc198",
+  "title": "PLUMED-JAX: GPU-native enhanced sampling for atomistic simulations",
+  "authors": [
+   "Venkat Kapil"
+  ],
+  "journal": "arXiv",
+  "publisher": "arXiv",
+  "published": "2026-10-31",
+  "year": 2026,
+  "doi": "",
+  "url": "http://arxiv.org/abs/2611.00483v1",
+  "source": "arxiv",
+  "categories": [
+   "Computational Chemistry",
+   "ML Potentials & Force Fields",
+   "Machine Learning"
+  ],
+  "tags": [
+   "ML Potential",
+   "Machine Learning",
+   "Molecular Dynamics",
+   "Molecules"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-11-03"
+ },
+ {
+  "id": "fcb68ad81fdb1b93",
+  "title": "PeptSol: A Translational Benchmark for Protected-Peptide Solubility in Drug Manufacturing",
+  "authors": [
+   "Alexander Arjun Lobo",
+   "Marc Saouda",
+   "Urvi Awasthi",
+   "Leonid Zhukov"
+  ],
+  "journal": "arXiv",
+  "publisher": "arXiv",
+  "published": "2026-10-31",
+  "year": 2026,
+  "doi": "",
+  "url": "http://arxiv.org/abs/2611.00749v1",
+  "source": "arxiv",
+  "categories": [
+   "Property Prediction",
+   "Physical Chemistry",
+   "Cheminformatics",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Chemistry",
+   "Descriptors",
+   "Foundation Model",
+   "Molecules",
+   "Solubility",
+   "Solvents"
+  ],
+  "relevance_score": 71,
+  "affiliations": [],
+  "added": "2026-11-03"
+ },
+ {
   "id": "f873fd8dc1a91dce",
   "title": "Exploring the role and mechanism of methionine metabolism in chronic rhinosinusitis with nasal polyps based on bioinformatics analysis.",
   "authors": [
@@ -254,6 +316,40 @@
   "added": "2026-11-02"
  },
  {
+  "id": "990310856f0cb17c",
+  "title": "Beyond Synthesis Conditions: Linking In-situ Growth Dynamics to Carbon Nanotube Forest Properties through Multimodal Machine Learning",
+  "authors": [
+   "Shun Muroga",
+   "Takashi Tsuji",
+   "Shunsuke Sakurai",
+   "Don N Futaba"
+  ],
+  "journal": "arXiv",
+  "publisher": "arXiv",
+  "published": "2026-10-31",
+  "year": 2026,
+  "doi": "",
+  "url": "http://arxiv.org/abs/2611.00739v1",
+  "source": "arxiv",
+  "categories": [
+   "Catalysis",
+   "Reaction Prediction",
+   "Machine Learning",
+   "Classical ML"
+  ],
+  "tags": [
+   "Catalysis",
+   "Chemistry",
+   "Clustering",
+   "Feature Importance",
+   "Machine Learning",
+   "Yield Prediction"
+  ],
+  "relevance_score": 71,
+  "affiliations": [],
+  "added": "2026-11-03"
+ },
+ {
   "id": "8d97186a39373bce",
   "title": "Application of Fourier transform infrared (FT-IR) spectroscopy to discriminate serotypes of Streptococcus suis.",
   "authors": [
@@ -339,6 +435,37 @@
   "added": "2026-11-02"
  },
  {
+  "id": "861cd25ca3714be9",
+  "title": "Power-Optimal Risk Control via Standardized Margin Calibration",
+  "authors": [
+   "Ruinan Wang",
+   "Tian Bai",
+   "Yueming Shen",
+   "Xiang Yu",
+   "Ying Yang",
+   "Archer Yi Yang"
+  ],
+  "journal": "arXiv",
+  "publisher": "arXiv",
+  "published": "2026-10-31",
+  "year": 2026,
+  "doi": "",
+  "url": "http://arxiv.org/abs/2611.00480v1",
+  "source": "arxiv",
+  "categories": [
+   "Property Prediction",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Machine Learning",
+   "Molecules",
+   "Solubility"
+  ],
+  "relevance_score": 44,
+  "affiliations": [],
+  "added": "2026-11-03"
+ },
+ {
   "id": "7593cb2c0049b785",
   "title": "Multiparametric Quantitative MRI With 2.5D Deep Learning for Molecular Classification and Overall Survival Assessment in Adult-Type Diffuse Gliomas.",
   "authors": [
@@ -372,6 +499,34 @@
   "relevance_score": 42,
   "affiliations": [],
   "added": "2026-11-01"
+ },
+ {
+  "id": "7575c153d88b536c",
+  "title": "Diffusion-Based Generative Screening of ABX$_3$ Perovskite Compositions for Bandgap-Targeted Materials Discovery",
+  "authors": [
+   "Sunraj Patel",
+   "Krishanu Biswas"
+  ],
+  "journal": "arXiv",
+  "publisher": "arXiv",
+  "published": "2026-10-31",
+  "year": 2026,
+  "doi": "",
+  "url": "http://arxiv.org/abs/2611.00766v1",
+  "source": "arxiv",
+  "categories": [
+   "Materials Chemistry",
+   "Generative Models"
+  ],
+  "tags": [
+   "Chemistry",
+   "Diffusion Model",
+   "Materials Discovery",
+   "Perovskites"
+  ],
+  "relevance_score": 65,
+  "affiliations": [],
+  "added": "2026-11-03"
  },
  {
   "id": "7278c4fe99d40475",
@@ -487,6 +642,35 @@
   "added": "2026-11-02"
  },
  {
+  "id": "55d3209cdf0b49c4",
+  "title": "Chemistry-informed AI for food toxicant and adulterant detection: matrix-aware validation and auditable decision support.",
+  "authors": [
+   "Chandan Kumar Sahu",
+   "Amit Arora"
+  ],
+  "journal": "Food chemistry",
+  "publisher": "",
+  "published": "2026-10-31",
+  "year": 2026,
+  "doi": "10.1016/j.foodchem.2026.151875",
+  "url": "https://doi.org/10.1016/j.foodchem.2026.151875",
+  "source": "pubmed",
+  "categories": [
+   "Analytical Chemistry",
+   "Spectroscopy",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Chemistry",
+   "Chromatography",
+   "Spectroscopy"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-11-03"
+ },
+ {
   "id": "4b10a47d3071bb5d",
   "title": "Salivary attenuated total reflectance-Fourier transform infrared spectroscopy in systemic diseases: a scoping review of clinical applications, spectral findings, and methodological challenges.",
   "authors": [
@@ -521,6 +705,67 @@
   "added": "2026-11-01"
  },
  {
+  "id": "46231aae483103e0",
+  "title": "Response Surface Methodology for Modelling and Optimization of Chromium Adsorption onto Magnetic Carbon Nanocomposites",
+  "authors": [
+   "Jasmina Nikić",
+   "Marko Šolić",
+   "Aleksandra Kulić Mandić",
+   "Jovana Pešić Bajić",
+   "Minja Bogunović Koljaja",
+   "Malcolm Watson",
+   "Jasmina Agbaba"
+  ],
+  "journal": "Processes",
+  "publisher": "MDPI AG",
+  "published": "2026-10-31",
+  "year": 2026,
+  "doi": "10.3390/pr14213497",
+  "url": "https://doi.org/10.3390/pr14213497",
+  "source": "crossref",
+  "categories": [
+   "Surface Chemistry",
+   "Classical ML",
+   "Machine Learning",
+   "Chemometrics & Statistics"
+  ],
+  "tags": [
+   "Adsorption",
+   "Machine Learning",
+   "Random Forest",
+   "Regression",
+   "SVM"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-11-03"
+ },
+ {
+  "id": "444a8888f1fad084",
+  "title": "Versatile Graph Foundation Models from Frozen Time-Series Foundation Models via Parallel Flows",
+  "authors": [
+   "Jielong Yang",
+   "Feng Ji"
+  ],
+  "journal": "arXiv",
+  "publisher": "arXiv",
+  "published": "2026-10-31",
+  "year": 2026,
+  "doi": "",
+  "url": "http://arxiv.org/abs/2611.00670v1",
+  "source": "arxiv",
+  "categories": [
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Foundation Model",
+   "Molecules"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-11-03"
+ },
+ {
   "id": "31e3819bc8cad1d0",
   "title": "The Maternal Blood Transcriptome Reflects Molecular Signatures Associated With Large Offspring Syndrome and Other Adverse Pregnancy Outcomes in Cattle.",
   "authors": [
@@ -553,6 +798,47 @@
   "relevance_score": 50,
   "affiliations": [],
   "added": "2026-10-17"
+ },
+ {
+  "id": "2c3f6d0081f5bf29",
+  "title": "Computational repurposing of FDA-approved drugs as candidate PPARδ ligands with potential relevance to hepatic fibrosis.",
+  "authors": [
+   "Zhang Wenjia",
+   "Aamir Fahira",
+   "Zaheer Ud Din",
+   "Xiaoan Li",
+   "Muhammad Shahab",
+   "Xuemin Jian"
+  ],
+  "journal": "Computational biology and chemistry",
+  "publisher": "",
+  "published": "2026-10-31",
+  "year": 2026,
+  "doi": "10.1016/j.compbiolchem.2026.109523",
+  "url": "https://doi.org/10.1016/j.compbiolchem.2026.109523",
+  "source": "pubmed",
+  "categories": [
+   "Catalysis",
+   "Cheminformatics",
+   "Computational Chemistry",
+   "Drug Discovery Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemical Space",
+   "Chemistry",
+   "Docking",
+   "Explainable AI",
+   "Ligands",
+   "Machine Learning",
+   "Molecular Dynamics",
+   "Molecules",
+   "QSAR",
+   "Virtual Screening"
+  ],
+  "relevance_score": 100,
+  "affiliations": [],
+  "added": "2026-11-03"
  },
  {
   "id": "22ea0b0e54687644",
@@ -5747,6 +6033,47 @@
   "added": "2026-10-31"
  },
  {
+  "id": "2a68f7201f1d955f",
+  "title": "The use of molecular spectroscopic techniques combined with chemometric machine learning for the analysis of meat freshness: a narrative review.",
+  "authors": [
+   "Yuny Erwanto",
+   "David Fernando",
+   "Putri Selvia Nurfebriana",
+   "Mohammad Zainal Abidin",
+   "Rio Olimpias Sujarwanto",
+   "Anjar Windarsih",
+   "Zhuangzhuang Qiu",
+   "Abdul Rohman",
+   "Koo Bok Chin"
+  ],
+  "journal": "Animal bioscience",
+  "publisher": "",
+  "published": "2026-10-28",
+  "year": 2026,
+  "doi": "10.5713/ab.260531",
+  "url": "https://doi.org/10.5713/ab.260531",
+  "source": "pubmed",
+  "categories": [
+   "Spectroscopy",
+   "Analytical Chemistry",
+   "Chemometrics & Statistics",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Chemometrics",
+   "Chromatography",
+   "Machine Learning",
+   "Molecules",
+   "Raman",
+   "Spectroscopy",
+   "UV-Vis"
+  ],
+  "relevance_score": 92,
+  "affiliations": [],
+  "added": "2026-11-03"
+ },
+ {
   "id": "20fddd85f7443a6b",
   "title": "Electrochemical detection of the ethyl acetate biomarker using a lead-free double perovskite for the early diagnosis of lung cancer.",
   "authors": [
@@ -6739,6 +7066,37 @@
   "added": "2026-10-29"
  },
  {
+  "id": "b096fc3ae2d0f5a7",
+  "title": "Satellite Image Based Agricultural Monitoring Using Machine Learning and Explainable AI",
+  "authors": [
+   "Nandhini B",
+   "Nithyanandh S",
+   "Thara L",
+   "Mohanapriya D"
+  ],
+  "journal": "International Journal of Innovative Research in Computer Science and Technology",
+  "publisher": "Innovative Research Publication",
+  "published": "2026-10-27",
+  "year": 2026,
+  "doi": "10.55524/ijircst.2026.14.5.10",
+  "url": "https://doi.org/10.55524/ijircst.2026.14.5.10",
+  "source": "crossref",
+  "categories": [
+   "Spectroscopy",
+   "Machine Learning",
+   "Classical ML"
+  ],
+  "tags": [
+   "Explainable AI",
+   "Machine Learning",
+   "Random Forest",
+   "Spectroscopy"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-11-03"
+ },
+ {
   "id": "aef9fba57ac67ca0",
   "title": "Surface-engineered nanostructured adsorbents for CO2 capture: From material design to process integration and industrial deployment.",
   "authors": [
@@ -7675,6 +8033,45 @@
   "relevance_score": 58,
   "affiliations": [],
   "added": "2026-10-28"
+ },
+ {
+  "id": "3e680cf9fb512b57",
+  "title": "Beyond Linker Length: Three-Dimensional Linker Geometry Governs Flexibility in Zn-Triazolate MOFs.",
+  "authors": [
+   "Sophie A Booth",
+   "William B Stoll",
+   "Konstantin Stracke",
+   "Cameron J Kepert",
+   "Jack D Evans",
+   "Michael T Ruggiero",
+   "Jack K Clegg",
+   "Lauren K Macreadie"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "",
+  "published": "2026-10-27",
+  "year": 2026,
+  "doi": "10.1021/jacs.6c15465",
+  "url": "https://doi.org/10.1021/jacs.6c15465",
+  "source": "pubmed",
+  "categories": [
+   "Materials Chemistry",
+   "Spectroscopy",
+   "Surface Chemistry",
+   "Physical Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Adsorption",
+   "Kinetics",
+   "MOFs",
+   "Machine Learning",
+   "Molecules",
+   "XRD"
+  ],
+  "relevance_score": 74,
+  "affiliations": [],
+  "added": "2026-11-03"
  },
  {
   "id": "3c4a111969cb341f",
@@ -16908,6 +17305,32 @@
   "added": "2026-10-25"
  },
  {
+  "id": "563895dc455f3b81",
+  "title": "Approaching the shot-noise limit in transient absorption and dispersion spectroscopy with machine learning.",
+  "authors": [
+   "Adrian N Pfeiffer",
+   "Matthias Kübel"
+  ],
+  "journal": "Optics express",
+  "publisher": "",
+  "published": "2026-10-20",
+  "year": 2026,
+  "doi": "10.1364/oe.610375",
+  "url": "https://doi.org/10.1364/OE.610375",
+  "source": "pubmed",
+  "categories": [
+   "Spectroscopy",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Machine Learning",
+   "Spectroscopy"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-11-03"
+ },
+ {
   "id": "544ba243836770da",
   "title": "Predicting nanoparticle tumor delivery efficiency using explainable machine learning for cancer nanomedicine design",
   "authors": [
@@ -17934,6 +18357,39 @@
   "relevance_score": 56,
   "affiliations": [],
   "added": "2026-10-27"
+ },
+ {
+  "id": "a50af4beb7834356",
+  "title": "Nanorobotic Analytical Systems in Pharmaceutical Sciences: Translational Advances, Patents and Next-Generation Sensing Platforms.",
+  "authors": [
+   "Pranav Dhiman",
+   "Ankit Sharma",
+   "Inder Kumar",
+   "Pravin Kumar",
+   "Amar Deep Ankalgi",
+   "Mahendra Singh Ashawat"
+  ],
+  "journal": "Recent patents on nanotechnology",
+  "publisher": "",
+  "published": "2026-10-19",
+  "year": 2026,
+  "doi": "10.2174/0118722105511004261011123713",
+  "url": "https://doi.org/10.2174/0118722105511004261011123713",
+  "source": "pubmed",
+  "categories": [
+   "Materials Chemistry",
+   "High-Throughput & Autonomous",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "High-Throughput",
+   "Molecules",
+   "Nanomaterials"
+  ],
+  "relevance_score": 49,
+  "affiliations": [],
+  "added": "2026-11-03"
  },
  {
   "id": "a49fc6a7e8bae56b",
