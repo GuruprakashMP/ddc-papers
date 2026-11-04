@@ -91,6 +91,39 @@
   "added": "2026-11-03"
  },
  {
+  "id": "8af07fd433877343",
+  "title": "LTVAE: Hybrid LSTM-Transformer VAE Architecture for Molecular SMILES Representation.",
+  "authors": [
+   "Md Halim Mondol",
+   "Qingshan Wei",
+   "Edgar Lobaton"
+  ],
+  "journal": "Journal of computational chemistry",
+  "publisher": "",
+  "published": "2026-11-05",
+  "year": 2026,
+  "doi": "10.1002/jcc.70521",
+  "url": "https://doi.org/10.1002/jcc.70521",
+  "source": "pubmed",
+  "categories": [
+   "Cheminformatics",
+   "Transformers & LLMs",
+   "Generative Models"
+  ],
+  "tags": [
+   "Autoencoder",
+   "Chemistry",
+   "Descriptors",
+   "Molecules",
+   "SMILES",
+   "Transformer",
+   "VAE"
+  ],
+  "relevance_score": 81,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
   "id": "5171c6c3e05fe704",
   "title": "Physics-Based AI-Augmented Workflows Discovering Candidate Graphene Quantum Dot Near-Infrared Chromophores.",
   "authors": [
@@ -132,6 +165,101 @@
   "added": "2026-11-03"
  },
  {
+  "id": "87b6caf86401cc0c",
+  "title": "Learning Constraints in Protein Evolution beyond Known Substitution Frequencies.",
+  "authors": [
+   "Bricout R",
+   "Roest Crollius H",
+   "Genovesio A."
+  ],
+  "journal": "Molecular biology and evolution",
+  "publisher": "",
+  "published": "2026-11-04",
+  "year": 2026,
+  "doi": "10.1093/molbev/msag270",
+  "url": "https://doi.org/10.1093/molbev/msag270",
+  "source": "europepmc",
+  "categories": [
+   "Deep Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Deep Learning"
+  ],
+  "relevance_score": 47,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "fb69efac1f727efc",
+  "title": "From structure prediction to ligand-target recognition: expanding the reach of AlphaFold in natural product research.",
+  "authors": [
+   "Xu G",
+   "Hu H",
+   "Zhao W",
+   "Liu Z",
+   "Wang T",
+   "Liu R",
+   "Liu S."
+  ],
+  "journal": "Natural products and bioprospecting",
+  "publisher": "",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1007/s13659-026-00654-8",
+  "url": "https://doi.org/10.1007/s13659-026-00654-8",
+  "source": "europepmc",
+  "categories": [
+   "Catalysis",
+   "Organic Chemistry",
+   "Drug Discovery Chemistry",
+   "Polymer Chemistry",
+   "Cheminformatics",
+   "Deep Learning"
+  ],
+  "tags": [
+   "AlphaFold",
+   "Drug Discovery",
+   "Ligands",
+   "Macromolecules",
+   "Molecules",
+   "Natural Products",
+   "Virtual Screening"
+  ],
+  "relevance_score": 80,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "ec6c2fa68cfbf611",
+  "title": "AI-enhanced biosensing for antimicrobial resistance: translating rapid diagnostics to global surveillance.",
+  "authors": [
+   "Manisekaran NK",
+   "Tiwari P",
+   "Rathinasabapathi P."
+  ],
+  "journal": "Biomedical microdevices",
+  "publisher": "",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1007/s10544-026-00853-7",
+  "url": "https://doi.org/10.1007/s10544-026-00853-7",
+  "source": "europepmc",
+  "categories": [
+   "Electrochemistry & Batteries",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Electrochemistry",
+   "Explainable AI",
+   "Molecules"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
   "id": "e249d44ca0a290e9",
   "title": "Semantic Topic Discovery for Curriculum Analysis of NCERT Chemistry Textbooks Using Transformer-Based Language Models",
   "authors": [
@@ -167,6 +295,156 @@
   "added": "2026-11-03"
  },
  {
+  "id": "d0fb3465153c9b2e",
+  "title": "Accessing pharmaceutically relevant maleimide scaffolds through C-H bond functionalization.",
+  "authors": [
+   "Han SH",
+   "Patil RD",
+   "Deshmukh G",
+   "Han S",
+   "Kim S."
+  ],
+  "journal": "Archives of pharmacal research",
+  "publisher": "",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1007/s12272-026-01643-8",
+  "url": "https://doi.org/10.1007/s12272-026-01643-8",
+  "source": "europepmc",
+  "categories": [
+   "Catalysis",
+   "Cheminformatics",
+   "Drug Discovery Chemistry",
+   "Organic Chemistry",
+   "Electrochemistry & Batteries",
+   "Reaction Prediction",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Catalysis",
+   "Chemical Space",
+   "Chemistry",
+   "Drug Discovery",
+   "Electrochemistry",
+   "Machine Learning",
+   "Medicinal Chemistry",
+   "Molecules",
+   "Reactivity",
+   "Regioselectivity",
+   "SAR"
+  ],
+  "relevance_score": 68,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "c756f27918c8a7e9",
+  "title": "Unlocking the Potential of Magnesium-Based Hydrogen Storage Composites via Advanced Thermodynamic and Kinetic Tuning Strategies.",
+  "authors": [
+   "Zhao Y",
+   "Li Y",
+   "Wang B",
+   "Lin X",
+   "Hu Z",
+   "Nie J",
+   "Mao B",
+   "Ding W",
+   "Ferrari AC",
+   "Zou J."
+  ],
+  "journal": "Advanced materials (Deerfield Beach, Fla.)",
+  "publisher": "",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1002/adma.75618",
+  "url": "https://doi.org/10.1002/adma.75618",
+  "source": "europepmc",
+  "categories": [
+   "Catalysis",
+   "Physical Chemistry",
+   "Materials Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Alloys",
+   "Catalysis",
+   "Kinetics",
+   "Machine Learning",
+   "Thermodynamics"
+  ],
+  "relevance_score": 74,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "c16a5d61ce54c21a",
+  "title": "Superalkalis",
+  "authors": [
+   "Ambrish Kumar Srivastava"
+  ],
+  "journal": "CRC Press eBooks",
+  "publisher": "CRC Press",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1201/9781003686774-9",
+  "url": "https://doi.org/10.1201/9781003686774-9",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Catalysis",
+   "Chemistry",
+   "Machine Learning"
+  ],
+  "relevance_score": 50,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "c1331c3bb650e796",
+  "title": "Laminar Boundary Layer Mass Transport‐Guided Machine Learning for Precision Density Regulation of Horizontal Carbon Nanotube Arrays",
+  "authors": [
+   "瑾 高",
+   "Yuming Wang",
+   "Shanbin Zhang",
+   "Jiacheng Song",
+   "Xiaoling Tong",
+   "Ran Du",
+   "Ying Wang",
+   "Yue Hu",
+   "Dewu Lin"
+  ],
+  "journal": "Advanced Functional Materials",
+  "publisher": "Wiley",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1002/adfm.79421",
+  "url": "https://doi.org/10.1002/adfm.79421",
+  "source": "openalex",
+  "categories": [
+   "Physical Chemistry",
+   "Machine Learning",
+   "Cheminformatics"
+  ],
+  "tags": [
+   "Kinetics",
+   "Machine Learning",
+   "Virtual Screening"
+  ],
+  "relevance_score": 66,
+  "affiliations": [
+   "Wenzhou University",
+   "University of Chinese Academy of Sciences",
+   "Beijing Institute of Technology",
+   "Shenzhen University",
+   "Peking University",
+   "Peking University Shenzhen Hospital"
+  ],
+  "added": "2026-11-04"
+ },
+ {
   "id": "bff55e28f37e82bc",
   "title": "The Future of Targeted Degradation: Outlook and Unanswered Questions.",
   "authors": [
@@ -196,6 +474,721 @@
   "relevance_score": 56,
   "affiliations": [],
   "added": "2026-11-03"
+ },
+ {
+  "id": "bc1974cd2bab1adb",
+  "title": "Controlling Polymorphism and Particle Size in Zr-Based Metal-Organic Frameworks Through Preformed Nodes and Machine-Learning-Assisted Synthesis.",
+  "authors": [
+   "Ramm V",
+   "Schmaus N",
+   "Gryc D",
+   "Gampf NE",
+   "Petersen EE",
+   "Ettlinger R",
+   "Fischer RA."
+  ],
+  "journal": "Small (Weinheim an der Bergstrasse, Germany)",
+  "publisher": "",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1002/smll.76349",
+  "url": "https://doi.org/10.1002/smll.76349",
+  "source": "europepmc",
+  "categories": [
+   "Materials Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "MOFs",
+   "Machine Learning"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "b79a827db396f874",
+  "title": "SIM-CaliRam: A workflow combining simulation-informed references and biomass-augmented features for in-line Raman calibration of Saccharomyces cerevisiae.",
+  "authors": [
+   "Wilms T",
+   "Knorn S."
+  ],
+  "journal": "Biotechnology progress",
+  "publisher": "",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1002/btpr.88564",
+  "url": "https://doi.org/10.1002/btpr.88564",
+  "source": "europepmc",
+  "categories": [
+   "Spectroscopy",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Neural Network",
+   "Raman",
+   "Spectroscopy"
+  ],
+  "relevance_score": 52,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "b4cc0e0a42583cd8",
+  "title": "EvoSeq-ML: Advancing Data-Centric Machine Learning with Evolutionary-Informed Protein Sequence Representation and Generation.",
+  "authors": [
+   "Mardikoraem M",
+   "Pascual N",
+   "Eaves JN",
+   "Chatterjee S",
+   "Garland L",
+   "VanAntwerp J",
+   "Mahama A",
+   "Finneran P",
+   "Hausinger RP",
+   "Woldring DR."
+  ],
+  "journal": "Protein engineering, design & selection : PEDS",
+  "publisher": "",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1093/protein/gzag033",
+  "url": "https://doi.org/10.1093/protein/gzag033",
+  "source": "europepmc",
+  "categories": [
+   "Catalysis",
+   "Machine Learning",
+   "Generative Models"
+  ],
+  "tags": [
+   "Autoencoder",
+   "Catalysis",
+   "Machine Learning",
+   "VAE"
+  ],
+  "relevance_score": 61,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "a849181c9eb25d28",
+  "title": "Data-Driven Optimization of Calcined Kaolin Waste for Sustainable Alkali-Activated Binders",
+  "authors": [
+   "Rafael Augusto Ventura",
+   "Edgar Perin Moraes",
+   "Raphael Ribeiro Da Silva",
+   "Mahmoud Khalifeh",
+   "Júlio Cezar de Oliveira Freitas"
+  ],
+  "journal": "ACS Applied Engineering Materials",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1021/acsaenm.6c01409",
+  "url": "https://doi.org/10.1021/acsaenm.6c01409",
+  "source": "openalex",
+  "categories": [
+   "Materials Chemistry",
+   "Spectroscopy",
+   "Bayesian Optimization",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Data-Driven",
+   "Gaussian Process",
+   "Machine Learning",
+   "Materials Design",
+   "XRD"
+  ],
+  "relevance_score": 95,
+  "affiliations": [
+   "Instituto Federal do Rio Grande do Norte",
+   "Universidade Federal do Rio Grande do Norte",
+   "University of Stavanger"
+  ],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "a0da1a0fd2db8388",
+  "title": "CO2 Electroreduction to Ethylene in MEA Electrolyzers: Multiscale Degradation Mechanisms and Stability Engineering",
+  "authors": [
+   "Tete Zhao",
+   "Jinjian Wang",
+   "Bin Song",
+   "Xue Li"
+  ],
+  "journal": "Industrial & Engineering Chemistry Research",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1021/acs.iecr.6c04340",
+  "url": "https://doi.org/10.1021/acs.iecr.6c04340",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Electrochemistry & Batteries",
+   "Physical Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "CO2 Reduction",
+   "Catalysis",
+   "Electrochemistry",
+   "Electrodes",
+   "Kinetics",
+   "Machine Learning"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "Peking University",
+   "Tsinghua University"
+  ],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "9e5cbd4829ff7d19",
+  "title": "Predictive Nanotoxicology of Graphene-Family Nanomaterials: Standardised Descriptors, Explainable Machine Learning and Safe-by-Design.",
+  "authors": [
+   "Sakthikumar K",
+   "Harris RA."
+  ],
+  "journal": "Environmental toxicology and pharmacology",
+  "publisher": "",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1016/j.etap.2026.105224",
+  "url": "https://doi.org/10.1016/j.etap.2026.105224",
+  "source": "europepmc",
+  "categories": [
+   "Materials Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Machine Learning",
+   "Nanomaterials",
+   "Uncertainty"
+  ],
+  "relevance_score": 56,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "90f4cba9adf6b32b",
+  "title": "GeoHIL: Geometry-Supervised Hierarchical Invariant Learning for Molecular OOD Generalization",
+  "authors": [
+   "Li Sun",
+   "Lanxu Yang",
+   "Lu Wang",
+   "Junda Ye",
+   "Peng Tang",
+   "Hao Peng",
+   "Sen Su",
+   "Philip S. Yu"
+  ],
+  "journal": "ACM International Conference on Information and Knowledge Management (CIKM)",
+  "publisher": "",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1145/3799682.3841093",
+  "url": "https://doi.org/10.1145/3799682.3841093",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Property Prediction",
+   "Graph Neural Networks",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Chemical Space",
+   "Chemistry",
+   "Graph Neural Network",
+   "Molecules",
+   "Neural Network",
+   "Property Prediction"
+  ],
+  "relevance_score": 77,
+  "affiliations": [
+   "Beijing University of Posts and Telecommunications",
+   "North China Electric Power University",
+   "Shandong University",
+   "Beihang University",
+   "University of Illinois Chicago"
+  ],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "8eeec774b15a63df",
+  "title": "Learning Ligand-Controlled Hot Electron Relaxation in Metal-Rich CdSe Quantum Dots",
+  "authors": [
+   "Jyoti Bharti",
+   "Kushal Samanta",
+   "Sergei A. Ivanov",
+   "Sergei Tretiak",
+   "Dibyajyoti Ghosh"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.5281/zenodo.23916277",
+  "url": "https://doi.org/10.5281/zenodo.23916277",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Computational Chemistry",
+   "Graph Neural Networks",
+   "Machine Learning",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Ab Initio",
+   "DFT",
+   "Graph Neural Network",
+   "Ligands",
+   "Machine Learning",
+   "Molecular Dynamics",
+   "Molecules",
+   "Neural Network"
+  ],
+  "relevance_score": 92,
+  "affiliations": [
+   "Indian Institute of Technology Delhi",
+   "Los Alamos National Laboratory"
+  ],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "846bc507e0b0e9d0",
+  "title": "CA1-Associated Epithelial-State Remodeling in Colon Cancer Cells Exposed to Polystyrene Nanoplastics: Integrated Multi-Omics and In Vitro Analyses.",
+  "authors": [
+   "Guo B",
+   "Song Y",
+   "Qin J",
+   "Wu X",
+   "Chen Z",
+   "Guo J",
+   "Sun J",
+   "Pei L."
+  ],
+  "journal": "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+  "publisher": "",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1016/j.fct.2026.116476",
+  "url": "https://doi.org/10.1016/j.fct.2026.116476",
+  "source": "europepmc",
+  "categories": [
+   "Computational Chemistry",
+   "Drug Discovery Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Docking",
+   "Interpretable ML",
+   "Machine Learning",
+   "Molecular Dynamics",
+   "Molecules"
+  ],
+  "relevance_score": 64,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "7f5e31dbc8b8a3a7",
+  "title": "Multi-Objective Generative Optimization via Expected Hypervolume Fine-Tuning",
+  "authors": [
+   "Juan Guevara",
+   "Riccardo De Santi",
+   "Andreas Krause",
+   "Raul Astudillo"
+  ],
+  "journal": "arXiv",
+  "publisher": "arXiv",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "",
+  "url": "http://arxiv.org/abs/2611.05207v1",
+  "source": "arxiv",
+  "categories": [
+   "Molecule Generation",
+   "Generative Models"
+  ],
+  "tags": [
+   "Generative Model",
+   "Molecular Design",
+   "Molecules"
+  ],
+  "relevance_score": 50,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "79c779e98b86c321",
+  "title": "Machine-Learning Molecular Dynamics Reveals Grotthuss Transport in Concentrated Electrolytes",
+  "authors": [
+   "Øystein Gullbrekken",
+   "Sondre Kvalvåg Schnell"
+  ],
+  "journal": "arXiv",
+  "publisher": "arXiv",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "",
+  "url": "http://arxiv.org/abs/2611.04558v1",
+  "source": "arxiv",
+  "categories": [
+   "Computational Chemistry",
+   "Electrochemistry & Batteries",
+   "ML Potentials & Force Fields",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Electrolytes",
+   "ML Potential",
+   "Machine Learning",
+   "Molecular Dynamics",
+   "Molecules"
+  ],
+  "relevance_score": 82,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "73df4d6081e52001",
+  "title": "PINK training series - Life Cycle Assessment with SMILES to Impact and Agentic Inventory Building",
+  "authors": [
+   "Gustavo Larrea-Gallegos",
+   "Florian Cogoni",
+   "Benjamin Punz"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.5281/zenodo.23916211",
+  "url": "https://doi.org/10.5281/zenodo.23916211",
+  "source": "openalex",
+  "categories": [
+   "Retrosynthesis",
+   "Cheminformatics",
+   "Classical ML",
+   "Machine Learning",
+   "Computational Chemistry"
+  ],
+  "tags": [
+   "Chemistry",
+   "In Silico",
+   "Machine Learning",
+   "Molecules",
+   "Retrosynthesis",
+   "SMILES",
+   "XGBoost"
+  ],
+  "relevance_score": 78,
+  "affiliations": [
+   "Luxembourg Institute of Science and Technology",
+   "University of Salzburg"
+  ],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "6758d3cca71053c3",
+  "title": "Toxicological effects of acetyl tributyl citrate exposure on the progression of uterine fibroids and cervical cancer.",
+  "authors": [
+   "Wei Z",
+   "Wu Y",
+   "Li M",
+   "Sa S",
+   "Liu J",
+   "Wei K."
+  ],
+  "journal": "Ecotoxicology and environmental safety",
+  "publisher": "",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1016/j.ecoenv.2026.121014",
+  "url": "https://doi.org/10.1016/j.ecoenv.2026.121014",
+  "source": "europepmc",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Machine Learning",
+   "Classical ML"
+  ],
+  "tags": [
+   "Docking",
+   "Machine Learning",
+   "Molecules",
+   "SVM"
+  ],
+  "relevance_score": 44,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "62b72e8d3132a4ef",
+  "title": "Surrogate Models for Stochastic Al-Cu Phase-Field Solidification",
+  "authors": [
+   "Simon Savukoski",
+   "Tatu Pinomaa"
+  ],
+  "journal": "arXiv",
+  "publisher": "arXiv",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "",
+  "url": "http://arxiv.org/abs/2611.04695v1",
+  "source": "arxiv",
+  "categories": [
+   "Materials Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Alloys",
+   "Surrogate Model"
+  ],
+  "relevance_score": 42,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "5534e50d482a8eac",
+  "title": "Peer Review Report For: Statistics, Data Science, and Computing for Sustainable Development: Analytical Modeling and Decision Support in Life Sciences, Environment, and Society — A Systematic Review [version 1; peer review: 1 not approved]",
+  "authors": [],
+  "journal": "F1000Research",
+  "publisher": "Faculty of 1000",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.5256/f1000research.210942.r531024",
+  "url": "https://doi.org/10.5256/f1000research.210942.r531024",
+  "source": "openalex",
+  "categories": [
+   "Deep Learning",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Chemistry",
+   "Deep Learning",
+   "Machine Learning"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "4e6c63009846946c",
+  "title": "Transformer-Guided Co-Optimization of Mutation Prioritization and Thermodynamic Probe Design for Mutation Detection.",
+  "authors": [
+   "Zhang Y",
+   "Xue B",
+   "Zhang L",
+   "Zhao L",
+   "Su X",
+   "Song H",
+   "Zuo X",
+   "Yang X",
+   "Jin C",
+   "Wang Y",
+   "Fan C",
+   "Song P."
+  ],
+  "journal": "Angewandte Chemie (International ed. in English)",
+  "publisher": "",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1002/anie.8668812",
+  "url": "https://doi.org/10.1002/anie.8668812",
+  "source": "europepmc",
+  "categories": [
+   "Physical Chemistry",
+   "Transformers & LLMs",
+   "Computational Chemistry"
+  ],
+  "tags": [
+   "Chemistry",
+   "In Silico",
+   "Molecules",
+   "Thermodynamics",
+   "Transformer"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "4751939731db4e7c",
+  "title": "Recent progress in the application of fluorescence polarization assays to small molecule screening.",
+  "authors": [
+   "Tang C",
+   "Zhai D",
+   "You Q",
+   "Wang L."
+  ],
+  "journal": "Expert opinion on drug discovery",
+  "publisher": "",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1080/17460441.2026.2757580",
+  "url": "https://doi.org/10.1080/17460441.2026.2757580",
+  "source": "europepmc",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Deep Learning",
+   "High-Throughput & Autonomous",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Data-Driven",
+   "Deep Learning",
+   "Drug Discovery",
+   "High-Throughput",
+   "Molecules"
+  ],
+  "relevance_score": 70,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "3b9f6aa5ad8244b4",
+  "title": "Quantification of drug concentrations in individual living cancer cells using Raman spectroscopy and machine learning.",
+  "authors": [
+   "Li J",
+   "Cerski J",
+   "Downes A."
+  ],
+  "journal": "The Analyst",
+  "publisher": "",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1039/d6an00870d",
+  "url": "https://doi.org/10.1039/d6an00870d",
+  "source": "europepmc",
+  "categories": [
+   "Spectroscopy",
+   "Drug Discovery Chemistry",
+   "Physical Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Drug Discovery",
+   "Kinetics",
+   "Machine Learning",
+   "Raman",
+   "Spectroscopy"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "2db3a7faadf1af0a",
+  "title": "Artificial intelligence for predicting mutation effects on enzyme kinetics.",
+  "authors": [
+   "Cui W",
+   "Sun Z",
+   "Li M",
+   "Warshel A",
+   "Xie WJ."
+  ],
+  "journal": "Current opinion in structural biology",
+  "publisher": "",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1016/j.sbi.2026.103427",
+  "url": "https://doi.org/10.1016/j.sbi.2026.103427",
+  "source": "europepmc",
+  "categories": [
+   "Catalysis",
+   "Physical Chemistry",
+   "ML Potentials & Force Fields",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Catalysis",
+   "Kinetics",
+   "ML Potential",
+   "Machine Learning",
+   "Molecules"
+  ],
+  "relevance_score": 81,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "13824697052216cf",
+  "title": "Flexible High-Speed Low-Noise Organic Photodiode Arrays for Dynamic Near-Infrared Imaging.",
+  "authors": [
+   "Guo T",
+   "Zhu Y",
+   "Zhang Z",
+   "Han R",
+   "Shi H",
+   "Li H",
+   "Zhao W",
+   "Zhang J",
+   "Li M",
+   "Geng C",
+   "Chen W",
+   "Long G",
+   "Li G",
+   "Yao Z",
+   "Wang Y",
+   "Chen Y."
+  ],
+  "journal": "Advanced materials (Deerfield Beach, Fla.)",
+  "publisher": "",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.1002/adma.75605",
+  "url": "https://doi.org/10.1002/adma.75605",
+  "source": "europepmc",
+  "categories": [
+   "Machine Learning",
+   "Deep Learning"
+  ],
+  "tags": [
+   "CNN",
+   "Machine Learning",
+   "Neural Network"
+  ],
+  "relevance_score": 60,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "060e481d815a9ea0",
+  "title": "A rigorous, navigable definition of Chemical Space: the Polytope Formalism as a foundation for AI-driven chemical discovery",
+  "authors": [
+   "Maxwell J. Crossley",
+   "Peter J. Canfield"
+  ],
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "publisher": "European Organization for Nuclear Research",
+  "published": "2026-11-03",
+  "year": 2026,
+  "doi": "10.5281/zenodo.23909313",
+  "url": "https://doi.org/10.5281/zenodo.23909313",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemical Space",
+   "Cheminformatics",
+   "Chemistry",
+   "Machine Learning",
+   "Molecules"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "The University of Sydney"
+  ],
+  "added": "2026-11-04"
  },
  {
   "id": "ff7d8eab018a4834",
@@ -279,6 +1272,88 @@
   "relevance_score": 60,
   "affiliations": [],
   "added": "2026-11-03"
+ },
+ {
+  "id": "ef3085109cc9258a",
+  "title": "Spider venom: Reprogramming nature's peptide arsenal for future therapeutics",
+  "authors": [
+   "Muhammad Usman Farooq",
+   "Mujahid Abbas",
+   "Farhan Ikhtiar",
+   "Laraib Zafar Iqbal",
+   "Safiullah Khan"
+  ],
+  "journal": "ADMET & DMPK",
+  "publisher": "International Association of Physical Chemists (IAPC)",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.5599/admet.3656",
+  "url": "https://doi.org/10.5599/admet.3656",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "Drug Discovery Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemical Space",
+   "Chemistry",
+   "Machine Learning",
+   "Medicinal Chemistry"
+  ],
+  "relevance_score": 54,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "dc53463858576050",
+  "title": "RxnMiner: A Multimodal Agent for Structured Reaction Data Extraction from Chemistry Figures",
+  "authors": [
+   "Jinbo Hu",
+   "Songren Zhang",
+   "Chuanxun Fu",
+   "Jinrui Huang",
+   "Zhen Hao Wong",
+   "Dongxu Cui",
+   "Haoran Fan",
+   "Muhao Ge",
+   "Zhen Jian",
+   "Jian Zhou",
+   "Chengxiang Luo",
+   "Han Lyu",
+   "Haoyi Tao",
+   "Chaozheng Huang",
+   "Hanzheng Li",
+   "ZiChen Wang",
+   "Hengtian Ma",
+   "Jinyang Dai",
+   "Nan Wang",
+   "Yanhui Hong",
+   "Xi Fang",
+   "Guolin Ke"
+  ],
+  "journal": "arXiv (Cornell University)",
+  "publisher": "Cornell University",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.48550/arxiv.2611.02826",
+  "url": "https://doi.org/10.48550/arxiv.2611.02826",
+  "source": "openalex",
+  "categories": [
+   "Reaction Prediction",
+   "Retrosynthesis",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Machine Learning",
+   "Molecules",
+   "Reaction Prediction",
+   "Retrosynthesis"
+  ],
+  "relevance_score": 68,
+  "affiliations": [],
+  "added": "2026-11-04"
  },
  {
   "id": "d781c675681c6275",
@@ -434,6 +1509,33 @@
   "added": "2026-11-03"
  },
  {
+  "id": "b2001df766de10cc",
+  "title": "REPOSITIONING NIGERIAN POLYTECHNIC CHEMISTRY PROGRAMMES FOR THE FOURTH INDUSTRIAL REVOLUTION: A CONCEPTUAL FRAMEWORK FOR EMBEDDING ARTIFICIAL INTELLIGENCE IN THE CURRICULUM",
+  "authors": [
+   "A. SAYEED",
+   "O. F. EZEKIEL",
+   "Z. MUHAMMAD"
+  ],
+  "journal": "Journal of Health Systems Research",
+  "publisher": "",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.70382/sjhsr.v14i3.075",
+  "url": "https://doi.org/10.70382/sjhsr.v14i3.075",
+  "source": "openalex",
+  "categories": [
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Chemistry",
+   "Machine Learning"
+  ],
+  "relevance_score": 53,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
   "id": "af0107df0c2caf42",
   "title": "GPU infrastructure for ML/MM with electrostatic embedding for enzyme chemistry",
   "authors": [
@@ -459,6 +1561,77 @@
   "relevance_score": 50,
   "affiliations": [],
   "added": "2026-11-03"
+ },
+ {
+  "id": "aa471e9bcb8c4297",
+  "title": "Integrating Generative AI and Data Science into General Chemistry Laboratories",
+  "authors": [
+   "Chun-I Wang",
+   "Sara Busharar",
+   "Anthony Fosu",
+   "Julian Rivera Ortiz",
+   "Gustavo López",
+   "Donna McGregor",
+   "Pamela A. Mills"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15011508/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15011508/v1",
+  "source": "openalex",
+  "categories": [
+   "Generative Models",
+   "Machine Learning",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Chemistry",
+   "Generative AI",
+   "LLM",
+   "Machine Learning"
+  ],
+  "relevance_score": 81,
+  "affiliations": [
+   "The Graduate Center, CUNY",
+   "Lehman College",
+   "City University of New York"
+  ],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "a82f615b1990818e",
+  "title": "Sustainable postharvest management of fruits: Bridging biology, technology and policy",
+  "authors": [
+   "Ajaya Kumar Trivedi"
+  ],
+  "journal": "Journal of Environmental Biology",
+  "publisher": "Triveni Enterprises",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.22438/jeb/47/6/editorial",
+  "url": "https://doi.org/10.22438/jeb/47/6/editorial",
+  "source": "openalex",
+  "categories": [
+   "Physical Chemistry",
+   "Deep Learning",
+   "Machine Learning"
+  ],
+  "tags": [
+   "CNN",
+   "Chemistry",
+   "Data-Driven",
+   "Deep Learning",
+   "Molecules",
+   "Neural Network",
+   "Solvents"
+  ],
+  "relevance_score": 58,
+  "affiliations": [
+   "Central Institute For Subtropical Horticulture"
+  ],
+  "added": "2026-11-04"
  },
  {
   "id": "a4facea05ed8b13e",
@@ -582,6 +1755,45 @@
   "added": "2026-11-03"
  },
  {
+  "id": "a0d6df32ae0807f2",
+  "title": "A Progressive Multimodel Ensemble and Active Learning Framework for Leakage-Free Multiproperty Prediction of Ionic Liquids",
+  "authors": [
+   "Rahul Sharma",
+   "Abhishek Kumar Gupta"
+  ],
+  "journal": "The Journal of Physical Chemistry B",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.1021/acs.jpcb.6c04104",
+  "url": "https://doi.org/10.1021/acs.jpcb.6c04104",
+  "source": "openalex",
+  "categories": [
+   "Physical Chemistry",
+   "Property Prediction",
+   "Active Learning",
+   "Classical ML",
+   "Machine Learning",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Active Learning",
+   "Ionic Liquids",
+   "LightGBM",
+   "Machine Learning",
+   "Melting Point",
+   "Molecules",
+   "Multi-Task",
+   "Neural Network",
+   "Random Forest"
+  ],
+  "relevance_score": 96,
+  "affiliations": [
+   "Indian Institute of Technology Kharagpur"
+  ],
+  "added": "2026-11-04"
+ },
+ {
   "id": "9f1054714ad196fa",
   "title": "Functionalization and optimization of biopolymer encapsulants for controlled release in food systems.",
   "authors": [
@@ -680,6 +1892,39 @@
   "relevance_score": 48,
   "affiliations": [],
   "added": "2026-09-27"
+ },
+ {
+  "id": "95e352a209fd2550",
+  "title": "Agentic inverse design of spatially programmed materials",
+  "authors": [
+   "Denisse Córdova Carrizales",
+   "Abhijatmedhi Chotrattanapituk",
+   "L. Dagny Davis",
+   "Jeremy Ramsey",
+   "Ryotaro Okabe",
+   "Mouyang Cheng",
+   "Mingda Li"
+  ],
+  "journal": "arXiv",
+  "publisher": "arXiv",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "",
+  "url": "http://arxiv.org/abs/2611.03795v1",
+  "source": "arxiv",
+  "categories": [
+   "Molecule Generation",
+   "Materials Chemistry",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Alloys",
+   "Inverse Design",
+   "LLM"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-11-04"
  },
  {
   "id": "953de9ccc7df88a9",
@@ -816,6 +2061,46 @@
   "added": "2026-11-03"
  },
  {
+  "id": "7a5efc976dbbc172",
+  "title": "Ligand Design for REE Recovery Using Artificial Intelligence",
+  "authors": [
+   "Chunka Zhou",
+   "Yunchong Yang",
+   "Jake Troop Valdivia",
+   "Weijia Yan",
+   "Christian Crawford",
+   "Jingjing Qiu"
+  ],
+  "journal": "ACS ES&T Engineering",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.1021/acsestengg.6c00533",
+  "url": "https://doi.org/10.1021/acsestengg.6c00533",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Physical Chemistry",
+   "Cheminformatics",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Chemistry",
+   "Descriptors",
+   "Ligands",
+   "Machine Learning",
+   "Molecules",
+   "Solvents",
+   "Thermodynamics"
+  ],
+  "relevance_score": 89,
+  "affiliations": [
+   "Texas A&M University"
+  ],
+  "added": "2026-11-04"
+ },
+ {
   "id": "706927ae26163e0d",
   "title": "Integrative network toxicology and machine learning reveal the potential role of 5-hydroxymethylfurfural in exacerbating pulmonary fibrosis.",
   "authors": [
@@ -922,6 +2207,40 @@
   "added": "2026-11-03"
  },
  {
+  "id": "5f599eb4f2a47698",
+  "title": "Modeling Decadal Organosulfates in Particulate Matter to Improve Estimations of Aerosol Hygroscopicity in the United States",
+  "authors": [
+   "Alan R. Gonzalez",
+   "Heewon Yim",
+   "Kyle P. McCary",
+   "X P Meng",
+   "Ajith Thenoor Chandran",
+   "Yue Zhang",
+   "Yuzhou Wang"
+  ],
+  "journal": "Environmental Science & Technology",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.1021/acs.est.6c08752",
+  "url": "https://doi.org/10.1021/acs.est.6c08752",
+  "source": "openalex",
+  "categories": [
+   "Inorganic Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Inorganic Chemistry",
+   "Machine Learning"
+  ],
+  "relevance_score": 44,
+  "affiliations": [
+   "Texas A&M University"
+  ],
+  "added": "2026-11-04"
+ },
+ {
   "id": "5c999078b725412b",
   "title": "Interpretable Machine-Learning Prediction of Pollutant Adsorption and Degradation by MnO2 in Aqueous Systems",
   "authors": [
@@ -966,6 +2285,61 @@
    "Shandong University"
   ],
   "added": "2026-11-03"
+ },
+ {
+  "id": "5c0fb7b24f429efb",
+  "title": "Machine learning model for the chemistry of a solvated electron",
+  "authors": [
+   "Ruiqi Gao",
+   "Pinchen Xie",
+   "Roberto Car"
+  ],
+  "journal": "Physical Review Letters",
+  "publisher": "American Physical Society",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.1103/4x4p-6dty",
+  "url": "https://doi.org/10.1103/4x4p-6dty",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "ML Potentials & Force Fields",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Ab Initio",
+   "Activation Energy",
+   "Chemistry",
+   "DFT",
+   "Force Fields",
+   "Machine Learning",
+   "Molecules"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "56db0c867e3e90af",
+  "title": "What Is a Digital Chemistry Lab?",
+  "authors": [],
+  "journal": "Royal Society of Chemistry eBooks",
+  "publisher": "Royal Society of Chemistry",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.1039/9781837679980-00001",
+  "url": "https://doi.org/10.1039/9781837679980-00001",
+  "source": "openalex",
+  "categories": [
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Machine Learning"
+  ],
+  "relevance_score": 53,
+  "affiliations": [],
+  "added": "2026-11-04"
  },
  {
   "id": "525f31229eddeb45",
@@ -1236,6 +2610,104 @@
   "added": "2026-11-03"
  },
  {
+  "id": "3066b844846e8803",
+  "title": "Artificial Intelligence-Assisted Design of High-Temperature High-Entropy Alloys: Progress, Challenges, and Perspectives",
+  "authors": [
+   "Yutong GUO",
+   "Chao Yang"
+  ],
+  "journal": "Metals",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.3390/met16111211",
+  "url": "https://doi.org/10.3390/met16111211",
+  "source": "openalex",
+  "categories": [
+   "Materials Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Alloys",
+   "Chemistry",
+   "Machine Learning"
+  ],
+  "relevance_score": 59,
+  "affiliations": [
+   "Shanghai Jiao Tong University"
+  ],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "2c5bbdf034778d9a",
+  "title": "Computational identification of EBNA1-binding candidates using machine learning-based virtual screening and molecular docking.",
+  "authors": [
+   "Akshata P Pauskar",
+   "Elamathi Natarajan"
+  ],
+  "journal": "In silico pharmacology",
+  "publisher": "",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.1007/s40203-026-00785-3",
+  "url": "https://doi.org/10.1007/s40203-026-00785-3",
+  "source": "pubmed",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Catalysis",
+   "Cheminformatics",
+   "Machine Learning",
+   "Classical ML"
+  ],
+  "tags": [
+   "ADMET",
+   "Descriptors",
+   "Docking",
+   "Drug Discovery",
+   "Ligands",
+   "Machine Learning",
+   "Molecules",
+   "Random Forest",
+   "Virtual Screening",
+   "XGBoost"
+  ],
+  "relevance_score": 96,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "2bbf1f64f95fa04d",
+  "title": "Breaking the Transformation Bottleneck in CRISPR/Cas-Based Crop Improvement: From Genotype-Dependent Regeneration to DNA-Free and In Planta Delivery Systems",
+  "authors": [
+   "Debajit Das",
+   "Sangeeta Sarma",
+   "Dimple Boro",
+   "Bhanupriya Pegu",
+   "Arpita Talukdar",
+   "Dhanawantari L. Singha"
+  ],
+  "journal": "Journal of Genome Biotechnology and Genetics",
+  "publisher": "",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.3390/jgbg1030020",
+  "url": "https://doi.org/10.3390/jgbg1030020",
+  "source": "openalex",
+  "categories": [
+   "Materials Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Machine Learning",
+   "Nanoparticles"
+  ],
+  "relevance_score": 44,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
   "id": "2abf81dad4ce20ca",
   "title": "Artificial neural network and Bvp4c approach for mixed convective magnetized Casson nanoliquid flow and heat transportation over a stretchable cylinder under the presence of activation energy and nth order chemical reaction.",
   "authors": [
@@ -1272,6 +2744,76 @@
   "added": "2026-11-03"
  },
  {
+  "id": "255da6ac820f5fc8",
+  "title": "Metaheuristic Optimization and Artificial Intelligence for Lithium-Ion Battery Modelling, Parameter Identification, and State Estimation: A Critical Review",
+  "authors": [
+   "Ahmed M. Nassef",
+   "Hossam Magdy Balaha",
+   "Mostafa A. Elhosseini"
+  ],
+  "journal": "Batteries",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "10.3390/batteries12110451",
+  "url": "https://doi.org/10.3390/batteries12110451",
+  "source": "openalex",
+  "categories": [
+   "Electrochemistry & Batteries",
+   "Deep Learning",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Batteries",
+   "Chemistry",
+   "Data-Driven",
+   "Electrochemistry",
+   "Machine Learning",
+   "Neural Network"
+  ],
+  "relevance_score": 87,
+  "affiliations": [
+   "Prince Sattam Bin Abdulaziz University",
+   "University of Louisville",
+   "Mansoura University"
+  ],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "250d154c3d5071c3",
+  "title": "Quantifying out-of-distribution data severity with Wasserstein distances: benchmarking large language models for alloy property prediction",
+  "authors": [
+   "YuJie Liu",
+   "Dezhen Xue",
+   "Jun Sun",
+   "Xiangdong Ding",
+   "Zhibin Gao",
+   "Turab Lookman"
+  ],
+  "journal": "arXiv",
+  "publisher": "arXiv",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "",
+  "url": "http://arxiv.org/abs/2611.03767v1",
+  "source": "arxiv",
+  "categories": [
+   "Property Prediction",
+   "Materials Chemistry",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Alloys",
+   "LLM",
+   "Materials Discovery",
+   "Property Prediction"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
   "id": "18bba2503b7fb65d",
   "title": "Integrative single cell and machine learning analysis identifies fibroblast centric hub genes and therapeutic candidates in lung adenocarcinoma and ischemic cardiomyopathy.",
   "authors": [
@@ -1299,6 +2841,35 @@
   "relevance_score": 40,
   "affiliations": [],
   "added": "2026-11-03"
+ },
+ {
+  "id": "0364edc267b1af29",
+  "title": "Isothermal-Isobaric Molecular Dynamics with a Foundation Interatomic Potential in LAMMPS across NVIDIA and Intel GPUs",
+  "authors": [
+   "Xiaoli Yan",
+   "Eliu Huerta"
+  ],
+  "journal": "arXiv",
+  "publisher": "arXiv",
+  "published": "2026-11-02",
+  "year": 2026,
+  "doi": "",
+  "url": "http://arxiv.org/abs/2611.03892v1",
+  "source": "arxiv",
+  "categories": [
+   "Computational Chemistry",
+   "ML Potentials & Force Fields",
+   "Machine Learning"
+  ],
+  "tags": [
+   "ML Potential",
+   "Machine Learning",
+   "Molecular Dynamics",
+   "Molecules"
+  ],
+  "relevance_score": 66,
+  "affiliations": [],
+  "added": "2026-11-04"
  },
  {
   "id": "030aeeb10f87f473",
@@ -1511,6 +3082,33 @@
   "added": "2026-10-29"
  },
  {
+  "id": "e63bb5cf07855d28",
+  "title": "Machine learning-guided dual optimization of the substrate specificity and thermostability of yeast alcohol dehydrogenase.",
+  "authors": [
+   "Ogawa Y",
+   "Kondo A",
+   "Shirai T."
+  ],
+  "journal": "Biotechnology for biofuels and bioproducts",
+  "publisher": "",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1186/s13068-026-02839-2",
+  "url": "https://doi.org/10.1186/s13068-026-02839-2",
+  "source": "europepmc",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Docking",
+   "Machine Learning"
+  ],
+  "relevance_score": 45,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
   "id": "e512003d35661df7",
   "title": "New frontiers in the structural analysis of nanomaterials: a deep-learning leap to bridge the gap in crystalline order.",
   "authors": [
@@ -1711,6 +3309,41 @@
   "added": "2026-10-31"
  },
  {
+  "id": "df4ac1224910ad95",
+  "title": "SPHERE-MS: Hybrid Fragment-Vocabulary Modeling for Accurate and Efficient Tandem Mass Spectra Prediction.",
+  "authors": [
+   "Guan Y",
+   "Lou D",
+   "Cheng D",
+   "Liu M",
+   "Zhu Y",
+   "Zhao S",
+   "Zhang X."
+  ],
+  "journal": "Analytical chemistry",
+  "publisher": "",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1021/acs.analchem.6c01723",
+  "url": "https://doi.org/10.1021/acs.analchem.6c01723",
+  "source": "europepmc",
+  "categories": [
+   "Spectroscopy",
+   "Graph Neural Networks",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Graph Neural Network",
+   "Molecules",
+   "Neural Network",
+   "Spectroscopy"
+  ],
+  "relevance_score": 74,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
   "id": "d50ac4f7fa6e5b5d",
   "title": "Interpretable Drug-Target Prediction via Geometric Alignment: A Linear Alternative to Deep Architectural Complexity.",
   "authors": [
@@ -1817,6 +3450,48 @@
   "added": "2026-11-02"
  },
  {
+  "id": "cf9917686f363b10",
+  "title": "Toward Predictive Modeling of Layered‐Oxide Cathodes in Na‐Ion Batteries",
+  "authors": [
+   "Arianna Massaro",
+   "Aniello Langella",
+   "Francesca Fasulo",
+   "Adriana Pecoraro",
+   "Ana Belen Muñoz-García",
+   "Michele Pavone"
+  ],
+  "journal": "Wiley Interdisciplinary Reviews Computational Molecular Science",
+  "publisher": "Wiley",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1002/wcms.70090",
+  "url": "https://doi.org/10.1002/wcms.70090",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Electrochemistry & Batteries",
+   "Materials Chemistry",
+   "Physical Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Batteries",
+   "Chemistry",
+   "DFT",
+   "Electrochemistry",
+   "Kinetics",
+   "Materials Discovery",
+   "Predictive Model",
+   "Thermodynamics"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "University of Naples Federico II",
+   "National Interuniversity Consortium of Materials Science and Technology"
+  ],
+  "added": "2026-11-04"
+ },
+ {
   "id": "ce415884cd4f0f28",
   "title": "Multi-modal AI: Integrating electrocardiography with molecular biomarkers for noninvasive detection of cardiac allograft rejection",
   "authors": [
@@ -1852,6 +3527,47 @@
   "relevance_score": 42,
   "affiliations": [],
   "added": "2026-10-24"
+ },
+ {
+  "id": "cb333f3943e07429",
+  "title": "Nano-Bioadhesives for Gastrointestinal Hemostasis and Healing: Integrating Artificial Intelligence for Precision Design and Application.",
+  "authors": [
+   "Wu M",
+   "Xing X",
+   "Ling X",
+   "Zhou J",
+   "Xing M",
+   "Zhu D."
+  ],
+  "journal": "ACS nano",
+  "publisher": "",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1021/acsnano.6c13279",
+  "url": "https://doi.org/10.1021/acsnano.6c13279",
+  "source": "europepmc",
+  "categories": [
+   "Materials Chemistry",
+   "Polymer Chemistry",
+   "Physical Chemistry",
+   "High-Throughput & Autonomous",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Closed-Loop",
+   "HTE",
+   "Kinetics",
+   "Machine Learning",
+   "Materials Design",
+   "Molecules",
+   "Nanoparticles",
+   "Polymers",
+   "Predictive Model"
+  ],
+  "relevance_score": 96,
+  "affiliations": [],
+  "added": "2026-11-04"
  },
  {
   "id": "ca2f9528031a0155",
@@ -2039,6 +3755,52 @@
   "relevance_score": 89,
   "affiliations": [],
   "added": "2026-11-03"
+ },
+ {
+  "id": "b84211fb5b0870a1",
+  "title": "Discovery of potential ALK inhibitors from Glycosmis phytochemicals via integrated machine learning and umbrella sampling approachesDiscovery of potential ALK inhibitors from Glycosmis phytochemicals via integrated machine learning and umbrella sampling approaches",
+  "authors": [
+   "Xuan Ha Nguyen",
+   "Xuan Duc Dau",
+   "Thi Minh Hue Nguyen",
+   "Ngoc Dung Tran",
+   "Van Trang Nguyen",
+   "Le Binh Doan",
+   "Thi My Chau Le",
+   "Thuy Phan Thi"
+  ],
+  "journal": "Royal Society Open Science",
+  "publisher": "The Royal Society",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1098/rsos.261178",
+  "url": "https://doi.org/10.1098/rsos.261178",
+  "source": "doaj",
+  "categories": [
+   "Catalysis",
+   "Computational Chemistry",
+   "Drug Discovery Chemistry",
+   "Organic Chemistry",
+   "Property Prediction",
+   "Machine Learning",
+   "Cheminformatics",
+   "Chemometrics & Statistics"
+  ],
+  "tags": [
+   "Docking",
+   "Drug Discovery",
+   "Ligands",
+   "Machine Learning",
+   "Molecular Dynamics",
+   "Molecules",
+   "Natural Products",
+   "Regression",
+   "Toxicity",
+   "Virtual Screening"
+  ],
+  "relevance_score": 92,
+  "affiliations": [],
+  "added": "2026-11-04"
  },
  {
   "id": "b7f7d4e82d1c18a5",
@@ -2232,6 +3994,44 @@
   "relevance_score": 92,
   "affiliations": [],
   "added": "2026-09-14"
+ },
+ {
+  "id": "aa3d71a2722ebb9c",
+  "title": "Emzing: A Deep Learning-Enabled Software Suite for End-to-End Analysis of High-Resolution LC-MS Metabolomics Data.",
+  "authors": [
+   "Singh A",
+   "Nandi K",
+   "Dubey P",
+   "Santhosh NK",
+   "Banerjee S",
+   "Nakrani P",
+   "Sunder AV",
+   "Sahasrabuddhe D",
+   "Wangikar PP."
+  ],
+  "journal": "Analytical chemistry",
+  "publisher": "",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1021/acs.analchem.6c02696",
+  "url": "https://doi.org/10.1021/acs.analchem.6c02696",
+  "source": "europepmc",
+  "categories": [
+   "Analytical Chemistry",
+   "Spectroscopy",
+   "Deep Learning",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chromatography",
+   "Data-Driven",
+   "Deep Learning",
+   "Machine Learning",
+   "Spectroscopy"
+  ],
+  "relevance_score": 83,
+  "affiliations": [],
+  "added": "2026-11-04"
  },
  {
   "id": "a69e3e72562ce2a7",
@@ -2524,6 +4324,42 @@
   "relevance_score": 72,
   "affiliations": [],
   "added": "2026-09-20"
+ },
+ {
+  "id": "94c6a77973bcba77",
+  "title": "Dual Oxidation in the Amino Acid-Mediated Copper-Catalyzed Fenton-like System: Effects of Ligand Structure and pH-Dependent Speciation.",
+  "authors": [
+   "Park EJ",
+   "Park S",
+   "Nam HK",
+   "Lee J",
+   "Cho J",
+   "Yoon H",
+   "Kim MS",
+   "Lee C."
+  ],
+  "journal": "Environmental science & technology",
+  "publisher": "",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1021/acs.est.6c10258",
+  "url": "https://doi.org/10.1021/acs.est.6c10258",
+  "source": "europepmc",
+  "categories": [
+   "Catalysis",
+   "Physical Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Catalysis",
+   "Kinetics",
+   "Ligands",
+   "Machine Learning",
+   "Molecules"
+  ],
+  "relevance_score": 62,
+  "affiliations": [],
+  "added": "2026-11-04"
  },
  {
   "id": "941032e2afdce955",
@@ -2868,6 +4704,69 @@
   "added": "2026-11-02"
  },
  {
+  "id": "774aa7ef26921ca7",
+  "title": "Experimental Design Signatures Emerge from Topic Modeling of Graphene Oxide Literature.",
+  "authors": [
+   "Kobs HJ",
+   "Ferreira H",
+   "Yang L",
+   "Paula AJ",
+   "Andrade CE",
+   "Faria AF."
+  ],
+  "journal": "ACS nano",
+  "publisher": "",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1021/acsnano.6c04548",
+  "url": "https://doi.org/10.1021/acsnano.6c04548",
+  "source": "europepmc",
+  "categories": [
+   "Surface Chemistry",
+   "Transformers & LLMs"
+  ],
+  "tags": [
+   "Adsorption",
+   "LLM"
+  ],
+  "relevance_score": 40,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "746cdd7282983c14",
+  "title": "Synergistic Approaches in PFAS Remediation: Outlook for Sustainable In Situ Mitigation by Combined Adsorption and Photocatalysis.",
+  "authors": [
+   "Raj SS",
+   "Chen J",
+   "Cabezuelo O",
+   "Budnyak TM."
+  ],
+  "journal": "Environmental science & technology",
+  "publisher": "",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1021/acs.est.6c12980",
+  "url": "https://doi.org/10.1021/acs.est.6c12980",
+  "source": "europepmc",
+  "categories": [
+   "Catalysis",
+   "Surface Chemistry",
+   "Electrochemistry & Batteries",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Adsorption",
+   "Electrochemistry",
+   "Machine Learning",
+   "Photocatalysis"
+  ],
+  "relevance_score": 76,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
   "id": "6b74a309c4a1bb4b",
   "title": "Beyond Static Structures: New Opportunities to Model the Dynamic Interactions of Cell-Surface Proteins.",
   "authors": [
@@ -2892,6 +4791,44 @@
   "relevance_score": 62,
   "affiliations": [],
   "added": "2026-11-02"
+ },
+ {
+  "id": "691729589fc7ce62",
+  "title": "EXPLAINABLE ARTIFICIAL NEURAL NETWORKS FOR TABULAR DATA: IDENTIFYING STRUCTURAL, ELECTRONIC AND PHYSICOCHEMICAL DETERMINANTS OF PHARMACEUTICAL COMPOUND-INDUCED RESPIRATORY TOXICITY",
+  "authors": [
+   "Désiré MELEDJE",
+   "Aubin N’guessan",
+   "Kouakou Kouakou",
+   "Donatien Zamblé"
+  ],
+  "journal": "GSC Biological and Pharmaceutical Sciences",
+  "publisher": "GSC Online Press",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.30574/gscbps.2026.37.2.0372",
+  "url": "https://doi.org/10.30574/gscbps.2026.37.2.0372",
+  "source": "openalex",
+  "categories": [
+   "Property Prediction",
+   "Drug Discovery Chemistry",
+   "Deep Learning",
+   "Cheminformatics",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Descriptors",
+   "Drug Discovery",
+   "Molecules",
+   "Neural Network",
+   "Property Prediction",
+   "Toxicity"
+  ],
+  "relevance_score": 89,
+  "affiliations": [
+   "Université Nangui Abrogoua"
+  ],
+  "added": "2026-11-04"
  },
  {
   "id": "65f40f874a308cec",
@@ -3004,6 +4941,61 @@
   "relevance_score": 48,
   "affiliations": [],
   "added": "2026-10-29"
+ },
+ {
+  "id": "5c942acfe748aaff",
+  "title": "Monotonic additive modeling reveals candidate biomarkers of cardio-renal-metabolic disorder susceptibility.",
+  "authors": [
+   "Sharma Y",
+   "Das A."
+  ],
+  "journal": "Computational biology and chemistry",
+  "publisher": "",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1016/j.compbiolchem.2026.109530",
+  "url": "https://doi.org/10.1016/j.compbiolchem.2026.109530",
+  "source": "europepmc",
+  "categories": [
+   "Classical ML",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Machine Learning",
+   "Molecules",
+   "XGBoost"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "5c13387729ecfa9d",
+  "title": "What Computational Simulations Tell Us about Cryptochromes in Magnetoreception.",
+  "authors": [
+   "Cascone M",
+   "Cupellini L",
+   "Mennucci B."
+  ],
+  "journal": "Biochemistry",
+  "publisher": "",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1021/acs.biochem.6c00516",
+  "url": "https://doi.org/10.1021/acs.biochem.6c00516",
+  "source": "europepmc",
+  "categories": [
+   "Physical Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Molecules",
+   "Photochemistry"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-11-04"
  },
  {
   "id": "5b8caadda3534365",
@@ -3201,6 +5193,72 @@
   "relevance_score": 90,
   "affiliations": [],
   "added": "2026-11-03"
+ },
+ {
+  "id": "49b96432340ad439",
+  "title": "MIF and CXCL8 shape inflammatory myeloid–epithelial crosstalk in cervical squamous cell carcinoma: a machine learning and integrative transcriptomic investigation",
+  "authors": [
+   "Wenhao Wang",
+   "Xuke Li",
+   "Jing Li",
+   "Shanmao Zhou",
+   "Xi Ma",
+   "Jingjing Ren",
+   "Sanyuan Zhang"
+  ],
+  "journal": "Frontiers in Cell and Developmental Biology",
+  "publisher": "Frontiers Media S.A.",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.3389/fcell.2026.1972074",
+  "url": "https://doi.org/10.3389/fcell.2026.1972074",
+  "source": "doaj",
+  "categories": [
+   "Computational Chemistry",
+   "Drug Discovery Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Docking",
+   "Machine Learning",
+   "Molecular Dynamics",
+   "Molecules"
+  ],
+  "relevance_score": 41,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
+  "id": "4992b1135c6ca1d7",
+  "title": "Interfacial Hydrogen-Bond Regulation by Phytic Acid and SiO2 for Constructing Robust Dual-CrossLinked Nanocomposite Hydrogels.",
+  "authors": [
+   "Feng Y",
+   "Zhang X",
+   "Zhang S",
+   "Zhong L",
+   "Xu W."
+  ],
+  "journal": "Langmuir : the ACS journal of surfaces and colloids",
+  "publisher": "",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1021/acs.langmuir.6c04525",
+  "url": "https://doi.org/10.1021/acs.langmuir.6c04525",
+  "source": "europepmc",
+  "categories": [
+   "Spectroscopy",
+   "Polymer Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "IR Spectroscopy",
+   "Machine Learning",
+   "Polymers",
+   "Spectroscopy"
+  ],
+  "relevance_score": 62,
+  "affiliations": [],
+  "added": "2026-11-04"
  },
  {
   "id": "48b6c00ac0da9e8c",
@@ -3515,6 +5573,49 @@
   "added": "2026-08-21"
  },
  {
+  "id": "395164f1a4188885",
+  "title": "Combined scaling relations and machine learning for predicting C-F bond activation energies in tetrafluoromethane",
+  "authors": [
+   "Sha Li",
+   "Wenting Xu",
+   "Cuihua Qin",
+   "Huimin Chen",
+   "Xiang Gao",
+   "Yuan Liu",
+   "Bing Yu",
+   "Lingbo Qu"
+  ],
+  "journal": "Frontiers in Chemistry",
+  "publisher": "Frontiers Media S.A.",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.3389/fchem.2026.1984156",
+  "url": "https://doi.org/10.3389/fchem.2026.1984156",
+  "source": "doaj",
+  "categories": [
+   "Catalysis",
+   "Computational Chemistry",
+   "Inorganic Chemistry",
+   "Materials Chemistry",
+   "Machine Learning",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Activation Energy",
+   "Alloys",
+   "Binding Energy",
+   "CNN",
+   "Catalysis",
+   "DFT",
+   "Machine Learning",
+   "Neural Network",
+   "Transition Metals"
+  ],
+  "relevance_score": 94,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
   "id": "33dc96dd3fac2267",
   "title": "PSMA Theranostics for Prostate Cancer: Evidence, Pitfalls, and Implementation in Japan.",
   "authors": [
@@ -3727,6 +5828,41 @@
   "added": "2026-11-03"
  },
  {
+  "id": "2a091b9d8d1a7833",
+  "title": "Ensemble of ∆-ML Models for Quantum Chemistry Level of Theory Selection for Interaction Energies",
+  "authors": [
+   "Austin M. Wallace",
+   "Victor L. Lita",
+   "Giri P. Krishnan",
+   "C. David Sherrill"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15011449/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15011449/v1",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Transformers & LLMs",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Ab Initio",
+   "Chemistry",
+   "LLM",
+   "Machine Learning",
+   "Molecules",
+   "Quantum Chemistry"
+  ],
+  "relevance_score": 90,
+  "affiliations": [
+   "Georgia Institute of Technology"
+  ],
+  "added": "2026-11-04"
+ },
+ {
   "id": "26a3bcb634e04783",
   "title": "Dopant effects on thermodynamic stability and oxygen vacancy formation in CaMnO",
   "authors": [
@@ -3797,6 +5933,41 @@
   "relevance_score": 54,
   "affiliations": [],
   "added": "2026-11-03"
+ },
+ {
+  "id": "224a3f9932ffe659",
+  "title": "Rational Design of Highly Fluorescent N-Doped Carbon Nanoparticles for Hg2+ Ion Sensing via Machine Learning and Computational Analysis.",
+  "authors": [
+   "Sutradhar S",
+   "Kar P",
+   "Prusty S",
+   "Sharma P."
+  ],
+  "journal": "Langmuir : the ACS journal of surfaces and colloids",
+  "publisher": "",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1021/acs.langmuir.6c03920",
+  "url": "https://doi.org/10.1021/acs.langmuir.6c03920",
+  "source": "europepmc",
+  "categories": [
+   "Computational Chemistry",
+   "Catalysis",
+   "Materials Chemistry",
+   "Property Prediction",
+   "Machine Learning"
+  ],
+  "tags": [
+   "DFT",
+   "Ligands",
+   "Machine Learning",
+   "Molecules",
+   "Nanoparticles",
+   "Solubility"
+  ],
+  "relevance_score": 72,
+  "affiliations": [],
+  "added": "2026-11-04"
  },
  {
   "id": "1ee39b3f2b714523",
@@ -4055,5 +6226,45 @@
   "relevance_score": 68,
   "affiliations": [],
   "added": "2026-11-02"
+ },
+ {
+  "id": "00f87876f05db099",
+  "title": "Reversible Ferroelastic Strain Engineering Enables Stabilization of a Hidden Ga2O3 Polymorph.",
+  "authors": [
+   "Qi Z",
+   "Sun Z",
+   "Li R",
+   "Wang Q",
+   "Ni J",
+   "Liu S",
+   "Shen W",
+   "Wu G."
+  ],
+  "journal": "ACS nano",
+  "publisher": "",
+  "published": "2026-11-01",
+  "year": 2026,
+  "doi": "10.1021/acsnano.6c12416",
+  "url": "https://doi.org/10.1021/acsnano.6c12416",
+  "source": "europepmc",
+  "categories": [
+   "Computational Chemistry",
+   "Materials Chemistry",
+   "Physical Chemistry",
+   "ML Potentials & Force Fields",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Kinetics",
+   "ML Potential",
+   "Machine Learning",
+   "Materials Science",
+   "Molecular Dynamics",
+   "Molecules",
+   "Thermodynamics"
+  ],
+  "relevance_score": 78,
+  "affiliations": [],
+  "added": "2026-11-04"
  }
 ]

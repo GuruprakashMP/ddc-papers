@@ -841,6 +841,37 @@
   "added": "2026-11-03"
  },
  {
+  "id": "256d687f5cbacc01",
+  "title": "Dynamic hydrophobicity representation for predicting and interpreting ionizable organic micropollutant rejection by polyamide membranes.",
+  "authors": [
+   "Jincheng Ma",
+   "Airan Hu",
+   "Yanling Liu",
+   "Shengji Xia"
+  ],
+  "journal": "Water research",
+  "publisher": "",
+  "published": "2026-10-31",
+  "year": 2026,
+  "doi": "10.1016/j.watres.2026.127258",
+  "url": "https://doi.org/10.1016/j.watres.2026.127258",
+  "source": "pubmed",
+  "categories": [
+   "Property Prediction",
+   "Classical ML",
+   "Machine Learning"
+  ],
+  "tags": [
+   "LogP",
+   "Machine Learning",
+   "Molecules",
+   "XGBoost"
+  ],
+  "relevance_score": 59,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
   "id": "22ea0b0e54687644",
   "title": "Next-Generation Therapeutics: Synergizing QSAR, Nanotechnology, and Green Chemistry for Advanced Drug Development",
   "authors": [
@@ -2711,6 +2742,42 @@
   "added": "2026-10-31"
  },
  {
+  "id": "044fa337e49e117f",
+  "title": "Advanced Nanoemulsion Architectures for Precision Theranostics and Next-Generation Biomedical Translation.",
+  "authors": [
+   "Abhishek Chauhan",
+   "Raj Kamal",
+   "Mohit Kumar",
+   "Ankit Awasthi",
+   "Dinesh Kumar",
+   "Neeraj Choudhary",
+   "Muhammad Salahuddin Haris",
+   "Md Faiyazuddin",
+   "Mohamed Kchaou"
+  ],
+  "journal": "International journal of nanomedicine",
+  "publisher": "",
+  "published": "2026-10-30",
+  "year": 2026,
+  "doi": "10.2147/ijn.s631056",
+  "url": "https://doi.org/10.2147/IJN.S631056",
+  "source": "pubmed",
+  "categories": [
+   "Physical Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Chemistry",
+   "Kinetics",
+   "Machine Learning",
+   "Thermodynamics"
+  ],
+  "relevance_score": 55,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
   "id": "0380ccf15a7c05e6",
   "title": "Machine Learning-Guided Precise Electrolyte Engineering Enables Stable Lithium Metal Pouch Cells Exceeding 350 Wh/kg at −40 °C",
   "authors": [
@@ -3431,6 +3498,52 @@
   "relevance_score": 52,
   "affiliations": [],
   "added": "2026-10-31"
+ },
+ {
+  "id": "9295062fbaca55ac",
+  "title": "Artificial Intelligence-Enabled Nanomedicine in Precision Oncology: Diagnosis, Targeted Therapy, and Clinical Translation.",
+  "authors": [
+   "Ruba Altahla",
+   "Yongping Wang",
+   "Mahdi Morshedi Yekta",
+   "Zhaowei Wang",
+   "Huiyi Jiang",
+   "Chaoyi Li",
+   "Pijun Zhang",
+   "Mansoor Bolideei",
+   "Mohammad Javad Mehran",
+   "Jamal Alshorman"
+  ],
+  "journal": "International journal of nanomedicine",
+  "publisher": "",
+  "published": "2026-10-29",
+  "year": 2026,
+  "doi": "10.2147/ijn.s644095",
+  "url": "https://doi.org/10.2147/IJN.S644095",
+  "source": "pubmed",
+  "categories": [
+   "Materials Chemistry",
+   "Catalysis",
+   "Polymer Chemistry",
+   "Property Prediction",
+   "Inorganic Chemistry",
+   "Physical Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "AI",
+   "Inorganic Chemistry",
+   "Kinetics",
+   "Ligands",
+   "Materials Design",
+   "Molecules",
+   "Nanoparticles",
+   "Polymers",
+   "Toxicity"
+  ],
+  "relevance_score": 58,
+  "affiliations": [],
+  "added": "2026-11-04"
  },
  {
   "id": "90571c3ca3323386",
@@ -16451,6 +16564,45 @@
   "added": "2026-10-23"
  },
  {
+  "id": "ea16ae2b3f5b8079",
+  "title": "Hupehenine suppresses tumor cell phenotypes and modulates macrophage marker profiles in a diabeticmimetic colorectal cancer model.",
+  "authors": [
+   "Ming Qi Zhu",
+   "Zi Tong Shi",
+   "Hong Mei Hu",
+   "Qi Dong Xue",
+   "Xin Yu Gu",
+   "Xin Cheng Li",
+   "Qiu Yan Wang",
+   "Yan Zhao",
+   "You Wei Zhang",
+   "Ji Zhong Zhao"
+  ],
+  "journal": "Frontiers in pharmacology",
+  "publisher": "",
+  "published": "2026-10-20",
+  "year": 2026,
+  "doi": "10.3389/fphar.2026.1962620",
+  "url": "https://doi.org/10.3389/fphar.2026.1962620",
+  "source": "pubmed",
+  "categories": [
+   "Catalysis",
+   "Computational Chemistry",
+   "Cheminformatics",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Deep Learning",
+   "Ligands",
+   "Molecular Dynamics",
+   "Molecules",
+   "Virtual Screening"
+  ],
+  "relevance_score": 57,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
   "id": "e5ab6d9c0b4a8a47",
   "title": "From Crystallography to AlphaFold: Artificial Intelligence-Guided Molecular Discovery for Nuclear Medicine Theranostics.",
   "authors": [
@@ -18211,6 +18363,47 @@
   "added": "2026-10-21"
  },
  {
+  "id": "bec3f3cb3b5e6d5b",
+  "title": "Machine learning-assisted chemometric analysis of salivary ATR-FTIR spectra for the diagnosis of oral submucous fibrosis.",
+  "authors": [
+   "Priya Shree",
+   "Yogender Aggarwal",
+   "Manish Kumar",
+   "Priyank Saxena",
+   "Narendra Nath Singh",
+   "Akhilesh Chandra",
+   "Prerna Srivastava",
+   "Somili Nag",
+   "Arpita Rai"
+  ],
+  "journal": "Frontiers in oncology",
+  "publisher": "",
+  "published": "2026-10-19",
+  "year": 2026,
+  "doi": "10.3389/fonc.2026.1927981",
+  "url": "https://doi.org/10.3389/fonc.2026.1927981",
+  "source": "pubmed",
+  "categories": [
+   "Spectroscopy",
+   "Chemometrics & Statistics",
+   "Machine Learning",
+   "Classical ML"
+  ],
+  "tags": [
+   "Chemometrics",
+   "Decision Tree",
+   "Machine Learning",
+   "PCA",
+   "Random Forest",
+   "SVM",
+   "Spectroscopy",
+   "XGBoost"
+  ],
+  "relevance_score": 51,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
   "id": "ba1fcd994e893a8e",
   "title": "THE CHEMICAL ALGORITHMIC INTELLIGENCE FRAMEWORK FROM QUANTUM MOLECULES TO REGULATORY COMPLIANCE A Unified Theory of Artificial Intelligence, Computational Chemistry, Algorithmic Design, and Chemical Law",
   "authors": [
@@ -18865,6 +19058,37 @@
   "relevance_score": 42,
   "affiliations": [],
   "added": "2026-10-20"
+ },
+ {
+  "id": "6a50e94638d378aa",
+  "title": "Per- and polyfluoroalkyl substances (PFAS) and cancer: knowledge mapping and emerging trends based on a bibliometric analysis.",
+  "authors": [
+   "Siyin Liu",
+   "Guoqing Zhang",
+   "Meijing Wang",
+   "Jiaguo Huang"
+  ],
+  "journal": "Frontiers in oncology",
+  "publisher": "",
+  "published": "2026-10-19",
+  "year": 2026,
+  "doi": "10.3389/fonc.2026.1880116",
+  "url": "https://doi.org/10.3389/fonc.2026.1880116",
+  "source": "pubmed",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Machine Learning",
+   "Classical ML"
+  ],
+  "tags": [
+   "Clustering",
+   "Docking",
+   "Machine Learning",
+   "Molecules"
+  ],
+  "relevance_score": 48,
+  "affiliations": [],
+  "added": "2026-11-04"
  },
  {
   "id": "51f747b246c9ef37",
@@ -44722,6 +44946,35 @@
   "added": "2026-10-07"
  },
  {
+  "id": "93f2f86afa1e46fa",
+  "title": "Hyperspectral imaging and machine learning in brain tumor surgery: Current evidence, clinical applications, and future directions.",
+  "authors": [
+   "Minal Kamran"
+  ],
+  "journal": "Surgical neurology international",
+  "publisher": "",
+  "published": "2026-10-02",
+  "year": 2026,
+  "doi": "10.25259/sni_847_2026",
+  "url": "https://doi.org/10.25259/SNI_847_2026",
+  "source": "pubmed",
+  "categories": [
+   "Spectroscopy",
+   "Machine Learning",
+   "Deep Learning"
+  ],
+  "tags": [
+   "AI",
+   "Deep Learning",
+   "Machine Learning",
+   "Molecules",
+   "Spectroscopy"
+  ],
+  "relevance_score": 53,
+  "affiliations": [],
+  "added": "2026-11-04"
+ },
+ {
   "id": "8b5091abe0a93f51",
   "title": "Dermatopathology 2030: Navigating the Digital, Computational and Molecular Convergence for Precision Diagnostics-Originated from a Round Table Discussion at A 66, Basel.",
   "authors": [
@@ -49428,6 +49681,42 @@
   "relevance_score": 48,
   "affiliations": [],
   "added": "2026-08-06"
+ },
+ {
+  "id": "3f53897a2f6f9c15",
+  "title": "SN-PepDB: a deep learning-driven database for characterizing Sipunculus nudus bioactive peptides and their structure-activity relationships.",
+  "authors": [
+   "Yi Zhang",
+   "Guandi Qin",
+   "Le Jiang",
+   "Zhiyou Yang",
+   "Zhongqin Chen",
+   "Meicai Yue",
+   "Chongpeng Gu",
+   "Longjian Zhou"
+  ],
+  "journal": "Food research international (Ottawa, Ont.)",
+  "publisher": "",
+  "published": "2026-10-01",
+  "year": 2026,
+  "doi": "10.1016/j.foodres.2026.120951",
+  "url": "https://doi.org/10.1016/j.foodres.2026.120951",
+  "source": "pubmed",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Deep Learning",
+   "Computational Chemistry"
+  ],
+  "tags": [
+   "Deep Learning",
+   "Docking",
+   "In Silico",
+   "Molecules",
+   "SAR"
+  ],
+  "relevance_score": 67,
+  "affiliations": [],
+  "added": "2026-11-04"
  },
  {
   "id": "3eab2c0f4c1e4641",
