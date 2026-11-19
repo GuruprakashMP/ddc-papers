@@ -685,6 +685,47 @@
   "added": "2026-11-19"
  },
  {
+  "id": "c319bb32db74b081",
+  "title": "Feature selection-guided graph neural networks for compound activity prediction",
+  "authors": [
+   "Fouad Alkhoury",
+   "Tamás Horváth",
+   "Tiago Janela",
+   "Andrea Mastropietro",
+   "Jürgen Bajorath"
+  ],
+  "journal": "Journal of Cheminformatics",
+  "publisher": "BioMed Central",
+  "published": "2026-11-18",
+  "year": 2026,
+  "doi": "10.1186/s13321-026-01328-w",
+  "url": "https://doi.org/10.1186/s13321-026-01328-w",
+  "source": "openalex",
+  "categories": [
+   "Property Prediction",
+   "Graph Neural Networks",
+   "Cheminformatics",
+   "Deep Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Descriptors",
+   "Graph Neural Network",
+   "Graph Representation",
+   "Molecules",
+   "Neural Network",
+   "Property Prediction"
+  ],
+  "relevance_score": 90,
+  "affiliations": [
+   "University of Bonn",
+   "Lamarr Institute for Machine Learning and Artificial Intelligence",
+   "Fraunhofer Institute for Intelligent Analysis and Information Systems",
+   "Nara Institute of Science and Technology"
+  ],
+  "added": "2026-11-19"
+ },
+ {
   "id": "bf1977fe9427843a",
   "title": "Macrofungi derived green nanoparticles for active and intelligent food packaging through biosynthesis mechanisms functional performance and industrial applications.",
   "authors": [
@@ -1062,6 +1103,48 @@
   "added": "2026-11-19"
  },
  {
+  "id": "6e90d4737f2d4f54",
+  "title": "Predicting Multi-planar Single-Leg Drop Landing Kinetic and Dynamic Stability Outcomes from Various Wearable Inertial Measurement Unit Configurations: A Machine Learning Approach with Implications for Field-Based Injury Screening",
+  "authors": [
+   "Indy Man Kit Ho",
+   "Daniel H. K. Chow",
+   "Jialiang Gu",
+   "Lana Ružić"
+  ],
+  "journal": "Research Square",
+  "publisher": "",
+  "published": "2026-11-18",
+  "year": 2026,
+  "doi": "10.21203/rs.3.rs-11431792/v1",
+  "url": "https://doi.org/10.21203/rs.3.rs-11431792/v1",
+  "source": "openalex",
+  "categories": [
+   "Physical Chemistry",
+   "Machine Learning",
+   "Classical ML",
+   "Deep Learning",
+   "Chemometrics & Statistics"
+  ],
+  "tags": [
+   "Feature Importance",
+   "Kinetics",
+   "LightGBM",
+   "Machine Learning",
+   "Neural Network",
+   "Random Forest",
+   "Regression",
+   "SVM",
+   "XGBoost"
+  ],
+  "relevance_score": 69,
+  "affiliations": [
+   "Technological and Higher Education Institute of Hong Kong",
+   "Education University of Hong Kong",
+   "University of Zagreb"
+  ],
+  "added": "2026-11-19"
+ },
+ {
   "id": "68f6a4614d31f38b",
   "title": "Size-Divergent Contributors and Interactions to PM Oxidative Potential: EC-Organics Additivity and Ion-Metal Synergy.",
   "authors": [
@@ -1129,6 +1212,46 @@
   ],
   "relevance_score": 74,
   "affiliations": [],
+  "added": "2026-11-19"
+ },
+ {
+  "id": "642e5d9a27f4ec82",
+  "title": "Molecularly Aged Protein States as Targets for Drug Design and Delivery in Neurodegenerative Diseases",
+  "authors": [
+   "Reem A. Alromaihi",
+   "Suleman Abdullah Almerdasi",
+   "Abdulrahman Abdullah Almusallam",
+   "Mona Alromaihi",
+   "Waad A. Aljohani",
+   "Masood Alam Khan",
+   "Arif Khan",
+   "Khaled S. Allemailem"
+  ],
+  "journal": "Pharmaceutics",
+  "publisher": "Multidisciplinary Digital Publishing Institute",
+  "published": "2026-11-18",
+  "year": 2026,
+  "doi": "10.3390/pharmaceutics18111485",
+  "url": "https://doi.org/10.3390/pharmaceutics18111485",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Molecule Generation",
+   "Drug Discovery Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Drug Discovery",
+   "Machine Learning",
+   "Molecular Design",
+   "Molecules",
+   "Quantum Chemistry"
+  ],
+  "relevance_score": 68,
+  "affiliations": [
+   "Qassim University"
+  ],
   "added": "2026-11-19"
  },
  {
@@ -1345,6 +1468,53 @@
   ],
   "relevance_score": 68,
   "affiliations": [],
+  "added": "2026-11-19"
+ },
+ {
+  "id": "4c9d7d558de04d65",
+  "title": "High-Throughput Screening of Photocatalytic Metal–Organic Frameworks for CO2 Reduction Using Relational Data Extraction and Hierarchical Machine Learning",
+  "authors": [
+   "Xiao Niu",
+   "Yan Liu",
+   "Yong Cui",
+   "Jianwen Jiang"
+  ],
+  "journal": "Journal of the American Chemical Society",
+  "publisher": "American Chemical Society",
+  "published": "2026-11-18",
+  "year": 2026,
+  "doi": "10.1021/jacs.6c14994",
+  "url": "https://doi.org/10.1021/jacs.6c14994",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Property Prediction",
+   "Materials Chemistry",
+   "Reaction Prediction",
+   "Physical Chemistry",
+   "Graph Neural Networks",
+   "High-Throughput & Autonomous",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Band Gap",
+   "CNN",
+   "CO2 Reduction",
+   "Catalysis",
+   "Graph Neural Network",
+   "High-Throughput",
+   "LLM",
+   "Machine Learning",
+   "Photocatalysis",
+   "Property Prediction",
+   "Reaction Conditions",
+   "Thermodynamics"
+  ],
+  "relevance_score": 100,
+  "affiliations": [
+   "National University of Singapore",
+   "Shanghai Jiao Tong University"
+  ],
   "added": "2026-11-19"
  },
  {
@@ -2319,6 +2489,97 @@
   "added": "2026-11-18"
  },
  {
+  "id": "b94e257439425bc4",
+  "title": "Surface plasmon resonance biosensors: from materials and functionalization to high-performance and intelligent sensing",
+  "authors": [
+   "Ajay N. Upadhyaya",
+   "Vinay B K",
+   "Spoorthi B. S.",
+   "Avinash R",
+   "T. R. Suranjan",
+   "Ravisankar Malladi"
+  ],
+  "journal": "International Journal of Environmental & Analytical Chemistry",
+  "publisher": "Taylor & Francis",
+  "published": "2026-11-17",
+  "year": 2026,
+  "doi": "10.1080/03067319.2026.2759685",
+  "url": "https://doi.org/10.1080/03067319.2026.2759685",
+  "source": "openalex",
+  "categories": [
+   "Drug Discovery Chemistry",
+   "Spectroscopy",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Data-Driven",
+   "Drug Discovery",
+   "Machine Learning",
+   "Spectroscopy"
+  ],
+  "relevance_score": 73,
+  "affiliations": [
+   "University of Mysore",
+   "Visvesvaraya Technological University",
+   "Koneru Lakshmaiah Education Foundation"
+  ],
+  "added": "2026-11-19"
+ },
+ {
+  "id": "b14a78e418abace8",
+  "title": "Transition metal oxides for oxygen electrocatalysis: Electronic structure engineering, benchmarking strategies, and advanced OER catalysis",
+  "authors": [
+   "Mohd Ubaidullah",
+   "Anuj Kumar",
+   "Monika Singh",
+   "Meenakshi Dixit",
+   "Mohammad Khalid",
+   "Mohd Yusuf",
+   "Abdullah M. Al-Enizi"
+  ],
+  "journal": "Coordination Chemistry Reviews",
+  "publisher": "Elsevier BV",
+  "published": "2026-11-17",
+  "year": 2026,
+  "doi": "10.1016/j.ccr.2026.218742",
+  "url": "https://doi.org/10.1016/j.ccr.2026.218742",
+  "source": "openalex",
+  "categories": [
+   "Catalysis",
+   "Computational Chemistry",
+   "Inorganic Chemistry",
+   "Electrochemistry & Batteries",
+   "Reaction Prediction",
+   "Retrosynthesis",
+   "Physical Chemistry",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Batteries",
+   "Catalysis",
+   "Chemistry",
+   "DFT",
+   "Electrocatalysis",
+   "Electrolytes",
+   "Electronic Structure",
+   "Fuel Cells",
+   "Oxygen Evolution",
+   "Reaction Mechanisms",
+   "Synthesis Planning",
+   "Transition Metals"
+  ],
+  "relevance_score": 74,
+  "affiliations": [
+   "King Saud University",
+   "GLA University",
+   "Manipal University Jaipur",
+   "University of Glasgow",
+   "Glocal University"
+  ],
+  "added": "2026-11-19"
+ },
+ {
   "id": "a4193d53e8811587",
   "title": "Why pH-responsive polymeric nanocarriers for doxorubicin have not yet achieved clinical translation: mechanistic insights and future directions.",
   "authors": [
@@ -2818,6 +3079,39 @@
   "relevance_score": 54,
   "affiliations": [],
   "added": "2026-11-18"
+ },
+ {
+  "id": "6637d5938914b172",
+  "title": "Predicting the Host-guest Binding Gibbs Free Energy for Guests",
+  "authors": [
+   "Rauno Reitalu",
+   "Riina Aav",
+   "Mario Öeren"
+  ],
+  "journal": "ChemRxiv",
+  "publisher": "",
+  "published": "2026-11-17",
+  "year": 2026,
+  "doi": "10.26434/chemrxiv.15012395/v1",
+  "url": "https://doi.org/10.26434/chemrxiv.15012395/v1",
+  "source": "openalex",
+  "categories": [
+   "Cheminformatics",
+   "High-Throughput & Autonomous",
+   "Machine Learning"
+  ],
+  "tags": [
+   "Chemistry",
+   "Fingerprints",
+   "High-Throughput",
+   "Machine Learning",
+   "Molecules"
+  ],
+  "relevance_score": 80,
+  "affiliations": [
+   "Tallinn University of Technology"
+  ],
+  "added": "2026-11-19"
  },
  {
   "id": "5c72ce8c1227c9e9",
