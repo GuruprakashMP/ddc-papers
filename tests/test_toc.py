@@ -92,7 +92,7 @@ class TestFeeds(unittest.TestCase):
         with mock.patch.object(toc, "_wiley_feed_from_crossref", return_value=toc.wiley_feed("1521-3773")):
             feeds = toc.choose_feeds(papers, dt.date(2026, 11, 20), {})
         self.assertEqual(feeds, [
-            ("RSC", "https://feeds.rsc.org/rss/cc"),
+            ("RSC", "http://feeds.rsc.org/rss/cc"),
             ("ACS", "https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc=jacsat"),
             ("Wiley", "https://onlinelibrary.wiley.com/feed/15213773/most-recent"),
         ])
@@ -116,21 +116,6 @@ class TestFeeds(unittest.TestCase):
         self.assertEqual(saved["10.1002/anie.8646657"]["pub"], "Wiley")
         self.assertEqual(stats["RSC feeds failed"], 1)
         self.assertEqual(stats["Wiley graphics recorded"], 1)
-
-    def test_rsc_feed_retried_over_plain_http_once(self):
-        calls = []
-
-        def fake_get(url, **kw):
-            calls.append(url)
-            if url.startswith("https://"):
-                raise toc.http.FetchError("EOF")
-            return RDF
-        with mock.patch.object(toc.http, "get_bytes", side_effect=fake_get):
-            self.assertEqual(toc._fetch_feed("RSC", "https://feeds.rsc.org/rss/cc"), RDF)
-            with self.assertRaises(toc.http.FetchError):
-                toc._fetch_feed("ACS", "https://pubs.acs.org/action/showFeed?jc=jacsat")
-        self.assertEqual(calls, ["https://feeds.rsc.org/rss/cc", "http://feeds.rsc.org/rss/cc",
-                                 "https://pubs.acs.org/action/showFeed?jc=jacsat"])
 
     def _tmp(self):
         import tempfile

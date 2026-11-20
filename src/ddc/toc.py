@@ -91,7 +91,10 @@ def feed_url(pub: str, doi: str, sources: Dict[str, str], journal: str) -> Optio
     """The RSS feed of the journal a DOI belongs to, or None when it cannot be told."""
     if pub == "RSC":
         code = rsc_code(doi)
-        return f"https://feeds.rsc.org/rss/{code}" if code else None
+        # feeds.rsc.org breaks off HTTPS handshakes from GitHub's runners (2026-11-20) but
+        # answers over plain HTTP. Its items carried no graphic that day; the feed is still
+        # read so graphics appear here if RSC adds them. Image URLs must be HTTPS (image_ok).
+        return f"http://feeds.rsc.org/rss/{code}" if code else None
     if pub == "ACS":
         coden = ACS_CODEN.get(acs_code(doi) or "")
         return (f"https://pubs.acs.org/action/showFeed?type=axatoc&feed=rss&jc={coden}"
@@ -262,16 +265,8 @@ def _save(path: Path, data: dict) -> None:
 
 
 def _fetch_feed(pub: str, url: str) -> bytes:
-    headers = {"Accept": "application/rss+xml, application/xml, text/xml"}
-    try:
-        return http.get_bytes(url, headers=headers, retries=2)
-    except http.FetchError:
-        # feeds.rsc.org breaks off the HTTPS handshake from some networks (GitHub's
-        # runners included): try its plain-HTTP address once. Graphic URLs read from the
-        # feed are still accepted only as HTTPS on pubs.rsc.org (image_ok).
-        if pub != "RSC" or not url.startswith("https://feeds.rsc.org/"):
-            raise
-        return http.get_bytes("http://" + url[len("https://"):], headers=headers, retries=1)
+    return http.get_bytes(url, headers={"Accept": "application/rss+xml, application/xml, text/xml"},
+                          retries=2)
 
 
 def update(papers: List[Paper], today: Optional[dt.date] = None) -> Dict[str, int]:
