@@ -2,6 +2,27 @@
 
 All notable changes to DataDrivenChemistryPapers.
 
+## [1.3.0] - 2026-11-20
+
+### Added
+- **Table-of-contents graphics** (`src/ddc/toc.py`, `python -m ddc toc`). Every daily
+  run reads the RSS feeds of the ACS, Wiley and RSC journals with papers added here
+  in the last 60 days and records, for papers in the index, the address of the
+  graphic each feed item links (`data/state/toc.json`). Only the address is stored;
+  pages show the image from the publisher's own HTTPS host, credited ("Graphic:
+  Wiley") and linked to the paper, and drop it if it does not load. A blocked feed
+  is logged and skipped; after 3 failures in a row with no success a publisher is
+  skipped for that run. `toc_graphics` in the settings turns it off.
+
+### Changed
+- A more structured look (shared GP Tools theme): header band with labelled
+  figures (papers indexed, added since, last update, sources), the page title in
+  the band on every other page, a filter sidebar on the front page, cards with
+  icon buttons and the graphic beside the text, a four-column footer.
+- No em dashes in anything shown: titles, journals, authors and abstracts that
+  contain one are shown with a spaced hyphen (the stored record is unchanged), and
+  docs and code comments no longer use them.
+
 ## [1.2.0] - 2026-11-19
 
 ### Added
@@ -23,12 +44,12 @@ All notable changes to DataDrivenChemistryPapers.
 - About and Categories texts: no em dashes; "one or more categories" (many papers
   have exactly one).
 
-## [1.1.1] — 2026-07-28
+## [1.1.1] - 2026-07-28
 
 ### Fixed
 - **One researcher is now one author page.** Publisher metadata carries
   Unicode dashes and honorifics, so the same person fragmented across
-  several pages — the U+2010 spelling of a hyphenated name and the ASCII
+  several pages - the U+2010 spelling of a hyphenated name and the ASCII
   spelling everyone types were different keys. 12,015 stored names were rewritten
   (Aspuru-Guzik, Gómez-Bombarelli, Reymond and more).
 
@@ -40,13 +61,13 @@ All notable changes to DataDrivenChemistryPapers.
   `app.js` normalizes the incoming `?a=` value so pre-existing links and
   bookmarks still resolve.
 - Deliberately not merged: initials vs full given names, and hyphen-less
-  spellings — those would fuse distinct researchers, since surnames like
+  spellings - those would fuse distinct researchers, since surnames like
   "Li", "Hu" and "Wu" occur as complete names in this data. A trailing
   period is preserved because many names legitimately end in an initial.
 - Paper ids and `data/state/seen.json` are byte-identical before and after
   the migration: author names never feed identity or dedupe keys.
 
-## [1.1.0] — 2026-07-20
+## [1.1.0] - 2026-07-20
 
 ### Added
 - **Historical backfill** (`python -m ddc backfill`): walks OpenAlex with
@@ -60,16 +81,16 @@ All notable changes to DataDrivenChemistryPapers.
   relationships, Sterimol parameters (new categories: "Chemometrics &
   Statistics", "Physical Organic Chemistry").
 - Progressive loading on search/authors/journals pages: the newest three
-  year-shards render instantly, the full archive streams in the background —
+  year-shards render instantly, the full archive streams in the background -
   keeps the UI fast at tens of thousands of papers.
 
 ### Changed
 - Pipeline ingestion extracted into a reusable `process_records()` shared by
   the daily run and the backfill.
 
-## [1.0.0] — 2026-07-20
+## [1.0.0] - 2026-07-20
 
-## [1.0.0] — 2026-07-20
+## [1.0.0] - 2026-07-20
 
 Initial release.
 

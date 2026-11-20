@@ -2,7 +2,7 @@
 
 A fully automated, continuously updated public index of scientific papers where
 **AI / Machine Learning / data-driven methods are applied to chemistry
-problems** — catalysis, reaction prediction, retrosynthesis, molecule
+problems** - catalysis, reaction prediction, retrosynthesis, molecule
 generation, ML potentials, spectroscopy, electrochemistry, polymers, materials
 chemistry and more.
 
@@ -10,10 +10,10 @@ chemistry and more.
   journal, date, DOI, link) is stored; every card links straight to the
   original publisher or preprint server.
 * **Zero dependencies.** The entire pipeline is standard-library Python; no
-  `pip install`, no database — everything is JSON + static HTML, perfect for
+  `pip install`, no database - everything is JSON + static HTML, perfect for
   GitHub Pages.
 * **Fully automatic.** A GitHub Actions workflow collects, deduplicates,
-  classifies, stores, regenerates the site, and commits — every day.
+  classifies, stores, regenerates the site, and commits - every day.
 
 ## Quick start (local)
 
@@ -50,7 +50,7 @@ not `file://`.)
    minute or two.
 4. The workflow in `.github/workflows/ddc-daily.yml` runs every day at
    05:00 UTC (or trigger it manually from the **Actions** tab) and commits
-   new papers automatically — no maintenance needed.
+   new papers automatically - no maintenance needed.
 
 ## How papers are selected
 
@@ -64,13 +64,13 @@ A paper is indexed only when it matches **both** sides of the core rule:
 Papers whose primary field is medicine, finance, generic computer vision/NLP,
 etc. are penalised and excluded. Every accepted paper gets a **relevance
 score** (0–100; ≥90 extremely relevant, ≥70 very relevant), multiple
-**categories**, and **tags** — see `src/ddc/keywords.py` to tune the
+**categories**, and **tags** - see `src/ddc/keywords.py` to tune the
 vocabulary.
 
 ## Sources
 
 Direct: **arXiv**, **ChemRxiv**. Aggregators: **Crossref**, **OpenAlex**,
-**PubMed**, **Europe PMC**, **Semantic Scholar**, **DOAJ** — which legally
+**PubMed**, **Europe PMC**, **Semantic Scholar**, **DOAJ** - which legally
 provide the metadata of ACS, RSC, Wiley, Springer Nature, Elsevier, MDPI,
 Frontiers, Taylor & Francis, IOP, AIP and essentially every DOI-issuing
 publisher.

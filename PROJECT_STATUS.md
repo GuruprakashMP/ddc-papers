@@ -21,13 +21,13 @@ _Last updated: 2026-07-21 (historical backfill COMPLETE: 1990-2026)_
 - [x] Core data model (`Paper`, `RawRecord`), DOI/title normalization, stable ids
 - [x] Zero-dependency HTTP client with retries/backoff/gzip (`http.py`)
 - [x] 8 collectors: arXiv, ChemRxiv, Crossref, OpenAlex, PubMed, Europe PMC,
-      Semantic Scholar, DOAJ — pluggable registry, one-file extension
+      Semantic Scholar, DOAJ - pluggable registry, one-file extension
 - [x] Keyword classifier (ML×chemistry rule, negative terms, venue bonus,
       0–100 relevance score, multi-category, tags)
 - [x] Deduplication across sources and days (persisted seen-set, rebuildable)
 - [x] JSON storage sharded by publication month
 - [x] Static site generator: homepage, search, authors, journals, categories,
-      archive (year→month→day), about — relative links, dark mode, responsive
+      archive (year→month→day), about - relative links, dark mode, responsive
 - [x] Client-side search/filter app (vanilla JS, per-year JSON shards)
 - [x] CLI: `run`, `collect`, `build`, `stats`
 - [x] GitHub Actions daily workflow (tests → pipeline → auto-commit)

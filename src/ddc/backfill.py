@@ -1,4 +1,4 @@
-"""Historical backfill — index the whole history of ML applied to chemistry.
+"""Historical backfill - index the whole history of ML applied to chemistry.
 
 Walks OpenAlex (which aggregates Crossref, PubMed, arXiv and more, with
 abstracts for classification) using cursor pagination:
@@ -34,11 +34,11 @@ API = "https://api.openalex.org/works"
 PER_PAGE = 200
 REQUEST_PAUSE = 1.0  # gentle pacing; OpenAlex enforces a daily quota
 PIONEERS_FILE = PROJECT_ROOT / "config" / "pioneers.json"
-# Abort the whole backfill after this many consecutive failed queries —
+# Abort the whole backfill after this many consecutive failed queries -
 # it means the API quota is exhausted and hammering on is pointless.
 MAX_CONSECUTIVE_FAILURES = 12
 
-# Fields we actually read — trimming the payload makes paging ~5x faster.
+# Fields we actually read - trimming the payload makes paging ~5x faster.
 SELECT = ("id,display_name,authorships,primary_location,doi,"
           "publication_date,abstract_inverted_index")
 
@@ -124,7 +124,7 @@ def _ingest_pages(
                     label, exc, failures[0])
         if failures[0] >= MAX_CONSECUTIVE_FAILURES:
             raise QuotaExhausted(
-                f"{failures[0]} consecutive failed queries — API quota "
+                f"{failures[0]} consecutive failed queries - API quota "
                 "exhausted; re-run the backfill later to resume") from exc
     store.save_seen(seen)  # checkpoint: re-running skips everything ingested
     if total.collected:

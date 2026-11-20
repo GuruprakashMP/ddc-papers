@@ -2,13 +2,13 @@
 
 Three vocabularies drive the relevance decision:
 
-* ``ML_TERMS``    — data-driven / AI methods.  ``(weight, tag, category)``
-* ``CHEM_TERMS``  — chemistry problems and domains.  ``(weight, tag, category)``
-* ``NEGATIVE_TERMS`` — signals that the paper's primary domain is NOT
+* ``ML_TERMS`` - data-driven / AI methods.  ``(weight, tag, category)``
+* ``CHEM_TERMS`` - chemistry problems and domains.  ``(weight, tag, category)``
+* ``NEGATIVE_TERMS`` - signals that the paper's primary domain is NOT
   chemistry (medicine, finance, generic CS...).  ``penalty`` points.
 
 A paper is only accepted when it matches at least one ML term AND at least one
-chemistry term — that is the project's core rule: *machine learning applied to
+chemistry term - that is the project's core rule: *machine learning applied to
 chemistry*, not machine learning in general and not chemistry in general.
 
 Weights: 4 = highly specific ("retrosynthesis"), 3 = strong, 2 = supportive,
@@ -107,7 +107,7 @@ ML_TERMS: Dict[str, Tuple[int, str, str]] = {
     "multi-task learning": (2, "Multi-Task", "Machine Learning"),
     "federated learning": (2, "Federated Learning", "Machine Learning"),
     "in silico": (1, "In Silico", "Computational Chemistry"),
-    # statistical / chemometric era — data-driven chemistry before "ML" was
+    # statistical / chemometric era - data-driven chemistry before "ML" was
     # the standard label (Hammett-style parameterization, chemometrics)
     "chemometric": (4, "Chemometrics", "Chemometrics & Statistics"),
     "partial least squares": (3, "PLS", "Chemometrics & Statistics"),
@@ -261,7 +261,7 @@ CHEM_TERMS: Dict[str, Tuple[int, str, str]] = {
     "cross-coupling": (4, "Cross-Coupling", "Organic Chemistry"),
     "c-h activation": (4, "C-H Activation", "Organic Chemistry"),
     "natural product": (3, "Natural Products", "Organic Chemistry"),
-    # physical organic chemistry — the data-driven catalysis tradition
+    # physical organic chemistry - the data-driven catalysis tradition
     "hammett": (4, "Hammett Analysis", "Physical Organic Chemistry"),
     "linear free energy relationship": (4, "LFER", "Physical Organic Chemistry"),
     "free energy relationship": (4, "LFER", "Physical Organic Chemistry"),
@@ -276,7 +276,7 @@ CHEM_TERMS: Dict[str, Tuple[int, str, str]] = {
 }
 
 # ---------------------------------------------------------------------------
-# Negative signals — the paper's primary field is probably NOT chemistry
+# Negative signals - the paper's primary field is probably NOT chemistry
 # ---------------------------------------------------------------------------
 NEGATIVE_TERMS: Dict[str, int] = {
     # medicine / clinical
