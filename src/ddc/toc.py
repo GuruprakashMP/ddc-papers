@@ -197,6 +197,24 @@ def parse_feed(pub: str, data: bytes) -> Dict[str, str]:
     return out
 
 
+def describe_first_item(data: bytes) -> str:
+    """What the first item of a feed holds (element names, a little of each text), so a
+    feed in a format parse_feed does not read yet shows up in the run's log."""
+    try:
+        root = ET.fromstring(data)
+    except ET.ParseError as exc:
+        return f"not XML ({exc}): {data[:200]!r}"
+    for item in root.iter():
+        if _local(item.tag) in ("item", "entry"):
+            parts = []
+            for child in item:
+                text = (child.text or "").strip().replace("\n", " ")
+                attrs = " ".join(f"{k}={v}" for k, v in child.attrib.items())[:120]
+                parts.append(f"<{child.tag} {attrs}> {text[:160]}")
+            return " | ".join(parts)[:1500]
+    return f"no item; root <{root.tag}>, {len(data)} bytes"
+
+
 def _item_doi(pub: str, fields: Dict[str, List[str]]) -> str:
     for name in ("doi", "identifier", "guid", "link", "about"):
         for text in fields.get(name, []):
@@ -285,6 +303,10 @@ def update(papers: List[Paper], today: Optional[dt.date] = None) -> Dict[str, in
             continue
         stats[f"{pub} feeds read"] += 1
         stats[f"{pub} items with a graphic"] += len(items)
+        if not items and not stats[f"{pub} diagnosed"]:
+            stats[f"{pub} diagnosed"] += 1
+            log.info("toc: %s feed %s gave no DOI with a graphic; first item: %s",
+                     pub, url, describe_first_item(data))
         for doi, img in items.items():
             if doi not in indexed:
                 continue
