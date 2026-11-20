@@ -243,6 +243,19 @@ def _save(path: Path, data: dict) -> None:
                     encoding="utf-8")
 
 
+def _fetch_feed(pub: str, url: str) -> bytes:
+    headers = {"Accept": "application/rss+xml, application/xml, text/xml"}
+    try:
+        return http.get_bytes(url, headers=headers, retries=2)
+    except http.FetchError:
+        # feeds.rsc.org breaks off the HTTPS handshake from some networks (GitHub's
+        # runners included): try its plain-HTTP address once. Graphic URLs read from the
+        # feed are still accepted only as HTTPS on pubs.rsc.org (image_ok).
+        if pub != "RSC" or not url.startswith("https://feeds.rsc.org/"):
+            raise
+        return http.get_bytes("http://" + url[len("https://"):], headers=headers, retries=1)
+
+
 def update(papers: List[Paper], today: Optional[dt.date] = None) -> Dict[str, int]:
     """Read the feeds and record the TOC graphics of indexed papers. Returns counts."""
     today = today or dt.datetime.now(dt.timezone.utc).date()
@@ -260,8 +273,7 @@ def update(papers: List[Paper], today: Optional[dt.date] = None) -> Dict[str, in
         if i:
             time.sleep(PAUSE_SECONDS)
         try:
-            data = http.get_bytes(url, headers={"Accept": "application/rss+xml, application/xml, text/xml"},
-                                  retries=2)
+            data = _fetch_feed(pub, url)
             if len(data) > MAX_FEED_BYTES:
                 raise ValueError(f"{len(data)} bytes")
             items = parse_feed(pub, data)

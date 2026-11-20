@@ -117,6 +117,21 @@ class TestFeeds(unittest.TestCase):
         self.assertEqual(stats["RSC feeds failed"], 1)
         self.assertEqual(stats["Wiley graphics recorded"], 1)
 
+    def test_rsc_feed_retried_over_plain_http_once(self):
+        calls = []
+
+        def fake_get(url, **kw):
+            calls.append(url)
+            if url.startswith("https://"):
+                raise toc.http.FetchError("EOF")
+            return RDF
+        with mock.patch.object(toc.http, "get_bytes", side_effect=fake_get):
+            self.assertEqual(toc._fetch_feed("RSC", "https://feeds.rsc.org/rss/cc"), RDF)
+            with self.assertRaises(toc.http.FetchError):
+                toc._fetch_feed("ACS", "https://pubs.acs.org/action/showFeed?jc=jacsat")
+        self.assertEqual(calls, ["https://feeds.rsc.org/rss/cc", "http://feeds.rsc.org/rss/cc",
+                                 "https://pubs.acs.org/action/showFeed?jc=jacsat"])
+
     def _tmp(self):
         import tempfile
         d = tempfile.TemporaryDirectory()
