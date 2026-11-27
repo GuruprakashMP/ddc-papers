@@ -61,11 +61,17 @@ A paper is indexed only when it matches **both** sides of the core rule:
 * a **chemistry problem** (catalysis, synthesis, property prediction,
   spectroscopy, DFT, polymers, ...).
 
-Papers whose primary field is medicine, finance, generic computer vision/NLP,
-etc. are penalised and excluded. Every accepted paper gets a **relevance
-score** (0–100; ≥90 extremely relevant, ≥70 very relevant), multiple
-**categories**, and **tags** - see `src/ddc/keywords.py` to tune the
-vocabulary.
+Medicine, biology without small-molecule chemistry, engineering and physics
+outside chemistry, and papers that mention AI only in passing are excluded, as are
+records that are not papers (datasets, software, editorials, corrections, peer
+reviews). The title or abstract must name a data-driven method (strong words such as
+"machine learning" or "neural network"; weak ones such as "automated" or "dataset"
+need a higher model probability). A relevance model (`src/ddc/relevance.py`, weights
+in `relevance_model.json`) then decides from the title, abstract, journal and OpenAlex
+topic; it was trained on 4,722 papers labelled against these rules
+(`data/labels/gold.json`, cross-validated AUC 0.92). Against the labels, the model
+with the method rule has precision 0.89 and recall 0.78 ("unsure" counted as no). Each paper gets one **chemistry area** and its **data-driven
+methods** (`src/ddc/taxonomy.py`).
 
 ## Sources
 

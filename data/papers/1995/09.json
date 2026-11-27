@@ -1,31 +1,30 @@
 [
  {
-  "id": "9e55ff70ac9c0cf2",
-  "title": "Multiresolution pattern detector networks for controlling plasma etch reactors",
+  "id": "0c49445fd8fd8855",
+  "title": "Neural network models of potential energy surfaces",
   "authors": [
-   "Ronald L. Allen",
-   "Randy Moore",
-   "Mike Whelan"
+   "Thomas B. Blank",
+   "Steven D. Brown",
+   "August W. Calhoun",
+   "Douglas J. Doren"
   ],
-  "journal": "Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",
-  "publisher": "SPIE",
-  "published": "1995-09-19",
+  "journal": "The Journal of Chemical Physics",
+  "publisher": "AIP Publishing",
+  "published": "1995-09-08",
   "year": 1995,
-  "doi": "10.1117/12.221321",
-  "url": "https://doi.org/10.1117/12.221321",
-  "source": "openalex",
+  "doi": "10.1063/1.469597",
+  "url": "https://doi.org/10.1063/1.469597",
+  "source": "crossref",
   "categories": [
-   "Spectroscopy",
-   "Deep Learning"
+   "Computational Chemistry",
+   "Deep Learning",
+   "ML Potentials"
   ],
-  "tags": [
-   "Chemistry",
-   "Neural Network",
-   "Spectroscopy"
-  ],
-  "relevance_score": 40,
+  "tags": [],
+  "relevance_score": 87,
   "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-11-27",
+  "oa_abstract": "yes"
  },
  {
   "id": "fd31175e9403c885",
@@ -45,18 +44,16 @@
   "url": "https://doi.org/10.1021/jm00018a013",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 63,
+  "tags": [],
+  "relevance_score": 79,
   "affiliations": [
    "University College London"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "e0741fd21f4fbe55",
@@ -76,18 +73,16 @@
   "url": "https://doi.org/10.1016/0378-4274(95)03356-p",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 55,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "Pomona College"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "df9e81c49741ad4e",
@@ -107,17 +102,16 @@
   "url": "https://doi.org/10.1080/10629369508234003",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR"
-  ],
-  "relevance_score": 46,
+  "tags": [],
+  "relevance_score": 75,
   "affiliations": [
    "Environmental Protection Agency"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "d979c59322e33cdb",
@@ -138,19 +132,17 @@
   "url": "https://doi.org/10.1021/jm00019a017",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Machine Learning"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "Predictive Model",
-   "QSAR"
-  ],
-  "relevance_score": 62,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "Forschungs- und Beratungsstelle Arbeitswelt"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "d249d8074e858427",
@@ -167,22 +159,17 @@
   "url": "https://doi.org/10.1021/tx00048a005",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Ligands",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 78,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [
    "Research Triangle Park Foundation"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "99d8101f9df7466f",
@@ -196,14 +183,14 @@
   "url": "https://doi.org/10.1021/ac00113a734",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 42,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "948fec38c8b6f45a",
@@ -223,20 +210,19 @@
   "url": "https://doi.org/10.1080/10629369508234005",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR"
-  ],
-  "relevance_score": 46,
+  "tags": [],
+  "relevance_score": 100,
   "affiliations": [
    "European Commission",
    "Joint Research Centre",
    "GGD Haaglanden",
    "Environmental Protection Agency"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "8a58943f36e7616b",
@@ -262,62 +248,18 @@
   "url": "https://doi.org/10.1016/0378-4274(95)03365-r",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 61,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [
    "Environmental Protection Agency",
    "The University of Texas Medical Branch at Galveston",
    "General Department of Preventive Medicine"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "842dbe8fa82f3a6d",
-  "title": "Assessment of QSARS for Predicting Fate and Effects of Chemicals in the Environment: An International European Project",
-  "authors": [
-   "Joop L. M. Hermens",
-   "S. Balaz",
-   "Jiřı́ Damborský",
-   "W. Karcher",
-   "Martin Müller",
-   "Willie J.G.M. Peijnenburg",
-   "Aleksandar Sabljić",
-   "Michael Sjöstróm"
-  ],
-  "journal": "SAR and QSAR in environmental research",
-  "publisher": "Taylor & Francis",
-  "published": "1995-09-01",
-  "year": 1995,
-  "doi": "10.1080/10629369508234006",
-  "url": "https://doi.org/10.1080/10629369508234006",
-  "source": "openalex",
-  "categories": [
-   "Computational Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "Quantum Chemistry"
-  ],
-  "relevance_score": 58,
-  "affiliations": [
-   "Utrecht University",
-   "Slovak University of Technology in Bratislava",
-   "Masaryk University",
-   "Joint Research Centre",
-   "Fraunhofer Institute for Molecular Biology and Applied Ecology",
-   "National Institute for Public Health and the Environment",
-   "Umeå University"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "80804d6f48914d0d",
@@ -340,47 +282,17 @@
   "url": "https://doi.org/10.1021/jm00019a018",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 70,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "University of Lausanne"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "8072968d9d9d9e6d",
-  "title": "A QSAR study comparing the cytotoxicity and DNA topoisomerase II inhibitory effects of bisdioxopiperazine analogs of ICRF-187 (dexrazoxane)",
-  "authors": [
-   "Brian B. Hasinoff",
-   "Theodore I. Kuschak",
-   "Jack C. Yalowich",
-   "Andrew M. Creighton"
-  ],
-  "journal": "Biochemical Pharmacology",
-  "publisher": "Elsevier BV",
-  "published": "1995-09-01",
-  "year": 1995,
-  "doi": "10.1016/0006-2952(95)00218-o",
-  "url": "https://doi.org/10.1016/0006-2952(95)00218-o",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [
-   "University of Manitoba"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "60203d4aa46d6ca7",
@@ -397,47 +309,17 @@
   "url": "https://doi.org/10.1016/0378-4274(95)03367-t",
   "source": "openalex",
   "categories": [
-   "Physical Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "Thermodynamics"
-  ],
-  "relevance_score": 55,
+  "tags": [],
+  "relevance_score": 83,
   "affiliations": [
    "Carleton University",
    "Environment and Climate Change Canada"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "5511fa5a25f17245",
-  "title": "Adaptive resonance theory based neural networks ? the ?ART? of real-time pattern recognition in chemical process monitoring?",
-  "authors": [
-   "D. Wienke",
-   "L.M.C. Buydens"
-  ],
-  "journal": "TrAC Trends in Analytical Chemistry",
-  "publisher": "Elsevier BV",
-  "published": "1995-09-01",
-  "year": 1995,
-  "doi": "10.1016/0165-9936(95)90918-d",
-  "url": "https://doi.org/10.1016/0165-9936(95)90918-d",
-  "source": "openalex",
-  "categories": [
-   "Deep Learning"
-  ],
-  "tags": [
-   "Chemistry",
-   "Neural Network"
-  ],
-  "relevance_score": 50,
-  "affiliations": [
-   "Radboud University Nijmegen"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "29a1dfb8a3bf077d",
@@ -454,47 +336,16 @@
   "url": "https://doi.org/10.1080/10629369508234002",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 94,
   "affiliations": [
    "German Environment Agency"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "045e8410f6107c72",
-  "title": "Pentatomic cyclic agonists and muscarinic receptors: a 20 years review.",
-  "authors": [
-   "Piero Angeli"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "1995-09-01",
-  "year": 1995,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/7495467",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 51,
-  "affiliations": [
-   "Università di Camerino"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "0351e3cb3bcffccb",
@@ -513,18 +364,15 @@
   "url": "https://doi.org/10.1021/jm00020a002",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 63,
+  "tags": [],
+  "relevance_score": 91,
   "affiliations": [
    "Wilmington University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

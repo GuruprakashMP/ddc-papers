@@ -21,12 +21,26 @@ log = logging.getLogger(__name__)
 
 API = "https://api.openalex.org/works"
 
+# Data-driven methods, searched in titles and abstracts...
+_ML = ('("machine learning" OR "deep learning" OR "neural network" OR "artificial intelligence" '
+       'OR "data-driven" OR "bayesian optimization" OR "active learning" OR "random forest" '
+       'OR "gradient boosting" OR "graph neural" OR "language model" OR "generative model" '
+       'OR chemometric OR QSAR OR "partial least squares" OR "self-driving" OR "autonomous laboratory" '
+       'OR "interatomic potential" OR "high-throughput")')
+# ...in works whose OpenAlex topic is in a chemistry field (Chemistry, Materials Science,
+# Chemical Engineering, Pharmacology, Energy, Environmental Science), and in any field when
+# the text is also about chemistry. The relevance model then decides.
+CHEM_FIELDS = "16|25|15|30|21|23"
 SEARCHES = (
-    '"machine learning" chemistry',
-    '"deep learning" catalysis',
-    '"neural network" molecular property',
-    '"machine learning" reaction prediction',
+    f"primary_topic.field.id:{CHEM_FIELDS},title_and_abstract.search:{_ML}",
+    'title_and_abstract.search:("machine learning" OR "deep learning" OR "neural network" OR '
+    '"graph neural" OR "language model" OR "generative model") AND (molecule OR molecular OR '
+    'chemical OR chemistry OR catalyst OR catalysis OR reaction OR spectroscopy OR electrolyte '
+    'OR polymer OR "drug discovery")',
 )
+WINDOW_DAYS = 14   # papers reach OpenAlex days after their publication date: look back this far
+FIELDS = ("id,doi,display_name,authorships,primary_location,publication_date,type,"
+          "primary_topic,abstract_inverted_index")
 
 # Transparent-peer-review reports get their own DOIs (e.g.
 # 10.1039/d3sc02440g/v1/review1) and OpenAlex serves them as works.
@@ -40,25 +54,28 @@ class OpenAlexCollector(Collector):
 
     def fetch(self, since: dt.date, limit: int) -> List[RawRecord]:
         contact = Settings.load().contact_email
-        per_page = min(100, max(25, limit // len(SEARCHES)))
+        since = min(since, dt.date.today() - dt.timedelta(days=WINDOW_DAYS))
         records: List[RawRecord] = []
         for search in SEARCHES:
-            try:
-                data = http.get_json(API, {
-                    "filter": f"from_publication_date:{since.isoformat()},"
-                              f"title_and_abstract.search:{search}",
-                    "per-page": per_page,
-                    "sort": "publication_date:desc",
-                    "mailto": contact or None,
-                })
-            except http.FetchError as exc:
-                log.warning("OpenAlex query failed (%s): %s", search, exc)
-                continue
-            for work in data.get("results") or []:
-                record = work_to_record(work, self.name)
-                if record:
-                    records.append(record)
-            time.sleep(0.5)
+            cursor, got = "*", 0
+            while cursor and got < limit:
+                try:
+                    data = http.get_json(API, {
+                        "filter": f"from_publication_date:{since.isoformat()},{search}",
+                        "per-page": 200, "cursor": cursor, "select": FIELDS,
+                        "mailto": contact or None,
+                    })
+                except http.FetchError as exc:
+                    log.warning("OpenAlex query failed (%s): %s", search[:60], exc)
+                    break
+                results = data.get("results") or []
+                for work in results:
+                    record = work_to_record(work, self.name)
+                    if record:
+                        records.append(record)
+                got += len(results)
+                cursor = (data.get("meta") or {}).get("next_cursor") if results else None
+                time.sleep(0.3)
         return records
 
 
@@ -90,6 +107,8 @@ def work_to_record(work: dict, source: str) -> RawRecord:
     if journal and "OSTI OAI" in journal and doi and not doi.startswith("10.2172"):
         return None
     url = work.get("doi") or location.get("landing_page_url") or ""
+    topic = work.get("primary_topic") or {}
+    inverted = work.get("abstract_inverted_index")
     return RawRecord(
         title=title,
         abstract=_reconstruct_abstract(work.get("abstract_inverted_index")),
@@ -101,6 +120,11 @@ def work_to_record(work: dict, source: str) -> RawRecord:
         published=(work.get("publication_date") or "")[:10],
         affiliations=affiliations[:10],
         source=source,
+        oa_type=work.get("type") or "",
+        oa_field=" / ".join(x for x in ((topic.get("field") or {}).get("display_name"),
+                                        (topic.get("subfield") or {}).get("display_name")) if x),
+        oa_topic=topic.get("display_name") or "",
+        oa_abstract=("yes" if inverted else "no") if "abstract_inverted_index" in work else "",
     )
 
 

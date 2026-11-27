@@ -16,19 +16,17 @@
   "url": "https://doi.org/10.1021/ci980228u",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 63,
+  "tags": [],
+  "relevance_score": 85,
   "affiliations": [
    "Istituto Superiore di Sanità",
    "Sigma Tau (Italy)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "1678eb6be054ff19",
@@ -46,19 +44,17 @@
   "url": "https://doi.org/10.1021/jm980527a",
   "source": "openalex",
   "categories": [
-   "Machine Learning",
+   "Molecular Properties & Design",
+   "Classical ML",
    "Deep Learning"
   ],
-  "tags": [
-   "Machine Learning",
-   "Molecules",
-   "Neural Network"
-  ],
-  "relevance_score": 61,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "Metacomp Technologies (United States)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "ba123d4e2f32b5f0",
@@ -76,18 +72,16 @@
   "url": "https://doi.org/10.1021/ci9803379",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 57,
+  "tags": [],
+  "relevance_score": 80,
   "affiliations": [
    "University of Oxford"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "8deed5273a93686d",
@@ -104,53 +98,17 @@
   "url": "https://doi.org/10.1021/ci980211b",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "PCA",
-   "QSAR",
-   "QSPR",
-   "Statistical Modeling"
-  ],
-  "relevance_score": 78,
+  "tags": [],
+  "relevance_score": 70,
   "affiliations": [
    "Italfarmaco (Italy)"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "402892d075e30530",
-  "title": "ChemInform Abstract: Inhibition of Monoamine Oxidase by Pirlindole Analogues: 3D‐QSAR and CoMFA Analysis.",
-  "authors": [
-   "A. E. Medvedev",
-   "Alexander V. Veselovsky",
-   "V. I. Shvedov",
-   "Olga V. Tikhonova",
-   "T. A. Moskvitina",
-   "О. А. Федотова",
-   "L. N. Axenova",
-   "N. S. Kamyshanskaya",
-   "A Z Kirkel",
-   "Ivanov As"
-  ],
-  "journal": "ChemInform",
-  "publisher": "Wiley",
-  "published": "1999-04-13",
-  "year": 1999,
-  "doi": "10.1002/chin.199915284",
-  "url": "https://doi.org/10.1002/chin.199915284",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "58b5ced986eac3a2",
@@ -170,93 +128,17 @@
   "url": "https://doi.org/10.1021/jm980556l",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Ligands",
-   "Molecules",
-   "PLS",
-   "QSAR"
-  ],
-  "relevance_score": 75,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [
    "University of Alabama at Birmingham"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "ec3a31c67b226e1d",
-  "title": "Computational ligand design.",
-  "authors": [
-   "Joannis Apostolakis",
-   "Amedeo Caflisch"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "1999-04-01",
-  "year": 1999,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/10420978",
-  "source": "openalex",
-  "categories": [
-   "Catalysis",
-   "Drug Discovery Chemistry",
-   "Computational Chemistry",
-   "Cheminformatics",
-   "High-Throughput & Autonomous",
-   "Deep Learning",
-   "Optimization",
-   "Classical ML"
-  ],
-  "tags": [
-   "Clustering",
-   "Docking",
-   "Genetic Algorithm",
-   "High-Throughput",
-   "Ligands",
-   "Molecular Dynamics",
-   "Molecules",
-   "Neural Network",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 96,
-  "affiliations": [
-   "University of Zurich"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "e4a8da19e29c3c93",
-  "title": "Acute/chronic ratios to estimate chronic toxicity from acute data",
-  "authors": [
-   "Liping Wei",
-   "Wen-Hua Zhang",
-   "Shuokui Han",
-   "Liansheng Wang",
-   "Yuanhui Zhao"
-  ],
-  "journal": "Toxicological & Environmental Chemistry Reviews",
-  "publisher": "Taylor & Francis",
-  "published": "1999-04-01",
-  "year": 1999,
-  "doi": "10.1080/02772249909358720",
-  "url": "https://doi.org/10.1080/02772249909358720",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 48,
-  "affiliations": [
-   "State Key Laboratory of Pollution Control and Resource Reuse",
-   "Nanjing University"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "d8564375857d6449",
@@ -275,18 +157,18 @@
   "url": "https://doi.org/10.1023/a:1022029129364",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 94,
   "affiliations": [
    "Xavier University of Louisiana",
    "University of New Orleans"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "6d8e339e8894a406",
@@ -304,17 +186,16 @@
   "url": "https://doi.org/10.1016/s0169-7439(98)00154-3",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "PLS",
-   "QSAR"
-  ],
-  "relevance_score": 68,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "Toyohashi University of Technology"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  }
 ]

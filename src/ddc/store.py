@@ -20,6 +20,7 @@ from .settings import PAPERS_DIR, STATE_DIR
 log = logging.getLogger(__name__)
 
 SEEN_FILE = STATE_DIR / "seen.json"
+REJECTED_FILE = STATE_DIR / "rejected.json"
 
 
 def _month_file(year: int, month: int) -> Path:
@@ -91,6 +92,38 @@ class PaperStore:
 
     def save_seen(self, seen: Dict[str, str]) -> None:
         _write_json(SEEN_FILE, seen)
+
+    # -- records turned down recently (not judged again while the collectors still see them)
+
+    def load_rejected(self) -> Dict[str, str]:
+        try:
+            data = json.loads(REJECTED_FILE.read_text(encoding="utf-8"))
+            return data if isinstance(data, dict) else {}
+        except (OSError, ValueError):
+            return {}
+
+    def save_rejected(self, rejected: Dict[str, str], keep_days: int = 60) -> None:
+        import datetime as dt
+        cutoff = (dt.date.today() - dt.timedelta(days=keep_days)).isoformat()
+        _write_json(REJECTED_FILE, {k: v for k, v in rejected.items() if v >= cutoff})
+
+    def rewrite(self, papers: Iterable[Paper]) -> int:
+        """Replace the whole store with ``papers`` (a rescreen): every monthly shard is
+        rewritten, and a shard left empty is deleted. The seen keys are not touched, so a
+        paper taken out is not collected again. Returns the number of papers written."""
+        by_month: Dict[Path, List[dict]] = defaultdict(list)
+        for paper in papers:
+            year, month = _parse_year_month(paper.published, paper.year)
+            by_month[_month_file(year, month)].append(paper.to_dict())
+        n = 0
+        for shard in PAPERS_DIR.glob("*/*.json"):
+            if shard not in by_month:
+                shard.unlink()
+        for shard, rows in by_month.items():
+            rows.sort(key=lambda d: (d.get("published") or "", d.get("id")), reverse=True)
+            _write_json(shard, rows)
+            n += len(rows)
+        return n
 
     def rebuild_seen(self) -> Dict[str, str]:
         """Reconstruct the seen-set from stored papers (recovery path)."""

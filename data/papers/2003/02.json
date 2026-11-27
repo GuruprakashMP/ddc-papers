@@ -14,44 +14,17 @@
   "url": "https://doi.org/10.1021/jf0207981",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Analytical Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Catalysis",
-   "Chromatography",
-   "QSAR"
-  ],
-  "relevance_score": 76,
+  "tags": [],
+  "relevance_score": 66,
   "affiliations": [
    "Université de Bourgogne"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "1e952b6b58862eed",
-  "title": "QSARs for Individual Classes of Chemical Mutagens and Carcinogens",
-  "authors": [
-   "Laura Passerini"
-  ],
-  "journal": "",
-  "publisher": "",
-  "published": "2003-02-26",
-  "year": 2003,
-  "doi": "10.1201/9780203010822.ch3",
-  "url": "https://doi.org/10.1201/9780203010822.ch3",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "QSAR"
-  ],
-  "relevance_score": 46,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "b761e079de7db8ac",
@@ -69,25 +42,17 @@
   "url": "https://doi.org/10.1002/3527602712.ch7",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Polymer Chemistry",
-   "Reaction Prediction",
-   "Cheminformatics"
+   "Computational Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Macromolecules",
-   "Medicinal Chemistry",
-   "Molecules",
-   "QSAR",
-   "Reactivity"
-  ],
-  "relevance_score": 78,
+  "tags": [],
+  "relevance_score": 66,
   "affiliations": [
    "McMaster University",
    "University of California, San Francisco"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "405049be21da4b75",
@@ -106,21 +71,19 @@
   "url": "https://doi.org/10.1021/jm020269o",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
+   "Drug Discovery",
    "Classical ML",
-   "Deep Learning"
+   "Deep Learning",
+   "Chemometrics"
   ],
-  "tags": [
-   "Neural Network",
-   "QSAR",
-   "kNN"
-  ],
-  "relevance_score": 68,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "Pennsylvania State University",
    "University of California, Davis"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "e909e9c713916194",
@@ -141,84 +104,17 @@
   "url": "https://doi.org/10.1021/tx020103q",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Physical Organic Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Hammett Analysis",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 76,
+  "tags": [],
+  "relevance_score": 64,
   "affiliations": [
    "Pomona College",
    "Reed College"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "8821d4eba76e4adb",
-  "title": "Discriminating Redox Cycling and Arylation Pathways of Reactive Chemical Toxicity in Trout Hepatocytes",
-  "authors": [
-   "P. Schmieder"
-  ],
-  "journal": "Toxicological Sciences",
-  "publisher": "Oxford University Press",
-  "published": "2003-02-18",
-  "year": 2003,
-  "doi": "10.1093/toxsci/kfg016",
-  "url": "https://doi.org/10.1093/toxsci/kfg016",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Reaction Prediction",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "Reactivity",
-   "SAR"
-  ],
-  "relevance_score": 63,
-  "affiliations": [
-   "Environmental Protection Agency"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "34ae93a145553dba",
-  "title": "Reply",
-  "authors": [
-   "Pietro Sartorelli"
-  ],
-  "journal": "The Annals of Occupational Hygiene",
-  "publisher": "Oxford University Press",
-  "published": "2003-02-11",
-  "year": 2003,
-  "doi": "10.1093/annhyg/meg020",
-  "url": "https://doi.org/10.1093/annhyg/meg020",
-  "source": "openalex",
-  "categories": [
-   "Property Prediction",
-   "Physical Chemistry",
-   "Cheminformatics",
-   "Machine Learning"
-  ],
-  "tags": [
-   "Chemistry",
-   "Predictive Model",
-   "QSAR",
-   "Solubility",
-   "Solvents",
-   "Thermodynamics"
-  ],
-  "relevance_score": 68,
-  "affiliations": [
-   "University of Siena"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "1bea860778fd2f4d",
@@ -235,17 +131,17 @@
   "url": "https://doi.org/10.1021/ci020038q",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 54,
+  "tags": [],
+  "relevance_score": 94,
   "affiliations": [
    "University of Silesia in Katowice"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "feb648a912fd6338",
@@ -266,51 +162,16 @@
   "url": "https://doi.org/10.1289/ehp.5759",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 82,
   "affiliations": [
    "Liverpool John Moores University"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "45dc874abba1eaea",
-  "title": "A QSAR Model of PAHs Carcinogenesis Based on Thermodynamic Stabilities of Biactive Sites",
-  "authors": [
-   "Zhigang Zhou",
-   "Qianhuan Dai",
-   "Tong Gu"
-  ],
-  "journal": "Journal of Chemical Information and Computer Sciences",
-  "publisher": "American Chemical Society",
-  "published": "2003-02-06",
-  "year": 2003,
-  "doi": "10.1021/ci0256135",
-  "url": "https://doi.org/10.1021/ci0256135",
-  "source": "openalex",
-  "categories": [
-   "Physical Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "Thermodynamics"
-  ],
-  "relevance_score": 64,
-  "affiliations": [
-   "Duquesne University",
-   "Peking University",
-   "Beijing Polytechnic"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "73eaa6e5910e48db",
@@ -331,19 +192,16 @@
   "url": "https://doi.org/10.1289/ehp.5760",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 100,
   "affiliations": [
    "Liverpool John Moores University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "cdce7c0bfb4b3f91",
@@ -364,18 +222,16 @@
   "url": "https://doi.org/10.1289/ehp.5758",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "AI Methods & Tools",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 100,
   "affiliations": [
    "Umeå University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "da015de2d3fe68a3",
@@ -391,16 +247,16 @@
   "url": "https://doi.org/10.1023/a:1025322008290",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 87,
   "affiliations": [
    "Pomona College"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "c7e4c168a4959df1",
@@ -417,16 +273,14 @@
   "url": "https://doi.org/10.1023/a:1025338411016",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
+   "Drug Discovery",
    "Classical ML"
   ],
-  "tags": [
-   "QSAR",
-   "kNN"
-  ],
-  "relevance_score": 64,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "a9333bb59e761cf5",
@@ -445,17 +299,16 @@
   "url": "https://doi.org/10.1016/s0223-5234(02)01419-8",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 87,
   "affiliations": [
    "Universidade Federal de Minas Gerais"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "9eaf6618a176bc42",
@@ -473,17 +326,18 @@
   "url": "https://doi.org/10.1023/a:1025309604656",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 90,
   "affiliations": [
    "Eastern Nazarene College",
    "Virginia Commonwealth University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "97ef733c8ce874cb",
@@ -502,45 +356,16 @@
   "url": "https://doi.org/10.1016/s0960-894x(02)00953-8",
   "source": "openalex",
   "categories": [
-   "Property Prediction",
-   "Physical Chemistry",
-   "Cheminformatics"
+   "Molecular Properties & Design",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR",
-   "Solubility",
-   "Solvents"
-  ],
-  "relevance_score": 73,
+  "tags": [],
+  "relevance_score": 80,
   "affiliations": [
    "Devi Ahilya Vishwavidyalaya"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "6118093894607d1c",
-  "title": "In silico prediction of drug toxicity",
-  "authors": [
-   "John C. Dearden"
-  ],
-  "journal": "Journal of Computer-Aided Molecular Design",
-  "publisher": "Springer Science+Business Media",
-  "published": "2003-02-01",
-  "year": 2003,
-  "doi": "10.1023/a:1025361621494",
-  "url": "https://doi.org/10.1023/a:1025361621494",
-  "source": "openalex",
-  "categories": [
-   "Computational Chemistry"
-  ],
-  "tags": [
-   "In Silico"
-  ],
-  "relevance_score": 40,
-  "affiliations": [
-   "Liverpool John Moores University"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "53c4039db1a89588",
@@ -559,16 +384,17 @@
   "url": "https://doi.org/10.1016/s0968-0896(02)00382-6",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "Pomona College"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "2c9825173132745d",
@@ -586,17 +412,17 @@
   "url": "https://doi.org/10.1023/a:1025365722403",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [
    "Allogene Therapeutics (United States)",
    "University of Exeter"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "1f7475c4e7178d80",
@@ -617,15 +443,15 @@
   "url": "https://doi.org/10.1023/a:1025386326946",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [
    "University of North Carolina at Chapel Hill"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  }
 ]

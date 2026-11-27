@@ -14,22 +14,17 @@
   "url": "https://doi.org/10.1002/(sici)1096-9926(199606)53:6<352::aid-tera6>3.0.co;2-1",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Property Prediction",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR",
-   "SAR",
-   "pKa"
-  ],
-  "relevance_score": 63,
+  "tags": [],
+  "relevance_score": 85,
   "affiliations": [
    "Environmental Protection Agency",
    "Research Triangle Park Foundation"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "b4dee7084808f980",
@@ -49,78 +44,17 @@
   "url": "https://doi.org/10.1002/etc.5620150625",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Computational Chemistry",
-   "Reaction Prediction",
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "Quantum Chemistry",
-   "Reactivity",
-   "SAR",
-   "Transition States"
-  ],
-  "relevance_score": 78,
+  "tags": [],
+  "relevance_score": 92,
   "affiliations": [
    "Utrecht University",
    "Radboud University Nijmegen"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "929cb54615b1b896",
-  "title": "Structural optimization of Lennard-Jones clusters by a genetic algorithm",
-  "authors": [
-   "D.M. Daven",
-   "N. Tit",
-   "J.R. Morris",
-   "K.M. Ho"
-  ],
-  "journal": "Chemical Physics Letters",
-  "publisher": "Elsevier BV",
-  "published": "1996-06-01",
-  "year": 1996,
-  "doi": "10.1016/0009-2614(96)00406-x",
-  "url": "https://doi.org/10.1016/0009-2614(96)00406-x",
-  "source": "crossref",
-  "categories": [
-   "Optimization"
-  ],
-  "tags": [
-   "Genetic Algorithm"
-  ],
-  "relevance_score": 44,
-  "affiliations": [],
-  "added": "2026-10-06"
- },
- {
-  "id": "84263e13ad45b7e3",
-  "title": "Fast intelligent battery charging: neural-fuzzy approach",
-  "authors": [
-   "Zahid Ullah",
-   "Brian Burford",
-   "S. Dillip"
-  ],
-  "journal": "IEEE Aerospace and Electronic Systems Magazine",
-  "publisher": "Institute of Electrical and Electronics Engineers",
-  "published": "1996-06-01",
-  "year": 1996,
-  "doi": "10.1109/62.500207",
-  "url": "https://doi.org/10.1109/62.500207",
-  "source": "openalex",
-  "categories": [
-   "Electrochemistry & Batteries",
-   "Deep Learning"
-  ],
-  "tags": [
-   "Batteries",
-   "Neural Network"
-  ],
-  "relevance_score": 40,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "75bb5f50b7a6b9f5",
@@ -143,21 +77,18 @@
   "url": "https://doi.org/10.1002/etc.5620150617",
   "source": "openalex",
   "categories": [
-   "Analytical Chemistry",
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chromatography",
-   "PLS",
-   "QSAR"
-  ],
-  "relevance_score": 69,
+  "tags": [],
+  "relevance_score": 90,
   "affiliations": [
    "Umeå University",
    "Swedish University of Agricultural Sciences"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "3a39f70646d8ff8f",
@@ -175,50 +106,17 @@
   "url": "https://doi.org/10.1080/10629369608031710",
   "source": "openalex",
   "categories": [
-   "Property Prediction",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "pKa"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 79,
   "affiliations": [
    "Knoxville College",
    "University of Tennessee at Knoxville",
    "Oak Ridge National Laboratory"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "2806ce5ee3cdfb4b",
-  "title": "Validation of In Vitro Tests in Neurotoxicology",
-  "authors": [
-   "Iain C. Campbell",
-   "Lynda Fletcher",
-   "Paul A.A. Grant",
-   "Elizabeth M. Abdulla"
-  ],
-  "journal": "Alternatives to Laboratory Animals",
-  "publisher": "SAGE Publishing",
-  "published": "1996-06-01",
-  "year": 1996,
-  "doi": "10.1177/026119299602400307",
-  "url": "https://doi.org/10.1177/026119299602400307",
-  "source": "openalex",
-  "categories": [
-   "Electrochemistry & Batteries",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Batteries",
-   "QSAR"
-  ],
-  "relevance_score": 45,
-  "affiliations": [
-   "Psychiatry Research Trust"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

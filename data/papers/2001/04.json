@@ -16,19 +16,16 @@
   "url": "https://doi.org/10.1021/jm0100133",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Docking",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 67,
+  "tags": [],
+  "relevance_score": 81,
   "affiliations": [
    "University of Perugia"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "bc51cbcf11b75fd1",
@@ -44,18 +41,16 @@
   "url": "https://doi.org/10.1021/ci000459c",
   "source": "openalex",
   "categories": [
-   "Bayesian Optimization",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Gaussian Process",
-   "QSAR"
-  ],
-  "relevance_score": 64,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "Monash University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "4ec2d32811cec15b",
@@ -76,22 +71,19 @@
   "url": "https://doi.org/10.1021/ci000058x",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Catalysis",
-   "Chemistry",
-   "Ligands",
-   "QSAR"
-  ],
-  "relevance_score": 79,
+  "tags": [],
+  "relevance_score": 88,
   "affiliations": [
    "Normandie Université",
    "Centre d'Etudes et de Recherche sur le Médicament de Normandie",
    "Université de Caen Normandie"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "4bc5f7ed3ecc6438",
@@ -108,57 +100,17 @@
   "url": "https://doi.org/10.1021/ci0004661",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "PLS",
-   "QSAR"
-  ],
-  "relevance_score": 66,
+  "tags": [],
+  "relevance_score": 78,
   "affiliations": [
    "University of Manchester"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "515a801cada63168",
-  "title": "Quantitative Structure-Activity Relationship (QSAR) Study of New Fluorovinyloxyacetamides",
-  "authors": [
-   "Doo Ho Cho",
-   "Sung Kwang Lee",
-   "Bum-Tae Kim",
-   "Kyoung Tai No"
-  ],
-  "journal": "Bulletin of the Korean Chemical Society",
-  "publisher": "Wiley",
-  "published": "2001-04-20",
-  "year": 2001,
-  "doi": "",
-  "url": "http://www.koreascience.or.kr:80/article/JAKO200113464478403.pdf",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Property Prediction",
-   "Cheminformatics",
-   "Optimization"
-  ],
-  "tags": [
-   "Chemistry",
-   "Dipole Moment",
-   "Genetic Algorithm",
-   "LogP",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 90,
-  "affiliations": [
-   "Soongsil University",
-   "Korea Research Institute of Chemical Technology"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "580b21d053e1b2fd",
@@ -177,56 +129,21 @@
   "url": "https://doi.org/10.1021/ci000072+",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Chemometrics & Statistics",
-   "Deep Learning"
+   "Drug Discovery",
+   "Classical ML",
+   "Deep Learning",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Neural Network",
-   "PCA",
-   "QSAR"
-  ],
-  "relevance_score": 71,
+  "tags": [],
+  "relevance_score": 93,
   "affiliations": [
    "National Institutes of Health",
    "University of Minnesota",
    "Amgen (United States)",
    "National Cancer Institute"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "6a76781eb7511a09",
-  "title": "On Use of the Variable Connectivity Index 1 χ f in QSAR: Toxicity of Aliphatic Ethers",
-  "authors": [
-   "Milan Randić",
-   "Subhash C. Basak"
-  ],
-  "journal": "Journal of Chemical Information and Computer Sciences",
-  "publisher": "American Chemical Society",
-  "published": "2001-04-07",
-  "year": 2001,
-  "doi": "10.1021/ci000114u",
-  "url": "https://doi.org/10.1021/ci000114u",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Descriptors",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 70,
-  "affiliations": [
-   "University of Minnesota",
-   "Iowa State University",
-   "Ames National Laboratory",
-   "National Institute of Chemistry",
-   "Drake University"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "b53f0a868f64b0d6",
@@ -245,23 +162,18 @@
   "url": "https://doi.org/10.1021/ci000333f",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Chemometrics & Statistics",
-   "Classical ML"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Clustering",
-   "Descriptors",
-   "Molecules",
-   "PCA",
-   "QSAR"
-  ],
-  "relevance_score": 75,
+  "tags": [],
+  "relevance_score": 88,
   "affiliations": [
    "Tokyo Institute of Technology",
    "University of Zurich"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "c41d6657c265854f",
@@ -279,49 +191,17 @@
   "url": "https://doi.org/10.1080/10629360108035373",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Catalysis",
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Ligands",
-   "Molecules",
-   "PLS",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 78,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "Texas A&M University at Galveston"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "ab65712f3f209dca",
-  "title": "QSAR models for estimating properties of persistent organic pollutants required in evaluation of their environmental fate and risk",
-  "authors": [
-   "Aleksandar Sabljić"
-  ],
-  "journal": "Chemosphere",
-  "publisher": "Elsevier BV",
-  "published": "2001-04-01",
-  "year": 2001,
-  "doi": "10.1016/s0045-6535(00)00084-9",
-  "url": "https://doi.org/10.1016/s0045-6535(00)00084-9",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [
-   "Rudjer Boskovic Institute"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "9ec8d744274fe176",
@@ -339,47 +219,16 @@
   "url": "https://doi.org/10.1080/10629360108035368",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Molecular Properties & Design",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "QSAR",
-   "QSPR",
-   "Virtual Screening"
-  ],
-  "relevance_score": 66,
+  "tags": [],
+  "relevance_score": 72,
   "affiliations": [
    "Texas A&M University at Galveston"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "98fb7e1fd4e434d0",
-  "title": "Orbital Symmetry in QSAR: Some Schiff's Base Inhibitors of Carbonic Anhydrase",
-  "authors": [
-   "Claudiu T. Supuran",
-   "B.W. Clare"
-  ],
-  "journal": "SAR and QSAR in environmental research",
-  "publisher": "Taylor & Francis",
-  "published": "2001-04-01",
-  "year": 2001,
-  "doi": "10.1080/10629360108035369",
-  "url": "https://doi.org/10.1080/10629360108035369",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 46,
-  "affiliations": [
-   "The University of Western Australia"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "85c989e779b25746",
@@ -396,16 +245,17 @@
   "url": "https://doi.org/10.1016/s0166-1280(00)00794-6",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "Universidade Estadual de Campinas (UNICAMP)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "7802b2d27379ab97",
@@ -424,49 +274,19 @@
   "url": "https://doi.org/10.1080/10629360108035372",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "PLS",
-   "QSAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 85,
   "affiliations": [
    "AstraZeneca (Sweden)",
    "West University of Timişoara",
    "Romanian Academy"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "52502d1921fd1ebf",
-  "title": "COMBINE Analysis of Nuclear Receptor-DNA Binding Specificity: Comparison of Two Sets of Data",
-  "authors": [
-   "Sanja Tomić",
-   "Rebecca C. Wade"
-  ],
-  "journal": "Institutional Repository of the Ruđer Bošković Institute (Ruđer Bošković Institute)",
-  "publisher": "Ruđer Bošković Institute",
-  "published": "2001-04-01",
-  "year": 2001,
-  "doi": "",
-  "url": "http://fulir.irb.hr/990/",
-  "source": "openalex",
-  "categories": [
-   "Computational Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Binding Energy",
-   "QSAR"
-  ],
-  "relevance_score": 42,
-  "affiliations": [
-   "Ruđer Bošković Institute"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "4309f83709b2b62f",
@@ -494,83 +314,18 @@
   "url": "https://doi.org/10.1016/s0968-0896(00)00322-9",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Ligands",
-   "QSAR"
-  ],
-  "relevance_score": 64,
+  "tags": [],
+  "relevance_score": 92,
   "affiliations": [
    "University of Parma",
    "University of Urbino",
    "University of Milan"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "3a8f7482f1e835eb",
-  "title": "Assessment of chloroaniline toxicity by the submitochondrial particle assay",
-  "authors": [
-   "Emanuele Argese",
-   "Cinzia Bettiol",
-   "Francesca Agnoli",
-   "Alfonso Zambon",
-   "Martina Mazzola",
-   "Annamaria Volpi Ghirardini"
-  ],
-  "journal": "Environmental Toxicology and Chemistry",
-  "publisher": "Wiley",
-  "published": "2001-04-01",
-  "year": 2001,
-  "doi": "10.1002/etc.5620200418",
-  "url": "https://doi.org/10.1002/etc.5620200418",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "Descriptors",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 78,
-  "affiliations": [
-   "Ca' Foscari University of Venice"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "2fbeeffb44efd2dc",
-  "title": "Thermodynamic aspects of hydrophobicity and biological QSAR",
-  "authors": [
-   "Ki H. Kim"
-  ],
-  "journal": "Journal of Computer-Aided Molecular Design",
-  "publisher": "Springer Science+Business Media",
-  "published": "2001-04-01",
-  "year": 2001,
-  "doi": "10.1023/a:1011163527770",
-  "url": "https://doi.org/10.1023/a:1011163527770",
-  "source": "openalex",
-  "categories": [
-   "Physical Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR",
-   "Thermodynamics"
-  ],
-  "relevance_score": 61,
-  "affiliations": [
-   "Abbott (United Kingdom)",
-   "Abbott Fund"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "297577da28a27f90",
@@ -588,48 +343,14 @@
   "url": "https://doi.org/10.1016/s0045-6535(00)00156-9",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [],
-  "added": "2026-07-21"
- },
- {
-  "id": "2186f147f40c076f",
-  "title": "Data Mining of Toxic Chemicals and Database-Based Toxicity Prediction",
-  "authors": [
-   "Jiansuo Wang",
-   "Lai Lu-Hua"
-  ],
-  "journal": "",
-  "publisher": "",
-  "published": "2001-04-01",
-  "year": 2001,
-  "doi": "",
-  "url": "",
-  "source": "openalex",
-  "categories": [
-   "Property Prediction",
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
+   "Drug Discovery",
    "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Clustering",
-   "Drug Discovery",
-   "Molecules",
-   "QSAR",
-   "Toxicity"
-  ],
-  "relevance_score": 73,
-  "affiliations": [
-   "Peking University"
-  ],
-  "added": "2026-07-21"
+  "tags": [],
+  "relevance_score": 84,
+  "affiliations": [],
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "184a4d7b44f56b2c",
@@ -648,17 +369,17 @@
   "url": "https://doi.org/10.1002/jccs.200100041",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 88,
   "affiliations": [
    "Chongqing University",
    "University of Science and Technology of China"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

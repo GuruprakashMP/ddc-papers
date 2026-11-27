@@ -47,6 +47,11 @@ def main(argv=None) -> int:
     p_back.add_argument("--no-site", action="store_true",
                         help="skip site rebuild at the end")
 
+    p_re = sub.add_parser("rescreen", help="judge every stored paper again with the current model")
+    p_re.add_argument("--meta", required=True, help="JSON lines of OpenAlex details by paper id")
+    p_re.add_argument("--labels", default="", help="hand labels by paper id (they win)")
+    p_re.add_argument("--dry-run", action="store_true")
+
     sub.add_parser("build", help="rebuild the website from stored data")
     sub.add_parser("toc", help="read the journals' RSS feeds for TOC graphics, then rebuild")
     sub.add_parser("stats", help="print index statistics")
@@ -80,6 +85,14 @@ def main(argv=None) -> int:
         from .toc import update
         print(update(PaperStore().load_all()))
         generate_site(Settings.load())
+        return 0
+
+    if args.command == "rescreen":
+        from pathlib import Path
+        from .rescreen import rescreen
+        report = rescreen(Path(args.meta), Path(args.labels) if args.labels else None, args.dry_run)
+        for k, v in sorted(report.items()):
+            print(f"{k:45s} {v:,}")
         return 0
 
     if args.command == "build":

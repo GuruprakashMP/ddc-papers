@@ -11,7 +11,7 @@ collect (8 sources, isolated)
    ↓
 deduplicate  (DOI key + normalized-title key, persisted in seen.json)
    ↓
-classify     (keyword model → accept/reject, score, categories, tags)
+classify     (OpenAlex details by DOI → rules → relevance model → area + methods)
    ↓
 store        (JSON shards data/papers/YYYY/MM.json)
    ↓
@@ -42,15 +42,22 @@ Abstracts are fetched for classification but **never written to disk** -
 `Paper` has no abstract field by design. This eliminates copyright risk while
 keeping classification quality high.
 
-### Keyword classifier, not an LLM
-`keywords.py` + `classify.py` implement a weighted vocabulary model:
-ML terms × chemistry terms, with negative terms for off-domain fields
-(medicine, finance, generic CS) and a bonus for chemistry venues.
-**Why:** free, instant, deterministic, fully explainable, tunable by editing
-one file - and it needs no API key, so automation can never silently stop.
-Score shape: `20 + 4·min(ml,10) + 3·min(chem,12) + venue − penalties`,
-clamped to 0–100; acceptance requires evidence on *both* sides plus the
-configurable `min_relevance_score` (default 40).
+### Trained relevance model, run with the standard library
+`relevance.py` first applies rules (a DOI or arXiv identifier is required; OpenAlex
+types that are not research, and titles such as "Correction to", are refused), then
+a logistic regression over TF-IDF features of title, abstract, journal and OpenAlex
+type and topic. The categorizer picks one area (multinomial model) and the methods
+(names in the text, plus a per-method model). Weights are JSON files next to the
+module, trained by `tools/train_models.py` (scikit-learn, development only) from
+`data/labels/gold.json`. **Why:** a keyword score let through about 44% off-topic
+papers (measured on a labelled sample of the store); the model is measured on the
+same labels, needs no API key and runs in milliseconds. `classify.py` (keywords)
+remains as the fallback when the weight files are missing. Records turned down are
+remembered for 60 days in `data/state/rejected.json`, so they are not judged daily.
+The OpenAlex lookups of a daily run stop after 20 minutes (`LOOKUP_BUDGET`); records not yet
+looked up are not judged and wait for the next run, so the workflow stays inside its time limit.
+
+`python -m ddc rescreen --meta <OpenAlex details>` judges the whole store again.
 
 ### Deduplication via a persisted seen-set
 `data/state/seen.json` maps `doi:<normalized>` and `title:<sha1>` keys to
@@ -75,17 +82,21 @@ and the served format can evolve independently.
   guruprakashmp.github.io share one origin). The Abstract button fetches one
   abstract by DOI from OpenAlex, then Crossref, in the visitor's browser; nothing
   is stored.
-* **Client-side JS** (`assets/app.js`, vanilla): search with filters
-  (year, category, journal, source, min-score, sort), author pages
+* **Client-side JS** (`assets/app.js`, vanilla; search in `assets/worker.js`, a Web
+  Worker that keeps the data files in Cache Storage by content hash, so a returning
+  visitor downloads only changed files): search with filters
+  (area, method, year, journal, sort), author pages
   (`authors.html?a=Name`) and journal pages (`journals.html?j=Name`).
   **Why client-side for authors/journals:** thousands of authors would mean
   tens of thousands of static pages regenerated and committed daily; query-
   param pages give every author/journal a stable URL at zero repo cost.
-* The index's own links are **relative**, so it works at any base path. The
-  look is the shared GP Tools theme of guruprakashmp.github.io: every page loads
-  `/assets/css/gp-tools.css`, `/assets/js/gp-bar.js` (top bar Tools menu, footer)
-  and `/assets/js/starfield.js` (header band) from the main site, root-relative,
-  so one edit there restyles every tool. Without them the pages still work.
+* The index's own links are **relative**, so it works at any base path. The site is
+  self-contained: its stylesheet, scripts and fonts (Inter, Source Serif 4, SIL Open
+  Font License) are in `assets/`. Data files are compact (format 2, described in
+  `generator.py`); affiliations are separate files, searched once loaded.
+* Graphical abstracts open in a zoom view (wheel, pinch, buttons, drag). The footer
+  shows a visitor count (abacus.jasoncameron.dev, one count per browser). `feed.xml`
+  (Atom), `sitemap.xml` and schema.org Dataset markup help discovery.
 
 ### Generated site lives at the project root
 `index.html` etc. sit next to `src/` and `data/` so that copying the single
@@ -130,7 +141,7 @@ counts/filters when complete. First paint stays fast regardless of index size.
 | Want to... | Touch |
 |---|---|
 | Add a source | new module in `src/ddc/collectors/` + one import + settings |
-| Tune relevance | `src/ddc/keywords.py` (vocabulary), `config/settings.json` (threshold) |
-| Add a category | add terms mapping to it in `keywords.py` |
+| Tune relevance | label more papers in `data/labels/gold.json`, run `tools/train_models.py` |
+| Change the categories | `src/ddc/taxonomy.py`, then relabel and retrain |
 | Change look | `src/ddc/site/assets/style.css` |
 | Add a page | `src/ddc/site/generator.py` |

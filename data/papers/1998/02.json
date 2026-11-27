@@ -1,72 +1,5 @@
 [
  {
-  "id": "7ebbfd0c6d7d82a1",
-  "title": "Zupan's descriptors in QSAR applied to the study of a new class of cardiotonic agents.",
-  "authors": [
-   "Michele Forina",
-   "Raffaella Boggia",
-   "Luisa Mosti",
-   "Paola Fossa"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "1998-02-27",
-  "year": 1998,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/9372592",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
-   "Chemometrics & Statistics",
-   "Deep Learning"
-  ],
-  "tags": [
-   "Chemometrics",
-   "Descriptors",
-   "Molecules",
-   "Neural Network",
-   "PLS",
-   "QSAR",
-   "Regression",
-   "SAR"
-  ],
-  "relevance_score": 78,
-  "affiliations": [
-   "University of Genoa"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "71755618ff280f8e",
-  "title": "The Alkaloids of Triphyophyllum peltatum (Dioncophyllaceae)",
-  "authors": [
-   "Gerhard Bringmann",
-   "Guido François",
-   "Laurent Aké Assi",
-   "Jan Schlauer"
-  ],
-  "journal": "CHIMIA International Journal for Chemistry",
-  "publisher": "Swiss Chemical Society",
-  "published": "1998-02-25",
-  "year": 1998,
-  "doi": "10.2533/chimia.1998.18",
-  "url": "https://doi.org/10.2533/chimia.1998.18",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "QSAR"
-  ],
-  "relevance_score": 51,
-  "affiliations": [
-   "University of Würzburg"
-  ],
-  "added": "2026-07-21"
- },
- {
   "id": "f1a7d9e507e00b03",
   "title": "On the Use of Chemical Function-Based Alignments as Input for 3D-QSAR",
   "authors": [
@@ -81,20 +14,17 @@
   "url": "https://doi.org/10.1021/ci970448s",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Ligands",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 70,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "Universität Innsbruck"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "49e229fa2bed7623",
@@ -120,18 +50,18 @@
   "url": "https://doi.org/10.1021/jm970416w",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 48,
+  "tags": [],
+  "relevance_score": 83,
   "affiliations": [
    "University of Urbino",
    "Istituto di Farmacologia Traslazionale",
    "GlaxoSmithKline (Italy)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "f0229c4241cdcf12",
@@ -147,20 +77,16 @@
   "url": "https://doi.org/10.1109/23.659550",
   "source": "openalex",
   "categories": [
-   "Spectroscopy",
-   "Machine Learning",
+   "Spectroscopy & Analysis",
    "Deep Learning"
   ],
-  "tags": [
-   "Machine Learning",
-   "Neural Network",
-   "Spectroscopy"
-  ],
-  "relevance_score": 53,
+  "tags": [],
+  "relevance_score": 82,
   "affiliations": [
    "King Fahd University of Petroleum and Minerals"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "d68115328a8fbde0",
@@ -182,46 +108,15 @@
   "url": "https://doi.org/10.1360/zb1998-28-1-60",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 48,
+  "tags": [],
+  "relevance_score": 94,
   "affiliations": [],
-  "added": "2026-07-21"
- },
- {
-  "id": "b9e9d852d6711ab8",
-  "title": "QSARs for the effect of benzaldehydes on foodborne bacteria and the role of sulfhydryl groups as targets of their antibacterial activity",
-  "authors": [
-   "Ramos-Nino",
-   "Ramirez-Rodriguez",
-   "Michael N. Clifford",
-   "Adams"
-  ],
-  "journal": "Journal of Applied Microbiology",
-  "publisher": "Oxford University Press",
-  "published": "1998-02-01",
-  "year": 1998,
-  "doi": "10.1046/j.1365-2672.1998.00324.x",
-  "url": "https://doi.org/10.1046/j.1365-2672.1998.00324.x",
-  "source": "openalex",
-  "categories": [
-   "Physical Organic Chemistry",
-   "Cheminformatics",
-   "Deep Learning"
-  ],
-  "tags": [
-   "Neural Network",
-   "QSAR",
-   "Steric Parameters"
-  ],
-  "relevance_score": 64,
-  "affiliations": [
-   "University of Surrey"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "4d54b52e0538fd6e",
@@ -242,53 +137,18 @@
   "url": "https://doi.org/10.1016/s0223-5234(98)80035-4",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 89,
   "affiliations": [
    "Instituto de Estructura de la Materia",
    "University of Hassan II Casablanca",
    "Estación Experimental del Zaidín"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "48e9f8fc921581d5",
-  "title": "Reviews on Analytical Chemistry: Euroanalysis VIII",
-  "authors": [
-   "David Littlejohn",
-   "D. Thorburn Burns"
-  ],
-  "journal": "Medical Entomology and Zoology",
-  "publisher": "Japan Society of Medical Entomology and Zoology",
-  "published": "1998-02-01",
-  "year": 1998,
-  "doi": "",
-  "url": "http://ci.nii.ac.jp/ncid/BA24241683",
-  "source": "openalex",
-  "categories": [
-   "Analytical Chemistry",
-   "Spectroscopy",
-   "Electrochemistry & Batteries",
-   "Deep Learning"
-  ],
-  "tags": [
-   "Analytical Chemistry",
-   "Chemistry",
-   "Chromatography",
-   "Electrochemistry",
-   "Electrodes",
-   "Mass Spectrometry",
-   "Molecules",
-   "Neural Network",
-   "Spectroscopy"
-  ],
-  "relevance_score": 64,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "4503eb92b767f7d1",
@@ -307,24 +167,19 @@
   "url": "https://doi.org/10.1016/s0166-1280(97)00151-6",
   "source": "openalex",
   "categories": [
-   "Property Prediction",
-   "Cheminformatics"
+   "Molecular Properties & Design",
+   "Classical ML"
   ],
-  "tags": [
-   "Boiling Point",
-   "Descriptors",
-   "Molecules",
-   "QSAR",
-   "QSPR"
-  ],
-  "relevance_score": 90,
+  "tags": [],
+  "relevance_score": 73,
   "affiliations": [
    "Academy of Sciences Republic of Uzbekistan",
    "Tashkent State University of Economics",
    "Prof. Assen Zlatarov University",
    "Texas A&M University at Galveston"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "2e11e7fce0169560",
@@ -341,42 +196,16 @@
   "url": "https://doi.org/10.1016/s0166-1280(97)00205-4",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "Kowa (Japan)",
    "Toyohashi University of Technology"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "24244cce52f4e201",
-  "title": "Prediction of bond dissociation energies using neural network, statistical, and quantum mechanical approaches",
-  "authors": [
-   "Thomas R. Cundari",
-   "Eddie W. Moody"
-  ],
-  "journal": "Journal of Molecular Structure THEOCHEM",
-  "publisher": "Elsevier BV",
-  "published": "1998-02-01",
-  "year": 1998,
-  "doi": "10.1016/s0166-1280(97)00129-2",
-  "url": "https://doi.org/10.1016/s0166-1280(97)00129-2",
-  "source": "openalex",
-  "categories": [
-   "Deep Learning"
-  ],
-  "tags": [
-   "Neural Network"
-  ],
-  "relevance_score": 44,
-  "affiliations": [
-   "University of Memphis"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  }
 ]

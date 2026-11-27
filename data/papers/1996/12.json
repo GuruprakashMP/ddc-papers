@@ -1,55 +1,5 @@
 [
  {
-  "id": "dce48332df6036ee",
-  "title": "Hamiltonian models of quantum computers which evolve quantum ballistically",
-  "authors": [
-   "Paul Benioff"
-  ],
-  "journal": "Chemosphere",
-  "publisher": "Elsevier BV",
-  "published": "1996-12-31",
-  "year": 1996,
-  "doi": "10.1016/0045-6535(95)00363-0",
-  "url": "https://doi.org/10.1016/0045-6535(95)00363-0",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Physical Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "Kinetics",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 69,
-  "affiliations": [],
-  "added": "2026-07-21"
- },
- {
-  "id": "207895c08f66bacf",
-  "title": "4. Machine Learning of Concepts in Molecular Biology",
-  "authors": [],
-  "journal": "",
-  "publisher": "",
-  "published": "1996-12-31",
-  "year": 1996,
-  "doi": "10.1515/9783110808919.152",
-  "url": "https://doi.org/10.1515/9783110808919.152",
-  "source": "openalex",
-  "categories": [
-   "Machine Learning"
-  ],
-  "tags": [
-   "Machine Learning",
-   "Molecules"
-  ],
-  "relevance_score": 42,
-  "affiliations": [],
-  "added": "2026-07-21"
- },
- {
   "id": "f625a13dcbe148b6",
   "title": "QSAR Studies of Some Sulphonamidobenzophenone Oximes with Antiviral Activity",
   "authors": [
@@ -63,21 +13,18 @@
   "url": "https://doi.org/10.1111/j.2042-7158.1996.tb03926.x",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Polymer Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Macromolecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 61,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [
    "Aristotle University of Thessaloniki",
    "Telio (Norway)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "f0d5c676cee15897",
@@ -96,50 +43,16 @@
   "url": "https://doi.org/10.1289/ehp.961041302",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 49,
+  "tags": [],
+  "relevance_score": 87,
   "affiliations": [
    "University of Wisconsin–Superior"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "d1adfde098986719",
-  "title": "Qsar for Clastogenic Effects Induced by Regioisomers of PAH Quinones",
-  "authors": [
-   "Ovanes Mekenyan",
-   "Isabella Sbrana",
-   "G. Turchi"
-  ],
-  "journal": "Polycyclic aromatic compounds",
-  "publisher": "Taylor & Francis",
-  "published": "1996-12-01",
-  "year": 1996,
-  "doi": "10.1080/10406639608544673",
-  "url": "https://doi.org/10.1080/10406639608544673",
-  "source": "openalex",
-  "categories": [
-   "Computational Chemistry",
-   "Polymer Chemistry",
-   "Reaction Prediction",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "Electronic Structure",
-   "Macromolecules",
-   "QSAR",
-   "Reactivity"
-  ],
-  "relevance_score": 70,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "80e147e8388c0211",
@@ -160,48 +73,19 @@
   "url": "https://doi.org/10.1007/bf00134180",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "National Research Council",
    "University of Milan",
    "Lusofarmaco (Italy)"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "6416c7578ae6c2ae",
-  "title": "Computer design and syntheses of antiulcer compounds. 2nd Communication: N-substituted N'-[3-[3-(1-piperidinomethyl)phenoxy]propyl]ureas.",
-  "authors": [
-   "Verginia Kamenska",
-   "Z Nedyalkova",
-   "T Invanov",
-   "Ovanes Mekenyan"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "1996-12-01",
-  "year": 1996,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/9006789",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 45,
-  "affiliations": [
-   "Burgas Free University"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "5ae3dbd905a5ec1e",
@@ -219,24 +103,17 @@
   "url": "https://doi.org/10.1021/ac960466t",
   "source": "openalex",
   "categories": [
-   "Analytical Chemistry",
-   "Cheminformatics",
-   "Deep Learning",
-   "Optimization"
+   "Molecular Properties & Design",
+   "Classical ML",
+   "Deep Learning"
   ],
-  "tags": [
-   "Chemistry",
-   "Chromatography",
-   "Genetic Algorithm",
-   "Molecules",
-   "Neural Network",
-   "QSPR"
-  ],
-  "relevance_score": 85,
+  "tags": [],
+  "relevance_score": 94,
   "affiliations": [
    "Pennsylvania State University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "4c28a9907c7e164e",
@@ -255,17 +132,18 @@
   "url": "https://doi.org/10.1007/bf00134175",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "Virginia Commonwealth University",
    "University of Lausanne",
    "Eastern Nazarene College"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  }
 ]

@@ -1,35 +1,5 @@
 [
  {
-  "id": "2a45266a0cd40a51",
-  "title": "MOLECULAR STRUCTURAL PARAMETERS IN TUBERCULOSTATIC ACTIVITY OF POLYHYDROXYXANTHONES",
-  "authors": [
-   "Hassan H. Farag",
-   "Farghaly A. Omar",
-   "Nadia M. Mahfouz"
-  ],
-  "journal": "Bulletin of Pharmaceutical Sciences Assiut",
-  "publisher": "",
-  "published": "1998-06-30",
-  "year": 1998,
-  "doi": "10.21608/bfsa.1998.67766",
-  "url": "https://doi.org/10.21608/bfsa.1998.67766",
-  "source": "openalex",
-  "categories": [
-   "Property Prediction",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Dipole Moment",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 51,
-  "affiliations": [
-   "Assiut University"
-  ],
-  "added": "2026-07-21"
- },
- {
   "id": "f15283507ee2fdca",
   "title": "Comparative Molecular Field Analysis (CoMFA) of a Series of Symmetrical Bis-Benzamide Cyclic Urea Derivatives as HIV-1 Protease Inhibitors †",
   "authors": [
@@ -43,19 +13,17 @@
   "url": "https://doi.org/10.1021/ci980014c",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Ligands",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 63,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [
    "New York Blood Center"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "65a17ebd0635d316",
@@ -73,19 +41,15 @@
   "url": "https://doi.org/10.1021/ci980042v",
   "source": "openalex",
   "categories": [
-   "Property Prediction",
-   "Cheminformatics",
+   "Drug Discovery",
+   "Classical ML",
    "Deep Learning"
   ],
-  "tags": [
-   "LogP",
-   "Molecules",
-   "Neural Network",
-   "QSAR"
-  ],
-  "relevance_score": 82,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "ebf85f16b6261cc6",
@@ -104,17 +68,16 @@
   "url": "https://doi.org/10.1021/ci9800108",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [
    "Universitat de Girona"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "f7714653a85320d2",
@@ -137,19 +100,19 @@
   "url": "https://doi.org/10.1016/s0960-894x(98)00205-4",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "Shanghai Institute of Materia Medica",
    "Shanghai Institute of Applied Physics",
    "Chinese Academy of Sciences"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "d37a60e9eaeb7d3c",
@@ -166,17 +129,17 @@
   "url": "https://doi.org/10.1023/a:1026449704559",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 79,
   "affiliations": [
    "EKOS Corporation",
    "University of Washington"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "d20cc55fc5464519",
@@ -193,81 +156,17 @@
   "url": "https://doi.org/10.1002/(sici)1521-3838(199806)17:03<224::aid-qsar224>3.0.co;2-6",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Deep Learning"
   ],
-  "tags": [
-   "Ligands",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [
    "Monash University"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "b72c98cacbdc2b08",
-  "title": "Quantitative structure-activity relationship of 4,5-diphenyl-2-(substituted thio)-1H-imidazoles as the inhibitors of acyl CoA: cholesterol acyltransferase.",
-  "authors": [
-   "Prithvi Singh",
-   "Rahul Kumar"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "1998-06-01",
-  "year": 1998,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/9803668",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 54,
-  "affiliations": [
-   "Government Medical College"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "ae99fb5bc4e3e848",
-  "title": "[Studies on the structure-activity relationship of retinoids--Hansch analysis and 3D-OSAR studies on specific ligands of retinoid x receptor].",
-  "authors": [
-   "Niu Huang",
-   "Fuxiang Chu",
-   "Zhuming Guo"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "1998-06-01",
-  "year": 1998,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/12016914",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Catalysis",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "Ligands",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 69,
-  "affiliations": [
-   "Chinese Academy of Medical Sciences & Peking Union Medical College"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "a8803f3c6134a2bb",
@@ -287,17 +186,15 @@
   "url": "https://doi.org/10.3724/j.issn.1000-0518.1998.3.1921",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 70,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "82125c35469299cf",
@@ -317,22 +214,20 @@
   "url": "https://doi.org/10.1128/aac.42.6.1454",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 66,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "Institute of Medicinal Plant Development",
    "University of Mississippi",
    "Instytut Farmaceutyczny",
    "University of Michigan"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "5394b94dc2cce4e4",
@@ -352,21 +247,19 @@
   "url": "https://doi.org/10.1002/etc.5620170611",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Deep Learning"
+   "Drug Discovery",
+   "Classical ML",
+   "Deep Learning",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "Neural Network",
-   "QSAR"
-  ],
-  "relevance_score": 65,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "University of Minnesota, Duluth",
    "Environmental Protection Agency"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "3174f96050c3ae33",
@@ -382,17 +275,16 @@
   "url": "https://doi.org/10.1023/a:1007917725425",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR"
-  ],
-  "relevance_score": 46,
+  "tags": [],
+  "relevance_score": 90,
   "affiliations": [
    "University of Milan"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "020f644e91a7767c",
@@ -409,20 +301,17 @@
   "url": "https://doi.org/10.1002/(sici)1521-3838(199806)17:03<211::aid-qsar211>3.0.co;2-m",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Classical ML"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Clustering",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 49,
+  "tags": [],
+  "relevance_score": 84,
   "affiliations": [
    "Universität Innsbruck"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "01bc7a864b395044",
@@ -442,16 +331,16 @@
   "url": "https://doi.org/10.1016/s0045-6535(97)10239-9",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [
    "Université Moulay Ismail de Meknes",
    "Mohammed V University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  }
 ]

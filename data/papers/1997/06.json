@@ -1,60 +1,5 @@
 [
  {
-  "id": "c5d9762e13664d0e",
-  "title": "Structure-activity relationship in a series of new 1-(2-pyrimidinyl)piperazine derivatives with hypnotic activity.",
-  "authors": [
-   "Zdzisław Chilmończyk",
-   "M Bogdal",
-   "Maria Mazgajska",
-   "Jacek Cybulski",
-   "Urszula Lewandowska"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "1997-06-16",
-  "year": 1997,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/9112684",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 51,
-  "affiliations": [
-   "Instytut Farmaceutyczny"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "969794e8ffb41593",
-  "title": "Book Review: Illuminate Your data: Data Analysis for Chemists. Applications to QSAR and Chemical Products Design. By D. Livingstone",
-  "authors": [
-   "Romy Fleischer"
-  ],
-  "journal": "Angewandte Chemie International Edition in English",
-  "publisher": "",
-  "published": "1997-06-16",
-  "year": 1997,
-  "doi": "10.1002/anie.199712191",
-  "url": "https://doi.org/10.1002/anie.199712191",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "QSAR"
-  ],
-  "relevance_score": 58,
-  "affiliations": [],
-  "added": "2026-07-21"
- },
- {
   "id": "629ad83dfb51e1de",
   "title": "The Antifungal Agent 1-[2-(4-Chlorobenzylamino)benzyl]-1 H -imidazole",
   "authors": [
@@ -71,17 +16,15 @@
   "url": "https://doi.org/10.1107/s0108270197000784",
   "source": "openalex",
   "categories": [
-   "Materials Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Crystal Structures",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 63,
+  "tags": [],
+  "relevance_score": 75,
   "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "f16f1d775b8cd6c7",
@@ -98,19 +41,17 @@
   "url": "https://doi.org/10.1002/9783906390406.ch30",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Ligands",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 91,
   "affiliations": [
    "University of Perugia"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "7aa9e27bdc2b84d6",
@@ -126,18 +67,16 @@
   "url": "https://doi.org/10.1002/9783906390406.ch5",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "Sandvik (Sweden)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "550d23bc85653236",
@@ -156,47 +95,17 @@
   "url": "https://doi.org/10.1002/9783906390406.ch29",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 46,
+  "tags": [],
+  "relevance_score": 87,
   "affiliations": [
    "University of Oxford"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "3c21fb46e3fe88d9",
-  "title": "Hydrogen Bond Strength Estimation by Means of the HYBOT Program Package",
-  "authors": [
-   "Oleg A. Raevsky"
-  ],
-  "journal": "",
-  "publisher": "",
-  "published": "1997-06-12",
-  "year": 1997,
-  "doi": "10.1002/9783906390406.ch23",
-  "url": "https://doi.org/10.1002/9783906390406.ch23",
-  "source": "openalex",
-  "categories": [
-   "Physical Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecules",
-   "QSAR",
-   "Solvents",
-   "Thermodynamics"
-  ],
-  "relevance_score": 51,
-  "affiliations": [
-   "Russian Academy of Sciences",
-   "Institute of Physiologically Active Compounds"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "0c8473193ce6536a",
@@ -213,23 +122,17 @@
   "url": "https://doi.org/10.1002/9783906390406.ch2",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
-   "Deep Learning",
-   "Optimization"
+   "Drug Discovery",
+   "Classical ML",
+   "Deep Learning"
   ],
-  "tags": [
-   "Genetic Algorithm",
-   "Molecules",
-   "Neural Network",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 74,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [
    "Pennsylvania State University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "03aabf9f54be00a6",
@@ -246,20 +149,17 @@
   "url": "https://doi.org/10.1002/9783906390406.ch19",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Medicinal Chemistry",
-   "QSAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 65,
   "affiliations": [
    "Istituto Superiore di Sanità",
    "Sigma Tau (Italy)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "010506131f6cef33",
@@ -275,20 +175,17 @@
   "url": "https://doi.org/10.1002/9783906390406.ch1",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 61,
+  "tags": [],
+  "relevance_score": 84,
   "affiliations": [
    "ZF Friedrichshafen (Germany)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "bdc174c0862e31d8",
@@ -307,26 +204,17 @@
   "url": "https://doi.org/10.1021/om9700371",
   "source": "openalex",
   "categories": [
-   "Organic Chemistry",
-   "Catalysis",
-   "Physical Chemistry",
-   "Cheminformatics",
-   "Machine Learning"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Ligands",
-   "Molecules",
-   "Predictive Model",
-   "QSAR",
-   "Solvents",
-   "Stereoselectivity"
-  ],
-  "relevance_score": 86,
+  "tags": [],
+  "relevance_score": 67,
   "affiliations": [
    "University of Notre Dame",
    "KTH Royal Institute of Technology"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "9a266acec24715df",
@@ -343,25 +231,16 @@
   "url": "https://doi.org/10.1002/etc.5620160629",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Property Prediction",
-   "Cheminformatics",
-   "Machine Learning"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Descriptors",
-   "Molecules",
-   "Predictive Model",
-   "QSAR",
-   "SAR",
-   "pKa"
-  ],
-  "relevance_score": 98,
+  "tags": [],
+  "relevance_score": 81,
   "affiliations": [
    "University of Tennessee at Knoxville"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "7c33a4d5096a66f5",
@@ -379,49 +258,17 @@
   "url": "https://doi.org/10.1111/j.1399-3011.1997.tb01154.x",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Ligands",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 67,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "Virginia Commonwealth University"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "1ed8f181a2532f26",
-  "title": "Determination of radioisotopes in gamma-ray spectroscopy using abductive machine learning",
-  "authors": [
-   "R.E. Abdel-Aal",
-   "M. N. Al-Haddad"
-  ],
-  "journal": "Nuclear Instruments and Methods in Physics Research Section A Accelerators Spectrometers Detectors and Associated Equipment",
-  "publisher": "Elsevier BV",
-  "published": "1997-06-01",
-  "year": 1997,
-  "doi": "10.1016/s0168-9002(97)00391-4",
-  "url": "https://doi.org/10.1016/s0168-9002(97)00391-4",
-  "source": "openalex",
-  "categories": [
-   "Spectroscopy",
-   "Machine Learning"
-  ],
-  "tags": [
-   "Machine Learning",
-   "Spectroscopy"
-  ],
-  "relevance_score": 60,
-  "affiliations": [
-   "King Fahd University of Petroleum and Minerals"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "1c91382ef1d34454",
@@ -439,15 +286,15 @@
   "url": "https://doi.org/10.1016/s0223-5234(97)84013-5",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "Medical University of Sofia"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  }
 ]

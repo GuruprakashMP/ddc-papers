@@ -14,47 +14,14 @@
   "url": "https://doi.org/10.1289/ehp.96104s51031",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Machine Learning"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Machine Learning",
-   "Molecules",
-   "SAR"
-  ],
-  "relevance_score": 53,
+  "tags": [],
+  "relevance_score": 82,
   "affiliations": [],
-  "added": "2026-07-21"
- },
- {
-  "id": "d5aa2b83337dbb25",
-  "title": "Properties prediciton of non-toxic ice inhibitors",
-  "authors": [
-   "Ruth Pachter",
-   "Steven Trohalaki"
-  ],
-  "journal": "Preprints - American Chemical Society. Division of Petroleum Chemistry",
-  "publisher": "Elsevier BV",
-  "published": "1996-10-01",
-  "year": 1996,
-  "doi": "",
-  "url": "http://www.osti.gov/scitech/biblio/370775-properties-prediction-non-toxic-ice-inhibitors",
-  "source": "openalex",
-  "categories": [
-   "Computational Chemistry",
-   "Physical Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecular Dynamics",
-   "Molecules",
-   "QSAR",
-   "Solvents"
-  ],
-  "relevance_score": 66,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "8e9442bd220d1fd2",
@@ -71,50 +38,17 @@
   "url": "https://doi.org/10.1007/bf02333898",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "Russian Academy of Sciences",
    "Institute of Biomedical Chemistry"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "537ab18959e99366",
-  "title": "QSAR and CAMM study of amphiphilic antimicrobially active 2,2'-bipyridyl monoammonium salts.",
-  "authors": [
-   "Ferdinand Devı́nsky",
-   "J. Zamocka",
-   "I. Lacko",
-   "Maja Polakovičová"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "1996-10-01",
-  "year": 1996,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/8941939",
-  "source": "openalex",
-  "categories": [
-   "Analytical Chemistry",
-   "Property Prediction",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chromatography",
-   "Dipole Moment",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 61,
-  "affiliations": [
-   "Comenius University Bratislava"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "3bfe7ad02a43efc0",
@@ -135,41 +69,18 @@
   "url": "https://doi.org/10.1016/0968-0896(96)00184-8",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Docking",
-   "QSAR"
-  ],
-  "relevance_score": 64,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "Sapienza University of Rome",
    "University of Siena"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "3a96ed831b38ae6c",
-  "title": "Preface",
-  "authors": [],
-  "journal": "Annual Review of Physical Chemistry",
-  "publisher": "Annual Reviews",
-  "published": "1996-10-01",
-  "year": 1996,
-  "doi": "10.1146/annurev.pc.47.050406.100001",
-  "url": "https://doi.org/10.1146/annurev.pc.47.050406.100001",
-  "source": "openalex",
-  "categories": [
-   "Machine Learning"
-  ],
-  "tags": [
-   "Machine Learning",
-   "Molecules"
-  ],
-  "relevance_score": 47,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "2ff723fa71973c8e",
@@ -188,18 +99,12 @@
   "url": "https://doi.org/10.1080/10629369608031718",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "PCA",
-   "PLS",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 75,
+  "tags": [],
+  "relevance_score": 92,
   "affiliations": [
    "European Union",
    "Joint Research Centre",
@@ -207,7 +112,8 @@
    "Swedish Defence Research Agency",
    "Swedish Institute"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "2199f7f9bca9cd3b",
@@ -224,19 +130,16 @@
   "url": "https://doi.org/10.1080/10629369608031717",
   "source": "openalex",
   "categories": [
-   "Surface Chemistry",
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Adsorption",
-   "Chemistry",
-   "QSAR"
-  ],
-  "relevance_score": 51,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [
    "New Mexico State University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "2092e100b6ab5bf5",
@@ -252,22 +155,16 @@
   "url": "https://doi.org/10.1289/ehp.96104s51085",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Reaction Prediction",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "QSAR",
-   "Reactivity",
-   "SAR"
-  ],
-  "relevance_score": 66,
+  "tags": [],
+  "relevance_score": 100,
   "affiliations": [
    "University of Minnesota"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "0ba591d076655c45",
@@ -285,20 +182,15 @@
   "url": "https://doi.org/10.1289/ehp.96104s51051",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
-   "Machine Learning"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Predictive Model",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 62,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "Kitasato University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

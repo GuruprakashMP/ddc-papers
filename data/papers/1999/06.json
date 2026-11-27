@@ -16,22 +16,18 @@
   "url": "https://doi.org/10.1021/tx980273w",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
+   "Drug Discovery",
+   "Classical ML",
    "Deep Learning"
   ],
-  "tags": [
-   "Molecules",
-   "Neural Network",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 74,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "Pennsylvania State University",
    "National Water Research Institute"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "fe963874cc101bf4",
@@ -54,22 +50,17 @@
   "url": "https://doi.org/10.1021/jm990037y",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Physical Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Automation & High-Throughput"
   ],
-  "tags": [
-   "Chemistry",
-   "Kinetics",
-   "Medicinal Chemistry",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 78,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "University of Michigan"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "82bef58d539af1cd",
@@ -85,16 +76,16 @@
   "url": "https://doi.org/10.1021/ci980047s",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 92,
   "affiliations": [
    "Central Drug Research Institute"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "f2180fbb7dd359c2",
@@ -111,24 +102,17 @@
   "url": "https://doi.org/10.1021/jm980515p",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "ML Potentials & Force Fields",
-   "Physical Chemistry",
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Force Fields",
-   "Ligands",
-   "PLS",
-   "QSAR",
-   "Thermodynamics"
-  ],
-  "relevance_score": 90,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "University of Illinois Chicago"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "cc8ecb49b43fd8e0",
@@ -152,45 +136,19 @@
   "url": "https://doi.org/10.1016/s0960-894x(99)00254-1",
   "source": "openalex",
   "categories": [
+   "Drug Discovery",
    "Deep Learning"
   ],
-  "tags": [
-   "Neural Network"
-  ],
-  "relevance_score": 44,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [
    "Universidad Complutense de Madrid",
    "Universidad Nacional de Educación a Distancia",
    "Hospital Universitario Ramón y Cajal",
    "Research Center Borstel - Leibniz Lung Center"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "a757d6a35232080a",
-  "title": "ACS Award for Computers in Chemical and Pharmaceutical Research.",
-  "authors": [
-   "Hugo Kubinyi"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "1999-06-01",
-  "year": 1999,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/16127608",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "QSAR"
-  ],
-  "relevance_score": 42,
-  "affiliations": [
-   "BASF (United States)"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "9094166606909ffb",
@@ -209,61 +167,17 @@
   "url": "https://doi.org/10.1255/jnirs.246",
   "source": "openalex",
   "categories": [
-   "Spectroscopy",
-   "Analytical Chemistry",
-   "Chemometrics & Statistics",
-   "Deep Learning"
+   "Spectroscopy & Analysis",
+   "Deep Learning",
+   "Chemometrics"
   ],
-  "tags": [
-   "Analytical Chemistry",
-   "Chemistry",
-   "Chemometrics",
-   "IR Spectroscopy",
-   "Neural Network",
-   "Spectroscopy"
-  ],
-  "relevance_score": 94,
+  "tags": [],
+  "relevance_score": 90,
   "affiliations": [
    "Laboratoire de Spectroscopie pour les Interactions, la Réactivité et l'Environnement"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "89b85bc3ef0e19b7",
-  "title": "Use of Free Energy Relationships To Probe the Individual Steps of Hydroxylation of p -Hydroxybenzoate Hydroxylase: Studies with a Series of 8-Substituted Flavins",
-  "authors": [
-   "Mariliz Ortiz-Maldonado",
-   "David P. Ballou",
-   "Vincent Massey"
-  ],
-  "journal": "Biochemistry",
-  "publisher": "American Chemical Society",
-  "published": "1999-06-01",
-  "year": 1999,
-  "doi": "10.1021/bi990560e",
-  "url": "https://doi.org/10.1021/bi990560e",
-  "source": "openalex",
-  "categories": [
-   "Physical Organic Chemistry",
-   "Reaction Prediction",
-   "Physical Chemistry",
-   "Spectroscopy",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "Hammett Analysis",
-   "LFER",
-   "QSAR",
-   "Reactivity",
-   "Solvents",
-   "Spectroscopy"
-  ],
-  "relevance_score": 78,
-  "affiliations": [
-   "University of Michigan"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "65b8289b7cd8bd16",
@@ -280,115 +194,17 @@
   "url": "https://doi.org/10.1016/s0223-5234(99)80096-8",
   "source": "openalex",
   "categories": [
-   "Computational Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "Quantum Chemistry"
-  ],
-  "relevance_score": 73,
+  "tags": [],
+  "relevance_score": 66,
   "affiliations": [
    "Murdoch University",
    "University of Western Australia"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "52e04a99d7155ae4",
-  "title": "Melatonin",
-  "authors": [
-   "Mor Marco",
-   "Plazzi Pier Vincenzo",
-   "Spadoni Gilberto",
-   "Tarzia Giorgio"
-  ],
-  "journal": "Current Medicinal Chemistry",
-  "publisher": "Bentham Science Publishers",
-  "published": "1999-06-01",
-  "year": 1999,
-  "doi": "10.2174/0929867306666220330190146",
-  "url": "https://doi.org/10.2174/0929867306666220330190146",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Catalysis",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "Ligands",
-   "Medicinal Chemistry",
-   "QSAR"
-  ],
-  "relevance_score": 75,
-  "affiliations": [
-   "University of Parma"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "3b04d8d6f45e69a5",
-  "title": "Ligands of the GABA A Receptor Benzodiazepine Binding Site",
-  "authors": [
-   "Qinmi Wang",
-   "Yifan Han",
-   "Hong Xue"
-  ],
-  "journal": "CNS Drug Reviews",
-  "publisher": "Wiley",
-  "published": "1999-06-01",
-  "year": 1999,
-  "doi": "10.1111/j.1527-3458.1999.tb00094.x",
-  "url": "https://doi.org/10.1111/j.1527-3458.1999.tb00094.x",
-  "source": "openalex",
-  "categories": [
-   "Catalysis",
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
-   "Deep Learning"
-  ],
-  "tags": [
-   "Ligands",
-   "Molecules",
-   "Neural Network",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 75,
-  "affiliations": [
-   "Hong Kong University of Science and Technology"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "31b1792614a959fd",
-  "title": "Comparative QSAR studies with molecular negentropy, molecular connectivity, STIMS and TAU indices: Part I - Tadpole Narcosis of di verse functional acyclic compounds",
-  "authors": [
-   "Kunal Roy",
-   "Dipak Kumar Pal",
-   "A. U. DE",
-   "Chandana Sengupta"
-  ],
-  "journal": "Indian Journal of Chemistry Section B-organic Chemistry Including Medicinal Chemistry",
-  "publisher": "Scientific Publishers of India",
-  "published": "1999-06-01",
-  "year": 1999,
-  "doi": "",
-  "url": "http://nopr.niscair.res.in/bitstream/123456789/16473/1/IJCB%2038B%286%29%20664-671.pdf",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecules",
-   "QSAR",
-   "QSPR"
-  ],
-  "relevance_score": 74,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "1f03499fc7894d72",
@@ -406,52 +222,20 @@
   "url": "https://doi.org/10.1002/(sici)1521-3838(199906)18:2<107::aid-qsar107>3.0.co;2-3",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Catalysis",
-   "Computational Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Ligands",
-   "Molecular Dynamics",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 72,
+  "tags": [],
+  "relevance_score": 88,
   "affiliations": [
    "Centre de Biologie Structurale",
    "Galderma (France)",
    "Centre National de la Recherche Scientifique",
    "Inserm"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "10e7f328ab955ceb",
-  "title": "Frontier orbital energies, hydrophobicity and steric factors as physical qsar descriptors of molecular mutagenicity. A review with a case study: MX compounds",
-  "authors": [
-   "Kari Tuppurainen"
-  ],
-  "journal": "Chemosphere",
-  "publisher": "Elsevier BV",
-  "published": "1999-06-01",
-  "year": 1999,
-  "doi": "10.1016/s0045-6535(98)00503-7",
-  "url": "https://doi.org/10.1016/s0045-6535(98)00503-7",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 58,
-  "affiliations": [
-   "University of Eastern Finland"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "0025ddfb7590c83f",
@@ -467,17 +251,13 @@
   "url": "https://doi.org/10.21236/ada373974",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 54,
+  "tags": [],
+  "relevance_score": 78,
   "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

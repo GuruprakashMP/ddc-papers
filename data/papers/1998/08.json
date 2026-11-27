@@ -16,23 +16,16 @@
   "url": "https://doi.org/10.1021/ci980093s",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
-   "Chemometrics & Statistics",
-   "Optimization"
+   "Drug Discovery",
+   "Chemometrics"
   ],
-  "tags": [
-   "Genetic Algorithm",
-   "Molecules",
-   "PLS",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 83,
+  "tags": [],
+  "relevance_score": 100,
   "affiliations": [
    "University of Illinois Chicago"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "97bc3f2be7805faf",
@@ -52,18 +45,17 @@
   "url": "https://doi.org/10.1021/ci980002r",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 55,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "Ruđer Bošković Institute",
    "University of Osijek"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "3036cf9c09df1ebd",
@@ -82,19 +74,17 @@
   "url": "https://doi.org/10.1021/jm9700171",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 63,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [
    "Washington University in St. Louis"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "b7a57676c1eb7816",
@@ -111,50 +101,17 @@
   "url": "https://doi.org/10.1002/(sici)1521-3838(199808)17:04<301::aid-qsar301>3.0.co;2-j",
   "source": "openalex",
   "categories": [
-   "Property Prediction",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "Property Prediction",
-   "QSAR"
-  ],
-  "relevance_score": 54,
+  "tags": [],
+  "relevance_score": 66,
   "affiliations": [
    "Bulgarian Academy of Sciences"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "8afd245f9064f6ee",
-  "title": "Volatile N-Nitrosamine Formation after Intake of Nitrate at the ADI Level in Combination with an Amine-Rich Diet",
-  "authors": [
-   "Ingrid T. M. Vermeer",
-   "Daniëlle Pachen",
-   "Jan W. Dallinga",
-   "Jos Kleinjans",
-   "J.M.S. van Maanen"
-  ],
-  "journal": "Environmental Health Perspectives",
-  "publisher": "National Institute of Environmental Health Sciences",
-  "published": "1998-08-01",
-  "year": 1998,
-  "doi": "10.2307/3434177",
-  "url": "https://doi.org/10.2307/3434177",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 54,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "860517a97f707af5",
@@ -171,17 +128,16 @@
   "url": "https://doi.org/10.1016/s0043-1354(98)00006-2",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR"
-  ],
-  "relevance_score": 46,
+  "tags": [],
+  "relevance_score": 80,
   "affiliations": [
    "New Mexico State University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "64547308e91c1044",
@@ -198,53 +154,16 @@
   "url": "https://doi.org/10.1002/(sici)1521-3838(199808)17:04<338::aid-qsar338>3.0.co;2-g",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Descriptors",
-   "Ligands",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 67,
+  "tags": [],
+  "relevance_score": 76,
   "affiliations": [
    "University of Zurich"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "5f60da28d8930da1",
-  "title": "The influence exerted by cutaneous ligands in subjects reacting to nickel sulfate alone and in those reacting to more transition metals",
-  "authors": [
-   "B. Santucci",
-   "Carlo Vittorio Cannistraci",
-   "Antonio Cristaudo",
-   "Emanuela Camera",
-   "Mauro Picardo"
-  ],
-  "journal": "Experimental Dermatology",
-  "publisher": "Wiley",
-  "published": "1998-08-01",
-  "year": 1998,
-  "doi": "10.1111/j.1600-0625.1998.tb00318.x",
-  "url": "https://doi.org/10.1111/j.1600-0625.1998.tb00318.x",
-  "source": "openalex",
-  "categories": [
-   "Catalysis",
-   "Inorganic Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Ligands",
-   "QSAR",
-   "Transition Metals"
-  ],
-  "relevance_score": 60,
-  "affiliations": [
-   "San Gallicano Hospital"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "263051c9e77ce561",
@@ -258,15 +177,14 @@
   "url": "https://doi.org/10.1016/s0928-0987(98)91322-7",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 46,
+  "tags": [],
+  "relevance_score": 79,
   "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "0bdc4b22b56b58f4",
@@ -283,18 +201,15 @@
   "url": "https://doi.org/10.1002/(sici)1521-3838(199808)17:04<327::aid-qsar327>3.0.co;2-o",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Ligands",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 55,
+  "tags": [],
+  "relevance_score": 80,
   "affiliations": [
    "University of Zurich"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

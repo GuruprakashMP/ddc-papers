@@ -1,30 +1,31 @@
 [
  {
-  "id": "f569570beab125c4",
-  "title": "A Hybrid Fourier–Deep Learning Forecasting Model for Solar Photovoltaic Power Using an Adaptive Cleanliness Index",
+  "id": "c3a8c892c11c3134",
+  "title": "Extending Generative Machine Learning for Sustainable Polymer Design: An Integrated Workflow from Generative Models to Novel Candidates",
   "authors": [
-   "Pınar Uskaner Hepsağ"
+   "Niloofar Taleghani",
+   "Sasha Plichta",
+   "Vikramaditya Ganapati Yadav"
   ],
-  "journal": "Journal of Energy Engineering",
-  "publisher": "American Society of Civil Engineers (ASCE)",
-  "published": "2027-02-01",
+  "journal": "Lecture notes in computer science",
+  "publisher": "Springer Science+Business Media",
+  "published": "2027-02-02",
   "year": 2027,
-  "doi": "10.1061/jleed9.eyeng-6595",
-  "url": "https://doi.org/10.1061/jleed9.eyeng-6595",
-  "source": "crossref",
+  "doi": "10.1007/978-3-032-35064-0_14",
+  "url": "https://doi.org/10.1007/978-3-032-35064-0_14",
+  "source": "openalex",
   "categories": [
-   "Spectroscopy",
-   "Deep Learning"
+   "Polymers & Soft Matter",
+   "Classical ML",
+   "Generative Models"
   ],
-  "tags": [
-   "CNN",
-   "Deep Learning",
-   "Neural Network",
-   "Spectroscopy"
+  "tags": [],
+  "relevance_score": 97,
+  "affiliations": [
+   "University of British Columbia"
   ],
-  "relevance_score": 58,
-  "affiliations": [],
-  "added": "2026-11-04"
+  "added": "2026-11-27",
+  "oa_abstract": "no"
  },
  {
   "id": "c77ea96cef70c10c",
@@ -50,16 +51,43 @@
   "source": "semanticscholar",
   "categories": [
    "Catalysis",
-   "Machine Learning"
+   "Classical ML"
   ],
-  "tags": [
-   "Catalysis",
-   "Hydrogen Evolution",
-   "Machine Learning"
-  ],
-  "relevance_score": 78,
+  "tags": [],
+  "relevance_score": 84,
   "affiliations": [],
-  "added": "2026-11-18"
+  "added": "2026-11-18",
+  "oa_abstract": "no"
+ },
+ {
+  "id": "76e84519c831b027",
+  "title": "Exchange–Correlation Functional Screening and Development of a High Dimensional Neural Network Interatomic Potential for UO2",
+  "authors": [
+   "Mahmoud Payami Shabestar",
+   "Samira Sheykhi",
+   "Mohammad-Reza Basaadat"
+  ],
+  "journal": "Journal of Nuclear Research and Applications",
+  "publisher": "Nuclear Science and Technology Research Institute",
+  "published": "2027-02-01",
+  "year": 2027,
+  "doi": "10.24200/jonra.2026.2052.1242",
+  "url": "https://doi.org/10.24200/jonra.2026.2052.1242",
+  "source": "openalex",
+  "categories": [
+   "Computational Chemistry",
+   "Deep Learning",
+   "ML Potentials",
+   "Bayesian Optimization & Active Learning"
+  ],
+  "tags": [],
+  "relevance_score": 87,
+  "affiliations": [
+   "Atomic Energy Organization of Iran",
+   "Nuclear Science and Technology Research Institute"
+  ],
+  "added": "2026-11-27",
+  "oa_abstract": "yes"
  },
  {
   "id": "6cb8cac72c96bde1",
@@ -76,16 +104,14 @@
   "url": "https://doi.org/10.1016/j.matlet.2026.141847",
   "source": "crossref",
   "categories": [
-   "Materials Chemistry",
-   "Machine Learning"
+   "Materials",
+   "Classical ML"
   ],
-  "tags": [
-   "Alloys",
-   "Machine Learning"
-  ],
-  "relevance_score": 57,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [],
-  "added": "2026-10-22"
+  "added": "2026-10-22",
+  "oa_abstract": "no"
  },
  {
   "id": "5f4661b162def3b9",
@@ -104,15 +130,12 @@
   "source": "semanticscholar",
   "categories": [
    "Computational Chemistry",
-   "Machine Learning"
+   "Classical ML"
   ],
-  "tags": [
-   "Machine Learning",
-   "Molecular Dynamics",
-   "Molecules"
-  ],
-  "relevance_score": 54,
+  "tags": [],
+  "relevance_score": 85,
   "affiliations": [],
-  "added": "2026-11-08"
+  "added": "2026-11-08",
+  "oa_abstract": "no"
  }
 ]

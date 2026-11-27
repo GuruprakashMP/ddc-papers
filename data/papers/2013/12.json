@@ -14,21 +14,17 @@
   "url": "https://doi.org/10.2174/15734099113096660046",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
+   "Drug Discovery",
+   "Classical ML",
    "Deep Learning"
   ],
-  "tags": [
-   "Lead Optimization",
-   "Neural Network",
-   "QSAR",
-   "Virtual Screening"
-  ],
-  "relevance_score": 69,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [
    "Jubilant Life Sciences (India)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "f54083dcaad93b3c",
@@ -50,25 +46,19 @@
   "url": "https://doi.org/10.2174/1568026613666131113151347",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Polymer Chemistry",
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Docking",
-   "Molecules",
-   "PLS",
-   "Polymers",
-   "QSAR"
-  ],
-  "relevance_score": 79,
+  "tags": [],
+  "relevance_score": 82,
   "affiliations": [
    "Universidade Federal da Paraíba",
    "Bentham Science Publishers (China)",
    "Bentham Science Publishers (United Arab Emirates)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "cec5b1eb9da0dabe",
@@ -86,55 +76,16 @@
   "url": "https://doi.org/10.2174/15734099113096660045",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Computational Chemistry",
-   "Cheminformatics",
-   "Classical ML",
-   "Machine Learning"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Clustering",
-   "Predictive Model",
-   "QSAR",
-   "Quantum Chemistry",
-   "SAR"
-  ],
-  "relevance_score": 89,
+  "tags": [],
+  "relevance_score": 90,
   "affiliations": [
    "University of Minnesota, Duluth"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "c115c26f0970508e",
-  "title": "Exploring the Physicochemical Properties of Oxime-Reactivation Therapeutics for Cyclosarin, Sarin, Tabun, and VX Inactivated Acetylcholinesterase",
-  "authors": [
-   "Emilio Xavier Esposito",
-   "Terry R. Stouch",
-   "Troy Wymore",
-   "Jeffry D. Madura"
-  ],
-  "journal": "Chemical Research in Toxicology",
-  "publisher": "American Chemical Society",
-  "published": "2013-12-31",
-  "year": 2013,
-  "doi": "10.1021/tx400350b",
-  "url": "https://doi.org/10.1021/tx400350b",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 51,
-  "affiliations": [
-   "Oak Ridge National Laboratory",
-   "Duquesne University"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "71993a8998731aed",
@@ -152,21 +103,18 @@
   "url": "https://doi.org/10.1371/journal.pone.0083922",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Machine Learning"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Docking",
-   "Machine Learning",
-   "Molecules"
-  ],
-  "relevance_score": 51,
+  "tags": [],
+  "relevance_score": 91,
   "affiliations": [
    "Okinawa Institute of Science and Technology Graduate University",
    "Systems Biology Institute",
    "RIKEN Center for Integrative Medical Sciences"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "5bb12b37980ef44a",
@@ -184,18 +132,16 @@
   "url": "https://doi.org/10.2174/15734099113096660047",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 42,
+  "tags": [],
+  "relevance_score": 64,
   "affiliations": [
    "Central Drug Research Institute"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "4f6c96a23825b754",
@@ -211,97 +157,16 @@
   "url": "https://doi.org/10.2174/15734099113096660041",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Cheminformatics",
-   "Chemistry",
-   "Descriptors",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 72,
+  "tags": [],
+  "relevance_score": 88,
   "affiliations": [
    "University of Minnesota, Duluth"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "daa54367823e162f",
-  "title": "GB Virus C/Hepatitis G Virus Envelope Glycoprotein E2: Computational Molecular Features and Immunoinformatics Study",
-  "authors": [
-   "Mohammad Mehdi Ranjbar",
-   "Khodayar Ghorban",
-   "Seyed Moayed Alavian",
-   "Hossein Keyvani",
-   "Maryam Dadmanesh",
-   "Abbas Roayaei Ardakany",
-   "Mohammad Hassan Motedayen",
-   "Alireza Sazmand"
-  ],
-  "journal": "Hepatitis Monthly",
-  "publisher": "Kowsar Publishing",
-  "published": "2013-12-30",
-  "year": 2013,
-  "doi": "10.5812/hepatmon.15342",
-  "url": "https://doi.org/10.5812/hepatmon.15342",
-  "source": "openalex",
-  "categories": [
-   "Machine Learning"
-  ],
-  "tags": [
-   "Chemistry",
-   "Machine Learning",
-   "Molecules"
-  ],
-  "relevance_score": 41,
-  "affiliations": [
-   "University of Tehran",
-   "Aja University of Medical Sciences",
-   "Baqiyatallah University of Medical Sciences",
-   "Middle East Liver Disease Center",
-   "Tehran University of Medical Sciences",
-   "University of Nevada, Reno",
-   "Razi Vaccine and Serum Research Institute",
-   "Payame Noor University"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "d8d66598a2af2712",
-  "title": "A SAR and QSAR Study of New Artemisinin Compounds with Antimalarial Activity",
-  "authors": [
-   "Cleydson B. R. Santos",
-   "Josinete Vieira",
-   "Cleison Lobato",
-   "Lorane Izabel da Silva Hage-Melim",
-   "Raimundo Souto",
-   "Clarissa Silva Lima",
-   "Elizabeth Oliveira da Costa",
-   "Davi do Socorro Barros Brasil",
-   "Williams Jorge da Cruz Macêdo",
-   "José Carlos Tavares Carvalho"
-  ],
-  "journal": "Molecules",
-  "publisher": "Multidisciplinary Digital Publishing Institute",
-  "published": "2013-12-30",
-  "year": 2013,
-  "doi": "10.3390/molecules19010367",
-  "url": "https://doi.org/10.3390/molecules19010367",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 47,
-  "affiliations": [
-   "Universidade Federal do Amapá",
-   "Universidade Federal do Pará"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "b654895247e591eb",
@@ -324,24 +189,19 @@
   "url": "https://doi.org/10.1021/ci400628q",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Materials Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Crystal Structures",
-   "Docking",
-   "QSAR",
-   "Virtual Screening"
-  ],
-  "relevance_score": 89,
+  "tags": [],
+  "relevance_score": 92,
   "affiliations": [
    "Wittenberg University",
    "Martin Luther University Halle-Wittenberg",
    "University of Freiburg",
    "University Medical Center Freiburg"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "9e7d8a2d3ec0de87",
@@ -358,136 +218,16 @@
   "url": "https://doi.org/10.13005/ojc/290447",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 62,
   "affiliations": [
    "Devi Ahilya Vishwavidyalaya"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "503f052e004a0257",
-  "title": "Hubungan Kuantitatif Struktur dan Aktivitas Senyawa Turunan 5,5’-Indirubin-3’-oxime yang Menghambat Cyclin-Dependent Kinase (CDK) 2",
-  "authors": [
-   "Ferlianti Oktaviani Pangestoe",
-   "Daryono Hadi Tjahjono"
-  ],
-  "journal": "Acta Pharmaceutica Indonesia",
-  "publisher": "",
-  "published": "2013-12-30",
-  "year": 2013,
-  "doi": "10.5614/api.v38i4.5229",
-  "url": "https://doi.org/10.5614/api.v38i4.5229",
-  "source": "openalex",
-  "categories": [
-   "Property Prediction",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "LogP",
-   "QSAR"
-  ],
-  "relevance_score": 45,
-  "affiliations": [
-   "Bandung Institute of Technology"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "3e208194d9959b1d",
-  "title": "RATIONALIZATION OF MOLECULAR DESCRIPTORS OF AURONE ANALOGS TOWARD ANTI-MALARIAL ACTIVITY",
-  "authors": [
-   "Arun Kumar Gupta",
-   "Priyanka Singh",
-   "Neetu Sabarwal"
-  ],
-  "journal": "Asian Journal of Pharmaceutical and Clinical Research",
-  "publisher": "Innovare Academic Sciences",
-  "published": "2013-12-29",
-  "year": 2013,
-  "doi": "",
-  "url": "http://innovareacademics.in/journals/index.php/ajpcr/article/download/755/508",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Descriptors",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 58,
-  "affiliations": [],
-  "added": "2026-07-21"
- },
- {
-  "id": "886566099d200b8f",
-  "title": "First-principles energetics of water clusters and ice: A many-body analysis",
-  "authors": [
-   "M. J. Gillan",
-   "Dario Alfè",
-   "Albert P. Bartók",
-   "Gábor Cśanyi"
-  ],
-  "journal": "The Journal of Chemical Physics",
-  "publisher": "American Institute of Physics",
-  "published": "2013-12-28",
-  "year": 2013,
-  "doi": "10.1063/1.4852182",
-  "url": "https://doi.org/10.1063/1.4852182",
-  "source": "openalex",
-  "categories": [
-   "Computational Chemistry",
-   "Materials Chemistry",
-   "Machine Learning"
-  ],
-  "tags": [
-   "Chemistry",
-   "Crystal Structures",
-   "DFT",
-   "Machine Learning",
-   "Molecules",
-   "Quantum Chemistry"
-  ],
-  "relevance_score": 74,
-  "affiliations": [
-   "London Centre for Nanotechnology",
-   "Thomas Young Centre",
-   "University College London",
-   "University of Cambridge"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "41b2b2df281d779d",
-  "title": "Design, Synthesis and anti microbial, anti-inflammatory, Antitubercular activities of some 2,4,5-trisubstituted imidazole derivatives",
-  "authors": [
-   "Ramesh S. Kalkotwar",
-   "R. B. Saudagar"
-  ],
-  "journal": "Asian Journal of Pharmaceutical Research",
-  "publisher": "",
-  "published": "2013-12-28",
-  "year": 2013,
-  "doi": "",
-  "url": "https://www.indianjournals.com/ijor.aspx?target=ijor:ajpr&volume=3&issue=4&article=001&type=pdf",
-  "source": "openalex",
-  "categories": [
-   "Spectroscopy",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "NMR",
-   "QSAR"
-  ],
-  "relevance_score": 48,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "be29eae78269b805",
@@ -504,21 +244,18 @@
   "url": "https://doi.org/10.2174/1875036201307010063",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Ligands",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 61,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "University of Delhi",
    "Indian Council of Medical Research"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "b0f6bd2403f309f1",
@@ -537,20 +274,18 @@
   "url": "https://doi.org/10.14233/ajchem.2014.15883",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Docking",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 67,
+  "tags": [],
+  "relevance_score": 93,
   "affiliations": [
    "South China Agricultural University",
    "Southern Medical University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "7a868ee3bcc19163",
@@ -570,14 +305,12 @@
   "url": "https://doi.org/10.1007/s00044-013-0896-6",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Optimization"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Genetic Algorithm",
-   "QSAR"
-  ],
-  "relevance_score": 64,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "Islamic Azad University, Tehran",
    "Islamic Azad University Ardabil",
@@ -586,7 +319,8 @@
    "Tehran University of Medical Sciences",
    "Payame Noor University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "78cdf343c90b15b2",
@@ -608,23 +342,19 @@
   "url": "https://doi.org/10.1111/cbdd.12276",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Docking",
-   "Ligands",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 69,
+  "tags": [],
+  "relevance_score": 79,
   "affiliations": [
    "Dalian University of Technology",
    "Dalian University",
    "Dalian Institute of Chemical Physics"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "2959e2685e6db06c",
@@ -644,17 +374,17 @@
   "url": "https://doi.org/10.1002/cem.2584",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 55,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "Shaanxi University of Science and Technology"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "065e184fffdd7eaa",
@@ -673,19 +403,18 @@
   "url": "https://doi.org/10.1094/cplex-2013-1226-07w",
   "source": "openalex",
   "categories": [
-   "Spectroscopy",
-   "Machine Learning"
+   "Spectroscopy & Analysis",
+   "Classical ML",
+   "Deep Learning"
   ],
-  "tags": [
-   "Machine Learning",
-   "Spectroscopy"
-  ],
-  "relevance_score": 48,
+  "tags": [],
+  "relevance_score": 87,
   "affiliations": [
    "Centre Hospitalier de Beauvais",
    "Institut polytechnique LaSalle Beauvais"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "ecab64b633aa7e7f",
@@ -703,18 +432,17 @@
   "url": "https://doi.org/10.1016/j.ejmech.2013.10.083",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Computational Chemistry"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "In Silico",
-   "QSAR"
-  ],
-  "relevance_score": 60,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "Dr. Babasaheb Ambedkar Marathwada University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "094d582c9d7a855f",
@@ -733,20 +461,17 @@
   "url": "https://doi.org/10.1016/j.bmcl.2013.12.065",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
-   "Computational Chemistry"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Docking",
-   "In Silico",
-   "QSAR"
-  ],
-  "relevance_score": 72,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [
    "Chosun University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "e387ff33ee631bbd",
@@ -764,54 +489,15 @@
   "url": "https://doi.org/10.5281/zenodo.1336256",
   "source": "openalex",
   "categories": [
-   "Physical Organic Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR",
-   "Steric Parameters"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 93,
   "affiliations": [],
-  "added": "2026-07-21"
- },
- {
-  "id": "28ce75a6463f696d",
-  "title": "Integration of Methods in Cheminformatics and Biocalorimetry for the Design of Trypanosomatid Enzyme Inhibitors",
-  "authors": [
-   "Igor Muccilo Prokopczyk",
-   "Jean FR Ribeiro",
-   "G. Sartori",
-   "Renata Sesti-Costa",
-   "João S. Silva",
-   "Renato Ferreira de Freitas",
-   "Andrei Leitão",
-   "Carlos A. Montanari"
-  ],
-  "journal": "Future Medicinal Chemistry",
-  "publisher": "Future Science Ltd",
-  "published": "2013-12-23",
-  "year": 2013,
-  "doi": "10.4155/fmc.13.185",
-  "url": "https://doi.org/10.4155/fmc.13.185",
-  "source": "openalex",
-  "categories": [
-   "Catalysis",
-   "Computational Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Cheminformatics",
-   "Ligands",
-   "Molecular Dynamics",
-   "Molecules",
-   "Virtual Screening"
-  ],
-  "relevance_score": 81,
-  "affiliations": [
-   "Universidade de São Paulo"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "c7d0178fb94e80ed",
@@ -829,18 +515,19 @@
   "url": "https://doi.org/10.1016/j.chemolab.2013.12.005",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 86,
   "affiliations": [
    "Warsaw University of Technology",
    "Instituto de Investigaciones Fisicoquímicas Teóricas y Aplicadas",
    "Consejo Nacional de Investigaciones Científicas y Técnicas"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "e92a906049b4d7d6",
@@ -858,21 +545,17 @@
   "url": "https://doi.org/10.1002/ffj.3191",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "PLS",
-   "QSPR",
-   "Statistical Modeling"
-  ],
-  "relevance_score": 65,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "Jadavpur University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "bb43d373f8820b8f",
@@ -889,21 +572,15 @@
   "url": "https://doi.org/10.5012/jkcs.2013.57.6.744",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Molecule Generation",
-   "Cheminformatics",
-   "Classical ML"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecular Design",
-   "Molecules",
-   "QSAR",
-   "SAR",
-   "kNN"
-  ],
-  "relevance_score": 87,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "40651f21e5bbd0e3",
@@ -921,19 +598,17 @@
   "url": "https://doi.org/10.2478/s11532-013-0389-y",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Machine Learning"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Predictive Model",
-   "QSAR"
-  ],
-  "relevance_score": 60,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "Babeș-Bolyai University",
    "Nicolaus Copernicus University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "13a480b4294e37d9",
@@ -952,44 +627,15 @@
   "url": "https://doi.org/10.5012/bkcs.2013.34.12.3553",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Docking",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 70,
+  "tags": [],
+  "relevance_score": 93,
   "affiliations": [],
-  "added": "2026-07-21"
- },
- {
-  "id": "09360c2fe3f375bc",
-  "title": "Ecotoxicity Estimation of Hazardous Air Pollutants Emitted from Semiconductor Manufacturing Processes Utilizing QSAR",
-  "authors": [
-   "Hyung-Geun Park",
-   "Min-Kyeong Yeo"
-  ],
-  "journal": "Bulletin of the Korean Chemical Society",
-  "publisher": "Wiley",
-  "published": "2013-12-20",
-  "year": 2013,
-  "doi": "10.5012/bkcs.2013.34.12.3755",
-  "url": "https://doi.org/10.5012/bkcs.2013.34.12.3755",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [
-   "Kyung Hee University"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "96effb5ea68e4fa8",
@@ -1009,17 +655,18 @@
   "url": "https://doi.org/10.1016/j.molcatb.2013.12.004",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 61,
   "affiliations": [
    "University of Trieste",
    "Novozymes (Denmark)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "9632246d5b5f406e",
@@ -1037,21 +684,16 @@
   "url": "https://doi.org/10.1155/2013/107840",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Molecule Generation",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Catalysis",
-   "Molecular Design",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 79,
+  "tags": [],
+  "relevance_score": 81,
   "affiliations": [
    "Savitribai Phule Pune University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "2cc90f9f65f98018",
@@ -1068,23 +710,18 @@
   "url": "https://doi.org/10.1016/j.jtusci.2013.12.001",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics",
-   "Optimization"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Genetic Algorithm",
-   "Ligands",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 65,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "Devi Ahilya Vishwavidyalaya",
    "Kanya Maha Vidyalaya"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "216867892c46019a",
@@ -1101,87 +738,17 @@
   "url": "https://doi.org/10.2174/15680266112126660221",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Organic Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Cheminformatics",
-   "Chemistry",
    "Drug Discovery",
-   "Medicinal Chemistry",
-   "Organic Synthesis",
-   "QSAR",
-   "SAR"
+   "Classical ML"
   ],
-  "relevance_score": 84,
+  "tags": [],
+  "relevance_score": 90,
   "affiliations": [
    "Universidade do Porto",
    "Rede de Química e Tecnologia"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "8d33c83fcab1d699",
-  "title": "Etude des corrélations entre les paramètres structuraux et les propriétés bioactives de quelques composés organiques",
-  "authors": [
-   "ملكمي, نجيب"
-  ],
-  "journal": "University of Biskra Theses Repository (University of Biskra)",
-  "publisher": "University of Biskra",
-  "published": "2013-12-18",
-  "year": 2013,
-  "doi": "",
-  "url": "",
-  "source": "openalex",
-  "categories": [
-   "Computational Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Ab Initio",
-   "DFT",
-   "QSAR"
-  ],
-  "relevance_score": 57,
-  "affiliations": [],
-  "added": "2026-07-21"
- },
- {
-  "id": "53323fb3cc9d44bb",
-  "title": "Adaptive Peptide Design",
-  "authors": [
-   "Gisbert Schneider",
-   "Yen-Chu Lin",
-   "Christian P. Koch",
-   "Max Pillong",
-   "Anna Maria Perna",
-   "Michael Reutlinger",
-   "Jan A. Hiss"
-  ],
-  "journal": "CHIMIA International Journal for Chemistry",
-  "publisher": "Swiss Chemical Society",
-  "published": "2013-12-18",
-  "year": 2013,
-  "doi": "10.2533/chimia.2013.859",
-  "url": "https://doi.org/10.2533/chimia.2013.859",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Molecule Generation",
-   "Machine Learning"
-  ],
-  "tags": [
-   "Machine Learning",
-   "Molecular Design",
-   "Molecules",
-   "SAR"
-  ],
-  "relevance_score": 71,
-  "affiliations": [
-   "Board of the Swiss Federal Institutes of Technology"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "dbaca856c275629d",
@@ -1197,81 +764,16 @@
   "url": "https://doi.org/10.1021/ie403293z",
   "source": "openalex",
   "categories": [
-   "Computational Chemistry",
-   "Physical Chemistry",
+   "Molecular Properties & Design",
    "Deep Learning"
   ],
-  "tags": [
-   "Chemistry",
-   "Computational Chemistry",
-   "Ionic Liquids",
-   "Neural Network"
-  ],
-  "relevance_score": 74,
+  "tags": [],
+  "relevance_score": 73,
   "affiliations": [
    "University of La Serena"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "91bf3a92ce521788",
-  "title": "A call to action answered: Highlights from the ASBMB student‐centered education in the molecular life sciences symposium",
-  "authors": [
-   "Jennifer Loertscher"
-  ],
-  "journal": "Biochemistry and Molecular Biology Education",
-  "publisher": "Wiley",
-  "published": "2013-12-17",
-  "year": 2013,
-  "doi": "10.1002/bmb.20755",
-  "url": "https://doi.org/10.1002/bmb.20755",
-  "source": "openalex",
-  "categories": [
-   "Active Learning",
-   "Deep Learning"
-  ],
-  "tags": [
-   "Active Learning",
-   "Deep Learning",
-   "Molecules"
-  ],
-  "relevance_score": 62,
-  "affiliations": [
-   "Seattle University"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "5e32d2bc26a9b9e6",
-  "title": "[Quantum-pharmacological aspects of cardiovascular drugs studying].",
-  "authors": [
-   "Zahorodnyĭ Mi",
-   "T Iu Nebesna",
-   "O. Kazakova",
-   "Horchakova No",
-   "Svintsits'kyĭ As",
-   "Chekman Is"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "2013-12-16",
-  "year": 2013,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/23951907",
-  "source": "openalex",
-  "categories": [
-   "Property Prediction",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "QSAR",
-   "Solubility"
-  ],
-  "relevance_score": 54,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "624c6d4290b6b516",
@@ -1285,17 +787,15 @@
   "url": "https://doi.org/10.7598/cst2014.590",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Docking",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 70,
+  "tags": [],
+  "relevance_score": 94,
   "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "2b6e48f956807d4e",
@@ -1316,21 +816,17 @@
   "url": "https://doi.org/10.23939/chcht07.04.397",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Descriptors",
-   "Molecules",
-   "QSAR",
-   "Regression"
-  ],
-  "relevance_score": 81,
+  "tags": [],
+  "relevance_score": 89,
   "affiliations": [
    "Danylo Halytsky Lviv National Medical University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "5fa4e764d5b48e93",
@@ -1350,19 +846,15 @@
   "url": "https://doi.org/10.2174/18715222113136660008",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Docking",
-   "Ligands",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 76,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "34516ff80059aa62",
@@ -1389,61 +881,50 @@
   "url": "https://doi.org/10.1142/s0219633614500126",
   "source": "openalex",
   "categories": [
-   "Computational Chemistry",
-   "Cheminformatics",
+   "Drug Discovery",
    "Classical ML",
-   "Chemometrics & Statistics"
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecular Dynamics",
-   "Molecules",
-   "PCA",
-   "QSAR",
-   "Quantum Chemistry",
-   "SVM"
-  ],
-  "relevance_score": 100,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "Southwest Petroleum University",
    "Beijing Institute of Technology",
    "Institute of Rock and Soil Mechanics",
    "Capital Normal University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
-  "id": "d007719dfb0ef4e4",
-  "title": "Artificial Neural Network in Drug Delivery and Pharmaceutical Research",
+  "id": "ad3808c45626f280",
+  "title": "How Diverse Are Diversity Assessment Methods? A Comparative Analysis and Benchmarking of Molecular Descriptor Space",
   "authors": [
-   "Vijaykumar Sutariya",
-   "Anastasia Groshev",
-   "Prabodh Sadana",
-   "Deepak Bhatia",
-   "Yashwant Pathak"
+   "Alexios Koutsoukas",
+   "Shardul Paricharak",
+   "Warren R. J. D. Galloway",
+   "David R. Spring",
+   "Adriaan P. IJzerman",
+   "Robert C. Glen",
+   "David Marcus",
+   "Andreas Bender"
   ],
-  "journal": "The Open Bioinformatics Journal",
-  "publisher": "Bentham Science Publishers",
+  "journal": "Journal of Chemical Information and Modeling",
+  "publisher": "American Chemical Society (ACS)",
   "published": "2013-12-13",
   "year": 2013,
-  "doi": "10.2174/1875036201307010049",
-  "url": "https://doi.org/10.2174/1875036201307010049",
-  "source": "openalex",
+  "doi": "10.1021/ci400469u",
+  "url": "https://doi.org/10.1021/ci400469u",
+  "source": "crossref",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Deep Learning"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Medicinal Chemistry",
-   "Neural Network"
-  ],
-  "relevance_score": 54,
-  "affiliations": [
-   "University of South Florida",
-   "Northeast Ohio Medical University"
-  ],
-  "added": "2026-07-21"
+  "tags": [],
+  "relevance_score": 87,
+  "affiliations": [],
+  "added": "2026-11-27",
+  "oa_abstract": "yes"
  },
  {
   "id": "6ac25acf9895db74",
@@ -1463,52 +944,17 @@
   "url": "https://doi.org/10.1007/s12272-013-0313-1",
   "source": "openalex",
   "categories": [
-   "Computational Chemistry",
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Docking",
-   "In Silico",
-   "Molecular Dynamics",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 78,
+  "tags": [],
+  "relevance_score": 77,
   "affiliations": [
    "Chosun University"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "5900fdbd0e9212f1",
-  "title": "Synthesis, Biological Activity, Molecular Modelling Studies and 3D-QSARInvestigations of N-[2-(aryl/substituted aryl)-4-oxo-1, 3-thiazolidin-3-yl]pyridine-4-carboxamides",
-  "authors": [
-   "Asha Thomas",
-   "Rabindra K. Nanda",
-   "Lata Kothapalli",
-   "Piyush A. Sharma",
-   "Kishori Apte"
-  ],
-  "journal": "The Open Conference Proceedings Journal",
-  "publisher": "Bentham Science Publishers",
-  "published": "2013-12-13",
-  "year": 2013,
-  "doi": "",
-  "url": "https://benthamopen.com/ABSTRACT/TOPROCJ-4-3-99",
-  "source": "openalex",
-  "categories": [
-   "Molecule Generation",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecular Design",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 58,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "e712f6b343de566f",
@@ -1528,20 +974,19 @@
   "url": "https://doi.org/10.1016/j.bmcl.2013.12.026",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Docking",
-   "QSAR"
-  ],
-  "relevance_score": 64,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "Tianjin International Joint Academy of Biomedicine",
    "Tianjin University of Science and Technology",
    "Nankai University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "33cdc88e6d2dc4af",
@@ -1560,16 +1005,17 @@
   "url": "https://doi.org/10.1016/j.ejmech.2013.11.039",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 76,
   "affiliations": [
    "University of Louisiana at Monroe"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "088243f58aa5d6fc",
@@ -1594,12 +1040,12 @@
   "url": "https://doi.org/10.1016/j.jmgm.2013.12.004",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 78,
   "affiliations": [
    "Universidade Federal de Juiz de Fora",
    "Universidade Federal de Santa Catarina",
@@ -1607,7 +1053,8 @@
    "Universidad de Buenos Aires",
    "Universidade Estadual do Oeste do Paraná"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "5395f29a2de0a6e6",
@@ -1629,20 +1076,19 @@
   "url": "https://doi.org/10.1016/j.bmc.2013.12.002",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Docking",
-   "QSAR"
-  ],
-  "relevance_score": 64,
+  "tags": [],
+  "relevance_score": 86,
   "affiliations": [
    "Mazandaran University of Medical Sciences",
    "Tehran University of Medical Sciences",
    "Shahid Beheshti University of Medical Sciences"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "dfb18333388b6580",
@@ -1664,23 +1110,17 @@
   "url": "https://doi.org/10.1021/ef402140n",
   "source": "openalex",
   "categories": [
-   "Computational Chemistry",
-   "Reaction Prediction",
-   "Cheminformatics"
+   "Synthesis & Reactions",
+   "Deep Learning"
   ],
-  "tags": [
-   "Cheminformatics",
-   "Chemistry",
-   "Molecular Dynamics",
-   "Molecules",
-   "Reactions"
-  ],
-  "relevance_score": 60,
+  "tags": [],
+  "relevance_score": 61,
   "affiliations": [
    "Institute of Process Engineering",
    "University of Chinese Academy of Sciences"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "ab3c529a985013b2",
@@ -1701,51 +1141,17 @@
   "url": "https://doi.org/10.1007/s11224-013-0380-4",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [
    "University of Bari Aldo Moro",
    "Mario Negri Institute for Pharmacological Research"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "7bc5d92bb70356db",
-  "title": "Discovery of antibiotics-derived polymers for gene delivery using combinatorial synthesis and cheminformatics modeling",
-  "authors": [
-   "Thrimoorthy Potta",
-   "Zhuo Zhen",
-   "Taraka Sai Pavan Grandhi",
-   "Matthew D. Christensen",
-   "James Ramos",
-   "Curt M. Breneman",
-   "Kaushal Rege"
-  ],
-  "journal": "Biomaterials",
-  "publisher": "Elsevier BV",
-  "published": "2013-12-10",
-  "year": 2013,
-  "doi": "10.1016/j.biomaterials.2013.10.069",
-  "url": "https://doi.org/10.1016/j.biomaterials.2013.10.069",
-  "source": "openalex",
-  "categories": [
-   "Polymer Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Cheminformatics",
-   "Polymers"
-  ],
-  "relevance_score": 60,
-  "affiliations": [
-   "Arizona State University",
-   "Rensselaer Polytechnic Institute"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "e629232c2fa2520e",
@@ -1763,58 +1169,16 @@
   "url": "https://doi.org/10.1002/cem.2579",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Catalysis",
-   "Docking",
-   "Ligands",
-   "Molecules",
-   "QSAR",
-   "Virtual Screening"
-  ],
-  "relevance_score": 94,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [
    "Nigerian Stored Products Research Institute"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "badcaeb8ffe81324",
-  "title": "Mathematical Chemistry and Chemoinformatics",
-  "authors": [
-   "Adalbert Kerber",
-   "Reinhard Laue",
-   "Markus Meringer",
-   "Christoph Rücker",
-   "Emma Schymanski"
-  ],
-  "journal": "",
-  "publisher": "",
-  "published": "2013-12-09",
-  "year": 2013,
-  "doi": "10.1515/9783110254075",
-  "url": "https://doi.org/10.1515/9783110254075",
-  "source": "openalex",
-  "categories": [
-   "Spectroscopy",
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Cheminformatics",
-   "Chemistry",
-   "Drug Discovery",
-   "Mass Spectrometry",
-   "Molecules",
-   "QSAR",
-   "QSPR"
-  ],
-  "relevance_score": 96,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "20dd7cca8e5f0a73",
@@ -1832,58 +1196,17 @@
   "url": "https://doi.org/10.1016/j.chemolab.2013.11.011",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Docking",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 70,
+  "tags": [],
+  "relevance_score": 94,
   "affiliations": [
    "Sun Yat-sen University"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "b18a20a3133c9580",
-  "title": "QSAR, docking, dynamic simulation and quantum mechanics studies to explore the recognition properties of cholinesterase binding sites",
-  "authors": [
-   "José Correa-Basurto",
-   "Martiniano Bello",
-   "Martha Cecilia Rosales-Hernández",
-   "Maricarmen Hernández-Rodríguez",
-   "María Inés Nicolás-Vázquez",
-   "Arturo Rojo-Domínguez",
-   "José G. Trujillo-Ferrara",
-   "René Miranda",
-   "C.A. Flores-Sandoval"
-  ],
-  "journal": "Chemico-Biological Interactions",
-  "publisher": "Elsevier BV",
-  "published": "2013-12-07",
-  "year": 2013,
-  "doi": "10.1016/j.cbi.2013.12.001",
-  "url": "https://doi.org/10.1016/j.cbi.2013.12.001",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Docking",
-   "QSAR"
-  ],
-  "relevance_score": 64,
-  "affiliations": [
-   "Instituto Politécnico Nacional",
-   "Universidad de Cuautitlán Izcalli",
-   "Universidad Nacional Autónoma de México",
-   "Universidad Autónoma Metropolitana",
-   "Mexican Institute of Petroleum"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "8d8bad82ef815fad",
@@ -1906,17 +1229,18 @@
   "url": "https://doi.org/10.1016/j.bmcl.2013.11.056",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 100,
   "affiliations": [
    "Amorepacific (South Korea)",
    "Kyung Hee University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "e2a1edc7d886b249",
@@ -1934,18 +1258,17 @@
   "url": "https://doi.org/10.1016/j.bmc.2013.11.049",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Ligands",
-   "QSAR"
-  ],
-  "relevance_score": 64,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "University of Alabama at Birmingham"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "37eec4ce09bb3b49",
@@ -1962,26 +1285,15 @@
   "source": "openalex",
   "categories": [
    "Computational Chemistry",
-   "Spectroscopy",
-   "Catalysis",
-   "Cheminformatics"
+   "Classical ML"
   ],
-  "tags": [
-   "Ab Initio",
-   "Chemistry",
-   "DFT",
-   "Ligands",
-   "Molecules",
-   "NMR",
-   "QSAR",
-   "Quantum Chemistry",
-   "Spectroscopy"
-  ],
-  "relevance_score": 72,
+  "tags": [],
+  "relevance_score": 87,
   "affiliations": [
    "University of Shizuoka"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "1a6105ed80707645",
@@ -2001,76 +1313,16 @@
   "url": "https://doi.org/10.1016/j.jphotobiol.2013.11.023",
   "source": "openalex",
   "categories": [
-   "Materials Chemistry",
-   "Cheminformatics"
+   "Materials",
+   "Classical ML"
   ],
-  "tags": [
-   "Nanoparticles",
-   "QSAR"
-  ],
-  "relevance_score": 61,
+  "tags": [],
+  "relevance_score": 85,
   "affiliations": [
    "Jackson State University"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "146cd56cacdc8ab3",
-  "title": "ChemInform Abstract: Sulfonamides Containing Coumarin Moieties Selectively and Potently Inhibit Carbonic Anhydrases II and IX: Design, Synthesis, Inhibitory Activity and 3D‐QSAR Analysis.",
-  "authors": [
-   "Hai-Liang Zhu",
-   "et al. et al."
-  ],
-  "journal": "ChemInform",
-  "publisher": "Wiley",
-  "published": "2013-12-05",
-  "year": 2013,
-  "doi": "10.1002/chin.201352151",
-  "url": "https://doi.org/10.1002/chin.201352151",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [
-   "Nanjing University"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "0f2789fc66b2ecaf",
-  "title": "ChemInform Abstract: Cytotoxic Activity Assessment, QSAR and Docking Study of Novel Bis‐Carboxamide Derivatives of 4‐Pyrones Synthesized by Ugi Four‐Component Reaction.",
-  "authors": [
-   "Aziz Shahrisa",
-   "Somayeh Esmati",
-   "Ramin Miri",
-   "Omidreza Firuzi",
-   "Najmeh Edraki",
-   "Maryam Nejati"
-  ],
-  "journal": "ChemInform",
-  "publisher": "Wiley",
-  "published": "2013-12-05",
-  "year": 2013,
-  "doi": "10.1002/chin.201352145",
-  "url": "https://doi.org/10.1002/chin.201352145",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Docking",
-   "QSAR"
-  ],
-  "relevance_score": 64,
-  "affiliations": [
-   "University of Tabriz"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "0d8409372fa05ca7",
@@ -2087,101 +1339,18 @@
   "url": "https://doi.org/10.1002/cem.2578",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Chemometrics & Statistics",
-   "Classical ML"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemometrics",
-   "Clustering",
-   "PCA",
-   "QSAR"
-  ],
-  "relevance_score": 72,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [
    "National Institute of Chemistry",
    "Clinical Research Solutions"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "1dfc9476e28bb009",
-  "title": "Novel Insights into Embryonic Stem Cell Self‐Renewal Revealed Through Comparative Human and Mouse Systems Biology Networks",
-  "authors": [
-   "Karen Dowell",
-   "Allen K. Simons",
-   "Hao Bai",
-   "Braden Kell",
-   "Zack Z. Wang",
-   "Kyuson Yun",
-   "Matthew Hibbs"
-  ],
-  "journal": "Stem Cells",
-  "publisher": "Oxford University Press",
-  "published": "2013-12-04",
-  "year": 2013,
-  "doi": "10.1002/stem.1612",
-  "url": "https://doi.org/10.1002/stem.1612",
-  "source": "openalex",
-  "categories": [
-   "Polymer Chemistry",
-   "Machine Learning"
-  ],
-  "tags": [
-   "Machine Learning",
-   "Molecules",
-   "Polymers"
-  ],
-  "relevance_score": 44,
-  "affiliations": [
-   "Jackson Laboratory",
-   "University of Maine",
-   "Johns Hopkins Medicine",
-   "Johns Hopkins University",
-   "Trinity University"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "096769958f9f6854",
-  "title": "Antitumor Mechanisms of Amino Acid Hydroxyurea Derivatives in the Metastatic Colon Cancer Model",
-  "authors": [
-   "Nina Šaban",
-   "Višnja Stepanić",
-   "Vučinić Srđan",
-   "Anita Horvatić",
-   "Mario Cindrić",
-   "Ivana Perković",
-   "Branka Zorc",
-   "Nada Oršolić",
-   "Mladen Mintas",
-   "Krešimir Pavelić",
-   "Sandra Kraljević Pavelić"
-  ],
-  "journal": "International Journal of Molecular Sciences",
-  "publisher": "Multidisciplinary Digital Publishing Institute",
-  "published": "2013-12-04",
-  "year": 2013,
-  "doi": "10.3390/ijms141223654",
-  "url": "https://doi.org/10.3390/ijms141223654",
-  "source": "openalex",
-  "categories": [
-   "Spectroscopy",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Cheminformatics",
-   "Mass Spectrometry",
-   "Molecules"
-  ],
-  "relevance_score": 59,
-  "affiliations": [
-   "Ruđer Bošković Institute",
-   "Croatian Academy of Sciences and Arts",
-   "University of Zagreb",
-   "University of Rijeka"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "eb9a135d6b1654ad",
@@ -2202,24 +1371,20 @@
   "url": "https://doi.org/10.3390/molecules181214876",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Spectroscopy",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "NMR",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 79,
+  "tags": [],
+  "relevance_score": 72,
   "affiliations": [
    "Nanjing University of Science and Technology",
    "Yancheng Institute of Technology",
    "Zhejiang University of Technology",
    "Nankai University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "813f980ebcab4924",
@@ -2237,48 +1402,18 @@
   "url": "https://doi.org/10.1021/es4029414",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 54,
+  "tags": [],
+  "relevance_score": 90,
   "affiliations": [
    "University of Toronto",
    "ARC Resources (Canada)",
    "Helmholtz Centre for Environmental Research"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "2ebd6efe8d0fa1bc",
-  "title": "Modèles bio-informatiques pour les peptides non-ribosomiques et leurs synthétases",
-  "authors": [
-   "Maude Pupin"
-  ],
-  "journal": "LillOA (Université de Lille (University Of Lille))",
-  "publisher": "Centre d'Etudes en Civilisations, Langues et Littératures Etrangères",
-  "published": "2013-12-03",
-  "year": 2013,
-  "doi": "",
-  "url": "http://hdl.handle.net/20.500.12210/26181",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Cheminformatics",
-   "Chemistry",
-   "Molecules"
-  ],
-  "relevance_score": 44,
-  "affiliations": [
-   "Laboratoire d'Informatique Fondamentale de Lille"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "2ddd9bd8b402b96b",
@@ -2292,44 +1427,15 @@
   "url": "https://doi.org/10.1201/b15631-5",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
    "Drug Discovery",
-   "QSAR"
+   "Classical ML",
+   "Deep Learning"
   ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 94,
   "affiliations": [],
-  "added": "2026-07-21"
- },
- {
-  "id": "c66feb795bada0b0",
-  "title": "Predictive modeling studies for the ecotoxicity of ionic liquids towards the green algae Scenedesmus vacuolatus",
-  "authors": [
-   "Rudra Narayan Das",
-   "Kunal Roy"
-  ],
-  "journal": "Chemosphere",
-  "publisher": "Elsevier BV",
-  "published": "2013-12-02",
-  "year": 2013,
-  "doi": "10.1016/j.chemosphere.2013.11.002",
-  "url": "https://doi.org/10.1016/j.chemosphere.2013.11.002",
-  "source": "openalex",
-  "categories": [
-   "Physical Chemistry",
-   "Machine Learning"
-  ],
-  "tags": [
-   "Ionic Liquids",
-   "Predictive Model"
-  ],
-  "relevance_score": 56,
-  "affiliations": [
-   "Jadavpur University"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "24e81d6e9199d6ee",
@@ -2347,106 +1453,16 @@
   "url": "https://doi.org/10.2174/1570180811666131203002858",
   "source": "openalex",
   "categories": [
-   "Computational Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "DFT",
-   "QSAR"
-  ],
-  "relevance_score": 55,
+  "tags": [],
+  "relevance_score": 92,
   "affiliations": [
    "Kermanshah University of Medical Sciences"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "ffd9dbe3e62cae5f",
-  "title": "On wavelet based modeling of neural networks using graph theoretic approach",
-  "authors": [],
-  "journal": "Piantadosi, J., Anderssen, R.S. and Boland J. (eds) MODSIM2013, 20th International Congress on Modelling and Simulation",
-  "publisher": "",
-  "published": "2013-12-01",
-  "year": 2013,
-  "doi": "10.36334/modsim.2013.c4.bhosale",
-  "url": "https://doi.org/10.36334/modsim.2013.c4.bhosale",
-  "source": "openalex",
-  "categories": [
-   "Deep Learning"
-  ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "Neural Network"
-  ],
-  "relevance_score": 41,
-  "affiliations": [],
-  "added": "2026-07-21"
- },
- {
-  "id": "ff866aca9fbeee23",
-  "title": "QSAR Study of the Anti-Cancer Activity of 38 Compounds in Different Cancer Cell Lines Based on Gene Expression Programming",
-  "authors": [
-   "Xiu Han",
-   "Xian Chao Li",
-   "Hong Zong",
-   "Cui Zhu Ge",
-   "Hua Gao",
-   "Hong Lin Zhai"
-  ],
-  "journal": "Advanced materials research",
-  "publisher": "Trans Tech Publications",
-  "published": "2013-12-01",
-  "year": 2013,
-  "doi": "10.4028/www.scientific.net/amr.850-851.1291",
-  "url": "https://doi.org/10.4028/www.scientific.net/amr.850-851.1291",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [
-   "Qingdao University",
-   "Lanzhou University"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "f67d21876f620296",
-  "title": "Formal concept analysis approach for comparison between Mutagenicity and Carcinogenicity in Cheminformatics",
-  "authors": [
-   "Mostafa A. Salama",
-   "Aboul Ella Hassanien",
-   "Adel M. Alimi"
-  ],
-  "journal": "",
-  "publisher": "",
-  "published": "2013-12-01",
-  "year": 2013,
-  "doi": "10.1109/his.2013.6920494",
-  "url": "https://doi.org/10.1109/his.2013.6920494",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics",
-   "Machine Learning"
-  ],
-  "tags": [
-   "Cheminformatics",
-   "Chemistry",
-   "Machine Learning",
-   "Molecules"
-  ],
-  "relevance_score": 54,
-  "affiliations": [
-   "British University in Egypt",
-   "Scientific Research Group in Egypt",
-   "Cairo University",
-   "University of Sfax"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "f5a4287e763511ff",
@@ -2464,51 +1480,16 @@
   "url": "https://doi.org/10.1021/ci400264f",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Cheminformatics",
    "Drug Discovery",
-   "Molecules"
+   "Classical ML"
   ],
-  "relevance_score": 56,
+  "tags": [],
+  "relevance_score": 78,
   "affiliations": [
    "Stanford University"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "efec201aede1d076",
-  "title": "ACUTE TOXICITY OF ORGANOPHOSPHORUS PESTICIDES AND ANALYSIS OF QUANTITATIVE STRUCTURE - ACTIVITY RELATIONSHIP (QSAR)",
-  "authors": [
-   "Beatriz Eugenia Jaramillo C",
-   "Irina Martelo E",
-   "Edisson Duarte R"
-  ],
-  "journal": "Biotecnología en el Sector Agropecuario y Agroindustrial",
-  "publisher": "University of Cauca",
-  "published": "2013-12-01",
-  "year": 2013,
-  "doi": "",
-  "url": "http://www.scielo.org.co/scielo.php?pid=S1692-35612013000200009&script=sci_abstract",
-  "source": "openalex",
-  "categories": [
-   "Property Prediction",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Descriptors",
-   "Dipole Moment",
-   "LogP",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 73,
-  "affiliations": [
-   "University of Cartagena"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "e752d142eae53445",
@@ -2525,23 +1506,17 @@
   "url": "https://doi.org/10.2147/rrmc.s50738",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Docking",
-   "Ligands",
-   "Molecules",
-   "QSAR",
-   "SAR",
-   "Virtual Screening"
-  ],
-  "relevance_score": 98,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [
    "Bharati Vidyapeeth Deemed University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "e74bd96bc1939a60",
@@ -2559,97 +1534,16 @@
   "url": "https://doi.org/10.4067/s0717-97072013000400055",
   "source": "openalex",
   "categories": [
-   "Computational Chemistry",
-   "Drug Discovery Chemistry",
-   "Polymer Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Electronic Structure",
-   "Polymers",
-   "QSAR",
-   "Quantum Chemistry",
-   "SAR"
-  ],
-  "relevance_score": 78,
+  "tags": [],
+  "relevance_score": 90,
   "affiliations": [
    "University of Chile"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "c29f44e315495d67",
-  "title": "In silico QSAR analysis of quercetin reveals its potential as therapeutic drug for Alzheimer's disease",
-  "authors": [
-   "Rezaul Islam",
-   "Aubhishek Zaman",
-   "Iffat Jahan",
-   "Rajib Chakravorty",
-   "Sajib Chakraborty"
-  ],
-  "journal": "Journal of Young Pharmacists",
-  "publisher": "",
-  "published": "2013-12-01",
-  "year": 2013,
-  "doi": "10.1016/j.jyp.2013.11.005",
-  "url": "https://doi.org/10.1016/j.jyp.2013.11.005",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
-   "Computational Chemistry"
-  ],
-  "tags": [
-   "Chemistry",
-   "Docking",
-   "In Silico",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 58,
-  "affiliations": [
-   "Dhaka International University",
-   "The University of Texas Southwestern Medical Center",
-   "University of Dhaka",
-   "The University of Melbourne",
-   "Data61"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "bf016e1cacdb78db",
-  "title": "Detection and Tracking Protein Molecules in Fluorescence Microscopic Video",
-  "authors": [
-   "Kensho Fujisaki",
-   "Ayumi Hamano",
-   "Kenta Aoki",
-   "Yaokai Feng",
-   "Seiichi Uchida",
-   "Masahiko Araseki",
-   "Yuki Saito",
-   "Toshiharu Suzuki"
-  ],
-  "journal": "",
-  "publisher": "",
-  "published": "2013-12-01",
-  "year": 2013,
-  "doi": "10.1109/candar.2013.47",
-  "url": "https://doi.org/10.1109/candar.2013.47",
-  "source": "openalex",
-  "categories": [
-   "Machine Learning"
-  ],
-  "tags": [
-   "Machine Learning",
-   "Molecules"
-  ],
-  "relevance_score": 41,
-  "affiliations": [
-   "Kyushu University",
-   "Hokkaido University"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "9f909d06e1ec5422",
@@ -2673,24 +1567,17 @@
   "url": "https://doi.org/10.1080/1062936x.2013.840679",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Materials Chemistry",
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Nanomaterials",
-   "Nanoparticles",
-   "QSAR",
-   "QSPR",
-   "SAR"
-  ],
-  "relevance_score": 89,
+  "tags": [],
+  "relevance_score": 79,
   "affiliations": [
    "University of Gdańsk",
    "Liverpool John Moores University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "9dbffee62d6f53b1",
@@ -2711,22 +1598,18 @@
   "url": "https://doi.org/10.2478/afmnai-2014-0011",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Docking",
-   "Molecules",
-   "QSAR",
-   "SAR",
-   "SMILES"
-  ],
-  "relevance_score": 82,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "University of Nis",
    "Mario Negri Institute for Pharmacological Research"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "8c817917f5aed831",
@@ -2743,59 +1626,16 @@
   "url": "https://doi.org/10.1590/s1413-70542013000600001",
   "source": "openalex",
   "categories": [
-   "Computational Chemistry",
-   "Drug Discovery Chemistry",
-   "Catalysis",
-   "Cheminformatics",
-   "Machine Learning"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "DFT",
-   "Docking",
-   "Ligands",
-   "Molecules",
-   "Predictive Model",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 84,
+  "tags": [],
+  "relevance_score": 74,
   "affiliations": [
    "Universidade Federal de Lavras"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "6705aea5aecc3983",
-  "title": "Numerical study of the influence of water evaporation on radiofrequency ablation",
-  "authors": [
-   "Qing Zhu",
-   "Yuanyuan Shen",
-   "Aili Zhang",
-   "Lisa X. Xu"
-  ],
-  "journal": "BioMedical Engineering OnLine",
-  "publisher": "BioMed Central",
-  "published": "2013-12-01",
-  "year": 2013,
-  "doi": "10.1186/1475-925x-12-127",
-  "url": "https://doi.org/10.1186/1475-925x-12-127",
-  "source": "openalex",
-  "categories": [
-   "Electrochemistry & Batteries",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Electrodes",
-   "QSAR"
-  ],
-  "relevance_score": 42,
-  "affiliations": [
-   "Shanghai Jiao Tong University",
-   "State Key Laboratory of Oncogene and Related Genes",
-   "Shenzhen University"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "60d549ae74866610",
@@ -2812,83 +1652,16 @@
   "url": "https://doi.org/10.1038/aps.2013.129",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Chemometrics"
   ],
-  "tags": [
-   "Docking",
-   "Ligands",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 70,
+  "tags": [],
+  "relevance_score": 100,
   "affiliations": [
    "Alagappa University"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "4f8aaacca9d8e1a3",
-  "title": "Automatic concept clustering for ontological structure through data mining techniques",
-  "authors": [
-   "R. Ramani",
-   "S. Sivasankari",
-   "Lakshmi Balasubramanian"
-  ],
-  "journal": "",
-  "publisher": "",
-  "published": "2013-12-01",
-  "year": 2013,
-  "doi": "10.1109/iccic.2013.6724226",
-  "url": "https://doi.org/10.1109/iccic.2013.6724226",
-  "source": "openalex",
-  "categories": [
-   "Machine Learning",
-   "Classical ML"
-  ],
-  "tags": [
-   "Chemistry",
-   "Clustering",
-   "Machine Learning"
-  ],
-  "relevance_score": 46,
-  "affiliations": [
-   "Anna University, Chennai"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "43598c78b812424b",
-  "title": "LIGAND BASED PHARMACOPHORE MODELING AND QSAR ANALYSIS OF HETEROCYCLIC DIAMIDINE DERIVATIVES AS ANTI-PARASITIC DNA MINOR GROOVE BINDERS",
-  "authors": [
-   "Subhadip Banerjee",
-   "Anil K. Saikia"
-  ],
-  "journal": "DOAJ (DOAJ: Directory of Open Access Journals)",
-  "publisher": "",
-  "published": "2013-12-01",
-  "year": 2013,
-  "doi": "",
-  "url": "https://doaj.org/article/70e5a5666e534b5e86c3a8b3aef47136",
-  "source": "openalex",
-  "categories": [
-   "Catalysis",
-   "Cheminformatics",
-   "Computational Chemistry"
-  ],
-  "tags": [
-   "In Silico",
-   "Ligands",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 62,
-  "affiliations": [
-   "University of Kalyani",
-   "Dibrugarh University"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "427cf70d362e469e",
@@ -2910,25 +1683,19 @@
   "url": "https://doi.org/10.1186/1752-0509-7-s6-s2",
   "source": "openalex",
   "categories": [
-   "Computational Chemistry",
-   "Cheminformatics",
+   "Molecular Properties & Design",
    "Classical ML"
   ],
-  "tags": [
-   "Cheminformatics",
-   "Chemistry",
-   "Clustering",
-   "Computational Chemistry",
-   "Molecules"
-  ],
-  "relevance_score": 60,
+  "tags": [],
+  "relevance_score": 75,
   "affiliations": [
    "Kyoto University",
    "Kyoto University Institute for Chemical Research",
    "Japan Science and Technology Agency",
    "Kyushu University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "25884d1bb873164a",
@@ -2950,22 +1717,12 @@
   "url": "https://doi.org/10.1021/ci300516w",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics",
-   "Machine Learning",
+   "Drug Discovery",
    "Classical ML",
    "Deep Learning"
   ],
-  "tags": [
-   "Decision Tree",
-   "Ligands",
-   "Machine Learning",
-   "Neural Network",
-   "QSAR",
-   "SVM",
-   "kNN"
-  ],
-  "relevance_score": 81,
+  "tags": [],
+  "relevance_score": 84,
   "affiliations": [
    "EIA University",
    "Universidad Central \"Marta Abreu\" de las Villas (UCLV)",
@@ -2974,7 +1731,8 @@
    "Rede de Química e Tecnologia",
    "Universidade de Santiago de Compostela"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "180db061f0df479a",
@@ -2996,20 +1754,18 @@
   "url": "https://doi.org/10.1007/s10822-013-9697-8",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Docking",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 73,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "Chongqing University",
    "Chongqing University of Technology"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "16177b86bc16d9c1",
@@ -3027,21 +1783,18 @@
   "url": "https://doi.org/10.1007/s10822-013-9699-6",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics",
-   "Computational Chemistry"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "In Silico",
-   "Ligands",
-   "QSAR"
-  ],
-  "relevance_score": 72,
+  "tags": [],
+  "relevance_score": 90,
   "affiliations": [
    "University of Jordan",
    "Applied Science Private University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "0bc871b95d8cf1b6",
@@ -3059,18 +1812,17 @@
   "url": "https://doi.org/10.1002/minf.201300091",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR",
-   "Virtual Screening"
-  ],
-  "relevance_score": 60,
+  "tags": [],
+  "relevance_score": 89,
   "affiliations": [
    "Novartis (Switzerland)",
    "Boehringer Ingelheim (United States)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "09668fa11c456829",
@@ -3091,56 +1843,19 @@
   "url": "https://doi.org/10.1186/1471-2164-14-s8-s10",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Catalysis",
-   "Cheminformatics",
-   "High-Throughput & Autonomous"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Catalysis",
-   "Docking",
-   "High-Throughput",
-   "Ligands",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 84,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "Banasthali University",
    "Jawaharlal Nehru University",
    "Department of Biotechnology",
    "Delhi Technological University"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "00f0850d030eae2d",
-  "title": "TOXICIDAD AGUDA DE PESTICIDAS ORGANOF[OSFORADOS Y ANÁLISIS DE LA RELACIÓN CUANTITATIVA DE ESTRUCTURA ACTIVIDAD (QSAR)",
-  "authors": [
-   "Beatriz Eugenia Jaramillo C",
-   "Irina Martelo E",
-   "Edisson Duarte R"
-  ],
-  "journal": "DOAJ (DOAJ: Directory of Open Access Journals)",
-  "publisher": "",
-  "published": "2013-12-01",
-  "year": 2013,
-  "doi": "",
-  "url": "https://doaj.org/article/a89bd46842754a14b6413db23cff478f",
-  "source": "openalex",
-  "categories": [
-   "Property Prediction",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "LogP",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [
-   "University of Cartagena"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

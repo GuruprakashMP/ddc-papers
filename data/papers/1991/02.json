@@ -1,38 +1,5 @@
 [
  {
-  "id": "491a22522c8f2440",
-  "title": "Quantitation of Hydrophobicity for Elucidating the Structure—Activity Relationships of Food Proteins",
-  "authors": [
-   "S. Nakai",
-   "Eunice C.Y. Li-Chan",
-   "Motohiko Hirotsuka",
-   "Manuel A. Pérez Vázquez",
-   "G.E. Arteaga"
-  ],
-  "journal": "ACS symposium series",
-  "publisher": "American Chemical Society",
-  "published": "1991-02-19",
-  "year": 1991,
-  "doi": "10.1021/bk-1991-0454.ch004",
-  "url": "https://doi.org/10.1021/bk-1991-0454.ch004",
-  "source": "openalex",
-  "categories": [
-   "Spectroscopy",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecules",
-   "NMR",
-   "QSAR",
-   "Raman"
-  ],
-  "relevance_score": 66,
-  "affiliations": [
-   "University of British Columbia"
-  ],
-  "added": "2026-07-21"
- },
- {
   "id": "d57e67b6f17ed246",
   "title": "Analysis of the in vitro antitumor activity of novel purine-6-sulfenamide, -sulfinamide, and -sulfonamide nucleosides and certain related compounds using a computer-aided receptor modeling procedure",
   "authors": [
@@ -52,17 +19,17 @@
   "url": "https://doi.org/10.1021/jm00106a007",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 54,
+  "tags": [],
+  "relevance_score": 73,
   "affiliations": [
    "Orange Coast College"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "6bc6d1b80d321b70",
@@ -81,21 +48,16 @@
   "url": "https://doi.org/10.1002/etc.5620100212",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Property Prediction",
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "SAR",
-   "pKa"
-  ],
-  "relevance_score": 75,
+  "tags": [],
+  "relevance_score": 69,
   "affiliations": [
    "Mitsubishi Group (Japan)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "61bcf23c384bd7d0",
@@ -115,45 +77,15 @@
   "url": "https://doi.org/10.1021/jm00106a046",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 72,
+  "tags": [],
+  "relevance_score": 85,
   "affiliations": [
    "Pomona College"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "1aa84bc0a553c3c2",
-  "title": "Multivariate statistical monitoring of process operating performance",
-  "authors": [
-   "James V. Kresta",
-   "John F. Macgregor",
-   "Thomas E. Marlin"
-  ],
-  "journal": "The Canadian Journal of Chemical Engineering",
-  "publisher": "Wiley",
-  "published": "1991-02-01",
-  "year": 1991,
-  "doi": "10.1002/cjce.5450690105",
-  "url": "https://doi.org/10.1002/cjce.5450690105",
-  "source": "crossref",
-  "categories": [
-   "Chemometrics & Statistics"
-  ],
-  "tags": [
-   "PCA",
-   "PLS"
-  ],
-  "relevance_score": 52,
-  "affiliations": [],
-  "added": "2026-10-30"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

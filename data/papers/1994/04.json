@@ -1,37 +1,5 @@
 [
  {
-  "id": "920c0f5ce2a7e0af",
-  "title": "The use of quantum chemically derived descriptors for QSAR modelling of reductive dehalogenation of aromatic compounds",
-  "authors": [
-   "Emiel Rorije",
-   "J. Richter",
-   "Peijnenburg Wjgm",
-   "ECO",
-   "Ihe Delft"
-  ],
-  "journal": "Rivm Repository (Netherlands National Institute for Public Health and the Environment)",
-  "publisher": "National Institute for Public Health and the Environment",
-  "published": "1994-04-30",
-  "year": 1994,
-  "doi": "",
-  "url": "http://www.rivm.nl/bibliotheek/rapporten/719101015.html",
-  "source": "openalex",
-  "categories": [
-   "Computational Chemistry",
-   "Reaction Prediction",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "Quantum Chemistry",
-   "Reaction Mechanisms"
-  ],
-  "relevance_score": 70,
-  "affiliations": [],
-  "added": "2026-07-21"
- },
- {
   "id": "853282b9da8de950",
   "title": "Structure—Activity Relationships of Protoporphyrinogen Oxidase Inhibiting Herbicides",
   "authors": [
@@ -46,49 +14,18 @@
   "url": "https://doi.org/10.1021/bk-1994-0559.ch010",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 42,
+  "tags": [],
+  "relevance_score": 65,
   "affiliations": [
    "Agricultural Research Service",
    "United States Department of Agriculture"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "f35f52ed6ac6f1e4",
-  "title": "An Analysis of the Relative Occurrence of N -Demethylation and N -Oxidation in Xenobiotic Metabolism Using Structure-Reactivity Maps",
-  "authors": [
-   "Eric Gifford",
-   "Mark A. Johnson",
-   "David G. Kaiser",
-   "C. C. Tsai"
-  ],
-  "journal": "SAR and QSAR in environmental research",
-  "publisher": "Taylor & Francis",
-  "published": "1994-04-01",
-  "year": 1994,
-  "doi": "10.1080/10629369408028843",
-  "url": "https://doi.org/10.1080/10629369408028843",
-  "source": "openalex",
-  "categories": [
-   "Reaction Prediction",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR",
-   "Reactivity"
-  ],
-  "relevance_score": 48,
-  "affiliations": [
-   "Kent State University",
-   "W.E. Upjohn Institute for Employment Research"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "d6ee7726a96b5381",
@@ -107,52 +44,18 @@
   "url": "https://doi.org/10.1021/jm00033a014",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 92,
   "affiliations": [
    "Loughborough University",
    "Loughborough College"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "d24906afa8e24e33",
-  "title": "Molecular modeling of 5-HT3 receptor antagonists: geometrical, electronic and lipophilic features of the pharmacophore and 3D-QSAR study.",
-  "authors": [
-   "Michel S. Laguerre",
-   "Dubost Jp",
-   "Eva Kummer",
-   "A. Carpy"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "1994-04-01",
-  "year": 1994,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/7548636",
-  "source": "openalex",
-  "categories": [
-   "Catalysis",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Ligands",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 55,
-  "affiliations": [
-   "Centre National de la Recherche Scientifique",
-   "Université de Bordeaux",
-   "Laboratoire de Chimie Physique",
-   "Laboratoire de Chimie Organique",
-   "Laboratoire COBRA"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "90d33d55b9fe5e60",
@@ -176,18 +79,17 @@
   "url": "https://doi.org/10.1021/jm00033a017",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 64,
+  "tags": [],
+  "relevance_score": 94,
   "affiliations": [
    "Wilmington University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "9093fe62664de790",
@@ -206,18 +108,17 @@
   "url": "https://doi.org/10.1007/bf00119860",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "University of Lausanne",
    "Servier (France)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "748b0aa5146b9d90",
@@ -238,16 +139,17 @@
   "url": "https://doi.org/10.1007/bf00119868",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "Lusofarmaco (Italy)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "5a3ce7f7537be17e",
@@ -268,17 +170,17 @@
   "url": "https://doi.org/10.1021/jm00034a007",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 51,
+  "tags": [],
+  "relevance_score": 77,
   "affiliations": [
    "New York Blood Center"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "3a5fd9b26d3bb72d",
@@ -294,19 +196,16 @@
   "url": "https://doi.org/10.1080/10629369408028842",
   "source": "openalex",
   "categories": [
-   "Property Prediction",
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "Toxicity"
-  ],
-  "relevance_score": 51,
+  "tags": [],
+  "relevance_score": 73,
   "affiliations": [
    "Environmental Protection Agency"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "2a780571fc3a3885",
@@ -325,19 +224,17 @@
   "url": "https://doi.org/10.1080/10629369408028839",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 49,
+  "tags": [],
+  "relevance_score": 66,
   "affiliations": [
    "Utrecht University",
    "Ministry of Infrastructure and Water Management"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "229c891ddb8e688e",
@@ -354,19 +251,17 @@
   "url": "https://doi.org/10.1016/0027-5107(94)90029-9",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 67,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [
    "Istituto Superiore di Sanità",
    "Sigma Tau (Italy)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "1bb33a3d15e4d7cf",
@@ -385,19 +280,16 @@
   "url": "https://doi.org/10.1080/10629369408028838",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 51,
+  "tags": [],
+  "relevance_score": 80,
   "affiliations": [
    "Environmental Protection Agency"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "035fcb081dbeb197",
@@ -414,21 +306,16 @@
   "url": "https://doi.org/10.1080/10629369408028844",
   "source": "openalex",
   "categories": [
-   "Reaction Prediction",
-   "Computational Chemistry",
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Electronic Structure",
-   "QSAR",
-   "Reactivity"
-  ],
-  "relevance_score": 67,
+  "tags": [],
+  "relevance_score": 84,
   "affiliations": [
    "Burgas Free University",
    "Environmental Protection Agency"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

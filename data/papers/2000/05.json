@@ -1,39 +1,5 @@
 [
  {
-  "id": "827b753d04c8ae95",
-  "title": "Models for risk assessment of reactive chemicals in aquatic toxicology",
-  "authors": [
-   "Andreas P. Freidig"
-  ],
-  "journal": "Data Archiving and Networked Services (DANS)",
-  "publisher": "Royal Netherlands Academy of Arts and Sciences",
-  "published": "2000-05-31",
-  "year": 2000,
-  "doi": "",
-  "url": "https://dspace.library.uu.nl/handle/1874/186",
-  "source": "openalex",
-  "categories": [
-   "Computational Chemistry",
-   "Reaction Prediction",
-   "Surface Chemistry",
-   "Cheminformatics",
-   "Chemometrics & Statistics"
-  ],
-  "tags": [
-   "Adsorption",
-   "Chemistry",
-   "Electronic Structure",
-   "PLS",
-   "QSAR",
-   "QSPR",
-   "Reactions",
-   "Reactivity"
-  ],
-  "relevance_score": 96,
-  "affiliations": [],
-  "added": "2026-07-21"
- },
- {
   "id": "582fce35a5276756",
   "title": "Synthesis, Fungicidal Activity, and QSAR of a Series of 2-Dichlorophenyl-3-triazolylpropyl Ethers",
   "authors": [
@@ -51,16 +17,17 @@
   "url": "https://doi.org/10.1021/jf9906432",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 73,
   "affiliations": [
    "University of Milan"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "62318f85a61d8a7f",
@@ -79,21 +46,17 @@
   "url": "https://doi.org/10.1021/jm991074s",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Ligands",
-   "PLS",
-   "QSAR"
-  ],
-  "relevance_score": 76,
+  "tags": [],
+  "relevance_score": 81,
   "affiliations": [
    "University of Catania"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "3386dbfd8801acf1",
@@ -110,24 +73,20 @@
   "url": "https://doi.org/10.1021/tx9900627",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
-   "Deep Learning"
+   "Drug Discovery",
+   "Classical ML",
+   "Deep Learning",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "Neural Network",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 78,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [
    "Monash University",
    "Commonwealth Scientific and Industrial Research Organisation",
    "CSIRO Manufacturing"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "3c5e5e8ba53dfeba",
@@ -146,21 +105,17 @@
   "url": "https://doi.org/10.1021/jf990568v",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "PLS",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 78,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [
    "University of Guelph"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "700853fad9bd88d0",
@@ -180,20 +135,18 @@
   "url": "https://doi.org/10.1021/ci000323e",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 66,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "Peking University",
    "Nankai University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "365ad9957840768e",
@@ -211,25 +164,17 @@
   "url": "https://doi.org/10.1021/ci000001a",
   "source": "openalex",
   "categories": [
-   "Computational Chemistry",
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Descriptors",
-   "Molecules",
-   "QSAR",
-   "Quantum Chemistry",
-   "Regression",
-   "SAR"
-  ],
-  "relevance_score": 98,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "National Institute of Chemistry"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "57f58a9b5bfac32e",
@@ -249,73 +194,17 @@
   "url": "https://doi.org/10.1021/jm990973d",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Ligands",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 76,
+  "tags": [],
+  "relevance_score": 65,
   "affiliations": [
    "NeuroSearch (Denmark)"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "50a8aca7d171c4ae",
-  "title": "ChemInform Abstract: Comparative QSAR Analysis of 5α‐Reductase Inhibitors",
-  "authors": [
-   "Alka Kurup",
-   "Rajni Garg",
-   "Corwin Hansch"
-  ],
-  "journal": "ChemInform",
-  "publisher": "Wiley",
-  "published": "2000-05-02",
-  "year": 2000,
-  "doi": "10.1002/chin.200018300",
-  "url": "https://doi.org/10.1002/chin.200018300",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [
-   "Pomona College"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "f43c3a12e1a177a6",
-  "title": "Comparative QSAR Edited by James Devillers. Taylor & Francis, Washington, D.C. 1998. ix + 371 pp. ISBN 1-56032-716-2. $135.00.",
-  "authors": [
-   "Alexandrù T. Balaban"
-  ],
-  "journal": "Journal of Chemical Information and Computer Sciences",
-  "publisher": "American Chemical Society",
-  "published": "2000-05-01",
-  "year": 2000,
-  "doi": "10.1021/ci0003404",
-  "url": "https://doi.org/10.1021/ci0003404",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "QSAR"
-  ],
-  "relevance_score": 45,
-  "affiliations": [
-   "University of Bucharest"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "ea77468da772ee28",
@@ -333,52 +222,17 @@
   "url": "https://doi.org/10.1016/s0097-8485(99)00093-5",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 88,
   "affiliations": [
    "Material Concepts (United States)",
    "Wright-Patterson Air Force Base"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "d3a6e9f464448c45",
-  "title": "Data strip mining for the virtual design of pharmaceuticals with neural networks",
-  "authors": [
-   "Robert Kewley",
-   "Mark J. Embrechts",
-   "Curt M. Breneman"
-  ],
-  "journal": "IEEE Transactions on Neural Networks",
-  "publisher": "Institute of Electrical and Electronics Engineers",
-  "published": "2000-05-01",
-  "year": 2000,
-  "doi": "10.1109/72.846738",
-  "url": "https://doi.org/10.1109/72.846738",
-  "source": "openalex",
-  "categories": [
-   "Deep Learning",
-   "Machine Learning",
-   "Optimization"
-  ],
-  "tags": [
-   "Chemistry",
-   "Genetic Algorithm",
-   "Neural Network",
-   "Predictive Model"
-  ],
-  "relevance_score": 54,
-  "affiliations": [
-   "United States Military Academy",
-   "Rensselaer Polytechnic Institute",
-   "Engineering Systems (United States)",
-   "Decision Sciences (United States)"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "6a31ff843fd94ede",
@@ -397,57 +251,18 @@
   "url": "https://doi.org/10.1021/ci990130v",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
-   "Deep Learning"
+   "Drug Discovery",
+   "Classical ML",
+   "Deep Learning",
+   "Graph Neural Networks"
   ],
-  "tags": [
-   "Neural Network",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 68,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "Harvard University"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "626600fe2d3c682b",
-  "title": "Neural Networks Predict Protein Folding and Structure: Artificial Intelligence Faces Biomolecular Complexity",
-  "authors": [
-   "Rita Casadio",
-   "Mario Compiani",
-   "Piero Fariselli",
-   "Irene Jacoboni",
-   "Pier Luigi Martelli"
-  ],
-  "journal": "SAR and QSAR in environmental research",
-  "publisher": "Taylor & Francis",
-  "published": "2000-05-01",
-  "year": 2000,
-  "doi": "10.1080/10629360008039120",
-  "url": "https://doi.org/10.1080/10629360008039120",
-  "source": "openalex",
-  "categories": [
-   "Polymer Chemistry",
-   "Deep Learning",
-   "Machine Learning"
-  ],
-  "tags": [
-   "AI",
-   "Machine Learning",
-   "Macromolecules",
-   "Molecules",
-   "Neural Network"
-  ],
-  "relevance_score": 60,
-  "affiliations": [
-   "Centro Interuniversitario di Ricerca sui Peptidi Bioattivi",
-   "University of Bologna",
-   "Università di Camerino"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "536770d3d4d9c8d0",
@@ -464,18 +279,17 @@
   "url": "https://doi.org/10.1016/s0166-1280(99)00361-9",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Ligands",
-   "QSAR"
-  ],
-  "relevance_score": 64,
+  "tags": [],
+  "relevance_score": 89,
   "affiliations": [
    "Heinrich Heine University Düsseldorf"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "3348093cbe36ae17",
@@ -497,20 +311,19 @@
   "url": "https://doi.org/10.1023/a:1008164621650",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Ligands",
-   "QSAR"
-  ],
-  "relevance_score": 64,
+  "tags": [],
+  "relevance_score": 84,
   "affiliations": [
    "Municipal Institute for Medical Research",
    "University of Perugia",
    "Universidad de Alcalá"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "2a1d9d2b04894c4e",
@@ -527,111 +340,16 @@
   "url": "https://doi.org/10.1016/s0045-6535(99)00525-1",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR",
-   "QSPR"
-  ],
-  "relevance_score": 78,
+  "tags": [],
+  "relevance_score": 92,
   "affiliations": [
    "University of Eastern Finland"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "28b22c70d44edaf6",
-  "title": "Development and Application of Computational/In Vitro Toxicological Methods for Chemical Hazard Risk Reduction of New Materials for Advanced Weapon Systems",
-  "authors": [
-   "John M. Frazier",
-   "David R. Mattie",
-   "Saber M. Hussain",
-   "Ruth Pachter",
-   "Jerry A. Boatz",
-   "T. W. Hawkins"
-  ],
-  "journal": "NASA Technical Reports Server (NASA)",
-  "publisher": "NASA Headquarters",
-  "published": "2000-05-01",
-  "year": 2000,
-  "doi": "",
-  "url": "https://ntrs.nasa.gov/search.jsp?R=20010002142",
-  "source": "openalex",
-  "categories": [
-   "Computational Chemistry",
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "Computational Chemistry",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 69,
-  "affiliations": [
-   "United States Air Force Research Laboratory"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "1b5c8d0498b847b9",
-  "title": "Computational methods for the prediction of drug toxicity.",
-  "authors": [
-   "M Cronin"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "2000-05-01",
-  "year": 2000,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/19649861",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Property Prediction",
-   "Cheminformatics",
-   "Machine Learning"
-  ],
-  "tags": [
-   "Predictive Model",
-   "QSAR",
-   "SAR",
-   "Toxicity"
-  ],
-  "relevance_score": 65,
-  "affiliations": [
-   "Liverpool John Moores University"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "199f42ba0018081d",
-  "title": "New trends in (Q)SAR modeling with topological indices.",
-  "authors": [
-   "James Devillers"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "2000-05-01",
-  "year": 2000,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/19649859",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 42,
-  "affiliations": [
-   "Institut des Maladies Génétiques Imagine"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "07db9ae47b48805c",
@@ -650,16 +368,17 @@
   "url": "https://doi.org/10.1016/s0166-1280(99)00367-x",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "Institute of Organic Chemistry",
    "Semmelweis University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  }
 ]

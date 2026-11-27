@@ -1,33 +1,5 @@
 [
  {
-  "id": "83895ed4744ae0c4",
-  "title": "Quantitative structure-activity relations by the MTD-method for binding of nonapeptides to the HLA-A2.1 molecule.",
-  "authors": [
-   "Cristian Bologa",
-   "D. Drugarin",
-   "Zeno Simon"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "1997-02-27",
-  "year": 1997,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/8993110",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 45,
-  "affiliations": [
-   "West University of Timişoara"
-  ],
-  "added": "2026-07-21"
- },
- {
   "id": "f6fd89d9fde614dc",
   "title": "QSARS for the eye irritation potential of neutral organic chemicals",
   "authors": [
@@ -41,17 +13,16 @@
   "url": "https://doi.org/10.1016/s0887-2333(96)00063-x",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR"
-  ],
-  "relevance_score": 46,
+  "tags": [],
+  "relevance_score": 90,
   "affiliations": [
    "Unilever (United Kingdom)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "a03ab7b92b45c68b",
@@ -69,18 +40,16 @@
   "url": "https://doi.org/10.1016/s0031-6865(96)00043-x",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 55,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "University of Freiburg"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "6097dd2c01b6d605",
@@ -98,49 +67,17 @@
   "url": "https://doi.org/10.1006/mchj.1996.1413",
   "source": "openalex",
   "categories": [
-   "Chemometrics & Statistics"
+   "Spectroscopy & Analysis",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "PLS"
-  ],
-  "relevance_score": 48,
+  "tags": [],
+  "relevance_score": 81,
   "affiliations": [
    "Idaho State University"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "5256e5ac9e7b21e9",
-  "title": "A proposed approach to study the toxicology of complex mixtures of petroleum products: the integrated use of QSAR, lumping analysis and PBPK/PD modeling.",
-  "authors": [
-   "Henk J. M. Verhaar",
-   "Juliana Morroni",
-   "Kenneth F. Reardon",
-   "Sean M. Hays",
-   "Donald P. Gaver",
-   "Robert L. Carpenter",
-   "R.S.H. Yang"
-  ],
-  "journal": "Environmental Health Perspectives",
-  "publisher": "National Institute of Environmental Health Sciences",
-  "published": "1997-02-01",
-  "year": 1997,
-  "doi": "10.1289/ehp.97105s1179",
-  "url": "https://doi.org/10.1289/ehp.97105s1179",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [
-   "Colorado State University"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "42de8af2be976275",
@@ -157,19 +94,17 @@
   "url": "https://doi.org/10.1016/s0887-2333(96)00067-7",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 55,
+  "tags": [],
+  "relevance_score": 69,
   "affiliations": [
    "University of Surrey",
    "Bibra International"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "3e3a659e60d6a6cd",
@@ -192,20 +127,16 @@
   "url": "https://doi.org/10.1021/jm950866t",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Descriptors",
-   "Ligands",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 78,
+  "tags": [],
+  "relevance_score": 69,
   "affiliations": [
    "Mario Negri Institute for Pharmacological Research"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "1af2cba63959f59a",
@@ -222,21 +153,17 @@
   "url": "https://doi.org/10.1002/etc.5620160235",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
-   "Machine Learning"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Predictive Model",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 71,
+  "tags": [],
+  "relevance_score": 89,
   "affiliations": [
    "University of Tennessee at Knoxville",
    "Liverpool John Moores University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "153407cbe3f54710",
@@ -252,27 +179,15 @@
   "url": "https://doi.org/10.1136/bmj.314.7077.376",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Drug Discovery Chemistry",
-   "Graph Neural Networks",
-   "Cheminformatics",
-   "Machine Learning",
-   "Deep Learning"
-  ],
-  "tags": [
-   "Docking",
    "Drug Discovery",
-   "Graph Neural Network",
-   "Ligands",
-   "Machine Learning",
-   "Molecules",
-   "Neural Network",
-   "Protein-Ligand",
-   "Virtual Screening"
+   "Deep Learning",
+   "Graph Neural Networks"
   ],
-  "relevance_score": 80,
+  "tags": [],
+  "relevance_score": 84,
   "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "137861fae5f0f521",
@@ -289,26 +204,17 @@
   "url": "https://doi.org/10.1097/00010694-199702000-00005",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Spectroscopy",
-   "Analytical Chemistry",
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Chromatography",
-   "Mass Spectrometry",
-   "Molecules",
-   "NMR",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 72,
+  "tags": [],
+  "relevance_score": 63,
   "affiliations": [
    "SGS Institut Fresenius (Germany)",
    "Agriculture and Agri-Food Canada",
    "Cegep de Sept Iles"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

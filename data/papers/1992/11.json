@@ -1,33 +1,5 @@
 [
  {
-  "id": "d74cf46cdc5db8fb",
-  "title": "ChemInform Abstract: QSAR Studies on New N‐Aroyl‐N′‐arylureas. Lipophilicity and Geometrical Features as Keys for Biological Activity.",
-  "authors": [
-   "Nunzio Andriollo",
-   "Luisa Barino",
-   "Giovanni Meazza",
-   "F. Rama",
-   "Raimondo Scordamaglia",
-   "Vincenzo Caprioli"
-  ],
-  "journal": "ChemInform",
-  "publisher": "Wiley",
-  "published": "1992-11-24",
-  "year": 1992,
-  "doi": "10.1002/chin.199247154",
-  "url": "https://doi.org/10.1002/chin.199247154",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [],
-  "added": "2026-07-21"
- },
- {
   "id": "98b20f6d6b2303b5",
   "title": "Application of recurrent neural networks in chemistry. Prediction and classification of carbon-13 NMR chemical shifts in a series of monosubstituted benzenes",
   "authors": [
@@ -43,18 +15,14 @@
   "url": "https://doi.org/10.1021/ci00010a023",
   "source": "openalex",
   "categories": [
-   "Spectroscopy",
+   "Spectroscopy & Analysis",
    "Deep Learning"
   ],
-  "tags": [
-   "Chemistry",
-   "NMR",
-   "Neural Network",
-   "RNN"
-  ],
-  "relevance_score": 70,
+  "tags": [],
+  "relevance_score": 79,
   "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "46dc2ace7c391221",
@@ -71,17 +39,17 @@
   "url": "https://doi.org/10.1021/jf00023a038",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 42,
+  "tags": [],
+  "relevance_score": 93,
   "affiliations": [
    "Center for Environmental Health",
    "Case Western Reserve University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "3953b64e9663fb08",
@@ -105,15 +73,15 @@
   "url": "https://doi.org/10.1021/jm00102a017",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 48,
+  "tags": [],
+  "relevance_score": 86,
   "affiliations": [
    "Sterling Research Group (United States)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

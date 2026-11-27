@@ -14,6 +14,9 @@ import logging
 from dataclasses import dataclass, field
 from typing import Dict, List
 
+from typing import Optional, Tuple
+
+from . import relevance
 from .classify import classify
 from .collectors import enabled_collectors
 from .models import (Paper, RawRecord, dedupe_keys, make_paper_id,
@@ -24,12 +27,18 @@ from .store import PaperStore
 log = logging.getLogger(__name__)
 
 
+# Seconds the daily run may spend on OpenAlex lookups (8 a second), so a large batch can
+# never push the workflow past its time limit; the rest wait for the next run.
+LOOKUP_BUDGET = 20 * 60
+
+
 @dataclass
 class PipelineResult:
     collected: int = 0
     duplicates: int = 0
     rejected: int = 0
     added: int = 0
+    deferred: int = 0
     per_source: Dict[str, int] = field(default_factory=dict)
 
     def merge(self, other: "PipelineResult") -> None:
@@ -37,6 +46,7 @@ class PipelineResult:
         self.duplicates += other.duplicates
         self.rejected += other.rejected
         self.added += other.added
+        self.deferred += other.deferred
         for k, v in other.per_source.items():
             self.per_source[k] = self.per_source.get(k, 0) + v
 
@@ -44,7 +54,8 @@ class PipelineResult:
         per_source = ", ".join(f"{k}: {v}" for k, v in sorted(self.per_source.items()))
         return (f"collected {self.collected} ({per_source}); "
                 f"{self.duplicates} duplicates, {self.rejected} off-topic, "
-                f"{self.added} added to index")
+                f"{self.added} added to index"
+                + (f", {self.deferred} kept for the next run" if self.deferred else ""))
 
 
 def _sane_date(published: str, today: str) -> str:
@@ -75,32 +86,80 @@ def collect_records(settings: Settings, since: dt.date) -> List[RawRecord]:
     return records
 
 
+def judge(record: RawRecord, settings: Optional[Settings] = None) -> Tuple[bool, float, List[str], str]:
+    """(accepted, probability, categories, reason) for one record.
+
+    The rules of relevance.gate first, then the relevance model and the categorizer. Without
+    the model files, the older keyword rules of classify.py decide.
+    """
+    reason = relevance.gate(record.title, record.doi, record.url, record.oa_type)
+    if reason:
+        return False, 0.0, [], reason
+    evidence = relevance.method_evidence(record.title, record.abstract)
+    if not evidence:
+        return False, 0.0, [], "no data-driven method named"
+    model = relevance.model()
+    if model is None:
+        verdict = classify(record)
+        floor = settings.min_relevance_score if settings else 40
+        ok = verdict.accepted and verdict.score >= floor
+        return ok, verdict.score / 100.0, verdict.categories, verdict.reason
+    counts = relevance.features(record.title, record.abstract, record.journal, record.oa_type,
+                                record.oa_field, record.oa_topic)
+    p = model.probability(counts)
+    if p < model.threshold:
+        return False, p, [], "below the relevance threshold"
+    if evidence < 2 and p < relevance.WEAK_THRESHOLD:
+        return False, p, [], "no data-driven method named clearly"
+    cat = relevance.categorizer()
+    return True, p, cat.categories(counts, record.title, record.abstract) if cat else [], ""
+
+
 def process_records(
     records: List[RawRecord],
     settings: Settings,
     store: PaperStore,
     seen: Dict[str, str],
+    rejected: Optional[Dict[str, str]] = None,
+    lookup: bool = False,
 ) -> PipelineResult:
     """Dedupe, classify and store a batch of raw records.
 
-    Mutates ``seen`` in place; the caller is responsible for persisting it
-    (so a backfill can checkpoint between batches).
+    Mutates ``seen`` (and ``rejected``, the keys of records turned down recently, which are
+    not judged again) in place; the caller persists them (so a backfill can checkpoint
+    between batches). ``lookup`` asks OpenAlex for the details the model reads (type, topic,
+    abstract) of new records that lack them.
     """
     today = dt.date.today().isoformat()
     result = PipelineResult(collected=len(records))
     accepted: List[Paper] = []
+    rejected = rejected if rejected is not None else {}
 
+    fresh: List[RawRecord] = []
+    batch_keys = set()
     for record in records:
         keys = dedupe_keys(record.doi, record.title)
         if not keys:  # no DOI and a too-short title: cannot dedupe safely
             continue
-        if any(k in seen for k in keys):
+        if any(k in seen or k in rejected or k in batch_keys for k in keys):
             result.duplicates += 1
             continue
+        batch_keys.update(keys)
+        fresh.append(record)
+    if lookup:
+        from .enrich import enrich
+        late = enrich(fresh, budget=LOOKUP_BUDGET)
+        if late:
+            result.deferred = len(late)
+            fresh = [r for r in fresh if id(r) not in late]
 
-        verdict = classify(record)
-        if not verdict.accepted or verdict.score < settings.min_relevance_score:
+    for record in fresh:
+        keys = dedupe_keys(record.doi, record.title)
+        ok, prob, categories, _reason = judge(record, settings)
+        if not ok:
             result.rejected += 1
+            for key in keys:
+                rejected[key] = today
             continue
 
         published = _sane_date(record.published, today)
@@ -125,11 +184,12 @@ def process_records(
             doi=normalize_doi(record.doi),
             url=record.url,
             source=record.source,
-            categories=verdict.categories,
-            tags=sorted(set(verdict.tags + record.extra_tags)),
-            relevance_score=verdict.score,
+            categories=categories,
+            tags=[],
+            relevance_score=int(round(prob * 100)),
             affiliations=record.affiliations,
             added=today,
+            oa_abstract=record.oa_abstract,
         )
         for key in keys:
             seen[key] = paper.id
@@ -151,8 +211,10 @@ def run(days_back: int = 0, generate: bool = True) -> PipelineResult:
 
     store = PaperStore()
     seen = store.load_seen()
-    result = process_records(records, settings, store, seen)
+    rejected = store.load_rejected()
+    result = process_records(records, settings, store, seen, rejected, lookup=True)
     store.save_seen(seen)
+    store.save_rejected(rejected)
     log.info("Pipeline: %s", result.summary())
 
     if settings.toc_graphics:

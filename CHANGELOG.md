@@ -2,6 +2,34 @@
 
 All notable changes to DataDrivenChemistryPapers.
 
+## [2.0.0] - 2026-11-27
+
+### Changed
+- **Stricter, measured selection.** A labelled sample showed that about 44% of the
+  stored papers were outside data-driven chemistry and that the daily job found only
+  28% of recent papers in core journals. Papers are now chosen by a trained relevance
+  model with hard rules (DOI or arXiv identifier required; the title or abstract must
+  name a data-driven method; datasets, software, editorials, corrections and peer
+  reviews refused), and the whole store was judged
+  again with it (`python -m ddc rescreen`). Hand labels: `data/labels/gold.json`.
+- **New categories:** one chemistry area (12) and the data-driven methods (11) per
+  paper (`src/ddc/taxonomy.py`).
+- **Collection:** OpenAlex searches every chemistry field over a 14-day window with
+  paging; Crossref reads every new paper of 20 journals where data-driven chemistry is
+  common; ChemRxiv is read through Crossref (its API refuses automated clients).
+  OpenAlex lookups of a daily run stop after 20 minutes; the rest wait for the next run.
+- **New look:** a light, self-contained design (own fonts, no shared theme, no Tools
+  menu), the name shown once, cards with large graphical abstracts that open in a zoom
+  view, journal chips, day headings, no keywords, scores or source labels.
+- **Faster pages:** compact data files (28 MB instead of 53 MB before the rescreen),
+  search in a Web Worker, data kept in the browser's Cache Storage by content hash,
+  abstracts fetched from the right service and started on hover.
+- **Graphical abstracts:** Wiley cover pictures are refused; Elsevier graphical
+  abstracts are found by PII.
+
+### Added
+- Visitor count in the footer, Atom feed (`feed.xml`), `sitemap.xml`, Dataset markup.
+
 ## [1.3.0] - 2026-11-20
 
 ### Added

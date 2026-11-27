@@ -1,63 +1,5 @@
 [
  {
-  "id": "0d14ea774a6ef021",
-  "title": "VESPA: A new, fast approach to electrostatic potential-derived atomic charges from semiempirical methods",
-  "authors": [
-   "Bernd Beck",
-   "Timothy Clark",
-   "Robert C. Glen"
-  ],
-  "journal": "Journal of Computational Chemistry",
-  "publisher": "Wiley",
-  "published": "1997-04-30",
-  "year": 1997,
-  "doi": "10.1002/(sici)1096-987x(19970430)18:6<744::aid-jcc2>3.0.co;2-s",
-  "url": "https://doi.org/10.1002/(sici)1096-987x(19970430)18:6<744::aid-jcc2>3.0.co;2-s",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 54,
-  "affiliations": [
-   "Friedrich-Alexander-Universität Erlangen-Nürnberg",
-   "Wellcome Trust"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "0c1bd0b580e0b35f",
-  "title": "Ultraviolet absorption spectra of all 209 polychlorinated biphenyls evaluated by principal component analysis",
-  "authors": [
-   "Patrik L. Andersson",
-   "Peter Haglund",
-   "Mats Tysklind"
-  ],
-  "journal": "Fresenius Journal of Analytical Chemistry",
-  "publisher": "Springer Science+Business Media",
-  "published": "1997-04-28",
-  "year": 1997,
-  "doi": "10.1007/s002160050310",
-  "url": "https://doi.org/10.1007/s002160050310",
-  "source": "openalex",
-  "categories": [
-   "Spectroscopy",
-   "Chemometrics & Statistics"
-  ],
-  "tags": [
-   "PCA",
-   "Spectroscopy"
-  ],
-  "relevance_score": 53,
-  "affiliations": [
-   "Umeå University"
-  ],
-  "added": "2026-07-21"
- },
- {
   "id": "61ea4eb3a55da738",
   "title": "Superposition of molecules: Electron density fitting by application of fourier transforms",
   "authors": [
@@ -75,54 +17,17 @@
   "url": "https://doi.org/10.1002/(sici)1096-987x(19970415)18:5<638::aid-jcc5>3.0.co;2-o",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Ligands",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 66,
+  "tags": [],
+  "relevance_score": 87,
   "affiliations": [
    "Utrecht University",
    "Robert Bosch (Germany)"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "eca2e42e577fb145",
-  "title": "Structure-activity relationships in quinoline Reissert derivatives with HIV-1 reverse transcriptase inhibitory activity.",
-  "authors": [
-   "Marı́a Font",
-   "Antonio Monge",
-   "Isabel Ruíz-Camps",
-   "Begoña Heras"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "1997-04-01",
-  "year": 1997,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/9197978",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Computational Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "QSAR",
-   "Quantum Chemistry",
-   "SAR"
-  ],
-  "relevance_score": 72,
-  "affiliations": [
-   "Universidad de Navarra"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "e11211b3e00c3cc3",
@@ -140,17 +45,17 @@
   "url": "https://doi.org/10.1016/s0166-1280(96)04871-3",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "University of Zagreb",
    "Rudjer Boskovic Institute"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "a4cdfd32a7337dc9",
@@ -166,17 +71,16 @@
   "url": "https://doi.org/10.1007/bf02464157",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "Odessa National Maritime University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "a1a72bda99539146",
@@ -203,21 +107,16 @@
   "url": "https://doi.org/10.1021/jm960436i",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Analytical Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chromatography",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 75,
+  "tags": [],
+  "relevance_score": 90,
   "affiliations": [
    "Pfizer (United States)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "5815fe2ac9173ca6",
@@ -239,19 +138,19 @@
   "url": "https://doi.org/10.1002/(sici)1096-9063(199704)49:4<319::aid-ps537>3.0.co;2-k",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 46,
+  "tags": [],
+  "relevance_score": 80,
   "affiliations": [
    "Kyoto University",
    "Shimane University",
    "University of California, Davis"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "4b2c38d571de749d",
@@ -272,20 +171,18 @@
   "url": "https://doi.org/10.1080/02772249709358465",
   "source": "openalex",
   "categories": [
-   "Property Prediction",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Dipole Moment",
-   "QSAR"
-  ],
-  "relevance_score": 57,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [
    "State Key Laboratory of Pollution Control and Resource Reuse",
    "Nanjing University",
    "Nanjing University of Science and Technology"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "2bc67dc9c0cc94a6",
@@ -304,17 +201,16 @@
   "url": "https://doi.org/10.1080/02772249709358453",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 89,
   "affiliations": [
    "Nankai University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "18bcc6aff659a4bc",
@@ -333,17 +229,16 @@
   "url": "https://doi.org/10.1061/(asce)0733-9372(1997)123:4(329)",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR"
-  ],
-  "relevance_score": 42,
+  "tags": [],
+  "relevance_score": 88,
   "affiliations": [
    "Tyrone County Hospital",
    "New Mexico State University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

@@ -99,6 +99,11 @@ class RawRecord:
     published: str = ""  # ISO date YYYY-MM-DD (may be YYYY-MM or YYYY)
     affiliations: List[str] = field(default_factory=list)
     extra_tags: List[str] = field(default_factory=list)
+    # From OpenAlex (the work's type and primary topic), for the relevance model; transient.
+    oa_type: str = ""
+    oa_field: str = ""
+    oa_topic: str = ""
+    oa_abstract: str = ""   # "yes" / "no": whether OpenAlex has the abstract; "" not asked
 
 
 @dataclass
@@ -120,6 +125,9 @@ class Paper:
     relevance_score: int
     affiliations: List[str] = field(default_factory=list)
     added: str = ""  # ISO date the record entered the index
+    # Whether OpenAlex has the paper's abstract: "yes", "no", or "" (not checked). The site
+    # uses it to ask the right service for an abstract; the abstract itself is never stored.
+    oa_abstract: str = ""
 
     def to_dict(self) -> Dict[str, Any]:
         return asdict(self)

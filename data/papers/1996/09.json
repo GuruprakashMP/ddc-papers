@@ -18,78 +18,17 @@
   "url": "https://doi.org/10.1021/bk-1996-0643.ch015",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR"
-  ],
-  "relevance_score": 42,
+  "tags": [],
+  "relevance_score": 80,
   "affiliations": [
    "United States Army",
    "La Sierra University"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "f8444655cc79f6df",
-  "title": "[Molecular lipophilicity potential (MLP) in drug design. Complementing theoretical tools with experimental results].",
-  "authors": [
-   "P.-A. CARRUPT",
-   "Pierre-Henri L. Gaillard",
-   "Frédéric Billois",
-   "P. Weber",
-   "B Testa"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "1996-09-13",
-  "year": 1996,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/8778351",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Docking",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 51,
-  "affiliations": [
-   "Institut de Chimie",
-   "University of Lausanne"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "ecc65a9650703b9b",
-  "title": "Quantifying the Inhibitor-Target Site Interactions of Photosystem II Herbicides",
-  "authors": [
-   "John L. Huppatz"
-  ],
-  "journal": "Weed Science",
-  "publisher": "Cambridge University Press",
-  "published": "1996-09-01",
-  "year": 1996,
-  "doi": "10.1017/s0043174500094625",
-  "url": "https://doi.org/10.1017/s0043174500094625",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 42,
-  "affiliations": [
-   "Commonwealth Scientific and Industrial Research Organisation",
-   "Plant Industry"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "e1b9413a5a838808",
@@ -111,25 +50,18 @@
   "url": "https://doi.org/10.1080/10629369608032988",
   "source": "openalex",
   "categories": [
-   "Property Prediction",
-   "Analytical Chemistry",
-   "Spectroscopy",
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Chromatography",
-   "HOMO-LUMO",
-   "QSAR",
-   "Spectroscopy"
-  ],
-  "relevance_score": 73,
+  "tags": [],
+  "relevance_score": 88,
   "affiliations": [
    "Environmental Protection Agency",
    "Institute of Chemical Engineering",
    "University of Wisconsin–Superior"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "db6bf05dcb08fc96",
@@ -147,53 +79,18 @@
   "url": "https://doi.org/10.1002/(sici)1099-128x(199609)10:5/6<483::aid-cem446>3.0.co;2-g",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "PLS",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 79,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "Umeå University",
    "National Institute for Public Health and the Environment"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "c46c3f9d654c37d8",
-  "title": "Uptake, Speciation, and Uncoupling Activity of Substituted Phenols in Energy Transducing Membranes",
-  "authors": [
-   "Beate I. Escher",
-   "Mario Snozzi",
-   "René P. Schwarzenbach"
-  ],
-  "journal": "Environmental Science & Technology",
-  "publisher": "American Chemical Society",
-  "published": "1996-09-01",
-  "year": 1996,
-  "doi": "10.1021/es960153f",
-  "url": "https://doi.org/10.1021/es960153f",
-  "source": "openalex",
-  "categories": [
-   "Electrochemistry & Batteries",
-   "Spectroscopy",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Electrochemistry",
-   "QSAR",
-   "Spectroscopy"
-  ],
-  "relevance_score": 54,
-  "affiliations": [
-   "Swiss Federal Institute of Aquatic Science and Technology"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "abac9311734f8acc",
@@ -209,19 +106,17 @@
   "url": "https://doi.org/10.1002/(sici)1099-128x(199609)10:5/6<533::aid-cem465>3.0.co;2-j",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "PLS",
-   "QSAR"
-  ],
-  "relevance_score": 67,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [
    "Karo Pharma (Sweden)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "a49c0ec29c70ddcb",
@@ -237,67 +132,15 @@
   "url": "https://doi.org/10.1017/s0043174500094601",
   "source": "openalex",
   "categories": [
-   "Molecule Generation",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecular Design",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 61,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [],
-  "added": "2026-07-21"
- },
- {
-  "id": "a15c1876a15c389a",
-  "title": "Conductivity, A Simple Method to Probe Micellar Solutions",
-  "authors": [
-   "Steven J. Bachofer"
-  ],
-  "journal": "Journal of Chemical Education",
-  "publisher": "American Chemical Society",
-  "published": "1996-09-01",
-  "year": 1996,
-  "doi": "10.1021/ed073p861",
-  "url": "https://doi.org/10.1021/ed073p861",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 60,
-  "affiliations": [
-   "Saint Mary's College of California"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "6622508823d70a10",
-  "title": "Classical and three-dimensional QSAR in agrochemistry",
-  "authors": [
-   "Gregory L. Durst"
-  ],
-  "journal": "Chemometrics and Intelligent Laboratory Systems",
-  "publisher": "Elsevier BV",
-  "published": "1996-09-01",
-  "year": 1996,
-  "doi": "10.1016/0169-7439(96)00053-6",
-  "url": "https://doi.org/10.1016/0169-7439(96)00053-6",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "526b3cd8d7bddffe",
@@ -318,43 +161,17 @@
   "url": "https://doi.org/10.1016/s0166-1280(96)04511-3",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 100,
   "affiliations": [
    "Romanian Academy",
    "Eötvös Loránd University"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "14a0de6b1326fb34",
-  "title": "Artificial neural network implementation of chemistry with pdf simulation of H2/CO2 flames",
-  "authors": [
-   "Farid Christo"
-  ],
-  "journal": "Combustion and Flame",
-  "publisher": "Elsevier BV",
-  "published": "1996-09-01",
-  "year": 1996,
-  "doi": "10.1016/0010-2180(95)00250-2",
-  "url": "https://doi.org/10.1016/0010-2180(95)00250-2",
-  "source": "openalex",
-  "categories": [
-   "Deep Learning"
-  ],
-  "tags": [
-   "Chemistry",
-   "Neural Network"
-  ],
-  "relevance_score": 45,
-  "affiliations": [
-   "University of Sydney"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "0ef51a25c3d4be76",
@@ -372,20 +189,15 @@
   "url": "https://doi.org/10.1111/j.2042-7158.1996.tb05993.x",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Property Prediction",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Dipole Moment",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 64,
+  "tags": [],
+  "relevance_score": 89,
   "affiliations": [
    "Liverpool John Moores University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

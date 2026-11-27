@@ -16,108 +16,19 @@
   "url": "https://doi.org/10.1093/oso/9780198538509.003.0008",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
-   "Machine Learning",
+   "Drug Discovery",
+   "Classical ML",
    "Deep Learning"
   ],
-  "tags": [
-   "Chemistry",
-   "Machine Learning",
-   "Neural Network",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 75,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [
    "The Honourable Society of Lincoln's Inn",
    "University of Strathclyde",
    "Turing Institute"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "fe6306a8b9c9669f",
-  "title": "ChemInform Abstract: QSAR of HIV Inhibitors.",
-  "authors": [
-   "Corwin Hansch",
-   "L. Zhang"
-  ],
-  "journal": "ChemInform",
-  "publisher": "Wiley",
-  "published": "1994-08-23",
-  "year": 1994,
-  "doi": "10.1002/chin.199434274",
-  "url": "https://doi.org/10.1002/chin.199434274",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [
-   "Pomona College"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "e6329c3aeca820d4",
-  "title": "ChemInform Abstract: Antiinflammatory 4,5‐Diarylpyrroles: Synthesis and QSAR.",
-  "authors": [
-   "W. W. WILKERSON",
-   "W Galbraith",
-   "K. GANS-BRANGS",
-   "Mary F. Grubb",
-   "Walter E. Hewes",
-   "Bruce Jaffee",
-   "Joanne Kenney",
-   "Janet S. Kerr",
-   "NancyY. Wong"
-  ],
-  "journal": "ChemInform",
-  "publisher": "Wiley",
-  "published": "1994-08-23",
-  "year": 1994,
-  "doi": "10.1002/chin.199434140",
-  "url": "https://doi.org/10.1002/chin.199434140",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [
-   "DuPont (United States)"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "456885339f2a7909",
-  "title": "ChemInform Abstract: Statistical Thinking and Technique for QSAR and Related Studies. Part 1. General Theory",
-  "authors": [
-   "M. Stone",
-   "Philip Jonathan"
-  ],
-  "journal": "ChemInform",
-  "publisher": "Wiley",
-  "published": "1994-08-23",
-  "year": 1994,
-  "doi": "10.1002/chin.199434314",
-  "url": "https://doi.org/10.1002/chin.199434314",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "bd3ec0b5438de5b3",
@@ -137,19 +48,17 @@
   "url": "https://doi.org/10.1007/bf00125379",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemometrics",
-   "QSAR"
-  ],
-  "relevance_score": 72,
+  "tags": [],
+  "relevance_score": 100,
   "affiliations": [
    "Kowa (Japan)",
    "Toyohashi University of Technology"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "bc7425e2073990ba",
@@ -165,18 +74,16 @@
   "url": "https://doi.org/10.1016/0887-2333(94)90094-9",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 55,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "Unilever (United Kingdom)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "add682f915e7344f",
@@ -193,82 +100,17 @@
   "url": "https://doi.org/10.1021/jm00042a012",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Physical Chemistry",
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Chemometrics",
-   "Kinetics",
-   "Ligands",
-   "Molecules",
-   "PLS",
-   "QSAR"
-  ],
-  "relevance_score": 96,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "University of Perugia"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "62e1c05e23697d31",
-  "title": "Polymer Composites",
-  "authors": [
-   "F. J. McGarry"
-  ],
-  "journal": "Annual Review of Materials Science",
-  "publisher": "Annual Reviews",
-  "published": "1994-08-01",
-  "year": 1994,
-  "doi": "10.1146/annurev.ms.24.080194.000431",
-  "url": "https://doi.org/10.1146/annurev.ms.24.080194.000431",
-  "source": "openalex",
-  "categories": [
-   "Polymer Chemistry",
-   "Materials Chemistry",
-   "Machine Learning"
-  ],
-  "tags": [
-   "Machine Learning",
-   "Materials Science",
-   "Molecules",
-   "Polymers"
-  ],
-  "relevance_score": 65,
-  "affiliations": [],
-  "added": "2026-07-21"
- },
- {
-  "id": "5a6be8977b782c63",
-  "title": "Plastic and Elastic Properties of Compositionally Modulated Thin Films",
-  "authors": [
-   "Scott A. Barnett",
-   "M. Shinn"
-  ],
-  "journal": "Annual Review of Materials Science",
-  "publisher": "Annual Reviews",
-  "published": "1994-08-01",
-  "year": 1994,
-  "doi": "10.1146/annurev.ms.24.080194.002405",
-  "url": "https://doi.org/10.1146/annurev.ms.24.080194.002405",
-  "source": "openalex",
-  "categories": [
-   "Materials Chemistry",
-   "Machine Learning"
-  ],
-  "tags": [
-   "Machine Learning",
-   "Materials Science",
-   "Molecules"
-  ],
-  "relevance_score": 53,
-  "affiliations": [
-   "Northwestern University"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "3bb3c1acaf2ed122",
@@ -286,18 +128,17 @@
   "url": "https://doi.org/10.1007/bf00125375",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
+   "Drug Discovery",
+   "Classical ML",
    "Deep Learning"
   ],
-  "tags": [
-   "Neural Network",
-   "SAR"
-  ],
-  "relevance_score": 59,
+  "tags": [],
+  "relevance_score": 94,
   "affiliations": [
    "The Honourable Society of Lincoln's Inn"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "362fab1501f9817a",
@@ -318,45 +159,19 @@
   "url": "https://doi.org/10.1002/aoc.590080504",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 48,
+  "tags": [],
+  "relevance_score": 60,
   "affiliations": [
    "University of the District of Columbia",
    "Nanyang Technological University",
    "Pennsylvania State University",
    "Delaware County Community College"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "15c12e0a3bbe81a9",
-  "title": "Preface",
-  "authors": [
-   "Elton N. Kaufmann"
-  ],
-  "journal": "Annual Review of Materials Science",
-  "publisher": "Annual Reviews",
-  "published": "1994-08-01",
-  "year": 1994,
-  "doi": "10.1146/annurev.mr.24.072806.100001",
-  "url": "https://doi.org/10.1146/annurev.mr.24.072806.100001",
-  "source": "openalex",
-  "categories": [
-   "Materials Chemistry",
-   "Machine Learning"
-  ],
-  "tags": [
-   "Machine Learning",
-   "Materials Science",
-   "Molecules"
-  ],
-  "relevance_score": 53,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "00c83c81e46dc821",
@@ -374,17 +189,16 @@
   "url": "https://doi.org/10.1007/bf00125376",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
+   "Drug Discovery",
+   "Classical ML",
    "Deep Learning"
   ],
-  "tags": [
-   "Neural Network",
-   "SAR"
-  ],
-  "relevance_score": 59,
+  "tags": [],
+  "relevance_score": 94,
   "affiliations": [
    "The Honourable Society of Lincoln's Inn"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  }
 ]

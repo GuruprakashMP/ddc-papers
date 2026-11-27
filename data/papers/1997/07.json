@@ -15,19 +15,18 @@
   "url": "https://doi.org/10.1016/s0223-5234(97)83283-7",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "PLS",
-   "SAR"
-  ],
-  "relevance_score": 63,
+  "tags": [],
+  "relevance_score": 91,
   "affiliations": [
    "University of Gothenburg",
    "W.E. Upjohn Institute for Employment Research"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "f1ddbed4d51c7581",
@@ -46,21 +45,18 @@
   "url": "https://doi.org/10.1080/10629369708033251",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
+   "Drug Discovery",
    "Deep Learning"
   ],
-  "tags": [
-   "Molecules",
-   "Neural Network",
-   "QSAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 87,
   "affiliations": [
    "Ecole Mohammadia d'Ingénieurs",
    "Université Hassan II Mohammedia",
    "Université Moulay Ismail de Meknes"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "f02f2fc57c464207",
@@ -77,46 +73,17 @@
   "url": "https://doi.org/10.1021/ac9611071",
   "source": "openalex",
   "categories": [
-   "Spectroscopy",
-   "Deep Learning"
+   "Spectroscopy & Analysis",
+   "Deep Learning",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "Neural Network",
-   "Spectroscopy"
-  ],
-  "relevance_score": 61,
+  "tags": [],
+  "relevance_score": 79,
   "affiliations": [
    "Friedrich-Alexander-Universität Erlangen-Nürnberg"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "e8028839fc7b5248",
-  "title": "ChemInform Abstract: QSAR Based on Multiple Linear Regression and PLS Methods for the Anti‐ HIV Activity of a Large Group of HEPT Derivatives",
-  "authors": [
-   "Juan M. Luco",
-   "F.H. Ferretti"
-  ],
-  "journal": "ChemInform",
-  "publisher": "Wiley",
-  "published": "1997-07-01",
-  "year": 1997,
-  "doi": "10.1002/chin.199727253",
-  "url": "https://doi.org/10.1002/chin.199727253",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [
-   "National University of San Luis"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "e4f51223614e6af3",
@@ -135,47 +102,19 @@
   "url": "https://doi.org/10.1023/a:1007988708826",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [
    "University of Sheffield",
    "Sittingbourne Memorial Hospital",
    "Shell (Netherlands)"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "d807266acdcec91b",
-  "title": "Coextrusion of ethylene-based polymer",
-  "authors": [],
-  "journal": "Additives for Polymers",
-  "publisher": "Elsevier BV",
-  "published": "1997-07-01",
-  "year": 1997,
-  "doi": "10.1016/s0306-3747(97)88457-6",
-  "url": "https://doi.org/10.1016/s0306-3747(97)88457-6",
-  "source": "openalex",
-  "categories": [
-   "Polymer Chemistry",
-   "Catalysis",
-   "Physical Chemistry",
-   "Cheminformatics",
-   "Chemometrics & Statistics"
-  ],
-  "tags": [
-   "Ligands",
-   "PLS",
-   "Polymers",
-   "QSAR",
-   "Solvents"
-  ],
-  "relevance_score": 87,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "d2b3f889f3149420",
@@ -194,21 +133,17 @@
   "url": "https://doi.org/10.1021/jf960844v",
   "source": "openalex",
   "categories": [
-   "Materials Chemistry",
-   "Surface Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Adsorption",
-   "Crystal Structures",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 72,
+  "tags": [],
+  "relevance_score": 78,
   "affiliations": [
    "Kumiai Chemical Industry (Japan)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "a14e026248a8d9d1",
@@ -225,21 +160,18 @@
   "url": "https://doi.org/10.1080/10629369708033249",
   "source": "openalex",
   "categories": [
-   "Property Prediction",
-   "Cheminformatics",
+   "Drug Discovery",
+   "Classical ML",
    "Deep Learning"
   ],
-  "tags": [
-   "Boiling Point",
-   "Neural Network",
-   "QSAR"
-  ],
-  "relevance_score": 68,
+  "tags": [],
+  "relevance_score": 80,
   "affiliations": [
    "Eastern Nazarene College",
    "Kansas State University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "9a2a45a05590cb0f",
@@ -257,21 +189,16 @@
   "url": "https://doi.org/10.1021/ci960176d",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Descriptors",
-   "Molecules",
-   "QSAR",
-   "Regression"
-  ],
-  "relevance_score": 78,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "University of Minnesota, Duluth"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "70407107e116158c",
@@ -291,21 +218,20 @@
   "url": "https://doi.org/10.1016/s0143-7208(96)00081-2",
   "source": "openalex",
   "categories": [
-   "Surface Chemistry",
+   "Drug Discovery",
+   "Classical ML",
    "Deep Learning"
   ],
-  "tags": [
-   "Adsorption",
-   "Neural Network"
-  ],
-  "relevance_score": 44,
+  "tags": [],
+  "relevance_score": 90,
   "affiliations": [
    "Romanian Academy",
    "Tokyo Institute of Technology",
    "University of Graz",
    "Polytechnic University of Timişoara"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "62daca05cf57855f",
@@ -325,19 +251,17 @@
   "url": "https://doi.org/10.1080/10629369708033250",
   "source": "openalex",
   "categories": [
-   "Physical Chemistry",
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR",
-   "Solvents"
-  ],
-  "relevance_score": 42,
+  "tags": [],
+  "relevance_score": 67,
   "affiliations": [
    "Délégation Normandie",
    "Centre d'Etudes et de Recherche sur le Médicament de Normandie"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "3f0de331ffb8c4c4",
@@ -354,24 +278,16 @@
   "url": "https://doi.org/10.1021/ci970006g",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "ML Potentials & Force Fields",
-   "Computational Chemistry",
-   "Physical Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Binding Energy",
-   "Force Fields",
-   "Ligands",
-   "QSAR",
-   "Thermodynamics",
-   "Transition States"
-  ],
-  "relevance_score": 82,
+  "tags": [],
+  "relevance_score": 77,
   "affiliations": [
    "University of Illinois Chicago"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

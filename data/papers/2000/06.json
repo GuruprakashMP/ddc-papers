@@ -18,19 +18,18 @@
   "url": "https://doi.org/10.1021/jm000048n",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Ligands",
-   "QSAR"
-  ],
-  "relevance_score": 61,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "University of Washington",
    "Washington State University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "4079b8fbb48d5fe8",
@@ -49,23 +48,17 @@
   "url": "https://doi.org/10.1021/jf991039u",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Descriptors",
-   "Molecules",
-   "PCA",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 89,
+  "tags": [],
+  "relevance_score": 94,
   "affiliations": [
    "Universidade Federal de Santa Catarina"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "3593541f662ed65d",
@@ -84,18 +77,17 @@
   "url": "https://doi.org/10.18388/abp.2000_4028",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Data Mining"
   ],
-  "tags": [
-   "Lead Optimization",
-   "QSAR"
-  ],
-  "relevance_score": 49,
+  "tags": [],
+  "relevance_score": 73,
   "affiliations": [
    "Ankara University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "1693027ba5b3432b",
@@ -115,54 +107,19 @@
   "url": "https://doi.org/10.1021/ci9901136",
   "source": "openalex",
   "categories": [
-   "Computational Chemistry",
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
+   "Drug Discovery",
+   "Classical ML",
    "Deep Learning"
   ],
-  "tags": [
-   "Chemistry",
-   "Descriptors",
-   "Molecules",
-   "Neural Network",
-   "QSAR",
-   "Quantum Chemistry",
-   "SAR"
-  ],
-  "relevance_score": 98,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [
    "University of Minnesota, Duluth",
    "Arizona State University",
    "University of Montana"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "656ffd25fdfb0b7f",
-  "title": "ChemInform Abstract: Molecular Dataset Diversity Indices and Their Applications to Comparison of Chemical Databases and QSAR Analysis.",
-  "authors": [
-   "Alexander Golbraikh"
-  ],
-  "journal": "ChemInform",
-  "publisher": "Wiley",
-  "published": "2000-06-20",
-  "year": 2000,
-  "doi": "10.1002/chin.200025257",
-  "url": "https://doi.org/10.1002/chin.200025257",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 64,
-  "affiliations": [
-   "Latvijas Organiskās Sintēzes Institūts"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "69ba53482f84d69b",
@@ -179,29 +136,17 @@
   "url": "https://doi.org/10.1126/science.288.5473.1981b",
   "source": "openalex",
   "categories": [
-   "Molecule Generation",
-   "Computational Chemistry",
-   "ML Potentials & Force Fields",
-   "Polymer Chemistry",
-   "Property Prediction",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Generative Models"
   ],
-  "tags": [
-   "Chemistry",
-   "De Novo Design",
-   "Dipole Moment",
-   "Force Fields",
-   "LogP",
-   "Molecular Dynamics",
-   "Molecules",
-   "Polymers",
-   "QSAR"
-  ],
-  "relevance_score": 72,
+  "tags": [],
+  "relevance_score": 84,
   "affiliations": [
    "University of Pittsburgh"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "6f4b16b83c7bdc20",
@@ -217,16 +162,17 @@
   "url": "https://doi.org/10.1016/s0166-1280(00)00366-3",
   "source": "openalex",
   "categories": [
-   "Deep Learning"
+   "Drug Discovery",
+   "Deep Learning",
+   "Chemometrics"
   ],
-  "tags": [
-   "Neural Network"
-  ],
-  "relevance_score": 48,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "Universitat de València"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "36288adbe871caf1",
@@ -242,45 +188,16 @@
   "url": "https://doi.org/10.1016/s0166-1280(00)00367-5",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "Universidad Nacional de La Plata"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "b64939bbdde39183",
-  "title": "Overall Connectivities/Topological Complexities: A New Powerful Tool for QSPR/QSAR",
-  "authors": [
-   "Danail Bonchev"
-  ],
-  "journal": "Journal of Chemical Information and Computer Sciences",
-  "publisher": "American Chemical Society",
-  "published": "2000-06-01",
-  "year": 2000,
-  "doi": "10.1021/ci990120u",
-  "url": "https://doi.org/10.1021/ci990120u",
-  "source": "openalex",
-  "categories": [
-   "Property Prediction",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Boiling Point",
-   "Molecules",
-   "QSAR",
-   "QSPR"
-  ],
-  "relevance_score": 87,
-  "affiliations": [
-   "Texas A&M University at Galveston"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "acb51cfa762bb7e1",
@@ -298,19 +215,16 @@
   "url": "https://doi.org/10.1002/1521-3838(200006)19:3<227::aid-qsar227>3.0.co;2-e",
   "source": "openalex",
   "categories": [
-   "Property Prediction",
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "LogP",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 65,
   "affiliations": [
    "University of Cologne"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "aa6d59fda97b39e5",
@@ -330,24 +244,18 @@
   "url": "https://doi.org/10.1002/1521-3838(200006)19:3<257::aid-qsar257>3.0.co;2-2",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Physical Organic Chemistry",
-   "Cheminformatics",
+   "Drug Discovery",
+   "Classical ML",
    "Deep Learning"
   ],
-  "tags": [
-   "Hammett Analysis",
-   "Molecules",
-   "Neural Network",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 78,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "Korea Institute of Science and Technology",
    "Korea University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "70488daa2569455a",
@@ -369,51 +277,20 @@
   "url": "https://doi.org/10.1016/s0968-0896(00)00061-4",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "Washington University in St. Louis",
    "Sapienza University of Rome",
    "University of Siena",
    "University of Cagliari"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "524403b1f32cb39d",
-  "title": "Prediction of Aluminum Pitting in Natural Waters via Artificial Neural Network Analysis",
-  "authors": [
-   "Jack Leifer",
-   "J. I. Mickalonis"
-  ],
-  "journal": "CORROSION",
-  "publisher": "",
-  "published": "2000-06-01",
-  "year": 2000,
-  "doi": "10.5006/1.3280560",
-  "url": "https://doi.org/10.5006/1.3280560",
-  "source": "openalex",
-  "categories": [
-   "Materials Chemistry",
-   "Deep Learning",
-   "Machine Learning"
-  ],
-  "tags": [
-   "Alloys",
-   "Chemistry",
-   "Neural Network",
-   "Predictive Model"
-  ],
-  "relevance_score": 56,
-  "affiliations": [
-   "University of South Carolina Aiken",
-   "Savannah River National Laboratory"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "501cf20d7bcd34eb",
@@ -433,16 +310,16 @@
   "url": "https://doi.org/10.1016/s0166-1280(00)00363-8",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 91,
   "affiliations": [
    "University of Girona"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "4f3cf45b1dc6706d",
@@ -461,46 +338,16 @@
   "url": "https://doi.org/10.1016/s0166-1280(00)00364-x",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "Universidad Nacional de La Plata"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "1fc85ed553139169",
-  "title": "Comparative QSAR evidence for a free-radical mechanism of phenol-induced toxicity",
-  "authors": [
-   "Corwin Hansch",
-   "Susan C. McKarns",
-   "Carr J. Smith",
-   "David J. Doolittle"
-  ],
-  "journal": "Chemico-Biological Interactions",
-  "publisher": "Elsevier BV",
-  "published": "2000-06-01",
-  "year": 2000,
-  "doi": "10.1016/s0009-2797(00)00171-x",
-  "url": "https://doi.org/10.1016/s0009-2797(00)00171-x",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [
-   "Pomona College",
-   "Michigan State University",
-   "Reynolds American (United States)"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "1729905bcac313ab",
@@ -517,22 +364,17 @@
   "url": "https://doi.org/10.1211/0022357001774435",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Property Prediction",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR",
-   "SAR",
-   "Solubility"
-  ],
-  "relevance_score": 67,
+  "tags": [],
+  "relevance_score": 80,
   "affiliations": [
    "Tabriz University of Medical Sciences",
    "Liverpool John Moores University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "1202625a193e12f9",
@@ -548,16 +390,15 @@
   "url": "https://doi.org/10.1016/s1367-5931(00)00089-2",
   "source": "openalex",
   "categories": [
+   "Drug Discovery",
    "Deep Learning"
   ],
-  "tags": [
-   "Chemistry",
-   "Neural Network"
-  ],
-  "relevance_score": 50,
+  "tags": [],
+  "relevance_score": 86,
   "affiliations": [
    "BASF (United States)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  }
 ]

@@ -1,37 +1,5 @@
 [
  {
-  "id": "e624327c182911c9",
-  "title": "A quantitative structure-activity relationship (QSAR) analysis of the effects of aromatic substitution on the anticonvulsant activity and toxicity of arylsuccinimides.",
-  "authors": [
-   "Jos H.M. Lange",
-   "Wieslaw M. Kazmierski",
-   "J Daroszewski"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "1992-02-21",
-  "year": 1992,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/1771166",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Physical Organic Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR",
-   "SAR",
-   "Steric Parameters"
-  ],
-  "relevance_score": 67,
-  "affiliations": [
-   "Institute of Industrial Organic Chemistry",
-   "Institute of Organic Chemistry"
-  ],
-  "added": "2026-07-21"
- },
- {
   "id": "1cba3f18dd284919",
   "title": "Predicting Chemical Mutagenicity by Using Quantitative Structure—Activity Relationships",
   "authors": [
@@ -45,20 +13,16 @@
   "url": "https://doi.org/10.1021/bk-1992-0484.ch018",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 57,
+  "tags": [],
+  "relevance_score": 79,
   "affiliations": [
    "Reed College"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "57b0c870e6c264d7",
@@ -78,81 +42,17 @@
   "url": "https://doi.org/10.1002/etc.5620110216",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 80,
   "affiliations": [
    "National Institute for Public Health and the Environment",
    "Utrecht University"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "4c7061251bd4acdc",
-  "title": "Practical applications of Quantitative Structure-Activity Relationship (QSAR) in environmental chemistry and toxicology",
-  "authors": [
-   "Martin Kietzmann"
-  ],
-  "journal": "Toxicon",
-  "publisher": "Elsevier BV",
-  "published": "1992-02-01",
-  "year": 1992,
-  "doi": "10.1016/0041-0101(92)90486-o",
-  "url": "https://doi.org/10.1016/0041-0101(92)90486-o",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 64,
-  "affiliations": [],
-  "added": "2026-07-21"
- },
- {
-  "id": "45f0afcd61d26e01",
-  "title": "QSARs for monosubstituted phenols and the polar narcosis mechanism of toxicity.",
-  "authors": [
-   "T. Wayne Schultz",
-   "David Lin",
-   "Sonji K. Wesley"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "1992-02-01",
-  "year": 1992,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/1344212",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Analytical Chemistry",
-   "Property Prediction",
-   "Spectroscopy",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chromatography",
-   "QSAR",
-   "SAR",
-   "Spectroscopy",
-   "pKa"
-  ],
-  "relevance_score": 76,
-  "affiliations": [
-   "Knoxville College",
-   "University of Tennessee at Knoxville"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "3bff7a1ef1a72402",
@@ -172,20 +72,15 @@
   "url": "https://doi.org/10.1021/jm00081a022",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Property Prediction",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Dipole Moment",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 79,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [
    "University of Illinois Chicago"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

@@ -1,39 +1,5 @@
 [
  {
-  "id": "eaf4265dfc875a06",
-  "title": "Applied parallel computing : computations in physics, chemistry and engineering science : Second International Workshop, PARA '95, Lyngby, Denmark, August 21-24, 1995 : proceedings",
-  "authors": [
-   "Para",
-   "Jack Dongarra",
-   "Kaj Madsen",
-   "Jerzy Waśniewski"
-  ],
-  "journal": "Medical Entomology and Zoology",
-  "publisher": "Japan Society of Medical Entomology and Zoology",
-  "published": "1996-02-27",
-  "year": 1996,
-  "doi": "",
-  "url": "http://ci.nii.ac.jp/ncid/BA2737812X",
-  "source": "openalex",
-  "categories": [
-   "Computational Chemistry",
-   "Reaction Prediction",
-   "Deep Learning"
-  ],
-  "tags": [
-   "Ab Initio",
-   "Chemistry",
-   "Computational Chemistry",
-   "Molecular Dynamics",
-   "Molecules",
-   "Neural Network",
-   "Reactivity"
-  ],
-  "relevance_score": 48,
-  "affiliations": [],
-  "added": "2026-07-21"
- },
- {
   "id": "f45d8ad32f4873d1",
   "title": "Quantitative structure-activity relationships (QSARs) for skin corrosivity of organic acids, bases and phenols: Principal components and neural network analysis of extended datasets",
   "authors": [
@@ -47,86 +13,17 @@
   "url": "https://doi.org/10.1016/0887-2333(95)00101-8",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
+   "Drug Discovery",
+   "Classical ML",
    "Deep Learning"
   ],
-  "tags": [
-   "Neural Network",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 67,
+  "tags": [],
+  "relevance_score": 88,
   "affiliations": [
    "Unilever (United Kingdom)"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "e1bed705fd43b24c",
-  "title": "Structure‐Photodynamic Activity Relationships of a Series of 4‐Substituted Zinc Phthalocyanines",
-  "authors": [
-   "Philippe Margaron",
-   "Marie-Josée Grégoire",
-   "V. Ščasnár",
-   "Hesham Ali",
-   "Johan E. van Lier"
-  ],
-  "journal": "Photochemistry and Photobiology",
-  "publisher": "Wiley",
-  "published": "1996-02-01",
-  "year": 1996,
-  "doi": "10.1111/j.1751-1097.1996.tb03017.x",
-  "url": "https://doi.org/10.1111/j.1751-1097.1996.tb03017.x",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Physical Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Kinetics",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 66,
-  "affiliations": [
-   "Université de Sherbrooke",
-   "QLT (Canada)",
-   "Institute of Chemistry of the Slovak Academy of Sciences",
-   "Slovak Academy of Sciences",
-   "Institute of Experimental Endocrinology of the Slovak Academy of Sciences"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "ad04e8029ecdd8da",
-  "title": "Fast Intelligent Battery Charging for Automotive Applications Using Neural-Fuzzy Technology",
-  "authors": [
-   "Zafar Ullah",
-   "Brian Burford",
-   "Sayeed Rahman",
-   "Dilip S",
-   "Roger Miller"
-  ],
-  "journal": "SAE technical papers on CD-ROM/SAE technical paper series",
-  "publisher": "",
-  "published": "1996-02-01",
-  "year": 1996,
-  "doi": "10.4271/960446",
-  "url": "https://doi.org/10.4271/960446",
-  "source": "openalex",
-  "categories": [
-   "Electrochemistry & Batteries",
-   "Deep Learning"
-  ],
-  "tags": [
-   "Batteries",
-   "Neural Network"
-  ],
-  "relevance_score": 40,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "6843c6e23c1b80d3",
@@ -144,46 +41,16 @@
   "url": "https://doi.org/10.1021/es950398c",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 48,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "University of California, Davis"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "08eeb531db023ae2",
-  "title": "The use of structure generators in predictive pharmacology and toxicology.",
-  "authors": [
-   "Thomas Wieland"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "1996-02-01",
-  "year": 1996,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/8720320",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 51,
-  "affiliations": [
-   "University of Bayreuth"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "024c890e2eda783e",
@@ -208,18 +75,16 @@
   "url": "https://doi.org/10.1111/j.2042-7158.1996.tb07124.x",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "Loughborough University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

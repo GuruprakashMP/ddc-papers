@@ -1,33 +1,5 @@
 [
  {
-  "id": "f386c2e0002912fe",
-  "title": "Machine learning approach for the prediction of protein secondary structure",
-  "authors": [
-   "Ross D. King",
-   "Michael J.E. Sternberg"
-  ],
-  "journal": "Journal of Molecular Biology",
-  "publisher": "Elsevier BV",
-  "published": "1990-11-01",
-  "year": 1990,
-  "doi": "10.1016/s0022-2836(05)80333-x",
-  "url": "https://doi.org/10.1016/s0022-2836(05)80333-x",
-  "source": "openalex",
-  "categories": [
-   "Machine Learning"
-  ],
-  "tags": [
-   "Machine Learning"
-  ],
-  "relevance_score": 48,
-  "affiliations": [
-   "Turing Institute",
-   "The Honourable Society of Lincoln's Inn",
-   "Birkbeck, University of London"
-  ],
-  "added": "2026-07-21"
- },
- {
   "id": "e37769febd6f4847",
   "title": "Quantitative structure‐activity relationships for sea anemone polypeptide toxins",
   "authors": [
@@ -42,21 +14,18 @@
   "url": "https://doi.org/10.1111/j.1399-3011.1990.tb01303.x",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "PLS",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 60,
+  "tags": [],
+  "relevance_score": 82,
   "affiliations": [
    "Umeå University",
    "University of Florida"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "c632161498058d60",
@@ -79,56 +48,16 @@
   "url": "https://doi.org/10.1002/etc.5620091103",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 69,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "Umeå University"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "bb1359be4a100d5e",
-  "title": "[Inhibition of cholinesterase activity with fluorine-containing derivatives of alpha-aminophosphonic acid].",
-  "authors": [
-   "Kuusk Vv",
-   "Морозова",
-   "Agabekian Rs",
-   "A Iu Aksinenko",
-   "Epishina Ta",
-   "Sokolov Vb",
-   "Kovaleva Nv",
-   "Razdol'skiy An",
-   "Fetisov Vn",
-   "Мартынов"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "1990-11-01",
-  "year": 1990,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/2096824",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Physical Organic Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecules",
-   "QSAR",
-   "SAR",
-   "Steric Parameters"
-  ],
-  "relevance_score": 63,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "b53e6284625bcadb",
@@ -146,17 +75,16 @@
   "url": "https://doi.org/10.1021/ci00068a020",
   "source": "openalex",
   "categories": [
+   "Synthesis & Reactions",
    "Deep Learning"
   ],
-  "tags": [
-   "Chemistry",
-   "Neural Network"
-  ],
-  "relevance_score": 43,
+  "tags": [],
+  "relevance_score": 87,
   "affiliations": [
    "Pfizer (United States)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "a0c558f9ed947d74",
@@ -181,22 +109,17 @@
   "url": "https://doi.org/10.1021/jm00173a013",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Organic Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Chirality",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 78,
+  "tags": [],
+  "relevance_score": 77,
   "affiliations": [
    "Bristol-Myers Squibb (United States)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "88c9c26958cd08e1",
@@ -214,17 +137,14 @@
   "url": "https://doi.org/10.1021/ci00068a023",
   "source": "openalex",
   "categories": [
-   "Organic Chemistry",
-   "Machine Learning"
+   "Molecular Properties & Design",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Machine Learning",
-   "Organic Chemistry"
-  ],
-  "relevance_score": 62,
+  "tags": [],
+  "relevance_score": 91,
   "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "5f3a6b9c4ce4fff8",
@@ -247,51 +167,19 @@
   "url": "https://doi.org/10.3109/10915819009078768",
   "source": "openalex",
   "categories": [
-   "Electrochemistry & Batteries",
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Batteries",
-   "Chemistry",
-   "QSAR",
-   "Regression"
-  ],
-  "relevance_score": 60,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [
    "Istituto Superiore di Sanità",
    "University of Ferrara",
    "Umeå University",
    "Water Research Institute"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "1abecc928bcfe333",
-  "title": "Quantitative structure-activity relationships (QSAR) and molecular modelling in cancer research",
-  "authors": [
-   "Hugo Kubinyi"
-  ],
-  "journal": "Journal of Cancer Research and Clinical Oncology",
-  "publisher": "Springer Science+Business Media",
-  "published": "1990-11-01",
-  "year": 1990,
-  "doi": "10.1007/bf01637071",
-  "url": "https://doi.org/10.1007/bf01637071",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 61,
-  "affiliations": [
-   "BASF (Germany)"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

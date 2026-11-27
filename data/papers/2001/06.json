@@ -1,95 +1,5 @@
 [
  {
-  "id": "d37593d5d256c5f4",
-  "title": "Reviews in Computational Chemistry. Volume 16 Edited by Kenny B. Lipkowitz and Donald B. Boyd (Indiana UniversityPurdue University). Wiley-VCH: New York. 2000. xxviii + 342 pp. $135.00. ISBN 0-471-38667-7.",
-  "authors": [
-   "Yvonne C. Martin"
-  ],
-  "journal": "Journal of the American Chemical Society",
-  "publisher": "American Chemical Society",
-  "published": "2001-06-30",
-  "year": 2001,
-  "doi": "10.1021/ja015226w",
-  "url": "https://doi.org/10.1021/ja015226w",
-  "source": "openalex",
-  "categories": [
-   "Computational Chemistry",
-   "Catalysis",
-   "Deep Learning"
-  ],
-  "tags": [
-   "Chemistry",
-   "Computational Chemistry",
-   "Ligands",
-   "Molecules",
-   "Neural Network"
-  ],
-  "relevance_score": 60,
-  "affiliations": [
-   "Abbott (United Kingdom)"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "6270791c02a81eab",
-  "title": "Maximum Topological Distances Based Indices as Molecular Descriptors for QSPR. 4. Modeling the Enthalpy of Formation of Hydrocarbons from Elements",
-  "authors": [
-   "Andrés Mercader",
-   "Eduardo Castro",
-   "Andrey A. Toropov"
-  ],
-  "journal": "International Journal of Molecular Sciences",
-  "publisher": "Multidisciplinary Digital Publishing Institute",
-  "published": "2001-06-28",
-  "year": 2001,
-  "doi": "10.3390/i2020121",
-  "url": "https://doi.org/10.3390/i2020121",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Descriptors",
-   "Molecules",
-   "QSAR",
-   "QSPR"
-  ],
-  "relevance_score": 78,
-  "affiliations": [
-   "Universidad Nacional de La Plata",
-   "Mario Negri Institute for Pharmacological Research"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "f16bf3a31c9b7aaa",
-  "title": "ChemInform Abstract: Syntheses and QSAR Studies of 5‐Imidazolinone Derivatives as Potential Antibacterial Agents.",
-  "authors": [
-   "Monic Shah",
-   "Nisheeth C. Desai",
-   "Keshav K. Awasthi",
-   "Anil K. Saxena"
-  ],
-  "journal": "ChemInform",
-  "publisher": "Wiley",
-  "published": "2001-06-26",
-  "year": 2001,
-  "doi": "10.1002/chin.200126117",
-  "url": "https://doi.org/10.1002/chin.200126117",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [
-   "Central Drug Research Institute"
-  ],
-  "added": "2026-07-21"
- },
- {
   "id": "c0c91e9411b0cc84",
   "title": "Quantitative Structure-Activity Relationship (QSAR): A Versatile Tool in Drug Design",
   "authors": [
@@ -103,17 +13,14 @@
   "url": "https://doi.org/10.1201/9781482270761-9",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Lead Optimization",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 64,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "a54af45ce6a119ba",
@@ -127,22 +34,14 @@
   "url": "https://doi.org/10.1201/9781482270761-10",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Catalysis",
-   "Polymer Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Ligands",
-   "Macromolecules",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 76,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "815e5568ee2a9a34",
@@ -158,76 +57,15 @@
   "url": "https://doi.org/10.1201/9781482270761-18",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Organic Chemistry",
-   "Cheminformatics",
-   "High-Throughput & Autonomous"
+   "Drug Discovery",
+   "Classical ML",
+   "Data Mining"
   ],
-  "tags": [
-   "Chemistry",
-   "High-Throughput",
-   "Medicinal Chemistry",
-   "Molecules",
-   "QSAR",
-   "Total Synthesis"
-  ],
-  "relevance_score": 85,
+  "tags": [],
+  "relevance_score": 93,
   "affiliations": [],
-  "added": "2026-07-21"
- },
- {
-  "id": "2abe263065bf42c9",
-  "title": "ChemInform Abstract: Reactions of 5‐Amino‐3‐methylisoxazole‐4‐carboxylic Acid Hydrazide with Carbonyl Compounds: Immunological Activity and QSAR Studies of Products.",
-  "authors": [
-   "Stanisław Ryng",
-   "Michał Zimecki",
-   "Adam Fedorowicz",
-   "Aneta Jezierska"
-  ],
-  "journal": "ChemInform",
-  "publisher": "Wiley",
-  "published": "2001-06-26",
-  "year": 2001,
-  "doi": "10.1002/chin.200126121",
-  "url": "https://doi.org/10.1002/chin.200126121",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [
-   "University of Wrocław"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "0bbfa874c4fce79e",
-  "title": "ChemInform Abstract: Natural and Synthetic Xanthones as Monoamine Oxidase Inhibitors: Biological Assay and 3D‐QSAR.",
-  "authors": [
-   "Bernard Testa",
-   "et al. et al."
-  ],
-  "journal": "ChemInform",
-  "publisher": "Wiley",
-  "published": "2001-06-19",
-  "year": 2001,
-  "doi": "10.1002/chin.200125205",
-  "url": "https://doi.org/10.1002/chin.200125205",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [
-   "University of Lausanne"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "e9e677db2449c194",
@@ -246,19 +84,17 @@
   "url": "https://doi.org/10.1021/ci000160u",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Descriptors",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 66,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [
    "Universitat de Girona",
    "Czech Academy of Sciences, Institute of Chemical Process Fundamentals"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "24d2c1ee958db5c4",
@@ -282,18 +118,17 @@
   "url": "https://doi.org/10.1021/jm0009336",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Ligands",
-   "QSAR"
-  ],
-  "relevance_score": 57,
+  "tags": [],
+  "relevance_score": 86,
   "affiliations": [
    "Recordati (Italy)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "48d87a90646ee7e0",
@@ -311,24 +146,18 @@
   "url": "https://doi.org/10.1021/jm010858e",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
+   "Drug Discovery",
+   "Classical ML",
    "Deep Learning",
-   "Chemometrics & Statistics"
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "Neural Network",
-   "PLS",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 93,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "University of Portsmouth"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "97c445911af35f20",
@@ -347,21 +176,17 @@
   "url": "https://doi.org/10.1021/ci010002i",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Ligands",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 79,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "Peking University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "7e78186d8a821021",
@@ -379,79 +204,16 @@
   "url": "https://doi.org/10.1021/ci000170v",
   "source": "openalex",
   "categories": [
-   "ML Potentials & Force Fields",
-   "Spectroscopy",
-   "Cheminformatics"
+   "Molecular Properties & Design",
+   "Classical ML"
   ],
-  "tags": [
-   "Descriptors",
-   "Force Fields",
-   "Molecules",
-   "QSAR",
-   "QSPR",
-   "Spectroscopy"
-  ],
-  "relevance_score": 96,
+  "tags": [],
+  "relevance_score": 67,
   "affiliations": [
    "Universidade de Santiago de Compostela"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "d1637dde62b461c4",
-  "title": "ChemInform Abstract: Chem‐Bioinformatics and QSAR: A Review of QSAR Lacking Positive Hydrophobic Terms",
-  "authors": [
-   "Corwin Hansch",
-   "Alka Kurup",
-   "Rajni Garg",
-   "Hua Gao"
-  ],
-  "journal": "ChemInform",
-  "publisher": "Wiley",
-  "published": "2001-06-12",
-  "year": 2001,
-  "doi": "10.1002/chin.200124268",
-  "url": "https://doi.org/10.1002/chin.200124268",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [
-   "Pomona College"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "56d8415d762896d0",
-  "title": "A Novel PI Index and Its Applications to QSPR/QSAR Studies",
-  "authors": [
-   "Padmakar V. Khadikar",
-   "Sneha Karmarkar",
-   "Vijay K. Agrawal"
-  ],
-  "journal": "Journal of Chemical Information and Computer Sciences",
-  "publisher": "American Chemical Society",
-  "published": "2001-06-08",
-  "year": 2001,
-  "doi": "10.1021/ci0003092",
-  "url": "https://doi.org/10.1021/ci0003092",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR",
-   "QSPR"
-  ],
-  "relevance_score": 72,
-  "affiliations": [
-   "Awadhesh Pratap Singh University"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "aefaa47ab78f0ec0",
@@ -467,46 +229,17 @@
   "url": "https://doi.org/10.1016/s0968-0896(01)00040-2",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 94,
   "affiliations": [
    "Abbott Fund"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "80933ad0c942d55a",
-  "title": "[Three dimensional quantitative structure-activity relationship of farnesyl protein transferase inhibitors].",
-  "authors": [
-   "Sheng Wan",
-   "Yi Xiang",
-   "Zong Ru Guo"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "2001-06-01",
-  "year": 2001,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/12585125",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 54,
-  "affiliations": [
-   "Chinese Academy of Medical Sciences & Peking Union Medical College"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "670d8fd2e574fe4a",
@@ -523,71 +256,16 @@
   "url": "https://doi.org/10.1080/10629360108032919",
   "source": "openalex",
   "categories": [
-   "Molecule Generation",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Molecular Design",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 51,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [
    "Universidade de Santiago de Compostela"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "3840ae12657490bf",
-  "title": "QSARs of Some 5- or 6-Methyl-2-Substituted Benzoxazoles/Benzimidazoles against Candida albicans",
-  "authors": [
-   "Özlem Temiz-Arpacı"
-  ],
-  "journal": "DergiPark (Istanbul University)",
-  "publisher": "Istanbul University",
-  "published": "2001-06-01",
-  "year": 2001,
-  "doi": "",
-  "url": "https://dergipark.org.tr/tr/pub/tbtkmedical/issue/12361/148174",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Lead Optimization",
-   "QSAR"
-  ],
-  "relevance_score": 49,
-  "affiliations": [],
-  "added": "2026-07-21"
- },
- {
-  "id": "151eb9c15926a612",
-  "title": "Abstracts, The Canadian Phytopathological Society annual meeting, London, Ontario, 2001",
-  "authors": [],
-  "journal": "Canadian Journal of Plant Pathology",
-  "publisher": "Taylor & Francis",
-  "published": "2001-06-01",
-  "year": 2001,
-  "doi": "10.1080/07060660109506933",
-  "url": "https://doi.org/10.1080/07060660109506933",
-  "source": "openalex",
-  "categories": [
-   "Analytical Chemistry",
-   "Polymer Chemistry",
-   "Deep Learning"
-  ],
-  "tags": [
-   "Chemistry",
-   "Chromatography",
-   "Molecules",
-   "Neural Network",
-   "Polymers"
-  ],
-  "relevance_score": 43,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "06f74230d8b5472e",
@@ -606,18 +284,16 @@
   "url": "https://doi.org/10.1016/s0968-0896(01)00042-6",
   "source": "openalex",
   "categories": [
-   "Organic Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chirality",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 70,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "Central Drug Research Institute"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  }
 ]

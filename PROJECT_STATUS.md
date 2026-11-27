@@ -22,8 +22,11 @@ _Last updated: 2026-07-21 (historical backfill COMPLETE: 1990-2026)_
 - [x] Zero-dependency HTTP client with retries/backoff/gzip (`http.py`)
 - [x] 8 collectors: arXiv, ChemRxiv, Crossref, OpenAlex, PubMed, Europe PMC,
       Semantic Scholar, DOAJ - pluggable registry, one-file extension
-- [x] Keyword classifier (ML×chemistry rule, negative terms, venue bonus,
-      0–100 relevance score, multi-category, tags)
+- [x] Relevance model trained on 4,722 hand-labelled papers (rules for DOI and record
+      type, then a TF-IDF logistic regression; one chemistry area and the methods per
+      paper); whole store judged again on 2026-11-27 (79,387 to 40,422 papers); a 30-day
+      collection from the widened sources added 5,488, and a second pass with the
+      method-name rule left 42,144
 - [x] Deduplication across sources and days (persisted seen-set, rebuildable)
 - [x] JSON storage sharded by publication month
 - [x] Static site generator: homepage, search, authors, journals, categories,
@@ -55,7 +58,7 @@ _Last updated: 2026-07-21 (historical backfill COMPLETE: 1990-2026)_
 - [ ] Semantic Scholar API key support (env var → header)
 - [ ] Static per-category pages for SEO (currently category → search link)
 - [ ] `sitemap.xml` once the final public URL is known (`site_base_url` setting)
-- [ ] RSS/Atom feed of newly indexed papers
+- [x] Atom feed of newly indexed papers (`feed.xml`)
 - [ ] Research-group pages (needs affiliation data quality work)
 - [ ] Shard the search index further if the yearly JSON exceeds a few MB
 

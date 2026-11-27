@@ -4,124 +4,89 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>About · DataDrivenChemistryPapers</title>
-<meta name="description" content="A continuously updated index of AI &amp; Machine Learning papers applied to Chemistry">
-<meta name="theme-color" content="#0f172a">
+<meta name="description" content="What DataDrivenChemistryPapers includes, how papers are found and what is stored.">
+<meta name="theme-color" content="#1e3a6e">
 <meta property="og:type" content="website">
+<meta property="og:site_name" content="DataDrivenChemistryPapers">
 <meta property="og:title" content="About · DataDrivenChemistryPapers">
-<meta property="og:description" content="A continuously updated index of AI &amp; Machine Learning papers applied to Chemistry">
-<link rel="icon" href="/images/gp-icon.svg" type="image/svg+xml">
-<link rel="stylesheet" href="/assets/css/gp-tools.css">
+<meta property="og:description" content="What DataDrivenChemistryPapers includes, how papers are found and what is stored.">
+<link rel="canonical" href="https://guruprakashmp.github.io/ddc-papers/about.html">
+<meta property="og:url" content="https://guruprakashmp.github.io/ddc-papers/about.html">
+<link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+<link rel="alternate" type="application/atom+xml" title="DataDrivenChemistryPapers: latest papers" href="feed.xml">
+<link rel="preload" href="assets/fonts/inter-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="assets/fonts/source-serif-4-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="assets/style.css">
-<script defer src="/assets/js/gp-bar.js"></script>
+<script defer src="assets/app.js"></script>
 
 </head>
-<body class="gp-page" data-index-key="ddc" data-site-title="DataDrivenChemistryPapers" data-root="">
+<body data-index-key="ddc" data-site-title="DataDrivenChemistryPapers" data-root="">
 <a class="skip" href="#main">Skip to the content</a>
-<header class="gp-bar">
-  <div class="gp-bar-in">
-    <a class="gp-home" href="/" aria-label="Guruprakash M P: home page"><img src="/images/gp-icon.svg" alt="" width="30" height="30"></a>
-    <span data-gp-tools data-gp-current="ddc" data-gp-compact></span>
-    <a class="gp-bar-title" href="index.html">DataDrivenChemistryPapers</a>
-    <nav class="gp-bar-nav" aria-label="DataDrivenChemistryPapers">
+<header class="top">
+  <div class="top-in">
+    <a class="brand" href="index.html"><svg viewBox="0 0 32 32" width="34" height="34" aria-hidden="true" focusable="false"><rect width="32" height="32" rx="8" fill="#1e3a6e"/><path d="M16 6.6l8.1 4.7v9.4L16 25.4l-8.1-4.7v-9.4z" fill="none" stroke="#fff" stroke-width="1.7" stroke-linejoin="round"/><circle cx="16" cy="6.6" r="2.2" fill="#8cc8ff"/><circle cx="24.1" cy="20.7" r="2.2" fill="#8cc8ff"/><circle cx="7.9" cy="20.7" r="2.2" fill="#8cc8ff"/></svg><span><span class="brand-name">DataDrivenChemistryPapers</span><span class="brand-sub">The open database of data-driven chemistry papers</span></span></a>
+    <nav class="nav" aria-label="Site">
       <a href="index.html">Latest</a>
       <a href="search.html">Search</a>
-      <a href="archive/index.html">Archive</a>
-      <a href="authors.html">Authors</a>
       <a href="journals.html">Journals</a>
+      <a href="authors.html">Authors</a>
       <a href="categories/index.html">Categories</a>
+      <a href="archive/index.html">Archive</a>
       <a href="about.html" aria-current="page">About</a>
     </nav>
   </div>
 </header>
-<section class="gp-hero gp-slim">
-  <canvas class="starfield" data-density="0.6" data-max="90" data-meteors="0" data-speed="0.35" aria-hidden="true"></canvas>
-  <div class="gp-hero-in">
-    <p class="gp-hero-kicker"><a href="index.html">DataDrivenChemistryPapers</a></p>
-    <p class="gp-hero-title">About this index</p>
-  </div>
-</section>
 <main class="wrap" id="main">
 
-<p><strong>DataDrivenChemistryPapers</strong> is an automatically updated index of
-scientific papers in which artificial intelligence, machine learning, or other
-data-driven techniques are applied to chemistry problems: catalysis, reaction
-prediction, retrosynthesis, molecular property prediction, ML potentials,
-spectroscopy, electrochemistry, polymer and materials chemistry, and more.</p>
-<h2 id="method">How it works</h2>
-<p>Every day an automated pipeline queries open scholarly metadata APIs,
-removes duplicates, classifies each paper with a chemistry-and-ML relevance
-model, assigns categories and a relevance score, and regenerates this site.</p>
-<h2 id="sources">Sources</h2>
-<ul><li><strong>arXiv</strong> (<code>arxiv</code>)</li>
-<li><strong>ChemRxiv</strong> (<code>chemrxiv</code>)</li>
-<li><strong>Crossref (ACS, RSC, Wiley, Springer Nature, Elsevier, ...)</strong> (<code>crossref</code>)</li>
-<li><strong>DOAJ</strong> (<code>doaj</code>)</li>
-<li><strong>Europe PMC</strong> (<code>europepmc</code>)</li>
-<li><strong>OpenAlex</strong> (<code>openalex</code>)</li>
-<li><strong>PubMed</strong> (<code>pubmed</code>)</li>
-<li><strong>Semantic Scholar</strong> (<code>semanticscholar</code>)</li></ul>
-<p>Papers from publishers such as ACS, RSC, Wiley, Springer Nature, Elsevier,
-MDPI, Frontiers, Taylor &amp; Francis, IOP and AIP reach this index through
-Crossref, OpenAlex, PubMed, Europe PMC, Semantic Scholar and DOAJ, which
-legally distribute their bibliographic metadata.</p>
-<h2 id="policy">Data policy</h2>
-<p>This site stores <em>metadata only</em>: title, authors, journal, date, DOI
-and link, and for some papers the address of the publisher's table-of-contents
-graphic. No abstracts, no full text, no PDFs, no images. Every paper links to the
-original publisher page. To have a record corrected or removed, contact
-<a href="mailto:guruprakash29011999@gmail.com">guruprakash29011999@gmail.com</a>.</p>
-<h2 id="abstracts">Abstracts</h2>
-<p>A paper's <strong>Abstract</strong> button asks <a href="https://openalex.org/">OpenAlex</a>
-for the abstract by the paper's DOI, and <a href="https://www.crossref.org/">Crossref</a> when
-OpenAlex has none. Your browser sends that request itself, only when you click, and the
-abstract is shown with its source. Nothing is stored, here or in your browser. Papers
-without a DOI, or whose abstract neither service has, show "No abstract available".</p>
-<h2 id="toc">Table-of-contents graphics</h2>
-<p>Every day the index reads the RSS feeds of the ACS, Wiley and RSC journals that
-publish papers listed here, and keeps, for those papers, only the address of the
-table-of-contents graphic the feed links. The image is not copied: your browser loads it
-from the publisher's own server, which therefore sees that request, as it would on the
-journal's website. A paper gets a graphic only while it is in its journal's feed, so
-mostly recent papers have one. So far 118 papers here have one (Wiley 118). Each graphic remains the property of its
-publisher or authors, is credited under it, and links to the paper.</p>
-<h2 id="your-data">What your browser keeps</h2>
-<p>Marking a paper read or saved, the journals you follow and the time of your last
-visit are kept in your browser's local storage on this computer, for this index only.
-They are never sent anywhere. Clearing this site's data in your browser removes them.</p>
-<p class="stats"><span><strong>79,387</strong> papers indexed so far.</span></p>
+<div class="page-head"><h1>About</h1></div>
+<div class="prose">
+<p><strong>DataDrivenChemistryPapers</strong> is an open database of research papers that apply
+machine learning, artificial intelligence or other data-driven methods to chemistry. It holds
+42,144 papers and is updated every day.</p>
+
+<h2 id="scope">What is included</h2>
+<p>A paper is included when a data-driven method is central to it (machine learning, deep
+learning, language models, chemometrics, Bayesian optimization, data mining, automated or
+high-throughput experimentation guided by algorithms) and the problem it studies is chemistry:
+molecules, reactions and synthesis, catalysis, materials chemistry, electrochemistry, polymers,
+chemical analysis, computational chemistry, medicinal chemistry of small molecules,
+environmental and chemical engineering. Medicine, biology without small-molecule chemistry,
+engineering and physics outside chemistry, and papers that mention AI only in passing are not
+included. Each paper has one chemistry area and the methods it uses; see the
+<a href="categories/index.html">categories</a>.</p>
+
+<h2 id="method">How papers are found</h2>
+<p>A daily job reads new records from open scholarly metadata services (OpenAlex, Crossref,
+ChemRxiv, arXiv, Europe PMC, PubMed, Semantic Scholar and DOAJ), removes duplicates and
+decides whether each paper belongs. Its title or abstract must name a data-driven method; a
+model trained on papers labelled against the rules above then judges the title, abstract,
+journal and OpenAlex topic. Like any automatic screen it can
+miss a paper or let one through. Write to <a href="mailto:guruprakash29011999@gmail.com">guruprakash29011999@gmail.com</a> to have a record corrected, added or removed.</p>
+
+<h2 id="data">What is stored</h2>
+<p>Bibliographic metadata only: title, authors, journal, dates, DOI and categories. Every paper
+links to its publisher. Abstracts and graphics are not stored: when you press
+<em>Show abstract</em>, your browser asks <a href="https://openalex.org/">OpenAlex</a> or
+<a href="https://www.crossref.org/">Crossref</a> for it, and graphical abstracts
+(443 papers have one, from Wiley and Elsevier journals) load from the publisher's own
+server and remain its property.</p>
+
+<h2 id="privacy">Privacy</h2>
+<p>No cookies and no tracking. The papers you mark read or save and the journals you follow
+stay in your browser's local storage and are never sent anywhere. To count visitors, your
+browser asks a public counter (abacus.jasoncameron.dev) to add one on your first visit and only
+reads the total afterwards; that service sees the request, as any website does.</p>
+</div>
 </main>
-<footer class="gp-footer" data-gp-footer>
-  <div class="gp-footer-in gp-footer-grid">
-    <div class="gp-footer-col gp-footer-brand">
-      <a class="gp-footer-made" href="/">Made by Guruprakash M P</a>
-      <p><strong>DataDrivenChemistryPapers</strong>. A continuously updated index of AI &amp; Machine Learning papers applied to Chemistry</p>
-      <p>Bibliographic metadata only: every paper links to its publisher, and no article
-      content is hosted here.</p>
-    </div>
-    <nav class="gp-footer-col" aria-label="This index">
-      <h2>This index</h2>
-      <ul><li><a href="index.html">Latest</a></li><li><a href="search.html">Search</a></li><li><a href="archive/index.html">Archive</a></li><li><a href="authors.html">Authors</a></li><li><a href="journals.html">Journals</a></li><li><a href="categories/index.html">Categories</a></li><li><a href="about.html">About</a></li></ul>
-    </nav>
-    <div class="gp-footer-col">
-      <h2>Data</h2>
-      <ul>
-        <li><a href="about.html#sources">Sources</a></li>
-        <li><a href="about.html#method">How papers are selected</a></li>
-        <li><a href="about.html#policy">Data policy</a></li>
-        <li><a href="about.html#your-data">What your browser keeps</a></li>
-        <li><a href="mailto:guruprakash29011999@gmail.com">Report a correction</a></li>
-      </ul>
-    </div>
-    <nav class="gp-footer-col" aria-label="Other tools">
-      <h2>Tools</h2>
-      <ul data-gp-toollist></ul>
-    </nav>
-  </div>
-  <div class="gp-footer-base">
-    <span>&copy; 2026 Guruprakash M P</span>
-    <span>Generated automatically and updated daily</span>
+<footer class="foot">
+  <div class="foot-in">
+    <span>&copy; 2026 <a href="https://guruprakashmp.github.io/">Guruprakash M P</a></span>
+    <a href="about.html">About</a>
+    <a href="feed.xml">RSS feed</a>
+    <a href="mailto:guruprakash29011999@gmail.com">Report a correction</a>
+    <span class="grow"></span>
+    <span class="visitors" id="visitors" hidden></span>
   </div>
 </footer>
-<script defer src="/assets/js/starfield.js"></script>
 </body>
 </html>

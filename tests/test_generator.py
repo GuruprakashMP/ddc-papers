@@ -5,7 +5,6 @@ from __future__ import annotations
 import datetime
 import json
 import pathlib
-import re
 import sys
 import tempfile
 import unittest
@@ -16,139 +15,109 @@ sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1] / "src"))
 from ddc.models import Paper  # noqa: E402
 from ddc.settings import Settings  # noqa: E402
 from ddc.site import generator  # noqa: E402
-from ddc.site.html import GP_SHARED  # noqa: E402
+from ddc.taxonomy import ALL_NAMES  # noqa: E402
+
+ADDED = "2026-07-20"
+GRA = "https://onlinelibrary.wiley.com/cms/asset/a1/adfm1-gra-0001-m.png"
+
+
+def mk(**kw):
+    base = dict(id="p", title="t", authors=["Jane Doe"], journal="Analytical Chemistry", publisher="",
+                published="2026-07-18", year=2026, doi="", url="", source="crossref",
+                categories=["Catalysis", "Classical ML"], tags=[], relevance_score=90, added=ADDED)
+    base.update(kw)
+    return Paper(**base)
+
 
 SAMPLE = [
-    Paper(
-        id="p1", title="ML for catalysis <test>", authors=["Jane Doe", "Bo Li"],
-        journal="ACS Catalysis", publisher="ACS", published="2026-07-18",
-        year=2026, doi="10.1021/x", url="https://doi.org/10.1021/x",
-        source="crossref", categories=["Catalysis", "Machine Learning"],
-        tags=["Random Forest"], relevance_score=92, added="2026-07-19"),
-    Paper(
-        id="p2", title="GNNs for property prediction", authors=["Jane Doe"],
-        journal="Chem. Sci.", publisher="RSC", published="2026-06-02",
-        year=2026, doi="10.1039/y", url="https://doi.org/10.1039/y",
-        source="openalex", categories=["Property Prediction"],
-        tags=["Graph Neural Network"], relevance_score=75, added="2026-06-03"),
+    mk(id="p1", title="ML for catalysis <test> — a study.", doi="10.1002/adfm.1",
+       journal="Analytical chemistry", oa_abstract="yes"),
+    mk(id="p2", title="GNNs for property prediction", doi="10.1039/y", journal="Analytical Chemistry",
+       categories=["Molecular Properties & Design", "Graph Neural Networks"], published="2026-06-02"),
+    mk(id="p3", title="An arXiv preprint", url="https://arxiv.org/abs/2601.00001",
+       journal="arXiv (Cornell University)", published="2027-01-05"),
 ]
 
 
 class TestGenerator(unittest.TestCase):
     def setUp(self):
         self.tmp = tempfile.TemporaryDirectory()
-        self.out = pathlib.Path(self.tmp.name)
-        fake_store = mock.Mock()
-        fake_store.load_all.return_value = list(SAMPLE)
-        patcher = mock.patch.object(generator, "PaperStore",
-                                    return_value=fake_store)
-        patcher.start()
-        self.addCleanup(patcher.stop)
-        tocs = mock.patch.object(generator, "_load_tocs", return_value={
-            "10.1021/x": {"img": "https://pubs.acs.org/cms/10.1021/x/asset/images/medium/x.gif",
-                          "pub": "ACS"}})
-        tocs.start()
-        self.addCleanup(tocs.stop)
         self.addCleanup(self.tmp.cleanup)
-        generator.generate_site(Settings(site_title="TestSite"), out_dir=self.out)
+        self.out = pathlib.Path(self.tmp.name)
+        store = mock.Mock()
+        store.load_all.return_value = [Paper.from_dict(p.to_dict()) for p in SAMPLE]
+        for target, value in (("PaperStore", store), ("_load_tocs", None)):
+            p = (mock.patch.object(generator, target, return_value=value) if target == "PaperStore"
+                 else mock.patch.object(generator, target, return_value={"10.1002/adfm.1": GRA}))
+            p.start()
+            self.addCleanup(p.stop)
+        generator.generate_site(Settings(site_title="TestSite", site_tagline="Tag",
+                                         site_base_url="https://example.org/ddc/"), out_dir=self.out)
 
-    def test_core_pages_exist(self):
-        for rel in ("index.html", "search.html", "authors.html", "journals.html",
-                    "about.html", "categories/index.html", "archive/index.html",
-                    "archive/2026/index.html", "archive/2026/07/index.html",
-                    "assets/style.css", "assets/app.js",
-                    "assets/data/manifest.json", "assets/data/papers-2026.json"):
+    def read(self, rel):
+        return (self.out / rel).read_text(encoding="utf-8")
+
+    def test_pages_and_assets_exist(self):
+        for rel in ("index.html", "search.html", "authors.html", "journals.html", "about.html",
+                    "categories/index.html", "archive/index.html", "archive/2026/07/index.html",
+                    "assets/style.css", "assets/app.js", "assets/worker.js", "assets/icon.svg",
+                    "assets/fonts/inter-latin-wght-normal.woff2", "assets/data/manifest.json",
+                    "assets/data/feed.json", "assets/data/papers-2026.json", "feed.xml", "sitemap.xml"):
             self.assertTrue((self.out / rel).exists(), rel)
 
-    def test_homepage_shows_papers_and_escapes_html(self):
-        html = (self.out / "index.html").read_text(encoding="utf-8")
-        self.assertIn("ML for catalysis &lt;test&gt;", html)
-        self.assertNotIn("<test>", html)
-        self.assertIn("ACS Catalysis", html)
-        self.assertIn("10.1021/x", html)
+    def test_manifest_and_compact_rows(self):
+        man = json.loads(self.read("assets/data/manifest.json"))
+        self.assertEqual(man["format"], 2)
+        self.assertEqual(man["categories"], ALL_NAMES)
+        y = next(e for e in man["years"] if e["year"] == 2026)
+        self.assertEqual(len(y["v"]), 12)
+        d = json.loads(self.read("assets/data/papers-2026.json"))
+        rows = {r[0]: r for r in d["p"]}
+        self.assertEqual(d["j"][rows["p1"][3]], "Analytical Chemistry")   # spellings merged
+        self.assertEqual(rows["p1"][6], [ALL_NAMES.index("Catalysis"), ALL_NAMES.index("Classical ML")])
+        self.assertEqual(rows["p1"][8], GRA)
+        self.assertEqual(rows["p1"][9], "o")
+        self.assertEqual(rows["p3"][7], "https://arxiv.org/abs/2601.00001")
+        self.assertEqual(rows["p3"][10], ADDED)          # dated ahead: sorted by the day added
 
-    def test_archive_month_page_groups_by_day(self):
-        html = (self.out / "archive" / "2026" / "07" / "index.html").read_text(
-            encoding="utf-8")
-        self.assertIn('id="d18"', html)
-        self.assertIn("18 July 2026", html)
+    def test_front_page_cards(self):
+        html = self.read("index.html")
+        self.assertIn("ML for catalysis &lt;test&gt; - a study", html)   # escaped, dash shown, no full stop
+        self.assertNotIn("—", html)
+        self.assertIn('class="toc-btn" href="https://onlinelibrary.wiley.com/cms/asset/a1/adfm1-gra-0001.png"', html)
+        for gone in ("score", "chip-cat", "meta-source", "gp-tools", "starfield"):
+            self.assertNotIn(gone, html)
+        self.assertEqual(html.count("TestSite</span>"), 1)              # the name, once
+        self.assertIn('"@type": "Dataset"', html)
 
-    def test_relative_links_at_depth(self):
-        html = (self.out / "archive" / "2026" / "07" / "index.html").read_text(
-            encoding="utf-8")
+    def test_archive_relative_links(self):
+        html = self.read("archive/2026/07/index.html")
         self.assertIn('href="../../../assets/style.css"', html)
-        self.assertIn('src="../../../assets/app.js"', html)
-        # The index's own links stay relative; the only root-relative URLs are the shared
-        # GP Tools theme files the main site (guruprakashmp.github.io) serves to every tool.
-        rooted = set(re.findall(r'(?:href|src)="(/[^"]*)"', html))
-        self.assertEqual(rooted - set(GP_SHARED.values()), set())
-        self.assertIn('href="/assets/css/gp-tools.css"', html)
-        self.assertIn('src="/assets/js/gp-bar.js"', html)
+        self.assertIn('data-page="static"', html)
 
-    def test_feed_lists_newest_additions_with_added_dates(self):
-        feed = json.loads((self.out / "assets" / "data" / "feed.json").read_text("utf-8"))
-        self.assertEqual(feed["count"], 2)
-        self.assertEqual([p["id"] for p in feed["papers"]], ["p1", "p2"])
-        self.assertEqual(feed["papers"][0]["added"], "2026-07-19")
-        self.assertNotIn("affiliations", feed["papers"][0])
-        self.assertTrue(feed["generated"].endswith("UTC"))
+    def test_journal_names_and_display_title(self):
+        names = generator.journal_names([mk(journal="arXiv (Cornell University)"), mk(journal="arXiv"),
+                                         mk(journal="Analytical chemistry"), mk(journal="Analytical Chemistry")])
+        self.assertEqual(names["arXiv (Cornell University)"], "arXiv")
+        self.assertEqual(names["Analytical chemistry"], "Analytical Chemistry")
+        self.assertEqual(generator.display_title("A title."), "A title")
+        self.assertEqual(generator.display_title("Smith et al."), "Smith et al.")
 
     def test_feed_window_and_minimum(self):
-        today = datetime.date(2026, 7, 20)
-        recent = [Paper(id=f"r{i}", title="t", authors=[], journal="", publisher="",
-                        published="2026-07-01", year=2026, doi="", url="", source="x",
-                        categories=[], tags=[], relevance_score=50, added="2026-07-19")
-                  for i in range(generator.FEED_MIN + 5)]
-        old = [Paper(id="old", title="t", authors=[], journal="", publisher="",
-                     published="2026-01-01", year=2026, doi="", url="", source="x",
-                     categories=[], tags=[], relevance_score=50, added="2026-01-02")]
-        picked = generator.feed_papers(recent + old, today)
-        self.assertEqual(len(picked), generator.FEED_MIN + 5)
-        self.assertNotIn("old", [p.id for p in picked])
-        # fewer than FEED_MIN in the window: the newest additions fill up to FEED_MIN
-        self.assertEqual([p.id for p in generator.feed_papers(old, today)], ["old"])
-        # ... and the oldest day taken comes whole, so "added since <date>" stays true
-        def mk(i, added):
-            return Paper(id=f"d{i}", title="t", authors=[], journal="", publisher="",
-                         published="2026-01-01", year=2026, doi="", url="", source="x",
-                         categories=[], tags=[], relevance_score=50, added=added)
-        days = [mk(i, "2026-05-02") for i in range(generator.FEED_MIN - 3)] + \
-               [mk(1000 + i, "2026-05-01") for i in range(10)] + [mk(2000, "2026-04-30")]
-        picked = generator.feed_papers(days, today)
-        self.assertEqual(len(picked), generator.FEED_MIN - 3 + 10)
-        self.assertEqual({p.added for p in picked}, {"2026-05-02", "2026-05-01"})
+        today = datetime.date(2026, 11, 27)
+        old = [mk(id=f"o{i}", added="2026-01-01", published="2025-12-20") for i in range(300)]
+        new = [mk(id=f"n{i}", added="2026-11-26", published="2026-11-20") for i in range(5)]
+        late = [mk(id=f"l{i}", added="2026-11-26", published="2019-05-01") for i in range(3)]
+        got = generator.feed_papers(old + new + late, today)
+        self.assertEqual(len(got), 305)          # fewer than FEED_MIN recent: the whole oldest day too
+        self.assertEqual(got[0].added, "2026-11-26")
+        self.assertFalse(any(p.id.startswith("l") for p in got))   # old papers found late: not news
 
-    def test_toc_graphic_reaches_feed_cards_and_about(self):
-        feed = json.loads((self.out / "assets" / "data" / "feed.json").read_text("utf-8"))
-        p1 = next(p for p in feed["papers"] if p["id"] == "p1")
-        self.assertEqual(p1["toc"], "https://pubs.acs.org/cms/10.1021/x/asset/images/medium/x.gif")
-        self.assertEqual(p1["tp"], "ACS")
-        self.assertNotIn("toc", next(p for p in feed["papers"] if p["id"] == "p2"))
-        month = (self.out / "archive" / "2026" / "07" / "index.html").read_text(encoding="utf-8")
-        self.assertIn('class="card has-toc"', month)
-        self.assertIn("Graphic: ACS", month)
-        self.assertIn('referrerpolicy="no-referrer"', month)
-        about = (self.out / "about.html").read_text(encoding="utf-8")
-        self.assertIn("So far 1 paper here has one (ACS 1).", about)
-
-    def test_em_dash_shown_as_hyphen_but_kept_in_links(self):
-        from ddc.site.html import no_dash
-        self.assertEqual(no_dash("Science—Sustainable"), "Science - Sustainable")
-        self.assertEqual(no_dash("Therapy — Nucleic Acids"), "Therapy - Nucleic Acids")
-
-    def test_pages_carry_the_index_key_and_theme(self):
-        html = (self.out / "index.html").read_text(encoding="utf-8")
-        self.assertIn('data-index-key="ddc"', html)
-        self.assertIn('data-gp-current="ddc"', html)
-        self.assertIn('class="starfield"', html)
-        self.assertIn("Made by Guruprakash M P", html)
-        self.assertIn('data-page="feed"', html)
-
-    def test_manifest_counts(self):
-        manifest = json.loads(
-            (self.out / "assets" / "data" / "manifest.json").read_text("utf-8"))
-        self.assertEqual(manifest["total"], 2)
-        self.assertEqual(manifest["years"][0]["year"], 2026)
+    def test_atom_and_sitemap(self):
+        atom = self.read("feed.xml")
+        self.assertIn('<link rel="self" href="https://example.org/ddc/feed.xml"/>', atom)
+        self.assertIn("https://doi.org/10.1002/adfm.1", atom)
+        self.assertIn("<loc>https://example.org/ddc/archive/2026/07/index.html</loc>", self.read("sitemap.xml"))
 
 
 if __name__ == "__main__":

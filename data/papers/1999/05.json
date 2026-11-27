@@ -1,90 +1,5 @@
 [
  {
-  "id": "3ae79495070dc525",
-  "title": "ChemInform Abstract: Comparative QSAR Analysis of Estrogen Receptor Ligands",
-  "authors": [
-   "Hua Gao",
-   "John A. Katzenellenbogen",
-   "Rajni Garg",
-   "Corwin Hansch"
-  ],
-  "journal": "ChemInform",
-  "publisher": "Wiley",
-  "published": "1999-05-25",
-  "year": 1999,
-  "doi": "10.1002/chin.199921279",
-  "url": "https://doi.org/10.1002/chin.199921279",
-  "source": "openalex",
-  "categories": [
-   "Catalysis",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Ligands",
-   "QSAR"
-  ],
-  "relevance_score": 64,
-  "affiliations": [
-   "Pomona College"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "26dc16848cf92ec8",
-  "title": "ChemInform Abstract: GA Strategy for Variable Selection in QSAR Studies: Application of GA‐Based Region Selection to a 3D‐QSAR Study of Acetylcholinesterase Inhibitors.",
-  "authors": [
-   "Kiyoshi Hasegawa",
-   "Toshiro Kimura",
-   "Kimito Funatsu"
-  ],
-  "journal": "ChemInform",
-  "publisher": "Wiley",
-  "published": "1999-05-25",
-  "year": 1999,
-  "doi": "10.1002/chin.199921259",
-  "url": "https://doi.org/10.1002/chin.199921259",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [
-   "Toyohashi University of Technology"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "06885313c7b7ef1b",
-  "title": "ChemInform Abstract: Binary Quantitative Structure—Activity Relationship (QSAR) Analysis of Estrogen Receptor Ligands.",
-  "authors": [
-   "Hua Gao",
-   "Chris Williams",
-   "Paul Labute",
-   "Juergen Bajorath"
-  ],
-  "journal": "ChemInform",
-  "publisher": "Wiley",
-  "published": "1999-05-25",
-  "year": 1999,
-  "doi": "10.1002/chin.199921263",
-  "url": "https://doi.org/10.1002/chin.199921263",
-  "source": "openalex",
-  "categories": [
-   "Catalysis",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Ligands",
-   "QSAR"
-  ],
-  "relevance_score": 64,
-  "affiliations": [],
-  "added": "2026-07-21"
- },
- {
   "id": "fa779168f616beca",
   "title": "Stereoselective Characterization of the 1,4-Dihydropyridine Binding Site at L-Type Calcium Channels in the Resting State and the Opened/Inactivated State",
   "authors": [
@@ -98,20 +13,17 @@
   "url": "https://doi.org/10.1021/jm981114c",
   "source": "openalex",
   "categories": [
-   "Computational Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "QSAR",
-   "Quantum Chemistry"
-  ],
-  "relevance_score": 69,
+  "tags": [],
+  "relevance_score": 92,
   "affiliations": [
    "Heinrich Heine University Düsseldorf"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "8f360560029be48c",
@@ -138,49 +50,15 @@
   "url": "https://doi.org/10.1021/jm980631s",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Drug Discovery Chemistry",
-   "Materials Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Catalysis",
-   "Crystal Structures",
-   "Docking",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 78,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [],
-  "added": "2026-07-21"
- },
- {
-  "id": "4b34b3e4d5f154dc",
-  "title": "ChemInform Abstract: Uniform‐Length Molecular Descriptors for Quantitative Structure—Property Relationships (QSPR) and Quantitative Structure—Activity Relationships (QSAR): Classification Studies and Similarity Searching",
-  "authors": [
-   "Knut Baumann"
-  ],
-  "journal": "ChemInform",
-  "publisher": "Wiley",
-  "published": "1999-05-18",
-  "year": 1999,
-  "doi": "10.1002/chin.199920316",
-  "url": "https://doi.org/10.1002/chin.199920316",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Descriptors",
-   "Molecules",
-   "QSAR",
-   "QSPR"
-  ],
-  "relevance_score": 78,
-  "affiliations": [
-   "University of Würzburg"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "b59a32ad52a04e9c",
@@ -198,16 +76,14 @@
   "url": "https://doi.org/10.1016/s0045-6535(98)00469-x",
   "source": "openalex",
   "categories": [
-   "Property Prediction",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR",
-   "Solubility"
-  ],
-  "relevance_score": 64,
+  "tags": [],
+  "relevance_score": 92,
   "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "b3e9f2139d9e23b0",
@@ -226,84 +102,17 @@
   "url": "https://doi.org/10.1007/s001289900908",
   "source": "openalex",
   "categories": [
-   "Computational Chemistry",
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "Quantum Chemistry"
-  ],
-  "relevance_score": 61,
+  "tags": [],
+  "relevance_score": 89,
   "affiliations": [
    "State Key Laboratory of Pollution Control and Resource Reuse",
    "Nanjing University"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "a7c1e4da9bbd77ec",
-  "title": "Combichem and chemoinformatics.",
-  "authors": [
-   "Alex Polinsky"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "1999-05-01",
-  "year": 1999,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/19649946",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Cheminformatics",
-   "Chemistry",
-   "Drug Discovery",
-   "Medicinal Chemistry"
-  ],
-  "relevance_score": 63,
-  "affiliations": [
-   "Agouron Institute"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "8c9ba243f134e67d",
-  "title": "Computer-aided molecular selection and design of natural bioactive molecules.",
-  "authors": [
-   "Philippe Bernard",
-   "Berthon Jy",
-   "Chrétien"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "1999-05-01",
-  "year": 1999,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/19649949",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Catalysis",
-   "Cheminformatics",
-   "Chemometrics & Statistics"
-  ],
-  "tags": [
-   "Chemistry",
-   "Chemometrics",
-   "Ligands",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 85,
-  "affiliations": [
-   "Greentech (France)"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "79fb1f38cf8d016c",
@@ -322,16 +131,17 @@
   "url": "https://doi.org/10.1016/s0022-2860(98)00781-9",
   "source": "openalex",
   "categories": [
-   "Deep Learning"
+   "Spectroscopy & Analysis",
+   "Deep Learning",
+   "Chemometrics"
   ],
-  "tags": [
-   "Neural Network"
-  ],
-  "relevance_score": 48,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [
    "Laboratoire de Spectroscopie pour les Interactions, la Réactivité et l'Environnement"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "763f9304cafc90a9",
@@ -349,18 +159,17 @@
   "url": "https://doi.org/10.1023/a:1008059505361",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Molecules",
-   "QSPR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 93,
   "affiliations": [
    "Czech Academy of Sciences, Institute of Chemical Process Fundamentals",
    "Universitat de Girona"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "598662d174ae279e",
@@ -382,16 +191,13 @@
   "url": "https://doi.org/10.1002/(sici)1098-1128(199905)19:3<249::aid-med4>3.0.co;2-0",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
-   "Deep Learning"
+   "Drug Discovery",
+   "Classical ML",
+   "Deep Learning",
+   "Chemometrics"
   ],
-  "tags": [
-   "Neural Network",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 63,
+  "tags": [],
+  "relevance_score": 83,
   "affiliations": [
    "Egis Pharmaceuticals (Hungary)",
    "Semmelweis University",
@@ -399,40 +205,8 @@
    "Eötvös Loránd University",
    "University of Szeged"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "4eeab301a91aa372",
-  "title": "Immunomodulating Action and Structure-Activity Relationships of Substituted Phenylamides of 5-Amino-3-methylisoxazole-4-carboxylic Acid",
-  "authors": [
-   "Stanisław Ryng",
-   "Michał Zimecki",
-   "Z. Sonnenberg",
-   "Maria J. Mokrosz"
-  ],
-  "journal": "Archiv der Pharmazie",
-  "publisher": "Wiley",
-  "published": "1999-05-01",
-  "year": 1999,
-  "doi": "10.1002/(sici)1521-4184(19995)332:5<158::aid-ardp158>3.0.co;2-n",
-  "url": "https://doi.org/10.1002/(sici)1521-4184(19995)332:5<158::aid-ardp158>3.0.co;2-n",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 51,
-  "affiliations": [
-   "Institute of Organic Chemistry",
-   "Ludwik Hirszfeld Institute of Immunology and Experimental Therapy",
-   "Polish Academy of Sciences",
-   "Maj Institute of Pharmacology"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "43b08af490b2ba6b",
@@ -451,81 +225,16 @@
   "url": "https://doi.org/10.1023/a:1008012732081",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [
    "University of Sheffield"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "3a5ab9754784f33e",
-  "title": "Role of the Internet in chemoinformatics: recent developments.",
-  "authors": [
-   "Güner Of",
-   "Omer Casher"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "1999-05-01",
-  "year": 1999,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/19649947",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Cheminformatics",
-   "Chemistry",
-   "Molecules"
-  ],
-  "relevance_score": 42,
-  "affiliations": [
-   "Simulations Plus (United States)"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "26d778fd2ff15652",
-  "title": "Retrieval of CO columns from IMG/ADEOS spectra",
-  "authors": [
-   "Cathy Clerbaux",
-   "Juliette Hadji-Lazaro",
-   "Sébastien Payan",
-   "C. Camy-Peyret",
-   "G. Mégie"
-  ],
-  "journal": "IEEE Transactions on Geoscience and Remote Sensing",
-  "publisher": "Institute of Electrical and Electronics Engineers",
-  "published": "1999-05-01",
-  "year": 1999,
-  "doi": "10.1109/36.763283",
-  "url": "https://doi.org/10.1109/36.763283",
-  "source": "openalex",
-  "categories": [
-   "Spectroscopy",
-   "Deep Learning"
-  ],
-  "tags": [
-   "Chemistry",
-   "Neural Network",
-   "Spectroscopy"
-  ],
-  "relevance_score": 43,
-  "affiliations": [
-   "Centre National de la Recherche Scientifique",
-   "Sorbonne Université",
-   "Institut Pierre-Simon Laplace",
-   "Université Paris 8",
-   "Université Paris Cité"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "251f91bc646b7512",
@@ -543,19 +252,18 @@
   "url": "https://doi.org/10.1016/s0169-7439(98)00213-5",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Ligands",
-   "QSAR"
-  ],
-  "relevance_score": 64,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "Institute of Organic Chemistry",
    "Semmelweis University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "249c038324fcd870",
@@ -572,26 +280,19 @@
   "url": "https://doi.org/10.1002/(sici)1099-128x(199905/08)13:3/4<473::aid-cem558>3.0.co;2-w",
   "source": "openalex",
   "categories": [
-   "Computational Chemistry",
-   "Reaction Prediction",
-   "Chemometrics & Statistics",
-   "Cheminformatics",
-   "Deep Learning"
+   "Environmental Chemistry",
+   "Classical ML",
+   "Deep Learning",
+   "Chemometrics"
   ],
-  "tags": [
-   "Activation Energy",
-   "Chemometrics",
-   "Neural Network",
-   "PCA",
-   "QSAR",
-   "Reactivity"
-  ],
-  "relevance_score": 90,
+  "tags": [],
+  "relevance_score": 92,
   "affiliations": [
    "HUN-REN Research Centre for Natural Sciences",
    "Budapest Institute"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "0ef77615567b0e84",
@@ -610,20 +311,17 @@
   "url": "https://doi.org/10.5254/1.3538804",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Molecular Properties & Design",
+   "Classical ML"
   ],
-  "tags": [
-   "Descriptors",
-   "Molecules",
-   "QSAR",
-   "QSPR"
-  ],
-  "relevance_score": 75,
+  "tags": [],
+  "relevance_score": 60,
   "affiliations": [
    "Ansys (United States)",
    "University of Florida",
    "University of Tartu"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

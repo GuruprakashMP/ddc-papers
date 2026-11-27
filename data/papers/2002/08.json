@@ -1,38 +1,5 @@
 [
  {
-  "id": "24a0d74f36f48136",
-  "title": "Chemoinformatics and Drug Discovery",
-  "authors": [
-   "Jun Xu",
-   "A. T. Hagler"
-  ],
-  "journal": "Molecules",
-  "publisher": "Multidisciplinary Digital Publishing Institute",
-  "published": "2002-08-30",
-  "year": 2002,
-  "doi": "10.3390/70800566",
-  "url": "https://doi.org/10.3390/70800566",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
-   "High-Throughput & Autonomous",
-   "Computational Chemistry"
-  ],
-  "tags": [
-   "ADMET",
-   "Cheminformatics",
-   "Drug Discovery",
-   "High-Throughput",
-   "In Silico"
-  ],
-  "relevance_score": 85,
-  "affiliations": [
-   "Medical Discovery Partners (United States)"
-  ],
-  "added": "2026-07-21"
- },
- {
   "id": "d520d7837215a7d1",
   "title": "QSAR Evaluation of Cyanohydrins' Fumigation Toxicity to House Fly ( Musca domestica ) and Lesser Grain Borer ( Rhyzopertha dominica )",
   "authors": [
@@ -48,74 +15,16 @@
   "url": "https://doi.org/10.1021/jf020361t",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 67,
+  "tags": [],
+  "relevance_score": 78,
   "affiliations": [
    "Iowa State University"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "c9b2b7d550b4c91b",
-  "title": "Sorption II: Partitioning to Living Media ‐ Bioaccumulation and Baseline Toxicity",
-  "authors": [],
-  "journal": "",
-  "publisher": "",
-  "published": "2002-08-23",
-  "year": 2002,
-  "doi": "10.1002/0471649643.ch10",
-  "url": "https://doi.org/10.1002/0471649643.ch10",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Physical Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "SAR",
-   "Solvents"
-  ],
-  "relevance_score": 57,
-  "affiliations": [],
-  "added": "2026-07-21"
- },
- {
-  "id": "97950af72fd7d92e",
-  "title": "Application integration: Providing coherent drug discovery solutions",
-  "authors": [
-   "Walter Gilbert",
-   "Mitch Miller"
-  ],
-  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
-  "publisher": "European Organization for Nuclear Research",
-  "published": "2002-08-22",
-  "year": 2002,
-  "doi": "10.5281/zenodo.20674164",
-  "url": "https://doi.org/10.5281/zenodo.20674164",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Cheminformatics",
-   "Chemistry",
-   "Drug Discovery"
-  ],
-  "relevance_score": 47,
-  "affiliations": [
-   "Harvard University Press"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "0122b95e0e147a3a",
@@ -134,22 +43,18 @@
   "url": "https://doi.org/10.1021/ci025520n",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Property Prediction",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Data Mining"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "SAR",
-   "Toxicity"
-  ],
-  "relevance_score": 75,
+  "tags": [],
+  "relevance_score": 91,
   "affiliations": [
    "Mario Negri Institute for Pharmacological Research",
    "Politecnico di Milano"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "8e6cc45663351bb8",
@@ -166,188 +71,17 @@
   "url": "https://doi.org/10.1021/jm020808p",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Docking",
-   "Ligands",
-   "Molecules",
-   "Protein-Ligand",
-   "QSAR"
-  ],
-  "relevance_score": 78,
+  "tags": [],
+  "relevance_score": 67,
   "affiliations": [
    "Philipps University of Marburg"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "c89b23cb1b26b3d6",
-  "title": "ChemInform Abstract: Molecular Quantum Similarity and the Fundamentals of QSAR",
-  "authors": [
-   "Emili Besalú",
-   "Xavier Gironés",
-   "Lluı́s Amat",
-   "Ramon Carbó-Dorca"
-  ],
-  "journal": "ChemInform",
-  "publisher": "Wiley",
-  "published": "2002-08-13",
-  "year": 2002,
-  "doi": "10.1002/chin.200232292",
-  "url": "https://doi.org/10.1002/chin.200232292",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 58,
-  "affiliations": [
-   "Universitat de Girona"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "9510c30ecbbdef0d",
-  "title": "Spin-Mediated Consciousness Theory: Possible Roles of Oxygen Unpaired Electronic Spins and Neural Membrane Nuclear Spin Ensemble in Memory and Consciousness",
-  "authors": [
-   "Huping Hu",
-   "Maoxin Wu"
-  ],
-  "journal": "arXiv (Cornell University)",
-  "publisher": "Cornell University",
-  "published": "2002-08-11",
-  "year": 2002,
-  "doi": "",
-  "url": "https://arxiv.org/pdf/quant-ph/0208068",
-  "source": "openalex",
-  "categories": [
-   "Deep Learning"
-  ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "Neural Network"
-  ],
-  "relevance_score": 40,
-  "affiliations": [],
-  "added": "2026-07-21"
- },
- {
-  "id": "a3330c97d03508f7",
-  "title": "Three dimensional structural view of metabotropic glutamate receptor activation",
-  "authors": [
-   "Kosuke Morikawa"
-  ],
-  "journal": "Acta Crystallographica Section A Foundations of Crystallography",
-  "publisher": "Wiley",
-  "published": "2002-08-06",
-  "year": 2002,
-  "doi": "10.1107/s0108767302094849",
-  "url": "https://doi.org/10.1107/s0108767302094849",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 48,
-  "affiliations": [],
-  "added": "2026-07-21"
- },
- {
-  "id": "5da06dd8f339d5e2",
-  "title": "Tunnels and cavities sustain activity in 'truncated hemoglobins'",
-  "authors": [
-   "Martino Bolognesi",
-   "Mario Milani",
-   "Alessandra Pesce"
-  ],
-  "journal": "Acta Crystallographica Section A Foundations of Crystallography",
-  "publisher": "Wiley",
-  "published": "2002-08-06",
-  "year": 2002,
-  "doi": "10.1107/s0108767302094850",
-  "url": "https://doi.org/10.1107/s0108767302094850",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 48,
-  "affiliations": [
-   "University of Pavia",
-   "Emory University"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "12e26c5ae607de85",
-  "title": "Structure of human monoamine oxidase B, a drug target for neurological disorders",
-  "authors": [
-   "Andrea Mattevi",
-   "D.E. Edmondson",
-   "Claudia Binda"
-  ],
-  "journal": "Acta Crystallographica Section A Foundations of Crystallography",
-  "publisher": "Wiley",
-  "published": "2002-08-06",
-  "year": 2002,
-  "doi": "10.1107/s0108767302094837",
-  "url": "https://doi.org/10.1107/s0108767302094837",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 48,
-  "affiliations": [
-   "University of Pavia",
-   "Emory University"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "01595c771c0aed46",
-  "title": "Crystallographic studies of heme enzymes engineered for ligand binding",
-  "authors": [
-   "David B. Goodin",
-   "A.-M.A. Hays",
-   "R.J. Rosenfeld",
-   "Anthony Nigro",
-   "Alexander R. Dunn",
-   "H.B. Gray"
-  ],
-  "journal": "Acta Crystallographica Section A Foundations of Crystallography",
-  "publisher": "Wiley",
-  "published": "2002-08-06",
-  "year": 2002,
-  "doi": "10.1107/s0108767302094862",
-  "url": "https://doi.org/10.1107/s0108767302094862",
-  "source": "openalex",
-  "categories": [
-   "Catalysis",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Ligands",
-   "QSAR"
-  ],
-  "relevance_score": 60,
-  "affiliations": [
-   "Emory University"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "c105f5e631386847",
@@ -366,23 +100,17 @@
   "url": "https://doi.org/10.1021/ci0200265",
   "source": "openalex",
   "categories": [
-   "Computational Chemistry",
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Catalysis",
-   "Chemistry",
-   "Molecules",
-   "QSAR",
-   "Quantum Chemistry"
-  ],
-  "relevance_score": 82,
+  "tags": [],
+  "relevance_score": 94,
   "affiliations": [
    "University of Nebraska Medical Center",
    "Walter Reed Army Institute of Research"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "fe80d33a108e1da7",
@@ -398,23 +126,16 @@
   "url": "https://doi.org/10.2174/1381612023394278",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Reaction Prediction",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Descriptors",
-   "Molecules",
-   "QSAR",
-   "Reactivity",
-   "SAR"
-  ],
-  "relevance_score": 82,
+  "tags": [],
+  "relevance_score": 89,
   "affiliations": [
    "Prof. Assen Zlatarov University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "fa70da1c94c67352",
@@ -434,17 +155,16 @@
   "url": "https://doi.org/10.1016/s1093-3263(02)00107-9",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "Heinrich Heine University Düsseldorf"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "e48abb4862f4e850",
@@ -460,21 +180,16 @@
   "url": "https://doi.org/10.1093/toxsci/68.2.498",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Descriptors",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 72,
+  "tags": [],
+  "relevance_score": 89,
   "affiliations": [
    "Material Concepts (United States)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "da2b10c964512324",
@@ -492,47 +207,17 @@
   "url": "https://doi.org/10.1016/s0045-6535(02)00114-5",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "Liverpool John Moores University",
    "DSM (Netherlands)"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "c1c83635e24ca9a2",
-  "title": "Molecular Mapping in the CNS",
-  "authors": [
-   "Margaret G. Wong",
-   "Benjamin G. Tehan",
-   "Edward J. Lloyd"
-  ],
-  "journal": "Current Pharmaceutical Design",
-  "publisher": "Bentham Science Publishers",
-  "published": "2002-08-01",
-  "year": 2002,
-  "doi": "10.2174/1381612023394250",
-  "url": "https://doi.org/10.2174/1381612023394250",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 42,
-  "affiliations": [
-   "Swinburne University of Technology",
-   "Institute of Medicinal Plant Development"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "c0df3889cee796d9",
@@ -553,57 +238,19 @@
   "url": "https://doi.org/10.1016/s0968-0896(02)00057-3",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 91,
   "affiliations": [
    "Chinese Academy of Sciences",
    "Shanghai Institute of Organic Chemistry",
    "Shanghai Institute of Materia Medica"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "bef310a685604bbf",
-  "title": "Markovian chemicals \"in silico\" design (MARCH-INSIDE), a promising approach for computer aided molecular design II: experimental and theoretical assessment of a novel method for virtual screening of fasciolicides",
-  "authors": [
-   "Humberto González-Díaz",
-   "Ervelio Olazábal",
-   "Nilo Castañedo",
-   "Ivan Hernádez Sánchez",
-   "Alcidez Morales",
-   "Hector S. Serrano",
-   "Julio Antonio Gutierrez Gonzalez",
-   "Ronal Ramos de Armas"
-  ],
-  "journal": "Journal of Molecular Modeling",
-  "publisher": "Springer Science+Business Media",
-  "published": "2002-08-01",
-  "year": 2002,
-  "doi": "10.1007/s00894-002-0088-7",
-  "url": "https://doi.org/10.1007/s00894-002-0088-7",
-  "source": "openalex",
-  "categories": [
-   "Molecule Generation",
-   "Cheminformatics",
-   "Computational Chemistry"
-  ],
-  "tags": [
-   "Chemistry",
-   "In Silico",
-   "Molecular Design",
-   "Molecules",
-   "Virtual Screening"
-  ],
-  "relevance_score": 83,
-  "affiliations": [
-   "Universidade de Santiago de Compostela",
-   "Universidad Central \"Marta Abreu\" de las Villas (UCLV)"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "93a66c18640e3368",
@@ -620,23 +267,16 @@
   "url": "https://doi.org/10.1002/1521-3838(200208)21:3<257::aid-qsar257>3.0.co;2-w",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Materials Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Crystal Structures",
-   "Docking",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 76,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [
    "Utrecht University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "8e2c5418e45309b7",
@@ -652,16 +292,17 @@
   "url": "https://doi.org/10.1023/a:1021966231380",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 91,
   "affiliations": [
    "University of Western Australia"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "745f8e1073bada02",
@@ -683,18 +324,19 @@
   "url": "https://doi.org/10.1016/s0968-0896(02)00119-0",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 93,
   "affiliations": [
    "Istituto Pasteur",
    "Sapienza University of Rome",
    "Washington University in St. Louis"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "30570bf2750d962f",
@@ -714,16 +356,17 @@
   "url": "https://doi.org/10.1016/s1093-3263(02)00106-7",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "University of Portsmouth"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "2e655b07f8a1da4b",
@@ -742,22 +385,17 @@
   "url": "https://doi.org/10.1002/cem.753",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Electrochemistry & Batteries",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Batteries",
-   "Chemical Space",
-   "Chemistry",
-   "Chemometrics",
-   "QSAR"
-  ],
-  "relevance_score": 88,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "Umeå University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "2d4e6af9ea240caa",
@@ -774,20 +412,16 @@
   "url": "https://doi.org/10.1002/cem.738",
   "source": "openalex",
   "categories": [
-   "Molecule Generation",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecular Design",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 73,
+  "tags": [],
+  "relevance_score": 98,
   "affiliations": [
    "Uppsala University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "2b2ea586ad0a1d3a",
@@ -804,17 +438,16 @@
   "url": "https://doi.org/10.1002/cem.737",
   "source": "openalex",
   "categories": [
-   "Computational Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Ab Initio",
-   "QSAR"
-  ],
-  "relevance_score": 61,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [
    "Universidade Estadual de Campinas (UNICAMP)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

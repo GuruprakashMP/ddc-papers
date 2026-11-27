@@ -1,35 +1,5 @@
 [
  {
-  "id": "f57bf05897c57b76",
-  "title": "ChemInform Abstract: Prediction of Ligand‐Receptor Binding Thermodynamics by Free Energy Force Field (FEFF) 3D‐QSAR Analysis: Application to a Set of Peptidometic Renin Inhibitors.",
-  "authors": [
-   "John S. Tokarski",
-   "A. J. Hopfinger"
-  ],
-  "journal": "ChemInform",
-  "publisher": "Wiley",
-  "published": "1997-11-04",
-  "year": 1997,
-  "doi": "10.1002/chin.199745284",
-  "url": "https://doi.org/10.1002/chin.199745284",
-  "source": "openalex",
-  "categories": [
-   "Catalysis",
-   "ML Potentials & Force Fields",
-   "Physical Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Force Fields",
-   "Ligands",
-   "QSAR",
-   "Thermodynamics"
-  ],
-  "relevance_score": 82,
-  "affiliations": [],
-  "added": "2026-07-21"
- },
- {
   "id": "f99dab29f8e0ea3c",
   "title": "Retention in RP-HPLC: Lipophilicity Determination of Substituted Biphenyls by Reversed-Phase High Performance Liquid Chromatography",
   "authors": [
@@ -45,22 +15,18 @@
   "url": "https://doi.org/10.1080/10826079708006578",
   "source": "openalex",
   "categories": [
-   "Analytical Chemistry",
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chromatography",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 60,
+  "tags": [],
+  "relevance_score": 74,
   "affiliations": [
    "Nanjing University of Information Science and Technology",
    "Nanjing University of Science and Technology",
    "Nanjing University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "ceb111ede3c67e0b",
@@ -77,16 +43,17 @@
   "url": "https://doi.org/10.1016/s0169-7439(97)00058-0",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [
    "Prof. Assen Zlatarov University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "b24f64c0ebc85e39",
@@ -104,20 +71,19 @@
   "url": "https://doi.org/10.1002/(sici)1099-128x(199711/12)11:6<511::aid-cem488>3.0.co;2-w",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Machine Learning"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Predictive Model",
-   "QSAR"
-  ],
-  "relevance_score": 60,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [
    "University of Groningen",
    "Unilever (Netherlands)",
    "University of Amsterdam"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "992602ac8ec5abb1",
@@ -138,19 +104,16 @@
   "url": "https://doi.org/10.1002/etc.5620161114",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Machine Learning"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Predictive Model",
-   "QSAR"
-  ],
-  "relevance_score": 59,
+  "tags": [],
+  "relevance_score": 81,
   "affiliations": [
    "University of Waterloo"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "90c3eab09da05a70",
@@ -168,47 +131,17 @@
   "url": "https://doi.org/10.1021/ci9700384",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
+   "Drug Discovery",
+   "Classical ML",
    "Deep Learning"
   ],
-  "tags": [
-   "Molecules",
-   "Neural Network",
-   "QSAR"
-  ],
-  "relevance_score": 67,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "The University of Sydney"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "7f2fc09c2237bd5e",
-  "title": "Introduction to multi-layer feed-forward neural networks",
-  "authors": [
-   "Daniel Svozil",
-   "Vladimı́r Kvasnička",
-   "Jiřı́ Pospı́chal"
-  ],
-  "journal": "Chemometrics and Intelligent Laboratory Systems",
-  "publisher": "Elsevier BV",
-  "published": "1997-11-01",
-  "year": 1997,
-  "doi": "10.1016/s0169-7439(97)00061-0",
-  "url": "https://doi.org/10.1016/s0169-7439(97)00061-0",
-  "source": "openalex",
-  "categories": [
-   "Deep Learning"
-  ],
-  "tags": [
-   "Neural Network"
-  ],
-  "relevance_score": 44,
-  "affiliations": [
-   "Charles University",
-   "Slovak University of Technology in Bratislava"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "48cda8d72ffe68f8",
@@ -225,17 +158,17 @@
   "url": "https://doi.org/10.1021/ci9702306",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 54,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "Sumitomo Dainippon Pharma (Japan)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "317adf3a86fedee8",
@@ -257,20 +190,18 @@
   "url": "https://doi.org/10.1021/jm970346t",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 63,
+  "tags": [],
+  "relevance_score": 77,
   "affiliations": [
    "Uppsala University",
    "Stockholm University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "2ce12f988dc58606",
@@ -287,17 +218,17 @@
   "url": "https://doi.org/10.1021/ci970025q",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 51,
+  "tags": [],
+  "relevance_score": 93,
   "affiliations": [
    "Sumitomo Dainippon Pharma (Japan)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "265ecad8d6a58e26",
@@ -316,61 +247,18 @@
   "url": "https://doi.org/10.1021/ci9704221",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Docking",
-   "Ligands",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 72,
+  "tags": [],
+  "relevance_score": 77,
   "affiliations": [
    "National Research Council",
    "Biotechnology Research Institute"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "24d6a9cb80d166a7",
-  "title": "Specificity of Substrate Recognition by Pseudomonas fluorescens N3 Dioxygenase",
-  "authors": [
-   "Patrizia Di Gennaro",
-   "Guido Sello",
-   "Daniele Bianchi",
-   "Paolo D'Amico"
-  ],
-  "journal": "Journal of Biological Chemistry",
-  "publisher": "Elsevier BV",
-  "published": "1997-11-01",
-  "year": 1997,
-  "doi": "10.1074/jbc.272.48.30254",
-  "url": "https://doi.org/10.1074/jbc.272.48.30254",
-  "source": "openalex",
-  "categories": [
-   "Spectroscopy",
-   "Analytical Chemistry",
-   "Physical Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "Chromatography",
-   "Kinetics",
-   "Molecules",
-   "NMR",
-   "QSAR",
-   "Solvents",
-   "Spectroscopy"
-  ],
-  "relevance_score": 78,
-  "affiliations": [
-   "University of Milan",
-   "Eni (Italy)"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "17278f2d771b0da9",
@@ -387,17 +275,17 @@
   "url": "https://doi.org/10.1023/a:1007967728701",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "Aberystwyth University",
    "University of Oxford"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "171e3ae82791b7b7",
@@ -416,80 +304,16 @@
   "url": "https://doi.org/10.1080/10426509708033698",
   "source": "openalex",
   "categories": [
-   "Physical Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR",
-   "Solvents"
-  ],
-  "relevance_score": 42,
+  "tags": [],
+  "relevance_score": 93,
   "affiliations": [
    "Central China Normal University",
    "Nankai University"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "120ecc3f9cad97d7",
-  "title": "Genetic Algorithms in Molecular Modeling. Edited by James Devillers. Principles of QSAR and Drug Design, Vol. 1. Academic Press, Harcourt Brace & Company: New York. 1996. 327 pp. ISBN 0-12-213810-4. $55.00.",
-  "authors": [
-   "Paddy O'Hara-Mays"
-  ],
-  "journal": "Journal of Chemical Information and Computer Sciences",
-  "publisher": "American Chemical Society",
-  "published": "1997-11-01",
-  "year": 1997,
-  "doi": "10.1021/ci970394m",
-  "url": "https://doi.org/10.1021/ci970394m",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics",
-   "Optimization"
-  ],
-  "tags": [
-   "Chemistry",
-   "Genetic Algorithm",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 63,
-  "affiliations": [
-   "Lock Haven University"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "0d66c0bccfc07394",
-  "title": "PARM: a new QSAR research method based on genetic algorithm",
-  "authors": [
-   "HM Chen",
-   "Zhou JJ",
-   "TR Ren",
-   "GR Xie"
-  ],
-  "journal": "CAS OpenIR (Chinese Academy of Sciences)",
-  "publisher": "Chinese Academy of Sciences",
-  "published": "1997-11-01",
-  "year": 1997,
-  "doi": "",
-  "url": "http://ir.ipe.ac.cn/handle/122111/6013",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Catalysis",
-   "Cheminformatics",
-   "Optimization"
-  ],
-  "tags": [
-   "Drug Discovery",
-   "Genetic Algorithm",
-   "Ligands",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 82,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

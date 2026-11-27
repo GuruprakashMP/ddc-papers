@@ -1,116 +1,5 @@
 [
  {
-  "id": "b538bb87ac08acb0",
-  "title": "Index",
-  "authors": [
-   "W. Göpel",
-   "J. Hesse",
-   "J. N. Zemel"
-  ],
-  "journal": "",
-  "publisher": "",
-  "published": "1995-11-30",
-  "year": 1995,
-  "doi": "10.1002/9783527619269.index2",
-  "url": "https://doi.org/10.1002/9783527619269.index2",
-  "source": "openalex",
-  "categories": [
-   "Analytical Chemistry",
-   "Electrochemistry & Batteries",
-   "Surface Chemistry",
-   "Deep Learning"
-  ],
-  "tags": [
-   "Adsorption",
-   "Analytical Chemistry",
-   "Chemistry",
-   "Electrodes",
-   "Electrolytes",
-   "Neural Network"
-  ],
-  "relevance_score": 64,
-  "affiliations": [
-   "University of Tübingen",
-   "Carl Zeiss (Germany)",
-   "University of Pennsylvania"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "05b4dbe5d63230e7",
-  "title": "Cumulated Index of Volumes 2 and 3",
-  "authors": [
-   "W. Göpel",
-   "J. Hesse",
-   "J. N. Zemel"
-  ],
-  "journal": "",
-  "publisher": "",
-  "published": "1995-11-30",
-  "year": 1995,
-  "doi": "10.1002/9783527619269.index3",
-  "url": "https://doi.org/10.1002/9783527619269.index3",
-  "source": "openalex",
-  "categories": [
-   "Analytical Chemistry",
-   "Electrochemistry & Batteries",
-   "Surface Chemistry",
-   "Spectroscopy",
-   "Deep Learning"
-  ],
-  "tags": [
-   "Adsorption",
-   "Analytical Chemistry",
-   "Chemistry",
-   "Electrodes",
-   "Electrolytes",
-   "Neural Network",
-   "Spectroscopy"
-  ],
-  "relevance_score": 64,
-  "affiliations": [
-   "University of Tübingen",
-   "Carl Zeiss (Germany)",
-   "University of Pennsylvania"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "59f1d8b901a65c15",
-  "title": "Conception de nouvelles molécules à activité sérotoninergique par des méthodes QSAR et des études de dynamique moléculaire de complexe ligands /récepteur",
-  "authors": [
-   "Christophe Marot"
-  ],
-  "journal": "HAL (Le Centre pour la Communication Scientifique Directe)",
-  "publisher": "Centre National de la Recherche Scientifique",
-  "published": "1995-11-29",
-  "year": 1995,
-  "doi": "",
-  "url": "https://tel.archives-ouvertes.fr/tel-00148822",
-  "source": "openalex",
-  "categories": [
-   "Catalysis",
-   "Computational Chemistry",
-   "Cheminformatics",
-   "Chemometrics & Statistics"
-  ],
-  "tags": [
-   "Chemistry",
-   "Descriptors",
-   "Ligands",
-   "Molecular Dynamics",
-   "Molecules",
-   "PCA",
-   "QSAR",
-   "Statistical Modeling"
-  ],
-  "relevance_score": 90,
-  "affiliations": [
-   "Institut de Chimie Organique et Analytique"
-  ],
-  "added": "2026-07-21"
- },
- {
   "id": "17ddcdf7f11457ed",
   "title": "Uncouplers of Oxidative Phosphorylation",
   "authors": [
@@ -125,48 +14,17 @@
   "url": "https://doi.org/10.1021/bk-1995-0607.ch022",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Physical Organic Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "LFER",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 63,
+  "tags": [],
+  "relevance_score": 75,
   "affiliations": [
    "University of Utah",
    "University of Washington"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "31ec6f4ef83989e0",
-  "title": "ChemInform Abstract: A 3D‐QSAR Study of Anticoccidial Triazines Using Molecular Shape Analysis.",
-  "authors": [
-   "Keun Bae Rhyu",
-   "Hetalben Patel",
-   "A. J. Hopfinger"
-  ],
-  "journal": "ChemInform",
-  "publisher": "Wiley",
-  "published": "1995-11-07",
-  "year": 1995,
-  "doi": "10.1002/chin.199545281",
-  "url": "https://doi.org/10.1002/chin.199545281",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 58,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "dd66dce6a575ad54",
@@ -185,21 +43,18 @@
   "url": "https://doi.org/10.1080/10629369508234012",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
+   "Environmental Chemistry",
+   "Classical ML",
    "Deep Learning"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "Neural Network",
-   "QSAR"
-  ],
-  "relevance_score": 60,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [
    "Banque Populaire",
    "Joint Research Centre"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "cb3ae1cf62526d9d",
@@ -219,21 +74,17 @@
   "url": "https://doi.org/10.1080/10629369508234010",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Environmental Chemistry",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "PCA",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 59,
+  "tags": [],
+  "relevance_score": 91,
   "affiliations": [
    "Umeå University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "ab72ed744fc23656",
@@ -250,56 +101,18 @@
   "url": "https://doi.org/10.1080/10629369508234009",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Property Prediction",
-   "Cheminformatics",
+   "Drug Discovery",
    "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Clustering",
-   "Melting Point",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 75,
+  "tags": [],
+  "relevance_score": 93,
   "affiliations": [
    "European Union",
    "European Commission",
    "Joint Research Centre"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "a833f8d7aecacc4d",
-  "title": "Classification of Contaminants by Mode of Action Based on in vitro Assays",
-  "authors": [
-   "Monika Nendza",
-   "Andrea Wenzel",
-   "G. Wienen"
-  ],
-  "journal": "SAR and QSAR in environmental research",
-  "publisher": "Taylor & Francis",
-  "published": "1995-11-01",
-  "year": 1995,
-  "doi": "10.1080/10629369508234013",
-  "url": "https://doi.org/10.1080/10629369508234013",
-  "source": "openalex",
-  "categories": [
-   "Electrochemistry & Batteries",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Batteries",
-   "Chemistry",
-   "QSAR"
-  ],
-  "relevance_score": 48,
-  "affiliations": [
-   "Analytisches Laboratorium",
-   "Fraunhofer Institute for Molecular Biology and Applied Ecology"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "78456a06c708c89f",
@@ -322,42 +135,17 @@
   "url": "https://doi.org/10.1002/etc.5620141120",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 48,
+  "tags": [],
+  "relevance_score": 74,
   "affiliations": [
    "Environmental Protection Agency",
    "Oregon State University"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "6864289d11f60e57",
-  "title": "Introduction to environmental toxicology: impacts of chemicals upon ecological systems",
-  "authors": [],
-  "journal": "Choice Reviews Online",
-  "publisher": "Association of College and Research Libraries",
-  "published": "1995-11-01",
-  "year": 1995,
-  "doi": "10.5860/choice.33-1539",
-  "url": "https://doi.org/10.5860/choice.33-1539",
-  "source": "openalex",
-  "categories": [
-   "Inorganic Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "Inorganic Chemistry",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 51,
-  "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "4ded5a078bbc3f01",
@@ -378,21 +166,17 @@
   "url": "https://doi.org/10.1080/10629369508234015",
   "source": "openalex",
   "categories": [
-   "Property Prediction",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Boiling Point",
-   "Chemistry",
-   "Melting Point",
-   "QSAR"
-  ],
-  "relevance_score": 64,
+  "tags": [],
+  "relevance_score": 79,
   "affiliations": [
    "University of Ferrara",
    "Istituto Superiore di Sanità"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "1cc3f6e6b71055eb",
@@ -410,18 +194,15 @@
   "url": "https://doi.org/10.1016/0968-0896(95)00131-y",
   "source": "openalex",
   "categories": [
-   "Computational Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Molecular Dynamics",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 70,
+  "tags": [],
+  "relevance_score": 77,
   "affiliations": [
    "University of Modena and Reggio Emilia"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  }
 ]

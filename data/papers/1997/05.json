@@ -1,63 +1,5 @@
 [
  {
-  "id": "7194f4a137e0f81c",
-  "title": "Voorspellingen van degradatiesnelheden in hetmilieu voor de High Production Volume Chemicals (HPVC) met behulp van Kwantitatieve Structuur-AktiviteitsRelaties",
-  "authors": [
-   "Rorije E",
-   "Muller M",
-   "Peijnenburg Wjgm"
-  ],
-  "journal": "Rivm (National Institute for Public Health and the Environment)",
-  "publisher": "National Institute for Public Health and the Environment",
-  "published": "1997-05-31",
-  "year": 1997,
-  "doi": "",
-  "url": "http://hdl.handle.net/10029/10408",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Physical Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "Kinetics",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 60,
-  "affiliations": [],
-  "added": "2026-07-21"
- },
- {
-  "id": "213a1607b4f477a8",
-  "title": "Prediction of environmental degradation rates for High Production Volume Chemicals (HPVC) using Quantitative Structure-Activity Relationships",
-  "authors": [
-   "Emiel Rorije",
-   "Marcelo Dias Müller",
-   "Peijnenburg Wjgm"
-  ],
-  "journal": "Rivm (National Institute for Public Health and the Environment)",
-  "publisher": "National Institute for Public Health and the Environment",
-  "published": "1997-05-31",
-  "year": 1997,
-  "doi": "",
-  "url": "http://www.rivm.nl/bibliotheek/rapporten/719101030.html",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 57,
-  "affiliations": [],
-  "added": "2026-07-21"
- },
- {
   "id": "5c8398f3b7f325fe",
   "title": "Environmental Risk Assessment of Chemical Substances",
   "authors": [
@@ -72,20 +14,14 @@
   "url": "https://doi.org/10.2533/chimia.1997.222",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Property Prediction",
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "QSAR",
-   "SAR",
-   "pKa"
-  ],
-  "relevance_score": 78,
+  "tags": [],
+  "relevance_score": 76,
   "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "1e46c3ed314dbbad",
@@ -99,48 +35,14 @@
   "url": "https://doi.org/10.1021/cen-v075n019.obc",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Deep Learning"
   ],
-  "tags": [
-   "Cheminformatics",
-   "Chemistry",
-   "Drug Discovery"
-  ],
-  "relevance_score": 53,
+  "tags": [],
+  "relevance_score": 81,
   "affiliations": [],
-  "added": "2026-07-21"
- },
- {
-  "id": "f521d7d913eb7b9f",
-  "title": "ChemInform Abstract: A QSAR Study of the Antimalarial Activity of Some Synthetic 1,2,4‐ Trioxanes",
-  "authors": [
-   "Martin Grigorov",
-   "Jean-Frédéric F. Weber",
-   "J. M. J. TRONCHET",
-   "C. W. Jefford",
-   "Wilbur K. Milhous",
-   "D. Maric"
-  ],
-  "journal": "ChemInform",
-  "publisher": "Wiley",
-  "published": "1997-05-06",
-  "year": 1997,
-  "doi": "10.1002/chin.199719258",
-  "url": "https://doi.org/10.1002/chin.199719258",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [
-   "University of Geneva",
-   "Geneva College"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "eb74b2cd6cd23f24",
@@ -161,19 +63,17 @@
   "url": "https://doi.org/10.1021/jm960744g",
   "source": "openalex",
   "categories": [
-   "Catalysis",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Ligands",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 60,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [
    "Universidad Nacional de Educación a Distancia"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "e654f85e2ae5b46b",
@@ -194,18 +94,18 @@
   "url": "https://doi.org/10.1016/s0223-5234(97)81680-7",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 86,
   "affiliations": [
    "Universidade de São Paulo",
    "Heidelberg University",
    "Universidade Estadual Paulista (Unesp)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "d52d2e2f608a84dd",
@@ -225,48 +125,16 @@
   "url": "https://doi.org/10.1002/etc.5620160514",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 66,
+  "tags": [],
+  "relevance_score": 71,
   "affiliations": [
    "Environmental Protection Agency"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "93fed85ce704ca86",
-  "title": "QUANTIFICATION OF NON-COVALENT INTERACTIONS ON THE BASIS OF THE THERMODYNAMIC HYDROGEN BOND PARAMETERS",
-  "authors": [
-   "Oleg A. Raevsky"
-  ],
-  "journal": "Journal of Physical Organic Chemistry",
-  "publisher": "Wiley",
-  "published": "1997-05-01",
-  "year": 1997,
-  "doi": "10.1002/(sici)1099-1395(199705)10:5<405::aid-poc922>3.0.co;2-a",
-  "url": "https://doi.org/10.1002/(sici)1099-1395(199705)10:5<405::aid-poc922>3.0.co;2-a",
-  "source": "openalex",
-  "categories": [
-   "Physical Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "Thermodynamics"
-  ],
-  "relevance_score": 60,
-  "affiliations": [
-   "Russian Academy of Sciences",
-   "Institute of Physiologically Active Compounds"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "7c152196818f75d7",
@@ -282,16 +150,17 @@
   "url": "https://doi.org/10.1016/s0169-7439(97)00004-x",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 99,
   "affiliations": [
    "Novartis (Switzerland)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "79e11f3f7f24f81b",
@@ -309,17 +178,18 @@
   "url": "https://doi.org/10.1016/s0166-1280(96)04845-2",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 91,
   "affiliations": [
    "Universidade Estadual de Campinas (UNICAMP)",
    "Universidade Federal do Espírito Santo"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "52dcfcb86e6a92bf",
@@ -336,17 +206,17 @@
   "url": "https://doi.org/10.1016/s0027-5107(97)00029-8",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 77,
   "affiliations": [
    "Lawrence Livermore National Laboratory",
    "Sandia National Laboratories California"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "no"
  },
  {
   "id": "4828eb0d39438b21",
@@ -364,19 +234,17 @@
   "url": "https://doi.org/10.1021/jm9608016",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Chemometrics",
-   "QSAR"
-  ],
-  "relevance_score": 67,
+  "tags": [],
+  "relevance_score": 96,
   "affiliations": [
    "University of Perugia"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "31effb13f32fdf90",
@@ -395,47 +263,16 @@
   "url": "https://doi.org/10.1002/etc.5620160527",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 58,
+  "tags": [],
+  "relevance_score": 68,
   "affiliations": [
    "Procter & Gamble (United States)"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "2dfd384aac95bbc5",
-  "title": "Neural Networks in QSAR and Drug Design . Edited by J. Devillers. Vol. 2 in the Series: Principles of QSAR and Drug Design. Academic Press: San Diego, 1996, 284 pp. ISBN 0-12-213815-5. The list price of this book is 65.00 pounds sterling.",
-  "authors": [
-   "Alexandrù T. Balaban"
-  ],
-  "journal": "Journal of Chemical Information and Computer Sciences",
-  "publisher": "American Chemical Society",
-  "published": "1997-05-01",
-  "year": 1997,
-  "doi": "10.1021/ci9703821",
-  "url": "https://doi.org/10.1021/ci9703821",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
-   "Deep Learning"
-  ],
-  "tags": [
-   "Chemistry",
-   "Drug Discovery",
-   "Neural Network",
-   "QSAR"
-  ],
-  "relevance_score": 66,
-  "affiliations": [
-   "The Polytechnic University of Japan"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "126a7aa2f54176fe",
@@ -455,20 +292,17 @@
   "url": "https://doi.org/10.1021/ci960158w",
   "source": "openalex",
   "categories": [
-   "Chemometrics & Statistics",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Descriptors",
-   "Molecules",
-   "Multivariate Regression",
-   "QSAR"
-  ],
-  "relevance_score": 75,
+  "tags": [],
+  "relevance_score": 97,
   "affiliations": [
    "Ruđer Bošković Institute",
    "University of Osijek"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

@@ -16,47 +16,16 @@
   "url": "https://doi.org/10.5006/c1996-96148",
   "source": "openalex",
   "categories": [
-   "Surface Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Adsorption",
-   "QSAR"
-  ],
-  "relevance_score": 45,
+  "tags": [],
+  "relevance_score": 63,
   "affiliations": [
    "Hungarian Academy of Sciences"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "481ea18a4f531681",
-  "title": "Molecular Modeling in Scale Control - An Experimental Verification and ITS Limitations",
-  "authors": [
-   "Bjørn Inge Bendiksen",
-   "J.S. Gill"
-  ],
-  "journal": "",
-  "publisher": "",
-  "published": "1996-03-24",
-  "year": 1996,
-  "doi": "10.5006/c1996-96164",
-  "url": "https://doi.org/10.5006/c1996-96164",
-  "source": "openalex",
-  "categories": [
-   "Computational Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecular Dynamics",
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 51,
-  "affiliations": [
-   "Kuraray (United States)"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "f2e586c0a446836a",
@@ -72,16 +41,16 @@
   "url": "https://doi.org/10.1002/(sici)1099-128x(199603)10:2<95::aid-cem407>3.0.co;2-m",
   "source": "openalex",
   "categories": [
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
+  "tags": [],
+  "relevance_score": 86,
   "affiliations": [
    "Karo Pharma (Sweden)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "e026b9e3932d5af1",
@@ -97,22 +66,16 @@
   "url": "https://doi.org/10.1002/(sici)1099-128x(199603)10:2<107::aid-cem408>3.0.co;2-e",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "ML Potentials & Force Fields",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "Force Fields",
-   "Molecules",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 82,
+  "tags": [],
+  "relevance_score": 91,
   "affiliations": [
    "University of Oxford"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "d2cfcec9a1f81b98",
@@ -128,20 +91,17 @@
   "url": "https://doi.org/10.1002/(sici)1099-128x(199603)10:2<119::aid-cem409>3.0.co;2-4",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Chemometrics & Statistics",
-   "Optimization"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Genetic Algorithm",
-   "QSAR",
-   "Regression"
-  ],
-  "relevance_score": 64,
+  "tags": [],
+  "relevance_score": 85,
   "affiliations": [
    "BASF (Germany)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "cd90fbdb37942bb9",
@@ -158,20 +118,17 @@
   "url": "https://doi.org/10.1002/(sici)1099-128x(199603)10:2<79::aid-cem406>3.0.co;2-f",
   "source": "openalex",
   "categories": [
-   "Reaction Prediction",
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "QSAR",
-   "Reaction Mechanisms"
-  ],
-  "relevance_score": 67,
+  "tags": [],
+  "relevance_score": 76,
   "affiliations": [
    "National Institute for Public Health and the Environment"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "83762d78a908596e",
@@ -190,26 +147,17 @@
   "url": "https://doi.org/10.1002/(sici)1099-128x(199603)10:2<171::aid-cem416>3.0.co;2-u",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Property Prediction",
-   "Spectroscopy",
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Dipole Moment",
-   "Molecules",
-   "PCA",
-   "QSAR",
-   "SAR",
-   "Spectroscopy"
-  ],
-  "relevance_score": 86,
+  "tags": [],
+  "relevance_score": 89,
   "affiliations": [
    "Umeå University"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "7f2e62797b6816e5",
@@ -227,27 +175,18 @@
   "url": "https://doi.org/10.1002/(sici)1099-128x(199603)10:2<135::aid-cem413>3.0.co;2-v",
   "source": "openalex",
   "categories": [
-   "Computational Chemistry",
-   "Reaction Prediction",
-   "Physical Chemistry",
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Molecules",
-   "PLS",
-   "QSAR",
-   "Quantum Chemistry",
-   "Reactivity",
-   "Thermodynamics"
-  ],
-  "relevance_score": 94,
+  "tags": [],
+  "relevance_score": 93,
   "affiliations": [
    "Ruđer Bošković Institute",
    "Karlsruhe Institute of Technology"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "7d6b7217cbe83122",
@@ -265,89 +204,17 @@
   "url": "https://doi.org/10.1002/(sici)1099-128x(199603)10:2<149::aid-cem414>3.0.co;2-f",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Property Prediction",
-   "Cheminformatics"
+   "Environmental Chemistry",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Chemistry",
-   "Descriptors",
-   "Molecules",
-   "QSAR",
-   "SAR",
-   "Toxicity"
-  ],
-  "relevance_score": 90,
+  "tags": [],
+  "relevance_score": 94,
   "affiliations": [
    "Utrecht University"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "722fe563875c21bc",
-  "title": "Synthesis and quantitative structure-activity relationships of antihyperlipaemic 2-substituted thieno[3,2-d]pyrimidin-4(3H)-ones.",
-  "authors": [
-   "C. J. SHISHOO",
-   "K. S. JAIN",
-   "Ishwarsinh Rathod",
-   "B. J. Thakkar",
-   "S. B. Brahmbhatt",
-   "Thirumanavelan Gandhi",
-   "R. A. BANGARU",
-   "Ruchika Goyal"
-  ],
-  "journal": "PubMed",
-  "publisher": "National Institutes of Health",
-  "published": "1996-03-01",
-  "year": 1996,
-  "doi": "",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/8901148",
-  "source": "openalex",
-  "categories": [
-   "Drug Discovery Chemistry",
-   "Physical Organic Chemistry",
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR",
-   "SAR",
-   "Steric Parameters"
-  ],
-  "relevance_score": 63,
-  "affiliations": [
-   "B.J. Medical College"
-  ],
-  "added": "2026-07-21"
- },
- {
-  "id": "6ae9c62c870cc21d",
-  "title": "Comparative MO-QSAR studies in various species including man",
-  "authors": [
-   "Bożena Tyrakowska",
-   "Nicole H.P. Cnubben",
-   "Ans E. M. F. Soffers",
-   "Th. Wobbes",
-   "Ivonne M.C.M. Rietjens"
-  ],
-  "journal": "Chemico-Biological Interactions",
-  "publisher": "Elsevier BV",
-  "published": "1996-03-01",
-  "year": 1996,
-  "doi": "10.1016/0009-2797(96)03699-x",
-  "url": "https://doi.org/10.1016/0009-2797(96)03699-x",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "QSAR"
-  ],
-  "relevance_score": 52,
-  "affiliations": [
-   "Graduate School Experimental Plant Sciences",
-   "Radboud University Nijmegen"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "22e4af09473eee97",
@@ -363,19 +230,16 @@
   "url": "https://doi.org/10.1517/13543776.6.3.239",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics",
+   "Drug Discovery",
+   "Classical ML",
    "Deep Learning"
   ],
-  "tags": [
-   "Neural Network",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 67,
+  "tags": [],
+  "relevance_score": 95,
   "affiliations": [
    "University of Sydney"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

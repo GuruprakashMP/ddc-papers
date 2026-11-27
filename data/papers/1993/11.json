@@ -14,59 +14,17 @@
   "url": "https://doi.org/10.1021/ci00016a005",
   "source": "openalex",
   "categories": [
-   "Property Prediction",
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Molecular Properties & Design",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Boiling Point",
-   "Descriptors",
-   "Melting Point",
-   "Molecules",
-   "Multivariate Regression",
-   "QSAR",
-   "QSPR",
-   "Regression"
-  ],
-  "relevance_score": 96,
+  "tags": [],
+  "relevance_score": 75,
   "affiliations": [
    "University of Florida"
   ],
-  "added": "2026-07-21"
- },
- {
-  "id": "d4230ce8f3a9fb9f",
-  "title": "Comparative molecular field analysis of in vitro growth inhibition of L1210 and HCT-8 cells by some pyrazoloacridines",
-  "authors": [
-   "Jerome P. Horwitz",
-   "Irina Massova",
-   "Thomas Wiese",
-   "Antoinette J. Wozniak",
-   "Thomas H. Corbett",
-   "Judith S. Sebolt-Leopold",
-   "David B. Capps",
-   "Wilbur R. Leopold"
-  ],
-  "journal": "Journal of Medicinal Chemistry",
-  "publisher": "American Chemical Society",
-  "published": "1993-11-01",
-  "year": 1993,
-  "doi": "10.1021/jm00075a004",
-  "url": "https://doi.org/10.1021/jm00075a004",
-  "source": "openalex",
-  "categories": [
-   "Cheminformatics"
-  ],
-  "tags": [
-   "Molecules",
-   "QSAR"
-  ],
-  "relevance_score": 54,
-  "affiliations": [
-   "Wayne State University",
-   "Pfizer (United States)"
-  ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "a91d7dedafa3e35a",
@@ -83,20 +41,15 @@
   "url": "https://doi.org/10.1139/v93-223",
   "source": "openalex",
   "categories": [
-   "Property Prediction",
-   "Cheminformatics",
+   "Drug Discovery",
+   "Classical ML",
    "Deep Learning"
   ],
-  "tags": [
-   "Chemistry",
-   "Dipole Moment",
-   "Molecules",
-   "Neural Network",
-   "QSAR"
-  ],
-  "relevance_score": 74,
+  "tags": [],
+  "relevance_score": 82,
   "affiliations": [],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "829aafe92cba7d39",
@@ -113,22 +66,19 @@
   "url": "https://doi.org/10.1002/cem.1180070603",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
-   "Chemometrics & Statistics"
+   "Drug Discovery",
+   "Classical ML",
+   "Chemometrics"
   ],
-  "tags": [
-   "Descriptors",
-   "Molecules",
-   "QSAR",
-   "Statistical Modeling"
-  ],
-  "relevance_score": 75,
+  "tags": [],
+  "relevance_score": 77,
   "affiliations": [
    "University College London",
    "Sittingbourne Memorial Hospital",
    "Shell (Netherlands)"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "450f3dc39e065d4a",
@@ -144,18 +94,16 @@
   "url": "https://doi.org/10.1021/jm00075a011",
   "source": "openalex",
   "categories": [
-   "Cheminformatics",
+   "Drug Discovery",
    "Deep Learning"
   ],
-  "tags": [
-   "Neural Network",
-   "QSAR"
-  ],
-  "relevance_score": 64,
+  "tags": [],
+  "relevance_score": 100,
   "affiliations": [
    "University of California, San Francisco"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  },
  {
   "id": "2e95407fafebc1cb",
@@ -173,19 +121,16 @@
   "url": "https://doi.org/10.1002/jat.2550130610",
   "source": "openalex",
   "categories": [
-   "Drug Discovery Chemistry",
-   "Cheminformatics"
+   "Drug Discovery",
+   "Classical ML"
   ],
-  "tags": [
-   "Chemistry",
-   "QSAR",
-   "SAR"
-  ],
-  "relevance_score": 51,
+  "tags": [],
+  "relevance_score": 77,
   "affiliations": [
    "Knoxville College",
    "University of Tennessee at Knoxville"
   ],
-  "added": "2026-07-21"
+  "added": "2026-07-21",
+  "oa_abstract": "yes"
  }
 ]

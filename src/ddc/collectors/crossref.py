@@ -30,6 +30,21 @@ QUERIES = (
 )
 
 
+# Every new paper of these journals (by ISSN) is read; the relevance model keeps the
+# data-driven chemistry ones. Keyword queries alone missed most of them.
+VENUES = {
+    "1549-960X": "J. Chem. Inf. Model.", "1549-9626": "J. Chem. Theory Comput.",
+    "2635-098X": "Digital Discovery", "2057-3960": "npj Comput. Mater.",
+    "2632-2153": "Mach. Learn.: Sci. Technol.", "1758-2946": "J. Cheminform.",
+    "2522-5839": "Nat. Mach. Intell.", "2662-8457": "Nat. Comput. Sci.",
+    "2770-9019": "APL Mach. Learn.", "2949-7477": "Artif. Intell. Chem.",
+    "1520-5126": "J. Am. Chem. Soc.", "2155-5435": "ACS Catal.", "2041-6539": "Chem. Sci.",
+    "2374-7951": "ACS Cent. Sci.", "1948-7185": "J. Phys. Chem. Lett.",
+    "1520-5002": "Chem. Mater.", "1089-7690": "J. Chem. Phys.", "1463-9084": "Phys. Chem. Chem. Phys.",
+    "2691-3704": "JACS Au", "1521-3773": "Angew. Chem. Int. Ed.",
+}
+
+
 @register
 class CrossrefCollector(Collector):
     name = "crossref"
@@ -43,7 +58,7 @@ class CrossrefCollector(Collector):
             try:
                 data = http.get_json(API, {
                     "query.bibliographic": query,
-                    "filter": f"from-index-date:{since.isoformat()},type:journal-article",
+                    "filter": f"from-created-date:{since.isoformat()},type:journal-article",
                     "rows": rows,
                     "sort": "indexed",
                     "order": "desc",
@@ -59,7 +74,38 @@ class CrossrefCollector(Collector):
                 if record:
                     records.append(record)
             time.sleep(1.0)  # Crossref politeness
+        records.extend(self.venue_papers(since, contact))
         return records
+
+    def venue_papers(self, since: dt.date, contact: str = "", prefix: str = "") -> List[RawRecord]:
+        """Every article indexed since ``since`` in VENUES (or with a DOI ``prefix``)."""
+        out: List[RawRecord] = []
+        targets = [f"prefix:{prefix}"] if prefix else [f"issn:{issn}" for issn in VENUES]
+        for target in targets:
+            cursor = "*"
+            for _ in range(20):          # at most 20 pages of 200 per journal and run
+                try:
+                    data = http.get_json(API, {
+                        "filter": f"from-created-date:{since.isoformat()},{target}"
+                                  + ("" if prefix else ",type:journal-article"),
+                        "rows": 200, "cursor": cursor,
+                        "select": "DOI,title,author,container-title,publisher,issued,created,URL,abstract,type",
+                        "mailto": contact or None,
+                    })
+                except http.FetchError as exc:
+                    log.warning("Crossref %s failed: %s", target, exc)
+                    break
+                msg = data.get("message") or {}
+                items = msg.get("items") or []
+                for item in items:
+                    record = self._to_record(item)
+                    if record:
+                        out.append(record)
+                cursor = msg.get("next-cursor")
+                time.sleep(1.0)
+                if len(items) < 200 or not cursor:
+                    break
+        return out
 
     def _to_record(self, item: dict) -> RawRecord:
         titles = item.get("title") or []
