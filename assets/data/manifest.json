@@ -1,196 +1,342 @@
 {
- "generated": "2026-11-27 14:36 UTC",
- "total": 79387,
+ "format": 2,
+ "generated": "2026-11-27 20:34 UTC",
+ "total": 42288,
+ "categories": [
+  "Catalysis",
+  "Synthesis & Reactions",
+  "Drug Discovery",
+  "Molecular Properties & Design",
+  "Materials",
+  "Energy & Electrochemistry",
+  "Polymers & Soft Matter",
+  "Computational Chemistry",
+  "Spectroscopy & Analysis",
+  "Environmental Chemistry",
+  "Chemical Engineering",
+  "AI Methods & Tools",
+  "Classical ML",
+  "Deep Learning",
+  "Graph Neural Networks",
+  "Generative Models",
+  "Language Models",
+  "ML Potentials",
+  "Bayesian Optimization & Active Learning",
+  "Automation & High-Throughput",
+  "Chemometrics",
+  "Reinforcement Learning",
+  "Data Mining"
+ ],
+ "areas": 12,
  "years": [
   {
    "year": 2027,
-   "count": 43,
-   "file": "papers-2027.json"
+   "count": 24,
+   "file": "papers-2027.json",
+   "v": "8e18ecc0d627",
+   "aff": "aff-2027.json",
+   "av": "6a228aa217f5"
   },
   {
    "year": 2026,
-   "count": 13969,
-   "file": "papers-2026.json"
+   "count": 6825,
+   "file": "papers-2026.json",
+   "v": "72261ff5b134",
+   "aff": "aff-2026.json",
+   "av": "d2f35f829da5"
   },
   {
    "year": 2025,
-   "count": 10378,
-   "file": "papers-2025.json"
+   "count": 5844,
+   "file": "papers-2025.json",
+   "v": "c8c359f5af0e",
+   "aff": "aff-2025.json",
+   "av": "b519f39e844f"
   },
   {
    "year": 2024,
-   "count": 8939,
-   "file": "papers-2024.json"
+   "count": 4819,
+   "file": "papers-2024.json",
+   "v": "4f199ffeb959",
+   "aff": "aff-2024.json",
+   "av": "979e3d081cfd"
   },
   {
    "year": 2023,
-   "count": 7531,
-   "file": "papers-2023.json"
+   "count": 3992,
+   "file": "papers-2023.json",
+   "v": "a9e5b0a6c576",
+   "aff": "aff-2023.json",
+   "av": "cb59ac893270"
   },
   {
    "year": 2022,
-   "count": 6170,
-   "file": "papers-2022.json"
+   "count": 3299,
+   "file": "papers-2022.json",
+   "v": "fa5d9b873c1e",
+   "aff": "aff-2022.json",
+   "av": "092860ea91b4"
   },
   {
    "year": 2021,
-   "count": 5291,
-   "file": "papers-2021.json"
+   "count": 2753,
+   "file": "papers-2021.json",
+   "v": "a21b7f950490",
+   "aff": "aff-2021.json",
+   "av": "3cddddcd26ed"
   },
   {
    "year": 2020,
-   "count": 4391,
-   "file": "papers-2020.json"
+   "count": 2316,
+   "file": "papers-2020.json",
+   "v": "b80ec8275179",
+   "aff": "aff-2020.json",
+   "av": "9302ac18dc08"
   },
   {
    "year": 2019,
-   "count": 3098,
-   "file": "papers-2019.json"
+   "count": 1587,
+   "file": "papers-2019.json",
+   "v": "a50c3389406c",
+   "aff": "aff-2019.json",
+   "av": "58b40fa26f8a"
   },
   {
    "year": 2018,
-   "count": 2278,
-   "file": "papers-2018.json"
+   "count": 1157,
+   "file": "papers-2018.json",
+   "v": "d6e72555482a",
+   "aff": "aff-2018.json",
+   "av": "759a4a0a0002"
   },
   {
    "year": 2017,
-   "count": 1590,
-   "file": "papers-2017.json"
+   "count": 853,
+   "file": "papers-2017.json",
+   "v": "dcb61b7e4d1a",
+   "aff": "aff-2017.json",
+   "av": "b146fb8e02f1"
   },
   {
    "year": 2016,
-   "count": 1308,
-   "file": "papers-2016.json"
+   "count": 682,
+   "file": "papers-2016.json",
+   "v": "5b611b9e763a",
+   "aff": "aff-2016.json",
+   "av": "847d3cbddaf1"
   },
   {
    "year": 2015,
-   "count": 1467,
-   "file": "papers-2015.json"
+   "count": 682,
+   "file": "papers-2015.json",
+   "v": "db31e435e631",
+   "aff": "aff-2015.json",
+   "av": "9e3558d9c7b8"
   },
   {
    "year": 2014,
-   "count": 1025,
-   "file": "papers-2014.json"
+   "count": 554,
+   "file": "papers-2014.json",
+   "v": "9c18ace95cb0",
+   "aff": "aff-2014.json",
+   "av": "46ca3215a9c5"
   },
   {
    "year": 2013,
-   "count": 1201,
-   "file": "papers-2013.json"
+   "count": 730,
+   "file": "papers-2013.json",
+   "v": "07a9f44f20bf",
+   "aff": "aff-2013.json",
+   "av": "4317b872e6ef"
   },
   {
    "year": 2012,
-   "count": 1059,
-   "file": "papers-2012.json"
+   "count": 627,
+   "file": "papers-2012.json",
+   "v": "3fb61341c212",
+   "aff": "aff-2012.json",
+   "av": "7cbdeef7bf8a"
   },
   {
    "year": 2011,
-   "count": 1019,
-   "file": "papers-2011.json"
+   "count": 594,
+   "file": "papers-2011.json",
+   "v": "6fbcb16de6e2",
+   "aff": "aff-2011.json",
+   "av": "f95092d22ce0"
   },
   {
    "year": 2010,
-   "count": 959,
-   "file": "papers-2010.json"
+   "count": 566,
+   "file": "papers-2010.json",
+   "v": "486df63ad09b",
+   "aff": "aff-2010.json",
+   "av": "14c2902474e5"
   },
   {
    "year": 2009,
-   "count": 883,
-   "file": "papers-2009.json"
+   "count": 532,
+   "file": "papers-2009.json",
+   "v": "bdb6b0e26257",
+   "aff": "aff-2009.json",
+   "av": "788debf00204"
   },
   {
    "year": 2008,
-   "count": 845,
-   "file": "papers-2008.json"
+   "count": 491,
+   "file": "papers-2008.json",
+   "v": "3086d8918c57",
+   "aff": "aff-2008.json",
+   "av": "ab1b40e1473b"
   },
   {
    "year": 2007,
-   "count": 791,
-   "file": "papers-2007.json"
+   "count": 433,
+   "file": "papers-2007.json",
+   "v": "0fcdc495e473",
+   "aff": "aff-2007.json",
+   "av": "4e32d5441d2f"
   },
   {
    "year": 2006,
-   "count": 696,
-   "file": "papers-2006.json"
+   "count": 397,
+   "file": "papers-2006.json",
+   "v": "decdb54bb328",
+   "aff": "aff-2006.json",
+   "av": "0971943c6b9c"
   },
   {
    "year": 2005,
-   "count": 616,
-   "file": "papers-2005.json"
+   "count": 368,
+   "file": "papers-2005.json",
+   "v": "69b8f484d139",
+   "aff": "aff-2005.json",
+   "av": "112a40b7a90a"
   },
   {
    "year": 2004,
-   "count": 551,
-   "file": "papers-2004.json"
+   "count": 328,
+   "file": "papers-2004.json",
+   "v": "1ccd055f5454",
+   "aff": "aff-2004.json",
+   "av": "b87077a319a1"
   },
   {
    "year": 2003,
-   "count": 502,
-   "file": "papers-2003.json"
+   "count": 308,
+   "file": "papers-2003.json",
+   "v": "2a78b339dcee",
+   "aff": "aff-2003.json",
+   "av": "01ad6b7ee030"
   },
   {
    "year": 2002,
-   "count": 409,
-   "file": "papers-2002.json"
+   "count": 251,
+   "file": "papers-2002.json",
+   "v": "a70aacad303d",
+   "aff": "aff-2002.json",
+   "av": "60c4cbf6037d"
   },
   {
    "year": 2001,
-   "count": 338,
-   "file": "papers-2001.json"
+   "count": 185,
+   "file": "papers-2001.json",
+   "v": "bb63d5873ca3",
+   "aff": "aff-2001.json",
+   "av": "951f6e16de4d"
   },
   {
    "year": 2000,
-   "count": 315,
-   "file": "papers-2000.json"
+   "count": 174,
+   "file": "papers-2000.json",
+   "v": "5125525ceb53",
+   "aff": "aff-2000.json",
+   "av": "55958b9f9a8b"
   },
   {
    "year": 1999,
-   "count": 228,
-   "file": "papers-1999.json"
+   "count": 127,
+   "file": "papers-1999.json",
+   "v": "75da6c7eb281",
+   "aff": "aff-1999.json",
+   "av": "54e169e1bc0d"
   },
   {
    "year": 1998,
-   "count": 204,
-   "file": "papers-1998.json"
+   "count": 127,
+   "file": "papers-1998.json",
+   "v": "314caeb7903d",
+   "aff": "aff-1998.json",
+   "av": "b671dbcd94ba"
   },
   {
    "year": 1997,
-   "count": 196,
-   "file": "papers-1997.json"
+   "count": 126,
+   "file": "papers-1997.json",
+   "v": "57ee487ea4d3",
+   "aff": "aff-1997.json",
+   "av": "00d5de0eb215"
   },
   {
    "year": 1996,
-   "count": 182,
-   "file": "papers-1996.json"
+   "count": 100,
+   "file": "papers-1996.json",
+   "v": "9adebf80e4ef",
+   "aff": "aff-1996.json",
+   "av": "13fbd36d7aab"
   },
   {
    "year": 1995,
-   "count": 196,
-   "file": "papers-1995.json"
+   "count": 99,
+   "file": "papers-1995.json",
+   "v": "e679438fb62b",
+   "aff": "aff-1995.json",
+   "av": "47923e7c0afe"
   },
   {
    "year": 1994,
-   "count": 159,
-   "file": "papers-1994.json"
+   "count": 84,
+   "file": "papers-1994.json",
+   "v": "b10719a075a6",
+   "aff": "aff-1994.json",
+   "av": "ac3dbe999437"
   },
   {
    "year": 1993,
-   "count": 164,
-   "file": "papers-1993.json"
+   "count": 83,
+   "file": "papers-1993.json",
+   "v": "d1e3bc611959",
+   "aff": "aff-1993.json",
+   "av": "75b8f651d644"
   },
   {
    "year": 1992,
-   "count": 132,
-   "file": "papers-1992.json"
+   "count": 61,
+   "file": "papers-1992.json",
+   "v": "af68f1b6427b",
+   "aff": "aff-1992.json",
+   "av": "9b01f7217cbe"
   },
   {
    "year": 1991,
-   "count": 129,
-   "file": "papers-1991.json"
+   "count": 52,
+   "file": "papers-1991.json",
+   "v": "c87c466d3059",
+   "aff": "aff-1991.json",
+   "av": "24835a55408f"
   },
   {
    "year": 1990,
-   "count": 135,
-   "file": "papers-1990.json"
+   "count": 58,
+   "file": "papers-1990.json",
+   "v": "61f39474352f",
+   "aff": "aff-1990.json",
+   "av": "7a01c908cabe"
   }
- ]
+ ],
+ "feed": {
+  "file": "feed.json",
+  "count": 1240,
+  "v": "df418c4934c4"
+ }
 }
